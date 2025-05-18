@@ -1,0 +1,55 @@
+[
+  null,
+  {
+    "id": 1,
+    "animationId": 6,
+    "description": "Súng súng ngắn ngắn, bắn bắn đùng đùng!\nNhanh nhanh, mạnh mạnh, quạc quạc!",
+    "etypeId": 1,
+    "traits": [{"code": 31, "dataId": 1, "value": 0}, {"code": 22, "dataId": 0, "value": 0}],
+    "iconIndex": 104,
+    "name": "Súng Súng Ngắn",
+    "note": "",
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 8
+  },
+  {
+    "id": 2,
+    "animationId": 6,
+    "description": "Súng súng săn săn, bùm bùm to to!\nBắn bắn mạnh mạnh, quạc quạc!",
+    "etypeId": 1,
+    "traits": [{"code": 31, "dataId": 1, "value": 0}, {"code": 22, "dataId": 0, "value": 0}],
+    "iconIndex": 115,
+    "name": "Súng Súng Săn",
+    "note": "",
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 8
+  },
+  {
+    "id": 3,
+    "animationId": 1,
+    "description": "Gậy gậy chống chống, đập đập đau đau!\nGià già xài xài, quạc quạc!",
+    "etypeId": 1,
+    "traits": [{"code": 31, "dataId": 1, "value": 0}, {"code": 22, "dataId": 0, "value": 0}],
+    "iconIndex": 101,
+    "name": "Gậy Gậy Chống",
+    "note": "",
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 6
+  },
+  {
+    "id": 4,
+    "animationId": 11,
+    "description": "Cung cung tên tên, bắn bắn vèo vèo!\nXa xa trúng trúng, quạc quạc!",
+    "etypeId": 1,
+    "traits": [{"code": 31, "dataId": 1, "value": 0}, {"code": 22, "dataId": 0, "value": 0}],
+    "iconIndex": 102,
+    "name": "Cung Cung Tên",
+    "note": "",
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 7
+  }
+]

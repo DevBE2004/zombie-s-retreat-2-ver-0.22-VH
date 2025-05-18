@@ -1,0 +1,2606 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 25,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 32,
+  "width": 24,
+  "data": [
+    7572, 7596, 7596, 7596, 7596, 7596, 7596, 7596, 7606, 3216, 3200, 3200,
+    3200, 3200, 3224, 7512, 7500, 7500, 7500, 7500, 7500, 7500, 7510, 2912,
+    7592, 7090, 7090, 7090, 7090, 7090, 7090, 7090, 7094, 3216, 3200, 3200,
+    3200, 3200, 3224, 7139, 7138, 7138, 7138, 7138, 7138, 7138, 7142, 2912,
+    7592, 7088, 7088, 7088, 7088, 7088, 7088, 7088, 7092, 3240, 3228, 3228,
+    3228, 3228, 3238, 7137, 7136, 7136, 7136, 7136, 7136, 7136, 7140, 7602,
+    7592, 7096, 7096, 7096, 7096, 7096, 7096, 7096, 7100, 1570, 1570, 1570,
+    1570, 1570, 1570, 7145, 7144, 7144, 7144, 7144, 7144, 7144, 7148, 7584,
+    7606, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1571, 1570,
+    1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 7584,
+    7958, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570,
+    1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 7584,
+    7956, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570,
+    1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 7608,
+    7508, 1570, 1570, 1570, 1570, 1561, 1561, 1561, 1561, 1561, 1561, 1561,
+    1561, 1561, 1561, 1561, 1561, 1561, 1561, 1570, 1570, 1570, 1570, 7907,
+    7496, 1570, 1570, 1570, 1570, 1569, 1569, 1569, 1569, 1569, 1569, 1569,
+    1569, 1569, 1569, 1570, 1570, 1569, 1569, 1570, 1570, 1570, 1570, 7905,
+    7496, 1570, 1570, 1570, 1570, 1569, 1569, 1569, 1569, 1569, 1569, 1569,
+    1569, 1569, 1569, 1569, 1569, 1569, 1569, 1570, 1570, 1570, 1570, 5970,
+    7496, 1570, 1570, 1570, 1570, 1569, 1569, 1569, 1569, 1569, 1569, 1569,
+    1569, 1569, 1569, 1569, 1569, 1569, 1569, 1570, 1570, 1570, 1570, 5952,
+    7496, 1570, 1570, 1570, 1570, 1569, 1569, 1569, 1570, 1569, 1569, 1569,
+    1569, 1569, 1569, 1569, 1569, 1569, 1569, 1570, 1570, 1570, 1570, 5952,
+    7496, 1570, 1570, 1570, 1570, 1569, 1569, 1569, 1569, 1569, 1569, 1569,
+    1569, 1569, 1569, 1569, 1569, 1569, 1569, 1570, 1570, 1570, 1570, 5952,
+    7496, 1570, 1570, 1570, 1570, 1569, 1569, 1569, 1569, 1569, 1569, 1569,
+    1569, 1569, 1569, 1569, 1569, 1569, 1569, 1570, 1570, 1570, 1570, 5952,
+    7496, 1570, 1570, 1570, 1570, 1569, 1569, 1569, 1569, 1569, 1569, 1569,
+    1569, 1569, 1569, 1569, 1569, 1569, 1569, 1570, 1570, 1570, 1570, 5976,
+    7510, 1570, 1570, 1570, 1570, 1569, 1569, 1570, 1569, 1569, 1569, 1569,
+    1569, 1569, 1569, 1569, 1569, 1569, 1569, 1570, 1570, 1570, 1570, 6275,
+    7190, 1570, 1570, 1570, 1570, 1569, 1569, 1569, 1569, 1569, 1569, 1570,
+    1570, 1569, 1569, 1569, 1569, 1569, 1569, 1570, 1570, 1570, 1570, 6273,
+    7188, 1570, 1570, 1570, 1570, 1569, 1569, 1569, 1569, 1569, 1569, 1570,
+    1570, 1569, 1569, 1569, 1569, 1569, 1569, 1570, 1570, 1570, 1570, 6273,
+    6740, 1570, 1570, 1570, 1570, 7915, 7914, 7914, 7914, 7914, 7918, 1578,
+    1578, 7915, 7914, 7914, 7914, 7914, 7918, 1570, 1570, 1570, 2946, 6281,
+    6728, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1578,
+    1578, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 2928, 2912,
+    6728, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570,
+    1570, 1570, 1570, 1570, 1570, 1571, 1570, 1570, 1570, 1570, 2928, 2912,
+    6728, 1570, 1571, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570,
+    1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 2928, 2912,
+    6728, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570,
+    1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 1570, 6738, 6724, 6724,
+    6706, 6724, 6724, 6724, 6724, 6724, 6740, 1570, 1570, 7506, 7492, 7492,
+    7492, 7492, 7492, 7492, 7508, 1570, 1570, 6738, 6724, 6705, 6704, 6704,
+    6704, 6704, 6704, 6704, 6704, 6704, 6728, 1570, 1570, 7488, 7472, 7472,
+    7472, 7472, 7472, 7472, 7496, 1570, 1570, 6720, 6704, 6704, 6704, 6704, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 3106, 3140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3104,
+    3108, 3142, 0, 0, 0, 3144, 3132, 3132, 3142, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 3108, 3142, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 3138, 0, 0, 3142, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 3120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 3138, 3105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3104,
+    3104, 0, 0, 0, 0, 3120, 3104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 3144, 3132, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3104, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3104, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 3140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3104, 3104, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3128, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3104,
+    3104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3128, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3142, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3138, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3120, 0, 3140, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3138, 3124, 0, 3144, 0, 3106, 3140, 0, 0,
+    3138, 3124, 3140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3138, 3105, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 3128, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 3106, 3140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 226, 227, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 102, 0, 0, 0, 0, 102, 0, 0, 0, 0, 0, 0, 0, 0, 84, 0, 0, 85, 86, 87, 0,
+    0, 0, 0, 14, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 158, 158, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 158, 0, 0, 0, 0, 0, 0, 0, 0, 0, 246, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 158, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 43, 42, 43, 42, 43, 42, 0, 0,
+    0, 0, 0, 0, 0, 0, 252, 0, 101, 7, 103, 101, 103, 101, 7, 103, 51, 50, 51,
+    50, 51, 50, 101, 102, 103, 0, 101, 102, 103, 0, 0, 0, 0, 15, 0, 0, 0, 0, 15,
+    0, 59, 58, 59, 58, 59, 4, 0, 92, 0, 0, 93, 94, 95, 0, 0, 0, 0, 0, 39, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 32, 33, 0, 0, 39, 0, 0, 0, 0, 0, 0, 47, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 41, 0, 0, 47, 0, 0, 0, 103, 0, 0, 55, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55, 0, 0, 0, 0, 0, 0, 63, 0,
+    176, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 178, 0, 63,
+    0, 0, 0, 0, 0, 0, 0, 0, 184, 246, 0, 0, 0, 0, 0, 246, 0, 155, 169, 169, 156,
+    186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 184, 0, 0, 0, 0, 0, 0, 0, 0, 162, 0, 0,
+    160, 186, 0, 0, 0, 0, 109, 0, 0, 0, 0, 0, 184, 0, 246, 0, 0, 0, 0, 0, 246,
+    163, 153, 153, 164, 186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 184, 0, 155, 169,
+    156, 0, 0, 0, 0, 0, 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 184, 0, 162,
+    0, 160, 0, 246, 0, 0, 0, 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 184,
+    246, 163, 153, 164, 0, 0, 0, 0, 0, 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 25, 0, 0,
+    0, 184, 0, 0, 246, 0, 0, 0, 0, 246, 0, 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 0, 0,
+    39, 0, 184, 155, 169, 156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 186, 0, 39, 0, 0, 0,
+    0, 0, 0, 47, 0, 184, 162, 0, 160, 0, 155, 169, 169, 156, 0, 0, 246, 0, 186,
+    0, 47, 0, 0, 0, 111, 0, 0, 55, 0, 184, 163, 153, 164, 0, 162, 0, 0, 160, 0,
+    0, 0, 246, 186, 0, 55, 0, 0, 105, 119, 0, 0, 63, 0, 192, 177, 177, 177, 177,
+    178, 0, 0, 176, 177, 177, 177, 177, 194, 0, 63, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 186, 0, 0, 184, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 188, 0, 0, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 49, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 42, 43, 0,
+    0, 0, 0, 0, 0, 0, 0, 42, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 4, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
+    0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0,
+    0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
+    0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0,
+    0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0,
+    0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0,
+    5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    2, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 24, 0, 24, 24, 24, 24, 24, 0, 24, 24,
+    24, 24, 24, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 24, 24, 24, 24, 24, 24,
+    24, 24, 24, 0, 0, 24, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 24, 0, 24, 24,
+    24, 24, 24, 0, 24, 24, 24, 24, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 24, 24,
+    24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    24, 24, 24, 0, 24, 24, 0, 24, 24, 24, 24, 24, 24, 24, 2, 2, 2, 2, 0, 0, 0,
+    0, 0, 0, 24, 0, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 24, 24, 24, 0, 24, 24, 24, 24, 0, 24, 24, 24, 24, 24, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24,
+    24, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 24, 0, 24, 24, 24, 24, 24, 24, 24,
+    24, 0, 24, 24, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 24, 24, 24, 24, 24, 24, 0, 0,
+    24, 24, 24, 24, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "Present",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PowerUps_Holiday",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 122, "indent": 0, "parameters": [173, 173, 1, 0, 1] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tìm được một món quà tuyệt vời!"]
+            },
+            { "code": 126, "indent": 0, "parameters": [122, 0, 0, 1] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              { "code": 15, "parameters": [30], "indent": null },
+              { "code": 20, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 47,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 15,
+      "y": 8
+    },
+    {
+      "id": 2,
+      "name": "Ice Rink Entrance",
+      "note": "<Hitbox Down: 2>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 201, "indent": 0, "parameters": [0, 164, 1, 27, 6, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 23,
+      "y": 19
+    },
+    {
+      "id": 3,
+      "name": "Arrow",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Arrow",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 23,
+      "y": 20
+    },
+    {
+      "id": 4,
+      "name": "EV004",
+      "note": "Light 175 #b4b4b4",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 596,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 3
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "Light 175 #b4b4b4",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 596,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 20,
+      "y": 3
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "note": "Light 175 #b4b4b4",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 596,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 20,
+      "y": 14
+    },
+    {
+      "id": 7,
+      "name": "EV007",
+      "note": "Light 175 #b4b4b4",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 596,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 14
+    },
+    {
+      "id": 8,
+      "name": "Core Lighting",
+      "note": "Light 1500 #ebebeb",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": ["Old Lighting Hex: a9aace"]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": ["Old Lighting Hex 2: d0d1f1"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 17
+    },
+    {
+      "id": 9,
+      "name": "Additional Lighting",
+      "note": "Light 1000 #9f9f9f",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 11
+    },
+    {
+      "id": 10,
+      "name": "Business Man",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PHC_Civilians_B",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 7
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Doanh nhân>Xem người trượt băng ngã khiến tôi bật cười!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Doanh nhân>Nhưng đừng nói với sếp tôi là tôi nói thế nhé!"
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 33, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 33, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 1,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 2,
+      "y": 10
+    },
+    {
+      "id": 11,
+      "name": "Upset Girl",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PHC_Civilians_A",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Cô gái buồn>Tôi muốn trượt băng nhưng tuyết nhiều quá!\\! *hmph*"
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 33, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 33, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 1,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 21,
+      "y": 7
+    },
+    {
+      "id": 12,
+      "name": "Fishing Man",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PHC_Civilians_B",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+               "\\n<Người mới tập câu cá>Này, sao anh không lấy cái cần câu này khỏi tay tôi đi?!"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đã nhận được một cây gậy giòn!"]
+            },
+            { "code": 126, "indent": 0, "parameters": [115, 0, 0, 1] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Người mới bắt đầu câu cá>Bạn gái tôi đã tặng tôi một chiếc cần câu mới!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Người mới câu cá>Cô ấy là người giỏi nhất!\\! Cô ấy cũng rất tuyệt vời!"
+              ]
+            },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 33, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 33, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PHC_Civilians_B",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Người mới bắt đầu câu cá>Bạn gái tôi là tuyệt nhất!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Người mới bắt đầu câu cá>Đừng có nghĩ ra bất kỳ ý tưởng buồn cười nào nữa!"
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 33, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 33, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 3
+    },
+    {
+      "id": 13,
+      "name": "Ice Rink Girl",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "HC_Humans1B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nhân viên buồn chán>*thở dài*\\! Bạn cần một mã thông báo nếu muốn trượt băng..."
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 121,
+            "itemValid": true,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "HC_Humans1B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nhân viên buồn chán>Bạn cần một mã thông báo nếu muốn trượt băng..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters":["Đây rồi!"]},
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đã đổi được thẻ sân trượt băng!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nhân viên buồn chán>Cẩn thận với các túi tuyết..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nhân viên buồn chán>Chúng tôi không chịu trách nhiệm về tai nạn hoặc thương tích...\\! Bất cứ điều gì..."
+              ]
+            },
+            { "code": 121, "indent": 0, "parameters": [258, 258, 0] },
+            { "code": 126, "indent": 0, "parameters": [121, 1, 0, 1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 258,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "HC_Humans1B",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nhân viên buồn chán>Ugh ~\\! Tôi chỉ muốn về nhà thôi..."
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 19
+    },
+    {
+      "id": 14,
+      "name": "Ice Rink Block",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                13,
+                {
+                  "list": [{ "code": 18, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nhân viên buồn chán>*thở dài*\\! Bạn cần một mã thông báo nếu muốn trượt băng..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nhân viên buồn chán>Nếu không thì tôi phải nhờ đến quản lý của mình...\\! Thôi kệ..."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [{ "code": 13, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 13, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                13,
+                {
+                  "list": [{ "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 121,
+            "itemValid": true,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                13,
+                {
+                  "list": [{ "code": 18, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+               "\\n<Nhân viên buồn chán>Bạn cần một mã thông báo nếu muốn trượt băng..."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Đây rồi!"] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đã đổi được thẻ sân trượt băng!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                    "\\n<Nhân viên buồn chán>Cẩn thận với các túi tuyết..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nhân viên buồn chán>Chúng tôi không chịu trách nhiệm về tai nạn hoặc thương tích...\\! Bất cứ điều gì..."
+              ]
+            },
+            { "code": 121, "indent": 0, "parameters": [258, 258, 0] },
+            { "code": 126, "indent": 0, "parameters": [121, 1, 0, 1] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                13,
+                {
+                  "list": [{ "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 258,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 19
+    },
+    {
+      "id": 15,
+      "name": "Stocking Man",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "HC_Humans4B",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Người đàn ông căng thẳng>Ôi, vợ tôi sẽ giết tôi mất!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Người đàn ông căng thẳng>Tôi phải mua cho cô ấy một chiếc tất trên đường về nhà sau giờ làm việc."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+               "\\n<Người đàn ông căng thẳng>Nhưng tôi quên mất và bây giờ họ đóng cửa rồi!"
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 33, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 33, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 138,
+            "itemValid": true,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "HC_Humans4B",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Người đàn ông căng thẳng>Đợi một chút!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Người đàn ông căng thẳng>Anh đang dùng chiếc tất đó à?!\\! Tôi sẽ đổi nó cho anh!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tôi thực sự không cần nó.\\! Bạn có thể lấy nó."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Người đàn ông căng thẳng>Anh đúng là vị cứu tinh!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Người đàn ông căng thẳng>Tôi không có nhiều nhưng tôi có thể cho anh một bộ đồng phục dự phòng."
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters":["Đã nhận được quần áo người tuyết!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Người đàn ông căng thẳng>Vợ tôi sẽ rất vui!"]
+            },
+            { "code": 121, "indent": 0, "parameters": [261, 261, 0] },
+            { "code": 126, "indent": 0, "parameters": [136, 0, 0, 1] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 126, "indent": 0, "parameters": [138, 1, 0, 1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 33, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 33, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 138,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "HC_Humans4B",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+               "\\n<Người đàn ông nhẹ nhõm>Vợ tôi sẽ rất vui khi thấy chiếc tất này."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Người đàn ông nhẹ nhõm>Tôi luôn quên những yêu cầu của cô ấy nên cô ấy luôn khó chịu với tôi."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+              "\\n<Người đàn ông nhẹ nhõm>Nhưng thành thật mà nói, vẻ mặt cau có dễ thương của cô ấy chính là lý do khiến tôi cưới cô ấy!"
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 33, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 33, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 20
+    },
+    null,
+    {
+      "id": 17,
+      "name": "Ice Skater",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 32,
+            "actorValid": true,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "HolidayExtras1",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Yêu tinh giao hàng nóng bỏng>Nhìn anh ấy chạy quanh trong bộ đồng phục thật dễ thương!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Yêu tinh giao hàng nóng bỏng>Tôi chỉ muốn véo đôi má dễ thương đó và cưỡi lên...\\! cây kẹo gậy đó!"
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              { "code": 33, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 33, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 14, "parameters": [2, 0], "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 33, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 14, "parameters": [-2, 0], "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 2, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 33, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 3, "indent": null },
+              { "code": 34, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 19, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 18, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 16,
+      "y": 19
+    },
+    {
+      "id": 18,
+      "name": "Delivery Elf",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 32,
+            "actorValid": true,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 8,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "HolidayExtras1",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Yêu tinh giao hàng>Chúng ta hiện không nghỉ giải lao!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+               "\\n<Yêu tinh giao hàng>Chúng tôi đang uhh ~\\! thảo luận về các chiến lược hiệu quả để hôn nhau, ý tôi là-\\! tặng quà!"
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 15,
+      "y": 19
+    },
+    {
+      "id": 19,
+      "name": "Elf Couple Event Trigger",
+      "note": "<Hitbox Down: 3> <Hitbox Right: 3>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 32,
+            "actorValid": true,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 216, "indent": 0, "parameters": [1] },
+            { "code": 121, "indent": 0, "parameters": [8, 8, 0] },
+            { "code": 201, "indent": 0, "parameters": [0, 167, 15, 21, 8, 0] },
+            { "code": 203, "indent": 0, "parameters": [20, 0, 16, 21, 8] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tôi tự hỏi hai người đã đi đâu."]
+            },
+            { "code": 213, "indent": 0, "parameters": [18, 1, false] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                18,
+                {
+                  "list": [{ "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Yêu tinh giao hàng>B-Boss!"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                17,
+                {
+                  "list": [
+                    { "code": 16, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nghe này, hai người không thể cứ trốn việc chỉ để chơi bời được!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Yêu tinh giao hàng nóng bỏng>Ồ, có chuyện gì thế?\\! Quà đã được giao rồi, đúng không?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["V-Vâng, anh nói đúng, họ đã làm..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Yêu tinh giao hàng nóng bỏng>Vậy là mọi chuyện ổn rồi!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["*thở dài*\\! Thật vô vọng..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Tôi bận rộn lắm với hai người rồi, đúng không?!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Delivery Elf>Boss!\\! Tôi vui mừng thông báo rằng đã có sự gia tăng lớn về số lượng "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Dịch vụ giao hàng Bắc Cực thưởng cho thành viên!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Yêu tinh giao hàng>Theo báo cáo của tôi, \\n[1] là thành viên có giá trị ở cấp độ Tuần lộc!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+              "Bạn biết không, tôi vẫn không nhớ mình đã đăng ký cái đó..."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                20,
+                {
+                  "list": [
+                    { "code": 17, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+               "Tôi đã đăng ký cho bạn rồi.\\! \\BST[2]Những quyền lợi quá tuyệt vời để cưỡng lại!"
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 18, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Cứ 10 đơn hàng, bạn sẽ nhận được giấy gói quà tùy chỉnh!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 6, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đó không phải là thỏa thuận mà anh không thể từ chối sao?!"]
+            },
+            { "code": 213, "indent": 0, "parameters": [-1, 6, true] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                18,
+                {
+                  "list": [{ "code": 18, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                17,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            { "code": 216, "indent": 0, "parameters": [0] },
+            { "code": 203, "indent": 0, "parameters": [20, 0, 0, 24, 0] },
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hãy cho đôi uyên ương này chút không gian riêng tư."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 6, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Có lẽ chúng ta có thể tìm được chỗ riêng tư cho mình."]
+            },
+            { "code": 121, "indent": 0, "parameters": [8, 8, 1] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([164,109,'A'], true);"]
+            },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 19
+    },
+    {
+      "id": 20,
+      "name": "MrsClaus (Cutscene)",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 8,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1Holiday",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1MrsClaus1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đây là một bài kiểm tra nhỏ."]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 24
+    }
+  ]
+}
