@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Sewer",
+  "displayName": "Cống Ngầm",
   "encounterList": [],
   "encounterStep": 30,
   "height": 31,
@@ -499,10 +499,6 @@
               "parameters": [14, "1Lucy", 1, "1Lucy1", 0, ""]
             },
             { "code": 201, "indent": 0, "parameters": [0, 64, 7, 4, 2, 0] },
-            { "code": 111, "indent": 0, "parameters": [0, 27, 0] },
-            { "code": 117, "indent": 1, "parameters": [120] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1108,7 +1104,7 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found you."] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm thấy rồi."] },
             {
               "code": 250,
               "indent": 0,
@@ -1123,14 +1119,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If I'm correct, that should've opened the next gate."
+                "Nếu những gì mình nghĩ là đúng thì chắc bây giờ cánh cổng đã hạ xuống rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm on my way \\n[1]!"]
+              "parameters": ["Chị quay lại ngay đây, \\n[1]."]
             },
             { "code": 121, "indent": 0, "parameters": [30, 30, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1245,7 +1241,11 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["There you are."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tìm thấy công tắc còn lại rồi."]
+            },
             {
               "code": 250,
               "indent": 0,
@@ -1258,7 +1258,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hold on just a little longer \\n[1]!"]
+              "parameters": ["Cố chờ chị thêm một chút nữa nhé, \\n[1]."]
             },
             { "code": 121, "indent": 0, "parameters": [30, 30, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1357,7 +1357,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A flare gun?!\\! I think you'll do the job."]
+              "parameters": [
+                "Một khẩu pháo sáng ư?!\\! Đúng là thứ mình cần nhất lúc này..."
+              ]
             },
             {
               "code": 250,
@@ -1371,7 +1373,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Obtained a Flare Gun!"]
+              "parameters": ["Nhận được một khẩu Pháo Sáng!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 111, "indent": 0, "parameters": [0, 27, 1] },
@@ -1380,7 +1382,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "While in this room, you can press Page Up or Q to fire Lucy's Flare Gun!"
+                "Khi ở trong căn phòng này, bạn có thể nhấn Page Up hoặc Q để bắn Pháo Sáng!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1390,7 +1392,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "While in this room, you can tap X to fire Lucy's Flare Gun!"
+                "Khi ở trong căn phòng này, bạn có thể nhấn X để bắn Pháo Sáng!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1400,7 +1402,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Unlike a regular pistol, the flare gun fires a blinding flare that explodes!"
+                "Không giống như súng lục thông thường, súng pháo sáng bắn ra một tia sáng chói mắt và phát nổ!"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [29, 29, 0] },
@@ -1410,10 +1412,6 @@
               "indent": 0,
               "parameters": [14, "1Lucy", 4, "1Lucy1", 0, ""]
             },
-            { "code": 111, "indent": 0, "parameters": [0, 27, 0] },
-            { "code": 117, "indent": 1, "parameters": [120] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1939,11 +1937,6 @@
           "moveFrequency": 5,
           "moveRoute": {
             "list": [
-              {
-                "code": 45,
-                "parameters": ["this._alertSoundVol = 0"],
-                "indent": 0
-              },
               {
                 "code": 45,
                 "parameters": ["this._chaseRange = 5"],
@@ -4034,11 +4027,6 @@
             "list": [
               {
                 "code": 45,
-                "parameters": ["this._alertSoundVol = 0"],
-                "indent": 0
-              },
-              {
-                "code": 45,
                 "parameters": ["this._chaseRange = 5"],
                 "indent": null
               },
@@ -4262,11 +4250,6 @@
           "moveFrequency": 5,
           "moveRoute": {
             "list": [
-              {
-                "code": 45,
-                "parameters": ["this._alertSoundVol = 0"],
-                "indent": 0
-              },
               {
                 "code": 45,
                 "parameters": ["this._chaseRange = 5"],
@@ -4521,7 +4504,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Gained some Scrap Metal (2)!"]
+              "parameters": ["Tìm được Kim Loại! (2)"]
             },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4946,11 +4929,7 @@
             },
             { "code": 126, "indent": 0, "parameters": [3, 0, 0, 2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Gained some Scrap Brick (2)!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gạch! (2)"] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5149,11 +5128,7 @@
             },
             { "code": 126, "indent": 0, "parameters": [2, 0, 0, 2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Gained some Scrap Wood (2)!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gỗ! (2)"] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5560,7 +5535,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Dammit.\\! Guess I've got some company."]
+              "parameters": ["Chết tiệt.\\! Phiền phức rồi đây..."]
             },
             { "code": 204, "indent": 0, "parameters": [2, 3, 3] },
             { "code": 230, "indent": 0, "parameters": [90] },
@@ -5569,7 +5544,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I won't be able to sneak around those zombies empty handed..."
+                "Mình không thể lén lút đi qua con Zombie đó chỉ bằng tay không..."
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },

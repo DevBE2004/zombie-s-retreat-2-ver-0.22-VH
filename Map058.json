@@ -2300,7 +2300,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can't just leave!\\! This psycho zombie is trying to kill us!"
+                "Em không được bỏ đi!\\! Nếu không mấy con Zombie này giết chị mất!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2460,7 +2460,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can't just leave!\\! This psycho zombie is trying to kill us!"
+                "Em không được bỏ đi!\\! Nếu không mấy con Zombie này giết chị mất!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3144,40 +3144,40 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Wow!\\! I can't see a thing in here!"]
+              "parameters": ["Whoa!\\! Chị không nhìn thấy gì hết!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Looks like there's some power coming to the building but not this room."
+                "Hình như nguồn điện không đi qua căn phòng này..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Do you know what this room is Stacy?"]
+              "parameters": ["Chị biết đây là phòng gì không, chị Stacy?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's the performance hall!"]
+              "parameters": ["Đây là hội trường biểu diễn!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It was The Boss's latest project..."]
+              "parameters": ["Nó là dự án mới của ông chủ..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A concert hall filled with performances and entertainment for customers!"
+                "Một phòng hòa nhạc tràn ngập các tiết mục giải trí dành cho khách hàng!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
@@ -3185,7 +3185,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I even heard rumors he wanted animal themed robots to stay one-up on the competition!"
+                "Chị thậm chí còn nghe được tin đồn về việc ông ấy muốn tổ chức một cuộc thi về chủ đề giao phối giữa động vật! "
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -3193,31 +3193,27 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*shudders*\\! Ugh, I don't know about those creepy robot performers."
+                "*rùng mình*\\! Tởm quá...\\! Không thể tin được..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I'd have nightmares about being stuck overnight with them just... hunting me down."
-              ]
+              "parameters": ["Nếu có mặt ở đó chắc em ói ra luôn quá!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "*hmph*\\! Well when you describe it like that, ya, they sound horrifying..."
-              ]
+              "parameters": ["*hmm*\\! Chị cũng nghĩ thế..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aaanyway...\\! \\BST[1]Let's see if we can find a way to get the power back on in here."
+                "Dù sao thì...\\! \\BST[1]Hãy xem liệu chúng ta có thể tìm cách bật lại nguồn điện ở đây hay không nào?"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -3589,7 +3585,7 @@
             { "code": 225, "indent": 0, "parameters": [5, 5, 60, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Look out!"] },
+            { "code": 401, "indent": 0, "parameters": ["Coi chừng!"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 203, "indent": 0, "parameters": [5, 0, 8, 9, 0] },
@@ -3630,20 +3626,22 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Did he just cause debris to fall down?!"]
+              "parameters": [
+                "Chẳng lẽ ông ta vừa làm cho mấy cái hộp đó rơi xuống?!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["He almost hit me with that one!"]
+              "parameters": ["Chút nữa thì nó rơi trúng chị!"]
             },
             { "code": 213, "indent": 0, "parameters": [6, 5, true] },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now you've really done it!"]
+              "parameters": ["Giờ ông chết với tui!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -3905,7 +3903,7 @@
             { "code": 225, "indent": 0, "parameters": [5, 5, 60, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Look out!"] },
+            { "code": 401, "indent": 0, "parameters": ["Coi chừng!"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 203, "indent": 0, "parameters": [5, 0, 8, 9, 0] },
@@ -4186,41 +4184,39 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Wow!\\! That was so much FUN!"]
+              "parameters": ["Wow!\\! Vừa rồi VUI quá!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Hah!\\! \\BST[1]It was certainly eventful at the very least."
-              ]
+              "parameters": ["Ha ha!\\! \\BST[1]Chị nói đúng!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We're like a perfectly synch'd duo!"]
+              "parameters": ["Chị và em đúng là một đội ăn ý!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That'll teach The Boss to mess with us!"]
+              "parameters": ["Ông ta sẽ phải hối hận khi đụng đến chúng ta!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He dropped this key.\\! I bet it unlocks his office!"
+                "Oh, chiếc chìa khóa này...\\! Chị cá nó là chìa khóa văn phòng của ông ấy!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Come on!\\! Let's get going!"]
+              "parameters": ["Nào!\\! Chúng ta đi thôi!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -4407,21 +4403,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Something tells me that's this 'boss' you've been mentioning?"
+                "Hình như đó là 'ông chủ' mà chị hay nhắc đến, đúng không ạ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Yup!\\! That's him alright!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Ừ!\\! Là ông ấy...!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Be careful Stacy!\\! Even though he's a zombie now, he looks pretty tough."
+                "Cẩn thận, chị Stacy!\\! Mặc dù bây giờ ông ấy là một con Zombie nhưng cũng không dễ xơi chút nào!"
               ]
             },
             {
@@ -4482,7 +4474,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Whoa!\\! I think he's calling out for help!"]
+              "parameters": ["Whoa!\\! Chị nghĩ ông ấy đang kêu cứu!"]
             },
             {
               "code": 241,
@@ -4496,7 +4488,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*hmph*\\! That does it!"]
+              "parameters": ["*hmph*\\! Được thôi!"]
             },
             { "code": 230, "indent": 0, "parameters": [15] },
             {
@@ -4530,7 +4522,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You know what time it is, \\n[1]?"]
+              "parameters": ["Em biết bây giờ chúng ta nên làm gì, đúng chứ?"]
             },
             {
               "code": 205,
@@ -4563,13 +4555,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's time to kick some zombie ass!"]
+              "parameters": ["Đến lúc để đập chết mấy con Zombie này rồi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hah hah!\\! \\BST[4]Let's do it!"]
+              "parameters": ["Ha ha!\\! \\BST[4]Hành động thôi!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 211, "indent": 0, "parameters": [1] },
@@ -4727,34 +4719,34 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh.\\! My.\\! Gosh!"] },
+            { "code": 401, "indent": 0, "parameters": ["Ôi.\\! Trời.\\! Ơi!"] },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["That was WILD!"] },
+            { "code": 401, "indent": 0, "parameters": ["Vừa rồi VUI quá!"] },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Way to go champ!\\! We make a good team!"]
+              "parameters": ["Chị và em đúng là một cặp ăn ý!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I didn't know your old boss was going to cause us that much trouble..."
+                "Chị không ngờ ông ấy lại mang đến nhiều rắc rối như thế..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Luckily we both were enough to take him down!"]
+              "parameters": ["May là chị và em đã hạ gục được ông ấy!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Way to go champ!\\! We make a good team!"]
+              "parameters": ["Chị và em đúng là một cặp ăn ý!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 211, "indent": 0, "parameters": [1] },
@@ -4903,7 +4895,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*grrr*\\! He's just calling more zombies to come get us!"
+                "*grrr*\\! Ông ấy lại gọi thêm mấy con Zombie khác đến...!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
@@ -4911,17 +4903,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This guy's gonna keep sending more zombies our way unless we act fast!"
+                "Nếu chị và em không hành động nhanh thì ông ấy sẽ gọi càng nhiều Zombie đến!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I won't be able to keep this up forever!"]
+              "parameters": ["Em không thể giải quyết hết bọn chúng được!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Wait! Over there!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Chờ đã! Ở đằng kia...!"]
+            },
             { "code": 204, "indent": 0, "parameters": [8, 2, 2] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
@@ -4929,14 +4925,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll push these boxes for you to open the path back up on stage!"
+                "Chị sẽ đẩy mấy cái thùng đó để mở đường cho em lên sân khấu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You just hold off those zombies, alright?!"]
+              "parameters": ["Em giữ chân bọn Zombie giúp chị, được chứ?"]
             },
             { "code": 204, "indent": 0, "parameters": [2, 2, 3] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -4944,7 +4940,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You can count on me!"]
+              "parameters": ["Được ạ...\\! Cứ tin ở em!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [131, 131, 0] },
@@ -5295,10 +5291,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I cleared the way, \\n[1]!"]
+              "parameters": ["Chị đẩy được rồi, \\n[1]!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Now go and get him!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Giờ em giải quyết ông ta đi!"]
+            },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5639,7 +5639,11 @@
               "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Go, go, go!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tiếp tục đi, \\n[1]!"]
+            },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5980,7 +5984,11 @@
               "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I think this is it!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Giải quyết ông ta đi, \\n[1]!"]
+            },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 123, "indent": 0, "parameters": ["D", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6281,7 +6289,11 @@
               "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I think this is it!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Giải quyết ông ta đi, \\n[1]!"]
+            },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 123, "indent": 0, "parameters": ["D", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7247,9 +7259,9 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
-                "indent": 0
+                "indent": null
               },
               { "code": 15, "parameters": [6], "indent": 0 },
               { "code": 39, "indent": null },
@@ -7398,7 +7410,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -7549,9 +7561,9 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
-                "indent": null
+                "indent": 0
               },
               { "code": 15, "parameters": [2], "indent": 0 },
               { "code": 39, "indent": null },
@@ -7709,7 +7721,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -7860,7 +7872,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -8011,7 +8023,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -8171,7 +8183,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -8322,7 +8334,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -8473,7 +8485,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -10640,9 +10652,9 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
-                "indent": null
+                "indent": 0
               },
               { "code": 15, "parameters": [2], "indent": 0 },
               { "code": 39, "indent": null },
@@ -10791,7 +10803,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -10800,7 +10812,7 @@
               {
                 "code": 45,
                 "parameters": [
-                  "$gameSelfSwitches.setValue([58,31,'A'], false);"
+                  "$gameSelfSwitches.setValue([58,23,'A'], false);"
                 ],
                 "indent": null
               },
@@ -10942,7 +10954,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -10951,7 +10963,7 @@
               {
                 "code": 45,
                 "parameters": [
-                  "$gameSelfSwitches.setValue([58,31,'A'], false);"
+                  "$gameSelfSwitches.setValue([58,23,'A'], false);"
                 ],
                 "indent": null
               },
@@ -11102,7 +11114,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -11253,7 +11265,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -11262,7 +11274,7 @@
               {
                 "code": 45,
                 "parameters": [
-                  "$gameSelfSwitches.setValue([58,32,'A'], false);"
+                  "$gameSelfSwitches.setValue([58,24,'A'], false);"
                 ],
                 "indent": null
               },
@@ -11404,7 +11416,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -11413,7 +11425,7 @@
               {
                 "code": 45,
                 "parameters": [
-                  "$gameSelfSwitches.setValue([58,32,'A'], false);"
+                  "$gameSelfSwitches.setValue([58,24,'A'], false);"
                 ],
                 "indent": null
               },
@@ -11564,7 +11576,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -11715,7 +11727,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -11724,7 +11736,7 @@
               {
                 "code": 45,
                 "parameters": [
-                  "$gameSelfSwitches.setValue([58,33,'A'], false);"
+                  "$gameSelfSwitches.setValue([58,23,'A'], false);"
                 ],
                 "indent": null
               },
@@ -11866,7 +11878,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -11875,7 +11887,7 @@
               {
                 "code": 45,
                 "parameters": [
-                  "$gameSelfSwitches.setValue([58,33,'A'], false);"
+                  "$gameSelfSwitches.setValue([58,23,'A'], false);"
                 ],
                 "indent": null
               },
@@ -12026,7 +12038,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -12177,7 +12189,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -12186,7 +12198,7 @@
               {
                 "code": 45,
                 "parameters": [
-                  "$gameSelfSwitches.setValue([58,34,'A'], false);"
+                  "$gameSelfSwitches.setValue([58,25,'A'], false);"
                 ],
                 "indent": null
               },
@@ -12328,7 +12340,7 @@
               {
                 "code": 44,
                 "parameters": [
-                  { "name": "Damage4", "volume": 25, "pitch": 130, "pan": 0 }
+                  { "name": "Damage4", "volume": 40, "pitch": 130, "pan": 0 }
                 ],
                 "indent": 0
               },
@@ -12337,7 +12349,7 @@
               {
                 "code": 45,
                 "parameters": [
-                  "$gameSelfSwitches.setValue([58,34,'A'], false);"
+                  "$gameSelfSwitches.setValue([58,25,'A'], false);"
                 ],
                 "indent": null
               },
@@ -12455,47 +12467,7 @@
           "moveType": 0,
           "priorityType": 0,
           "stepAnime": false,
-          "through": true,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 20,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 128,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": true,
+          "through": false,
           "trigger": 0,
           "walkAnime": true
         }

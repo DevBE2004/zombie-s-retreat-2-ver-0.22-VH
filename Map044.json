@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Fiona's Workshop",
+  "displayName": "Xưởng làm việc của Fiona",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -178,22 +178,26 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Time for work!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đến giờ bắt tay vào làm việc rồi!"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Talk", "Party Up", "Nevermind"], 2, 0, 2, 0]
+              "parameters": [["Nói chuyện", "Đồng hành", "Rời đi"], 2, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Nói chuyện"] },
             { "code": 117, "indent": 1, "parameters": [43] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Party Up"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Đồng hành"] },
             { "code": 111, "indent": 1, "parameters": [0, 6, 1] },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Searching for supplies, aw yeah!"]
+              "parameters": ["Đi tìm kiếm vật liệu thôi nào!"]
             },
             { "code": 221, "indent": 2, "parameters": [] },
             { "code": 129, "indent": 2, "parameters": [15, 0, false] },
@@ -206,20 +210,22 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Too many people might attract zombies."]
+              "parameters": [
+                "Nếu chúng ta đi ra ngoài kia với quá nhiều người thì bọn Zombie sẽ chú ý."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Want me to go with you instead?"]
+              "parameters": ["Em có muốn chị đi thay không?"]
             },
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 221, "indent": 3, "parameters": [] },
             { "code": 117, "indent": 3, "parameters": [8] },
             { "code": 129, "indent": 3, "parameters": [15, 0, false] },
@@ -227,19 +233,19 @@
             { "code": 121, "indent": 3, "parameters": [6, 6, 0] },
             { "code": 222, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Maybe next time, right 'hon?"]
+              "parameters": ["Thế để lần khác vậy."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -396,29 +402,33 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What would you like to work on?"]
+              "parameters": ["Bạn muốn làm việc gì?"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Construction", "Home Decoration", "Customization", "Leave"],
+                ["Xây dựng", "Trang trí ngôi nhà", "Điều chỉnh", "Rời đi"],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Construction"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Xây dựng"] },
             { "code": 117, "indent": 1, "parameters": [150] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Home Decoration"] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [1, "Trang trí ngôi nhà"]
+            },
             { "code": 117, "indent": 1, "parameters": [149] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Customization"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Điều chỉnh"] },
             { "code": 117, "indent": 1, "parameters": [148] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -535,29 +545,33 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What would you like to work on?"]
+              "parameters": ["Bạn muốn làm việc gì?"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Construction", "Home Decoration", "Customization", "Leave"],
+                ["Xây dựng", "Trang trí ngôi nhà", "Điều chỉnh", "Rời đi"],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Construction"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Xây dựng"] },
             { "code": 117, "indent": 1, "parameters": [150] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Home Decoration"] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [1, "Trang trí ngôi nhà"]
+            },
             { "code": 117, "indent": 1, "parameters": [149] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Customization"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Điều chỉnh"] },
             { "code": 117, "indent": 1, "parameters": [148] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

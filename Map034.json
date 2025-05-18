@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Stacy's Bedroom",
+  "displayName": "Phòng Stacy",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -276,20 +276,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["My legs are sore from all of this skating..."]
+              "parameters": ["Tại đôi Patin này mà giờ chân chị đau quá..."]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Talk", "Party Up", "Nevermind"], 2, 0, 2, 0]
+              "parameters": [["Nói chuyện", "Đồng hành", "Rời đi"], 2, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Nói chuyện"] },
             { "code": 117, "indent": 1, "parameters": [44] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Party Up"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Đồng hành"] },
             { "code": 117, "indent": 1, "parameters": [64] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

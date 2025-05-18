@@ -1011,7 +1011,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hey! This is Siren, the creator of Zombie's Retreat 2."
+                "Chào bạn! Đây là Siren, người tạo ra Zombie's Retreat 2."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1019,20 +1019,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You are currently playing the Alpha build of the game which is meant "
+                "Bạn hiện đang chơi bản Alpha của trò chơi, bản này giống như một bản demo rất sớm."
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["to be like a very early demo."]
+              "parameters": ["giống như một bản demo rất sớm."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you have any questions, here are some topics I have for you."
+                "Nếu bạn có bất kỳ câu hỏi nào, đây là một số chủ đề tôi có cho bạn."
               ]
             },
             {
@@ -1052,7 +1052,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This place is known as \"The Grid\".\\! It is VERY early in it's design."
+                "Nơi này được gọi là \"The Grid\".\\! Thiết kế của nó VẪN CÒN RẤT SỚM."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1060,23 +1060,23 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The Grid will act as your home base and I intend for you to do some cool things "
+                "The Grid sẽ đóng vai trò là căn cứ chính của bạn và tôi dự định bạn sẽ làm một số điều thú vị"
               ]
             },
-            { "code": 401, "indent": 1, "parameters": ["here."] },
+            { "code": 401, "indent": 1, "parameters": ["ở đây."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The Grid's main feature, the ability to choose where to place certain "
+                "Tính năng chính của The Grid, khả năng chọn vị trí đặt một số"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "buildings, will start happening in the next couple updates!"
+                "các tòa nhà, sẽ bắt đầu xuất hiện trong vài bản cập nhật tới!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1084,13 +1084,13 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Expect the main layout of The Grid to change in future updates.\\! For now, "
+                "Hãy chờ đợi bố cục chính của The Grid thay đổi trong các bản cập nhật tương lai.\\! Hiện tại,"
               ]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["it's sort of a placeholder."]
+              "parameters": ["nó chỉ là một chỗ giữ chỗ."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "Whats In Update?"] },
@@ -1099,28 +1099,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The main goal of the Alpha build was to bring most of the core mechanics from "
+                "Mục tiêu chính của bản Alpha là mang hầu hết các cơ chế cốt lõi từ"
               ]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ZR1 over to ZR2 smoothly."]
+              "parameters": ["ZR1 sang ZR2 một cách mượt mà."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This includes a very basic scavenge system for food & water."
-              ]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "If you go up and left from here, you can enter the first city district."
+                "Điều này bao gồm một hệ thống nhặt rác rất cơ bản để kiếm thức ăn và nước uống."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1128,13 +1120,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "There you will find zombies & resources.\\! Many more areas "
+                "Nếu bạn đi lên và sang trái từ đây, bạn có thể vào khu đô thị đầu tiên."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Ở đó bạn sẽ tìm thấy zombie và tài nguyên.\\! Nhiều khu vực khác"
               ]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["will be added over time!"]
+              "parameters": ["sẽ được thêm vào theo thời gian!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "Leave"] },
@@ -1196,7 +1196,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hey! This is Siren, the creator of Zombie's Retreat 2."
+                "Chào! Đây là Siren, người tạo ra Zombie's Retreat 2."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1204,7 +1204,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This building will likely receive a full makeover very soon."
+                "Tòa nhà này có khả năng sẽ được cải tạo toàn bộ rất sớm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1212,7 +1212,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This area is meant to be a motel area for recruited survivors."
+                "Khu vực này được dự định là khu nhà nghỉ cho những người sống sót được tuyển dụng."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1220,26 +1220,26 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I expect to have more recruitable women compared to ZR1 so fitting "
+                "Tôi hy vọng sẽ có nhiều phụ nữ có thể tuyển dụng hơn so với ZR1 nên việc sắp xếp"
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["them in one house is no longer as logical."]
+              "parameters": ["họ vào một ngôi nhà không còn hợp lý nữa."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "So instead they'll be right here!\\! Very \"close\" survivors will "
+                "Vì vậy, thay vào đó họ sẽ ở ngay đây!\\! Những người sống sót \"gần gũi\" sẽ"
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["move into your home instead. ;)"]
+              "parameters": ["chuyển vào nhà của bạn thay thế. ;)"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1296,14 +1296,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Would you like to explore in the West District?"]
+              "parameters": ["Bạn có muốn khám phá Khu phía Tây không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 5, 39, 25, 4, 0] },
             { "code": 117, "indent": 1, "parameters": [17] },
@@ -1311,7 +1311,7 @@
             { "code": 117, "indent": 1, "parameters": [16] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             {
               "code": 205,
               "indent": 1,

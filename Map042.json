@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Room 201",
+  "displayName": "Phòng 201",
   "encounterList": [],
   "encounterStep": 30,
   "height": 15,
@@ -128,9 +128,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I shouldn't leave until we've searched through here."
-              ]
+              "parameters": ["Mình phải tìm kiếm xong đã rồi mới được rời đi."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -205,7 +203,7 @@
     },
     {
       "id": 2,
-      "name": "Meredith (Cutscene)",
+      "name": "\\n[2] (Cutscene)",
       "note": "",
       "pages": [
         {
@@ -237,14 +235,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I haven't found anything useful over here yet."]
+              "parameters": ["Mẹ vẫn chưa tìm thấy thứ gì hữu ích..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I think I saw something over at that table.\\! Did you check there?"
+                "Hình như trên bàn có thứ gì đó?!\\! Con kiểm tra thử xem...?"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -346,7 +344,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Nước!"] },
             { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -362,60 +360,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -467,7 +411,7 @@
     {
       "id": 4,
       "name": "EV004",
-      "note": "D = Old Pre-Animated Kiss",
+      "note": "",
       "pages": [
         {
           "conditions": {
@@ -499,7 +443,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Breaking News, Mayor Talia Reported Missing in Camp Zomi\"."
+                "\"Tin mới nhất, Thị trưởng Talia đã mất tích ở khu cắm trại Zomi\"."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [4, 2, 1, "Mom"] },
@@ -508,7 +452,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Hey, \\n[2].\\! Didn't you once say we're related to her?"
+                "Mẹ này...\\! Có phải mẹ từng nói chúng ta có quan hệ họ hàng với cô ấy đúng không ạ?"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -518,7 +462,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Hey, \\n[2].\\! Didn't you once say you're related to her?"
+                "Mẹ này...\\! Có phải mẹ từng nói chúng ta có quan hệ họ hàng với cô ấy đúng không ạ?"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -555,12 +499,16 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Talia?\\! Yes, we are."]
+              "parameters": ["Thị trưởng Talia ư?\\! Ừ, đúng thế."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Talia?\\! I am."] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Thị trưởng Talia ư?\\! Ừ, đúng thế."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -568,7 +516,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She is a distant cousin of mine but it does still make her family."
+                "Cô ấy là em họ hàng xa của mẹ nhưng cũng không thân thiết lắm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -576,44 +524,43 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I often worry about her.\\! But sometimes I get this strange sensation."
+                "Mẹ vẫn còn lo lắng cho cô ấy.\\! Nhưng đôi khi mẹ lại có một cảm giác kỳ lạ..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Strange sensation?\\! What do you mean?"]
+              "parameters": ["Cảm giác kỳ lạ...?\\! Ý mẹ là sao?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's almost like a 'feeling'.\\! A feeling that she's okay."
+                "Nói đúng hơn thì nó là 'linh cảm'.\\! Mẹ có linh cảm là cô ấy vẫn ổn."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It could just be wishful thinking, though."]
+              "parameters": ["Mặc dù chắc đó là do mẹ tưởng tượng ra thôi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well hopefully you're right about that."]
+              "parameters": ["Nhưng con hy vọng linh cảm của mẹ là đúng."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Me too.\\! It's horrible about what happened to those people stuck on "
+                "Mẹ cũng hy vọng thế.\\! Chuyện đang xảy ra với những người bị mắc kẹt trên hòn đảo thật là kinh khủng."
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["the island."] },
             {
               "code": 205,
               "indent": 0,
@@ -646,7 +593,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well, there wasn't much I could find over here."]
+              "parameters": ["Chà, mẹ chẳng tìm thấy thứ gì có ích cả..."]
             },
             {
               "code": 205,
@@ -685,9 +632,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I guess it's probably time to head back home now, isn't it?"
-              ]
+              "parameters": ["Có lẽ chúng ta nên về nhà..."]
             },
             {
               "code": 355,
@@ -817,7 +762,7 @@
             },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Watch out, \\n[2]!"] },
+            { "code": 401, "indent": 1, "parameters": ["Mẹ, coi chừng!"] },
             {
               "code": 250,
               "indent": 1,
@@ -832,9 +777,9 @@
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["*gasp*"] },
+            { "code": 401, "indent": 1, "parameters": ["*hộc hộc*"] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\n[2]!"] },
+            { "code": 401, "indent": 1, "parameters": ["Mẹ!"] },
             {
               "code": 322,
               "indent": 1,
@@ -991,7 +936,7 @@
             },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Watch out, \\n[2]!"] },
+            { "code": 401, "indent": 1, "parameters": ["Mẹ, coi chừng!"] },
             {
               "code": 205,
               "indent": 1,
@@ -1039,9 +984,9 @@
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["*gasp*"] },
+            { "code": 401, "indent": 1, "parameters": ["*hộc hộc*"] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\n[2]!"] },
+            { "code": 401, "indent": 1, "parameters": ["Mẹ!"] },
             {
               "code": 322,
               "indent": 1,
@@ -1117,71 +1062,66 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Are you okay?!"] },
+            { "code": 401, "indent": 0, "parameters": ["Mẹ có sao không?"] },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*pant*\\| *pant*\\| I'm fine."]
+              "parameters": ["*hộc*\\| *hộc*\\| Mẹ không sao."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [2, 6, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["That certainly gave me a fright."]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Mẹ thấy sợ quá...!"] },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["And it-\\! it almost touched me."]
+              "parameters": ["Vừa rồi nó-\\! nó gần như đã chạm vào mẹ."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Touch...\\! That's right."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Back when you and \\n[3] found me."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["You said the zombies were doing "]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["something weird with women."]
+              "parameters": ["Chạm...?!\\! Ahh, đúng rồi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please tell me.\\! \\BST[6]What did you mean by that?"
+                "Quay lại lúc mẹ và chị \\n[3] tìm thấy con thì..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Mẹ có nói là những con Zombie đã làm mấy chuyện kỳ lạ với phụ nữ."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nói cho con biết đi.\\! \\BST[6]Ý của mẹ là sao ạ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...Okay.\\! I suppose you should know by now."]
+              "parameters": ["...Được rồi.\\! Giờ mẹ sẽ nói cho con biết."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When we saw zombie's come in contact with women, they didn't try to harm them."
+                "Khi bọn mẹ thấy mấy con Zombie đến gần phụ nữ thì chúng không có làm hại họ."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -1189,1035 +1129,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But the women...\\! \\BST[7]It was like they lost all sense of self control."
+                "Nhưng những người phụ nữ đó, họ...\\! \\BST[7]Họ như thể mất hết khả năng phản kháng."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["They just started having sex."]
+              "parameters": ["Họ bắt đầu quan hệ tình dục với chúng."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["T-The women and the zombies?!"]
+              "parameters": [
+                "Ý mẹ là những người phụ nữ đó với mấy con Zombie?!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Y-Yes..."] },
+            { "code": 401, "indent": 0, "parameters": ["U-Ừ..."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["That's horrible..."] },
+            { "code": 401, "indent": 0, "parameters": ["Thật kinh khủng..."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["To think that almost happened to you, I just..."]
+              "parameters": [
+                "Nghĩ đến việc chuyện đó chút nữa đã xảy ra với mẹ, thì con..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I can't lose you, \\n[2]."]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Con không mất mẹ!"] },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh honey..."] },
-            { "code": 213, "indent": 0, "parameters": [2, 4, true] },
-            {
-              "code": 231,
-              "indent": 0,
-              "parameters": [6, "4MomKiss1[4x4]", 0, 0, 0, 0, 100, 100, 0, 0]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 6 Speed 8"]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 6 Loop"]
-            },
-            { "code": 230, "indent": 0, "parameters": [60] },
-            {
-              "code": 232,
-              "indent": 0,
-              "parameters": [6, 0, 0, 0, 0, 0, 100, 100, 255, 0, 90, true]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<\\N[2]>You don't have to worry about me.\\! Everything is okay."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<\\N[2]>And you've done such a wonderful job protecting all of us."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<\\N[1]>...\\n[2]."]
-            },
-            { "code": 221, "indent": 0, "parameters": [] },
-            {
-              "code": 231,
-              "indent": 0,
-              "parameters": [7, "4MomKiss2[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 7 Speed 8"]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 7 Loop"]
-            },
-            { "code": 235, "indent": 0, "parameters": [6] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 222, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<\\N[2]>\\n[1]..."]
-            },
-            { "code": 221, "indent": 0, "parameters": [] },
-            {
-              "code": 231,
-              "indent": 0,
-              "parameters": [8, "4MomKiss3[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 8 Speed 8"]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 8 Loop"]
-            },
-            { "code": 235, "indent": 0, "parameters": [7] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            {
-              "code": 245,
-              "indent": 0,
-              "parameters": [
-                {
-                  "name": "MilfMedKissBJ_Cotton",
-                  "volume": 90,
-                  "pitch": 100,
-                  "pan": 0
-                }
-              ]
-            },
-            { "code": 230, "indent": 0, "parameters": [90] },
-            { "code": 222, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<\\N[2]>[The look in his eyes.\\! Why did my heart just melt at the sight?!]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<\\N[2]>[But I...\\! Did I want this to happen?]"
-              ]
-            },
-            { "code": 221, "indent": 0, "parameters": [] },
-            {
-              "code": 231,
-              "indent": 0,
-              "parameters": [9, "4MomKiss4[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 9 Speed 8"]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 9 Loop"]
-            },
-            { "code": 235, "indent": 0, "parameters": [8] },
-            { "code": 230, "indent": 0, "parameters": [60] },
-            { "code": 222, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<\\N[2]>[I'm using my tongue like we're a young couple...]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<\\N[2]>[Even if I'm his \\n[5]...\\! I want this too, \\n[1].]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<\\N[2]>[His grip around me is tightening!\\! And my body is getting so hot...]"
-              ]
-            },
-            { "code": 246, "indent": 0, "parameters": [2] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 221, "indent": 0, "parameters": [] },
-            {
-              "code": 231,
-              "indent": 0,
-              "parameters": [10, "4MomKiss5[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 10 Speed 8"]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 10 Loop"]
-            },
-            { "code": 235, "indent": 0, "parameters": [9] },
-            { "code": 230, "indent": 0, "parameters": [60] },
-            { "code": 222, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<\\N[2]>Baby...\\! I...\\! I think we should go back home now."
-              ]
-            },
-            { "code": 221, "indent": 0, "parameters": [] },
-            { "code": 230, "indent": 0, "parameters": [60] },
-            { "code": 235, "indent": 0, "parameters": [10] },
-            { "code": 201, "indent": 0, "parameters": [0, 3, 26, 19, 2, 0] },
-            { "code": 117, "indent": 0, "parameters": [13] },
-            { "code": 117, "indent": 0, "parameters": [12] },
-            { "code": 117, "indent": 0, "parameters": [6] },
-            { "code": 117, "indent": 0, "parameters": [8] },
-            { "code": 117, "indent": 0, "parameters": [23] },
-            { "code": 230, "indent": 0, "parameters": [60] },
-            { "code": 222, "indent": 0, "parameters": [] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 213, "indent": 0, "parameters": [-1, 6, true] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["What an embarrassing walk home..."]
-            },
-            {
-              "code": 355,
-              "indent": 0,
-              "parameters": ["Galv.QUEST.complete(5);"]
-            },
-            { "code": 122, "indent": 0, "parameters": [41, 41, 1, 0, 1] },
-            { "code": 121, "indent": 0, "parameters": [90, 90, 0] },
-            { "code": 121, "indent": 0, "parameters": [92, 92, 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "D",
-            "selfSwitchValid": true,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\"Breaking News, Mayor Talia Reported Missing in Camp Zomi\"."
-              ]
-            },
-            { "code": 111, "indent": 0, "parameters": [4, 2, 1, "Mom"] },
-            { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Hey, \\n[2].\\! Didn't you once say we're related to her?"
-              ]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 411, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Hey, \\n[2].\\! Didn't you once say you're related to her?"
-              ]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                2,
-                {
-                  "list": [
-                    { "code": 18, "indent": null },
-                    { "code": 15, "parameters": [30], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 18, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
-            },
-            { "code": 111, "indent": 0, "parameters": [4, 2, 1, "Mom"] },
-            { "code": 101, "indent": 1, "parameters": ["1Mom1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["Talia?\\! Yes, we are."]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 411, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 1, "parameters": ["1Mom1", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Talia?\\! I am."] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "She is a distant cousin of mine but it does still make her family."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I often worry about her.\\! But sometimes I get this strange sensation."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Strange sensation?\\! What do you mean?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It's almost like a 'feeling'.\\! A feeling that she's okay."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["It could just be wishful thinking, though."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Well hopefully you're right about that."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Me too.\\! It's horrible about what happened to those people stuck on "
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["the island."] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                2,
-                {
-                  "list": [
-                    { "code": 19, "indent": null },
-                    { "code": 15, "parameters": [30], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
-            },
-            { "code": 213, "indent": 0, "parameters": [2, 8, true] },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Well, there wasn't much I could find over here."]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                2,
-                {
-                  "list": [
-                    { "code": 1, "indent": null },
-                    { "code": 1, "indent": null },
-                    { "code": 3, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I guess it's probably time to head back home now, isn't it?"
-              ]
-            },
-            {
-              "code": 355,
-              "indent": 0,
-              "parameters": ["$gameSelfSwitches.setValue([42,8,'D'], true);"]
-            },
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Damage5", "volume": 90, "pitch": 140, "pan": 0 }
-              ]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                2,
-                {
-                  "list": [
-                    { "code": 16, "indent": null },
-                    { "code": 15, "parameters": [20], "indent": null },
-                    { "code": 13, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 16, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [20], "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 13, "indent": null }]
-            },
-            { "code": 111, "indent": 0, "parameters": [6, -1, 6] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 17, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 17, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [10] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Zombie Growl", "volume": 90, "pitch": 130, "pan": 0 }
-              ]
-            },
-            { "code": 230, "indent": 1, "parameters": [60] },
-            { "code": 101, "indent": 1, "parameters": ["1Mom1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\n[1]!"] },
-            { "code": 230, "indent": 1, "parameters": [45] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                8,
-                {
-                  "list": [{ "code": 12, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 12, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [45] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                2,
-                {
-                  "list": [{ "code": 13, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 13, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [30] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Empty Clip", "volume": 90, "pitch": 150, "pan": 0 }
-              ]
-            },
-            {
-              "code": 322,
-              "indent": 1,
-              "parameters": [1, "1MainCharacter_Weapon1", 0, "1MC1", 0, ""]
-            },
-            { "code": 230, "indent": 1, "parameters": [30] },
-            { "code": 101, "indent": 1, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Watch out, \\n[2]!"] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Gun1", "volume": 50, "pitch": 100, "pan": 0 }
-              ]
-            },
-            {
-              "code": 355,
-              "indent": 1,
-              "parameters": ["Galv.PROJ.quickDir(01);"]
-            },
-            { "code": 230, "indent": 1, "parameters": [60] },
-            { "code": 101, "indent": 1, "parameters": ["1Mom1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["*gasp*"] },
-            { "code": 101, "indent": 1, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\n[2]!"] },
-            {
-              "code": 322,
-              "indent": 1,
-              "parameters": [1, "1MainCharacter", 1, "1MC1", 0, ""]
-            },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                2,
-                {
-                  "list": [
-                    { "code": 1, "indent": null },
-                    { "code": 1, "indent": null },
-                    { "code": 3, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [30] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 2, "indent": null },
-                    { "code": 2, "indent": null },
-                    { "code": 2, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 2, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 2, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 2, "indent": null }]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 411, "indent": 0, "parameters": [] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 17, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 17, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [10] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Zombie Growl", "volume": 90, "pitch": 130, "pan": 0 }
-              ]
-            },
-            { "code": 230, "indent": 1, "parameters": [60] },
-            { "code": 101, "indent": 1, "parameters": ["1Mom1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\n[1]!"] },
-            { "code": 230, "indent": 1, "parameters": [45] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                8,
-                {
-                  "list": [{ "code": 12, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 12, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [45] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                2,
-                {
-                  "list": [{ "code": 13, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 13, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [30] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Empty Clip", "volume": 90, "pitch": 150, "pan": 0 }
-              ]
-            },
-            {
-              "code": 322,
-              "indent": 1,
-              "parameters": [1, "1MainCharacter_Weapon1", 0, "1MC1", 0, ""]
-            },
-            { "code": 230, "indent": 1, "parameters": [30] },
-            { "code": 101, "indent": 1, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Watch out, \\n[2]!"] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 2, "indent": null },
-                    { "code": 1, "indent": null },
-                    { "code": 17, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 2, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 17, "indent": null }]
-            },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Gun1", "volume": 50, "pitch": 100, "pan": 0 }
-              ]
-            },
-            {
-              "code": 355,
-              "indent": 1,
-              "parameters": ["Galv.PROJ.quickDir(01);"]
-            },
-            { "code": 230, "indent": 1, "parameters": [60] },
-            { "code": 101, "indent": 1, "parameters": ["1Mom1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["*gasp*"] },
-            { "code": 101, "indent": 1, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\n[2]!"] },
-            {
-              "code": 322,
-              "indent": 1,
-              "parameters": [1, "1MainCharacter", 1, "1MC1", 0, ""]
-            },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                2,
-                {
-                  "list": [
-                    { "code": 1, "indent": null },
-                    { "code": 1, "indent": null },
-                    { "code": 3, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [30] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 2, "indent": null },
-                    { "code": 2, "indent": null },
-                    { "code": 2, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 2, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 2, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 2, "indent": null }]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Are you okay?!"] },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["*pant*\\| *pant*\\| I'm fine."]
-            },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 213, "indent": 0, "parameters": [2, 6, true] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["That certainly gave me a fright."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["And it-\\! it almost touched me."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Touch...\\! That's right."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Back when you and \\n[3] found me."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["You said the zombies were doing "]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["something weird with women."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Please tell me.\\! \\BST[6]What did you mean by that?"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["...Okay.\\! I suppose you should know by now."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "When we saw zombie's come in contact with women, they didn't try to harm them."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "But the women...\\! \\BST[7]It was like they lost all sense of self control."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["They just started having sex."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["T-The women and the zombies?!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Y-Yes..."] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["That's horrible..."] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["To think that almost happened to you, I just..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I can't lose you, \\n[2]."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh honey..."] },
+            { "code": 401, "indent": 0, "parameters": ["Oh con yêu..."] },
             { "code": 213, "indent": 0, "parameters": [2, 4, true] },
             {
               "code": 231,
@@ -2256,7 +1200,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>You don't have to worry about me.\\! Everything is okay."
+                "\\n<\\N[2]>Con không cần lo lắng cho mẹ đâu.\\! Mọi thứ vẫn đang ổn mà."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2264,15 +1208,11 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>And you've done such a wonderful job protecting all of us."
+                "\\n<\\N[2]>Không những thế con còn hoàn thành xuất sắc nhiệm vụ bảo vệ mọi người."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<\\N[1]>...\\n[2]."]
-            },
+            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>...Mẹ."] },
             {
               "code": 232,
               "indent": 0,
@@ -2312,7 +1252,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>[The look in his eyes.\\! Why did my heart just melt at the sight?!]"
+                "\\n<\\N[2]>[Ánh mắt của thằng bé.\\! Tim mình như tan chảy ra khi nhìn thấy ánh mắt đó...?!]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2320,7 +1260,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>[But I...\\! Did I want this to happen?]"
+                "\\n<\\N[2]>[Nhưng mình...\\! Mình không muốn chuyện này xảy ra?]"
               ]
             },
             {
@@ -2342,7 +1282,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>[I'm using my tongue like we're a young couple...]"
+                "\\n<\\N[2]>[Mình và thằng bé đang hôn nhau như thể cả hai là một cặp...]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2350,7 +1290,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>[Even if I'm his \\n[5]...\\! I want this too, \\n[1].]"
+                "\\n<\\N[2]>[Ngay cả khi mình là mẹ của thằng bé nhưng...\\! Mẹ muốn con, \\n[1].]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2358,7 +1298,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>[His grip around me is tightening!\\! And my body is getting so hot...]"
+                "\\n<\\N[2]>[Lưỡi của thằng bé đang cuốn chặt lấy lưỡi mình!\\! Cơ thể mình đang bắt đầu nóng lên...]"
               ]
             },
             {
@@ -2380,7 +1320,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>Baby...\\! I...\\! I think we should go back home now."
+                "\\n<\\N[2]>Con yêu...\\! Mẹ...\\! Mẹ nghĩ bây giờ chúng ta nên về nhà thôi."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2400,7 +1340,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What an embarrassing walk home..."]
+              "parameters": [
+                "Không thể tin được mẹ và mình vừa mới hôn nhau..."
+              ]
             },
             {
               "code": 355,
@@ -2526,16 +1468,14 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["W-Wait for me \\n[2]!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Mẹ, chờ con với!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We don't know if it's safe yet."]
+              "parameters": [
+                "Chúng ta vẫn chưa biết nơi này có an toàn hay không!"
+              ]
             },
             {
               "code": 205,
@@ -2560,23 +1500,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's fine dear.\\! There's no one here."]
+              "parameters": ["Không sao đâu, con yêu.\\! Không có ai ở đây cả."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That should make our searching quite a bit easier."
+                "Như thế thì việc tìm kiếm của chúng ta sẽ dễ dàng hơn."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Let's both take some time to thoroughly search for any supplies."
-              ]
+              "parameters": ["Được rồi, mẹ con mình cùng nhau tìm nào!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [13] },
@@ -2686,7 +1624,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Food (Fish)!"]
+              "parameters": ["Tìm được Thực Phẩm (Cá)!"]
             },
             { "code": 126, "indent": 0, "parameters": [8, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -2703,64 +1641,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Food (Fish)!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [8, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -2847,11 +1727,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Scrap Brick!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gạch!"] },
             { "code": 126, "indent": 0, "parameters": [3, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2867,64 +1743,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Scrap Brick!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [3, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true

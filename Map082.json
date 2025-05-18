@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Hospital (2F)",
+  "displayName": "Bệnh Viện (Tầng 2)",
   "encounterList": [],
   "encounterStep": 30,
   "height": 26,
@@ -42,7 +42,7 @@
     1566, 1566, 5971, 5981, 1566, 1566, 5979, 5958, 5962, 1544, 1544, 1544,
     1544, 1544, 1544, 1544, 5968, 1581, 1581, 1581, 1581, 1581, 1581, 1581,
     1581, 5971, 5969, 5967, 5973, 0, 0, 5968, 1566, 1566, 1566, 5968, 6566,
-    1566, 1566, 6563, 5976, 5966, 5969, 5981, 1544, 1544, 1545, 5979, 5969,
+    1566, 1566, 6563, 5976, 5966, 5969, 5981, 1545, 1544, 1544, 5979, 5969,
     5967, 5969, 5969, 5969, 5969, 5981, 6174, 5979, 5969, 5975, 6562, 6562,
     5968, 0, 0, 5977, 5958, 5956, 5957, 5975, 6572, 1544, 1544, 6569, 6563,
     6562, 6562, 6566, 1544, 1544, 1544, 6563, 6562, 6562, 6562, 6562, 6562,
@@ -158,18 +158,18 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 221, 130, 131, 0, 860, 145, 146, 0, 0,
     0, 41, 0, 0, 0, 528, 0, 0, 0, 866, 0, 0, 0, 0, 0, 518, 519, 0, 0, 0, 0, 0,
     0, 343, 229, 138, 139, 0, 868, 153, 154, 0, 0, 492, 0, 0, 0, 0, 0, 0, 0, 0,
-    930, 931, 169, 0, 169, 0, 169, 0, 0, 0, 0, 0, 0, 0, 351, 0, 0, 0, 0, 0, 161,
-    162, 0, 0, 0, 0, 0, 0, 0, 910, 911, 0, 662, 938, 939, 177, 658, 177, 0, 177,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 77, 0, 0, 0, 0, 919, 0, 0, 0, 0, 0, 918,
-    0, 670, 0, 0, 185, 666, 185, 0, 185, 0, 896, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 927, 0, 0, 0, 0, 0, 926, 0, 589, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 83, 81, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 70,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 91, 92, 93, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1003, 1003, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 526, 0, 403, 0, 0, 0, 0, 456, 544, 545, 0, 0,
+    0, 0, 169, 0, 169, 0, 169, 0, 0, 0, 0, 0, 0, 0, 351, 0, 0, 0, 0, 0, 161,
+    162, 0, 0, 0, 0, 0, 0, 0, 910, 911, 0, 662, 0, 0, 177, 658, 177, 0, 177, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 77, 0, 0, 0, 0, 919, 0, 0, 0, 0, 0, 918, 0,
+    670, 0, 0, 185, 666, 185, 0, 185, 0, 896, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 927, 0, 0, 0, 0, 0, 926, 0, 589, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 83, 81, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 70, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 91, 92, 93, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1003, 1003, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 526, 0, 0, 0, 403, 0, 0, 456, 544, 545, 0, 0,
     257, 260, 275, 0, 0, 1011, 1011, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 536,
-    482, 483, 411, 0, 0, 0, 0, 464, 0, 35, 0, 0, 265, 268, 283, 536, 0, 1019,
-    1019, 0, 0, 0, 0, 0, 615, 0, 474, 0, 0, 0, 0, 0, 0, 490, 491, 419, 0, 0, 0,
+    482, 483, 0, 0, 411, 0, 0, 464, 0, 35, 0, 0, 265, 268, 283, 0, 0, 1019,
+    1019, 0, 0, 0, 0, 0, 615, 0, 474, 0, 0, 0, 0, 0, 0, 490, 491, 0, 0, 419, 0,
     0, 0, 0, 43, 354, 355, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 623, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 376, 0, 0, 0, 362, 363, 0, 0, 0, 562, 0, 0, 0,
     0, 0, 0, 0, 0, 631, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -231,7 +231,7 @@
     30, 30, 30, 30, 0, 30, 30, 30, 30, 30, 30, 30, 0, 30, 30, 30, 30, 30, 30,
     30, 30, 30, 30, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 30, 30, 0, 30, 0, 0, 0, 0,
     0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 30, 0, 0, 0, 2, 0, 0, 0, 30, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 30,
+    0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 30, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 30,
     0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 30, 8, 8,
     8, 8, 8, 8, 8, 8, 8, 8, 30, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0,
     0, 0, 0, 0, 0, 0, 30, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 30, 0, 0, 0, 30, 0, 0,
@@ -239,35 +239,35 @@
     8, 30, 30, 30, 0, 0, 0, 30, 0, 0, 0, 30, 30, 0, 0, 30, 30, 30, 30, 30, 0, 0,
     0, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 30, 30,
     30, 30, 0, 0, 0, 0, 30, 30, 30, 30, 0, 0, 0, 30, 30, 30, 30, 30, 30, 30, 30,
-    30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0,
-    30, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 30, 30,
+    30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 30, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 30, 30, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 30, 30, 30, 30, 30,
-    30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30,
-    0, 0, 0, 0, 30, 30, 30, 30, 30, 30, 0, 0, 0, 30, 30, 30, 30, 30, 30, 30, 30,
-    30, 30, 30, 0, 0, 0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 30, 0, 1, 1, 0, 30, 0,
-    0, 0, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 1, 30, 0, 0, 0,
-    30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    30, 0, 0, 0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30,
-    8, 8, 8, 8, 8, 8, 8, 8, 8, 30, 0, 0, 0, 0, 30, 0, 0, 0, 30, 30, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 2, 30, 2, 8, 8, 8, 8, 8, 8, 8, 2, 30, 2, 0, 0, 0, 30,
-    0, 0, 0, 0, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 30, 2, 8, 8, 8, 8, 8,
-    8, 8, 2, 30, 2, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 30, 8, 8, 8, 8, 8, 8, 8, 8, 8, 30, 0, 0, 0, 30, 30, 0, 0, 0, 0, 0, 0,
-    30, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 0, 30,
-    30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30,
-    30, 30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30,
-    30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    30, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 30, 30, 30, 30, 30, 30,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 0, 0,
+    0, 0, 30, 30, 30, 30, 30, 30, 0, 0, 0, 30, 30, 30, 30, 30, 30, 30, 30, 30,
+    30, 30, 0, 0, 0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 30, 0, 1, 1, 0, 30, 0, 0,
+    0, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 1, 30, 0, 0, 0, 30,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0,
+    0, 0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 8, 8,
+    8, 8, 8, 8, 8, 8, 8, 30, 0, 0, 0, 0, 30, 0, 0, 0, 30, 30, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 2, 30, 2, 8, 8, 8, 8, 8, 8, 8, 2, 30, 2, 0, 0, 0, 30, 0, 0,
+    0, 0, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 30, 2, 8, 8, 8, 8, 8, 8, 8,
+    2, 30, 2, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    30, 8, 8, 8, 8, 8, 8, 8, 8, 8, 30, 0, 0, 0, 30, 30, 0, 0, 0, 0, 0, 0, 30, 0,
+    0, 0, 0, 0, 0, 0, 30, 30, 30, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 0, 30, 30, 30,
+    30, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 30, 30,
+    30, 30, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 30,
+    30, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
   ],
   "events": [
     null,
     {
       "id": 1,
-      "name": "Elevator",
+      "name": "Thang Máy",
       "note": "",
       "pages": [
         {
@@ -396,7 +396,6 @@
               "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
             },
             { "code": 201, "indent": 0, "parameters": [0, 83, 10, 9, 8, 0] },
-            { "code": 117, "indent": 0, "parameters": [24] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -413,46 +412,6 @@
           "stepAnime": false,
           "through": false,
           "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 208,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!$Elevator Doors Ace",
-            "direction": 2,
-            "pattern": 2,
-            "characterIndex": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
           "walkAnime": true
         }
       ],
@@ -497,11 +456,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Medicinal Herb!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Thảo Dược!"] },
             { "code": 126, "indent": 0, "parameters": [5, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -517,64 +472,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Medicinal Herb!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [5, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -661,11 +558,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Medicinal Herb!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Thảo Dược!"] },
             { "code": 126, "indent": 0, "parameters": [5, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -681,64 +574,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Medicinal Herb!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [5, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -825,11 +660,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Medicinal Herb!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Thảo Dược!"] },
             { "code": 126, "indent": 0, "parameters": [5, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -845,64 +676,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Medicinal Herb!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [5, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -953,7 +726,7 @@
     },
     {
       "id": 5,
-      "name": "Michelle & Sex Point",
+      "name": "Michelle",
       "note": "",
       "pages": [
         {
@@ -1035,190 +808,6 @@
           "through": false,
           "trigger": 0,
           "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": true,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "1Michelle",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 1
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 22,
-            "actorValid": true,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 209,
-            "switch1Valid": true,
-            "switch2Id": 117,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 123, "indent": 0, "parameters": ["B", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": true,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "B",
-            "selfSwitchValid": true,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            { "code": 101, "indent": 0, "parameters": ["1Michelle1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I'm in the mood for some dangerous sex again..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Michelle1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["What do you say?"] },
-            {
-              "code": 102,
-              "indent": 0,
-              "parameters": [["Yes (Sex)", "No"], 1, 0, 2, 0]
-            },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes (Sex)"] },
-            { "code": 101, "indent": 1, "parameters": ["1Michelle1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Time to get out of this uniform and get a bit more comfortable."
-              ]
-            },
-            { "code": 121, "indent": 1, "parameters": [11, 11, 1] },
-            { "code": 121, "indent": 1, "parameters": [210, 210, 0] },
-            { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 24] },
-            { "code": 117, "indent": 1, "parameters": [28] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
-            { "code": 101, "indent": 1, "parameters": ["1Michelle1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "*sigh*\\! I was really looking forward to it too..."
-              ]
-            },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 1, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 404, "indent": 0, "parameters": [] },
-            { "code": 123, "indent": 0, "parameters": ["B", 1] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 3,
-          "walkAnime": true
         }
       ],
       "x": 21,
@@ -1226,7 +815,7 @@
     },
     {
       "id": 6,
-      "name": "DoorMichelle & Cutscene Triggers",
+      "name": "DoorMichelle",
       "note": "",
       "pages": [
         {
@@ -1432,13 +1021,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh.\\! I wasn't expecting company..."]
+              "parameters": ["Oh.\\! Không ngờ là lại có người đến đây..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A survivor?!\\! \\BST[2]Awesome!"]
+              "parameters": [
+                "Vẫn còn có người sống sót?!\\! \\BST[2]Tuyệt quá!"
+              ]
             },
             {
               "code": 205,
@@ -1507,61 +1098,55 @@
               "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["And just who are you..?"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Và em là...?"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["My name is \\n[1]."] },
+            { "code": 401, "indent": 0, "parameters": ["Em tên là \\n[1]."] },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Pleased to meet you, \\n[1].\\! Michelle."]
+              "parameters": ["Rất vui được gặp em, \\n[1].\\! Chị là Michelle."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well Michelle, how about we get you out of here back to where it's safe?"
+                "Để em dẫn chị về một nơi an toàn nhé, chị Michelle?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "No thank you.\\! I don't think that will be necessary..."
-              ]
+              "parameters": ["Không, cảm ơn em.\\! Chị không cần đâu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What..?\\! You can't be serious right?!"]
+              "parameters": ["Hả...?\\! Chị đang trêu em đúng không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've made it this far along on my own right?\\! I'll be fine."
+                "Không đâu, suốt thời gian qua chị vẫn đang sống tốt?!\\! Chị sẽ ổn thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I guess that's true but-"]
+              "parameters": ["Đúng là như thế nhưng-"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I don't particularly care to put myself in any more danger with those monsters out there."
+                "Chị không muốn bản thân mình gặp nguy hiểm với những con quái vật ngoài kia."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -1569,91 +1154,81 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But Michelle, I can't promise that you'll be safe here for much longer."
+                "Nhưng ở đây lâu sẽ không an toàn đâu, chị Michelle? "
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I-\\! I don't know..."]
+              "parameters": ["Chị-\\! Chị không biết nữa..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's just..\\! It's a lot to take in."]
+              "parameters": ["Chỉ là...\\! Chị sợ lắm."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can wait here as long as you need to feel comfortable."
+                "Thế này đi!\\! Em có thể đợi ở đây đến khi chị cảm thấy bình tĩnh lại...."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["As long as you need to feel safe!"]
+              "parameters": ["Cho đến khi chị cảm thấy hoàn toàn tin tưởng em!"]
             },
             { "code": 213, "indent": 0, "parameters": [5, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["You really are a compassionate one, aren't you?"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Em tốt bụng quá..."] },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A bit stubborn to boot..."]
+              "parameters": ["Và còn cứng đầu nữa."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I recognize that hard-headed nature all too well..."
-              ]
-            },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 213, "indent": 0, "parameters": [5, 6, true] },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["...Alright."] },
+            { "code": 401, "indent": 0, "parameters": ["... Thôi được rồi."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You'll come with me?!"]
+              "parameters": ["Chị đồng ý rồi đúng không ạ?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You don't seem to be taking 'no' for an answer very well..."
+                "Nếu chị từ chối thì em có bỏ qua cho chị không...?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["So you don't leave me with much of a choice."]
+              "parameters": ["Cũng không còn lựa chọn nào khác..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm putting my trust in you \\n[1]."]
+              "parameters": ["Chị sẽ tin tưởng em, \\n[1]."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Then you picked the right person!\\! Let's go back home."
+                "Chị đặt niềm tin vào đúng người rồi đó!\\! Nào, chúng ta đi thôi."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1692,396 +1267,6 @@
             "selfSwitchValid": false,
             "switch1Id": 46,
             "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!DoorsB",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Open1", "pan": 0, "pitch": 100, "volume": 90 }
-              ]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 17 },
-                    { "code": 15, "parameters": [3] },
-                    { "code": 18 },
-                    { "code": 15, "parameters": [3] },
-                    { "code": 19 },
-                    { "code": 37 },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": true
-                }
-              ]
-            },
-            { "code": 505, "indent": 0, "parameters": [{ "code": 17 }] },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [3] }]
-            },
-            { "code": 505, "indent": 0, "parameters": [{ "code": 18 }] },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [3] }]
-            },
-            { "code": 505, "indent": 0, "parameters": [{ "code": 19 }] },
-            { "code": 505, "indent": 0, "parameters": [{ "code": 37 }] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 12 },
-                    { "code": 39, "indent": null },
-                    { "code": 37, "indent": null },
-                    { "code": 12, "indent": null },
-                    { "code": 12, "indent": null },
-                    { "code": 12, "indent": null },
-                    { "code": 38, "indent": null },
-                    { "code": 40, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 39, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 37, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 12, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 12, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 12, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 38, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 40, "indent": null }]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 18, "indent": null },
-                    { "code": 15, "parameters": [3] },
-                    { "code": 17, "indent": null },
-                    { "code": 15, "parameters": [3] },
-                    { "code": 16, "indent": null },
-                    { "code": 38, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 18, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [3] }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 17, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [3] }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 16, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 38, "indent": null }]
-            },
-            { "code": 217, "indent": 0, "parameters": [] },
-            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 22,
-            "actorValid": true,
-            "itemId": 106,
-            "itemValid": true,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 204,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "!DoorsB",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Open1", "pan": 0, "pitch": 100, "volume": 90 }
-              ]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 17 },
-                    { "code": 15, "parameters": [3] },
-                    { "code": 18 },
-                    { "code": 15, "parameters": [3] },
-                    { "code": 19 },
-                    { "code": 37 },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": true
-                }
-              ]
-            },
-            { "code": 505, "indent": 0, "parameters": [{ "code": 17 }] },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [3] }]
-            },
-            { "code": 505, "indent": 0, "parameters": [{ "code": 18 }] },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [3] }]
-            },
-            { "code": 505, "indent": 0, "parameters": [{ "code": 19 }] },
-            { "code": 505, "indent": 0, "parameters": [{ "code": 37 }] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 12 },
-                    { "code": 39, "indent": null },
-                    { "code": 37, "indent": null },
-                    { "code": 12, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 39, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 37, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 12, "indent": null }]
-            },
-            { "code": 221, "indent": 0, "parameters": [] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 12, "indent": null },
-                    { "code": 12, "indent": null },
-                    { "code": 38, "indent": null },
-                    { "code": 40, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 12, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 12, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 38, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 40, "indent": null }]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 16, "indent": null },
-                    { "code": 38, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 16, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 38, "indent": null }]
-            },
-            {
-              "code": 355,
-              "indent": 0,
-              "parameters": ["$gameSelfSwitches.setValue([82,20,'A'], true);"]
-            },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": true,
-            "switch1Id": 46,
-            "switch1Valid": false,
             "switch2Id": 1,
             "switch2Valid": false,
             "variableId": 1,
@@ -3068,46 +2253,6 @@
           "through": true,
           "trigger": 0,
           "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 208,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": true,
-          "trigger": 0,
-          "walkAnime": true
         }
       ],
       "x": 15,
@@ -3476,46 +2621,6 @@
           "through": true,
           "trigger": 0,
           "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 208,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": true,
-          "trigger": 0,
-          "walkAnime": true
         }
       ],
       "x": 6,
@@ -3545,10 +2650,10 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "HC_Zombies2B",
+            "characterName": "HC_Zombies2A",
             "direction": 6,
             "pattern": 1,
-            "characterIndex": 1
+            "characterIndex": 7
           },
           "list": [
             { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
@@ -3674,10 +2779,10 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "HC_Zombies2D",
+            "characterName": "HC_Zombies2C",
             "direction": 6,
             "pattern": 1,
-            "characterIndex": 1
+            "characterIndex": 7
           },
           "list": [
             { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
@@ -3806,10 +2911,10 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "HC_Zombies2B",
+            "characterName": "HC_Zombies2A",
             "direction": 6,
             "pattern": 1,
-            "characterIndex": 1
+            "characterIndex": 7
           },
           "list": [
             {
@@ -3867,46 +2972,6 @@
             "direction": 2,
             "pattern": 1,
             "characterIndex": 1
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": true,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 208,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
           },
           "list": [{ "code": 0, "indent": 0, "parameters": [] }],
           "moveFrequency": 3,
@@ -4292,46 +3357,6 @@
           "through": true,
           "trigger": 0,
           "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 208,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": true,
-          "trigger": 0,
-          "walkAnime": true
         }
       ],
       "x": 21,
@@ -4469,11 +3494,7 @@
             },
             { "code": 126, "indent": 0, "parameters": [2, 0, 0, 2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Gained some Scrap Wood (2)!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gỗ! (2)"] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4578,7 +3599,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Nước!"] },
             { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4594,60 +3615,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -4737,7 +3704,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Food (Fresh)!"]
+              "parameters": ["Tìm được Thực Phẩm (Tươi)!"]
             },
             { "code": 126, "indent": 0, "parameters": [13, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -4754,64 +3721,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Food (Fresh)!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [13, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -4901,7 +3810,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Food (Fresh)!"]
+              "parameters": ["Tìm được Thực Phẩm (Tươi)!"]
             },
             { "code": 126, "indent": 0, "parameters": [13, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -4918,64 +3827,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Food (Fresh)!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [13, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -5021,8 +3872,8 @@
           "walkAnime": true
         }
       ],
-      "x": 30,
-      "y": 9
+      "x": 28,
+      "y": 21
     },
     {
       "id": 18,
@@ -5062,7 +3913,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some String!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm thấy một số dây!"] },
             { "code": 126, "indent": 0, "parameters": [29, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5115,7 +3966,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some String!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm thấy một số dây!"] },
             { "code": 126, "indent": 0, "parameters": [29, 0, 0, 1] },
             { "code": 117, "indent": 0, "parameters": [101] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -5215,7 +4066,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's just some magazines and books here."]
+              "parameters": ["Ở đây chỉ có một số tạp chí và sách thôi."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5310,7 +4161,7 @@
               "parameters": ["Galv.QUEST.objective(28,0,1);"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["This must be it!"] },
+            { "code": 401, "indent": 0, "parameters": ["Chắc chắn là vậy rồi!"] },
             { "code": 126, "indent": 0, "parameters": [17, 0, 0, 1] },
             {
               "code": 250,
@@ -5323,7 +4174,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found Pet's Plus Vol. 5!"]
+              "parameters": ["Đã tìm thấy Pet's Plus Tập 5!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -5331,17 +4182,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Volume... five?\\! How many of these do they make?"
+                "Tập... năm?\\! Họ làm bao nhiêu tập thế này?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Hundreds actually!"] },
+            { "code": 401, "indent": 0, "parameters": ["Thực ra là hàng trăm!"] },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "N-Not that I had a paid subscription or anything..."
+               "K-Không phải là tôi đã trả phí đăng ký hay gì cả..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
@@ -5349,7 +4200,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Anyway-\\! \\BST[2]There should be some cat toys in there."
+                "Dù sao thì-\\! \\BST[2]Ở đó hẳn phải có một số đồ chơi cho mèo."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -5357,7 +4208,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yeah, there are.\\! I could probably craft something like this."
+                "Đúng vậy.\\! Tôi có thể chế tạo thứ gì đó tương tự thế này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 4, 0, 2] },
@@ -5365,7 +4216,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Great!\\! \\BST[2]There is a workstation up on the third floor."
+                "Tuyệt!\\! \\BST[2]Có một trạm làm việc ở tầng ba."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -5373,7 +4224,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you have the necessary materials, you can craft it up there."
+                "Nếu bạn có đủ vật liệu cần thiết, bạn có thể chế tạo nó ở đó."
               ]
             },
             {
@@ -5430,7 +4281,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's just some magazines and books here."]
+              "parameters": ["Ở đây chỉ có một số tạp chí và sách thôi."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5586,7 +4437,7 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Here we are."] },
+            { "code": 401, "indent": 0, "parameters": ["Chúng ta ở đây rồi."] },
             {
               "code": 355,
               "indent": 0,
@@ -5623,7 +4474,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1].\\! May I have the toy?"]
+              "parameters": ["\\n[1].\\! Tôi có thể có đồ chơi này không?"]
             },
             {
               "code": 205,
@@ -5656,7 +4507,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Sure thing.\\! Here you go."]
+              "parameters": ["Được thôi.\\! Đây nhé."]
             },
             {
               "code": 250,
@@ -5670,7 +4521,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thanks.\\! Now lets give it a try."]
+              "parameters": ["Cảm ơn.\\! Bây giờ chúng ta hãy thử xem."]
             },
             {
               "code": 205,
@@ -5840,7 +4691,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You can come on out now Snowball ~ ♫"]
+              "parameters": ["Bạn có thể ra ngoài rồi Snowball ~ ♫"]
             },
             { "code": 230, "indent": 0, "parameters": [40] },
             {
@@ -6084,21 +4935,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Look at that!\\! \\BST[1]It worked just like you said."
+                "Nhìn kìa!\\! \\BST[1]Nó hoạt động đúng như bạn nói."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh, I'm so relieved!"]
+              "parameters": ["Ôi, tôi nhẹ nhõm quá!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Snowball.\\! We're here to take you home to a place that's much safer."
+                "Snowball.\\! Chúng tôi ở đây để đưa bạn về nhà, đến một nơi an toàn hơn nhiều."
               ]
             },
             {
@@ -6158,7 +5009,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Lets go home Snowball..."]
+              "parameters": ["Về nhà thôi Snowball..."]
             },
             {
               "code": 205,
@@ -6404,9 +5255,9 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["No!\\! Snowball!"] },
+            { "code": 401, "indent": 0, "parameters": ["Không!\\! Quả cầu tuyết!"]},
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Watch out!"] },
+            { "code": 401, "indent": 0, "parameters": ["Cẩn thận!"]},
             {
               "code": 205,
               "indent": 0,
@@ -6576,26 +5427,26 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Are you okay?!"] },
+            { "code": 401, "indent": 0, "parameters": ["Bạn ổn chứ?!"] },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm fine.\\! Thanks for saving me."]
+              "parameters": ["Tôi ổn.\\! Cảm ơn vì đã cứu tôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I think the toy lured out more than just Snowball..."
+                "Tôi nghĩ món đồ chơi này đã dụ được nhiều người hơn là chỉ có Snowball..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Maybe we can find another way to-"]
+              "parameters": ["Có lẽ chúng ta có thể tìm ra cách khác để-"]
             },
             {
               "code": 205,
@@ -6688,12 +5539,12 @@
               "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Let's go home now."] },
+            { "code": 401, "indent": 0, "parameters": ["Chúng ta về nhà thôi."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What?\\! Don't you want to find-"]
+              "parameters": ["Cái gì?\\! Anh không muốn tìm-"]
             },
             {
               "code": 205,
@@ -6715,7 +5566,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [5, 5, false] },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["We're done here!"] },
+            { "code": 401, "indent": 0, "parameters":["Chúng ta xong việc ở đây rồi!"] },
             {
               "code": 205,
               "indent": 0,
@@ -6748,7 +5599,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've put you through enough trouble.\\! Let's go."
+                "Tôi đã gây đủ rắc rối cho anh rồi.\\! Đi thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -6775,7 +5626,7 @@
               "parameters": ["Galv.QUEST.complete(28);"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
-            { "code": 401, "indent": 0, "parameters": ["Return to The Grid?"] },
+            { "code": 401, "indent": 0, "parameters": ["Quay lại The Grid?"] },
             {
               "code": 102,
               "indent": 0,
@@ -7038,14 +5889,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Your injuries should all be tended to now."]
+              "parameters": ["Các vết thương của anh đã được chăm sóc xong rồi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thanks for patching me up.\\! I'm feeling way better already."
+                "Cảm ơn vì đã chữa lành cho tôi.\\! Tôi thấy khỏe hơn nhiều rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -7053,7 +5904,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm glad to hear that.\\! \\BST[3]That zombie gave you some really deep cuts."
+                "Tôi rất vui khi nghe điều đó.\\! \\BST[3]Con thây ma đó đã cho anh một vết cắt rất sâu."
               ]
             },
             {
@@ -7204,7 +6055,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You know, you have a tendency to throw yourself in harm's way."
+                "Bạn biết đấy, bạn có xu hướng tự đẩy mình vào nguy hiểm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
@@ -7212,24 +6063,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you really think I'm worth all of that trouble..?"
+                "Anh thực sự nghĩ tôi đáng phải chịu đựng tất cả những rắc rối đó sao..?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Of course I do."] },
+            { "code": 401, "indent": 0, "parameters": ["Tất nhiên là có."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'll always protect you, no matter what!"]
+              "parameters": ["Anh sẽ luôn bảo vệ em, bất kể chuyện gì xảy ra!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Is that right?"] },
+            { "code": 401, "indent": 0, "parameters": ["Đúng vậy không?"]},
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You really are a troublesome one, you know?"]
+              "parameters": ["Ngươi thực sự là một kẻ phiền phức đấy, biết không?"]
             },
             { "code": 213, "indent": 0, "parameters": [5, 4, true] },
             {
@@ -7266,7 +6117,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Michelle>If I knew any better, I would think that you have a crush on me..."
+               "\\n<Michelle>Nếu tôi biết rõ hơn, tôi sẽ nghĩ rằng cô thích tôi..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7274,7 +6125,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Michelle>I never would have thought you had a thing for older Mom's ~ ♥️"
+                "\\n<Michelle>Em không bao giờ nghĩ là anh lại thích những bà mẹ lớn tuổi hơn ~ ♥️"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7282,7 +6133,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[1]>With a woman as beautiful as you, it's hard not to fall in love."
+                "\\n<\\n[1]>Với một người phụ nữ xinh đẹp như em, thật khó để không yêu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7290,7 +6141,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Michelle>Well I'm all yours now.\\! What are you going to do..?"
+                "\\n<Michelle>Được rồi, giờ anh là của em rồi.\\! Em định làm gì..?"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -7338,14 +6189,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Michelle>[He really does want me...]"]
+              "parameters":["\\n<Michelle>[Anh ấy thực sự muốn tôi...]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Michelle>[It's been so long since I've felt this kind of warmth...]"
+                "\\n<Michelle>[Đã lâu lắm rồi tôi mới cảm nhận được sự ấm áp này...]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7353,7 +6204,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Michelle>[When he holds me with his arms...\\! I feel happy again.]"
+                "\\n<Michelle>[Khi anh ấy ôm em trong vòng tay...\\! Em lại cảm thấy hạnh phúc.]"
               ]
             },
             { "code": 246, "indent": 0, "parameters": [3] },
@@ -7388,7 +6239,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Michelle>You're quite a good kisser, you know?"
+                "\\n<Michelle>Em hôn rất giỏi đấy, biết không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7396,7 +6247,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Michelle>How did a young man like you become so talented at something like that?"
+                "\\n<Michelle>Làm sao một chàng trai trẻ như em lại có thể trở nên tài năng đến vậy?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7404,27 +6255,27 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Michelle>*giggle*\\! Maybe we should leave that as a secret..."
+"\\n<Michelle>*cười khúc khích*\\! Có lẽ chúng ta nên giữ bí mật chuyện này..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Michelle>\\n[1]...\\! I want you to fuck me."]
+              "parameters":["\\n<Michelle>\\n[1]...\\! Anh muốn em làm tình với anh."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\n[1]>Right here?"]
+              "parameters": ["\\n<\\n[1]>Ngay tại đây?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Michelle>I can't wait any longer.\\! I want you to have all of me ~ ♥️"
+                "\\n<Michelle>Anh không thể chờ đợi thêm nữa.\\! Anh muốn em có tất cả của anh ~ ♥️"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -7529,14 +6380,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You came inside me, you dirty boy!"]
+              "parameters": ["Anh đã xuất tinh vào bên trong em, đồ khốn nạn!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sorry.\\! I might have gotten a little carried away..."
+               "Xin lỗi.\\! Có lẽ tôi hơi quá đà..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -7544,7 +6395,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Don't apologize.\\! \\BST[6]Now I expect you to fill me up like that every time we fuck."
+                "Đừng xin lỗi.\\! \\BST[6]Bây giờ em mong anh sẽ lấp đầy em như thế mỗi lần chúng ta quan hệ."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [5, 4, true] },
@@ -7556,7 +6407,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A chaotic energy surges through your body!"]
+              "parameters": ["Một ​​luồng năng lượng hỗn loạn tràn vào cơ thể bạn!"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -7661,14 +6512,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There you are, Snowball."]
+              "parameters": ["Cậu đây rồi, Snowball."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank you again for fetching medicine for \\n[1]!"
+                "Cảm ơn anh lần nữa vì đã mang thuốc đến cho \\n[1]!"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -7711,7 +6562,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Snowball brought you medicine for me?!"]
+              "parameters": ["Snowball mang thuốc cho tôi à?!"]
             },
             {
               "code": 205,
@@ -7744,7 +6595,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hah!\\! What an awesome cat!"]
+              "parameters": ["Haha!\\! Con mèo này tuyệt quá!"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 2, true] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -7752,14 +6603,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hang on.\\! I think Snowball brought us something again."
+                "Khoan đã.\\! Tôi nghĩ Snowball lại mang cho chúng ta thứ gì đó rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Here.\\! Let me see it, please."]
+              "parameters": ["Đây.\\! Cho tôi xem nào, làm ơn."]
             },
             {
               "code": 205,
@@ -7809,7 +6660,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Michelle obtained an Old Whistle!"]
+              "parameters":["Michelle đã có được một chiếc còi cũ!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [5, 1, true] },
@@ -7843,37 +6694,37 @@
               "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["What is it?!"] },
+            { "code": 401, "indent": 0, "parameters":["Chuyện gì thế?!"] },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I thought I had lost this..."]
+              "parameters": ["Tôi cứ nghĩ là tôi đã làm mất nó rồi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's my daughter's first whistle."]
+              "parameters":["Đây là tiếng còi đầu tiên của con gái tôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["From when she first became a lifeguard."]
+              "parameters": ["Từ khi cô ấy mới trở thành nhân viên cứu hộ."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It sounds like it's something you cherish a lot."]
+              "parameters": ["Nghe có vẻ như đó là thứ mà anh rất trân trọng."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We'll have to share it with her once we find her!"
+                "Chúng ta sẽ phải chia sẻ điều này với cô ấy khi tìm thấy cô ấy!"
               ]
             },
             {
@@ -7907,7 +6758,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*sniffle*\\! Yes.\\! I can't wait for that day."]
+              "parameters": ["*hít mũi*\\! Vâng.\\! Tôi không thể chờ đến ngày đó."]
             },
             {
               "code": 205,
@@ -7940,7 +6791,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nice find, Snowball!"]
+              "parameters": ["Phát hiện tuyệt vời đấy, Snowball!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -7979,7 +6830,7 @@
               "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Okay, you two..."] },
+            { "code": 401, "indent": 0, "parameters": ["Được rồi, hai người..."]},
             {
               "code": 205,
               "indent": 0,
@@ -8011,7 +6862,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's time for us to go home."]
+              "parameters": ["Đã đến lúc chúng ta phải về nhà."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -8391,7 +7242,7 @@
               "parameters": [{ "code": 13, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Hey!\\! Over here!"] },
+            { "code": 401, "indent": 0, "parameters": ["Này!\\! Ở đây này!"] },
             { "code": 230, "indent": 0, "parameters": [40] },
             {
               "code": 250,
@@ -8589,15 +7440,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["He's coming this way...\\! Any ideas?!"]
+              "parameters": ["Anh ta đang đi về hướng này...\\! Có ý tưởng nào không?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I-I don't know!"] },
+            { "code": 401, "indent": 0, "parameters": ["T-tôi không biết!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["My bullets aren't affecting it!"]
+              "parameters": ["Đạn của tôi không có tác dụng gì với nó!"]
             },
             {
               "code": 250,
@@ -8719,14 +7570,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[My arms are completely cut up from that attack!\\! I can't hold my weapons anymore.]"
+                "[Cánh tay của tôi đã bị cắt đứt hoàn toàn sau đòn tấn công đó!\\! Tôi không thể cầm vũ khí của mình nữa.]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Y-You've got to run away from here Michelle..."]
+              "parameters":["C-Cô phải chạy trốn khỏi đây Michelle..."]
             },
             {
               "code": 205,
@@ -8783,7 +7634,7 @@
               "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["...No!"] },
+            { "code": 401, "indent": 0, "parameters": ["...không!"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -8916,7 +7767,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Heh!\\! \\BST[5]N-Nice work...\\! Snowball..."]
+              "parameters":["Heh!\\! \\BST[5]C-Làm tốt lắm...\\! Snowball..."]
             },
             {
               "code": 355,

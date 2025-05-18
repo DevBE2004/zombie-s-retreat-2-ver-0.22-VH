@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Storage Room",
+  "displayName": "Phòng Trữ Đồ",
   "encounterList": [],
   "encounterStep": 30,
   "height": 16,
@@ -771,11 +771,7 @@
             },
             { "code": 126, "indent": 0, "parameters": [3, 0, 0, 2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Gained some Scrap Brick (2)!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gạch! (2)"] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1364,11 +1360,7 @@
             },
             { "code": 126, "indent": 0, "parameters": [2, 0, 0, 2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Gained some Scrap Wood (2)!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gỗ! (2)"] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

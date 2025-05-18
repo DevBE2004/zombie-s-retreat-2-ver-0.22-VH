@@ -208,70 +208,66 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Another real person.\\! That's a relief to see."]
+              "parameters": ["Vẫn còn có người sống sót.\\! Thật là nhẹ nhõm."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm \\n[1].\\! What's your name?"]
+              "parameters": ["Em là \\n[1].\\! Tên chị là gì?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["My name is Nadia."] },
+            { "code": 401, "indent": 0, "parameters": ["Chị tên là Nadia."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm happy you're still okay Nadia."]
+              "parameters": ["Em mừng là chị vẫn ổn, chị Nadia."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a part of the city that's safe.\\! Will you come with me?"
+                "Em biết một nơi an toàn ở thành phố này.\\! Chị đi cùng với em nhé?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But I...\\! I don't know..."]
+              "parameters": ["Nhưng chị...\\! Chị không chắc nữa..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I don't think it's very safe for you to stay here Nadia."
+                "Em nghĩ nơi này không an toàn cho chị đâu, chị Nadia."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm just looking for my little brother, Isaac."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["He's been missing ever since that night..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "I...\\! I have hope that he's still out there and might come back!"
+                "Chị biết, nhưng chị vẫn đang tìm đứa em trai, nó tên là Isaac."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Brother?\\! If he's a boy then he probably turned too...]"
+                "Em ấy đã mất tích kể từ cái đêm có tiếng chuông báo động..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Chị...\\! Chị mong là nó vẫn ổn và đang đợi nó quay lại đây!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -279,26 +275,36 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well...\\! I normally explore the city for resources."
+                "[Em trai ư?\\! Nếu là con trai thì chắc đã biến thành...]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Chà...\\! Em hay thường xuyên đi quanh thành phố để tìm kiếm nhu yếu phẩm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["So if I find Isaac, I'll bring him back too."]
+              "parameters": [
+                "Nên nếu em tìm thấy Isaac thì em sẽ đưa cậu ấy về với chị."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That would fill my heart with joy, \\n[1]."]
+              "parameters": ["Thật sao?!\\! Cảm ơn em nhé, \\n[1]!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Okay.\\! I'll come with you."]
+              "parameters": ["Được rồi.\\! Chị sẽ đi với em."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -408,7 +414,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Nước!"] },
             { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -424,60 +430,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -608,59 +560,63 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["My old bed..."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Chiếc giường cũ của chị..."]
+            },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It probably feels weird to be back, doesn't it?"]
+              "parameters": [
+                "Cảm giác thật kỳ lạ khi quay lại đây, đúng không chị Nadia?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It does but...\\! \\BST[5]I was thinking about something else..."
+                "Ừ, nhưng...\\! \\BST[5]Chị đang nghĩ về một việc khác..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I want you to fuck me here."]
+              "parameters": ["Chị muốn em địt chị ngay tại đây."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Really?!\\! \\BST[5]Y-You want to have sex right here..?!"
-              ]
+              "parameters": ["H-Hả?!\\! \\BST[5]C-Chị muốn làm tình ở đây...?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["My body really wants it \\n[1]."]
+              "parameters": ["Cơ thể chị nứng lắm rồi, \\n[1]."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Don't you feel it too?"]
+              "parameters": ["Em có cảm thấy giống chị không...?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Nadia1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I knew you'd like that idea!\\! Fuck me baby ~ ♥️"
+                "Biết ngay là em sẽ đồng ý mà!\\! Địt chị đi, \\n[1] ~ ♥️"
               ]
             },
             { "code": 121, "indent": 1, "parameters": [11, 11, 0] },
@@ -668,12 +624,12 @@
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["B", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 101, "indent": 1, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Oh.\\! I'm sorry for asking..."]
+              "parameters": ["Oh.\\! Chị xin lỗi..."]
             },
             {
               "code": 205,
@@ -743,37 +699,37 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You brought me back here ~ ♥️"]
+              "parameters": ["Em lại đưa chị đến đây rồi ~ ♥️"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Did you want to fuck again?"]
+              "parameters": ["Có muốn địt chị ở đây không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Nadia1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I'm ready for you.\\! Fuck me baby ~ ♥️"]
+              "parameters": ["Chị sẵn sàng rồi.\\! Địt chị đi, \\n[1] ~ ♥️"]
             },
             { "code": 121, "indent": 1, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 16] },
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["C", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 101, "indent": 1, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Ya...\\! Maybe another time then."]
+              "parameters": ["Ừ...\\! Thôi để lần sau vậy."]
             },
             {
               "code": 205,

@@ -745,12 +745,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A gun?!"] },
+            { "code": 401, "indent": 0, "parameters": ["Một khẩu súng?!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Why is it just laying around here?"]
+              "parameters": ["Sao nó lại nằm ở đây?"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -758,7 +758,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I guess I'll hang onto it."]
+              "parameters": [
+                "Trong tình cảnh này thì mình nên dùng nó để phòng thân."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [19, 0, 0, 1] },
             { "code": 111, "indent": 0, "parameters": [0, 22, 0] },
@@ -791,7 +793,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You obtained a pistol."]
+              "parameters": ["Bạn nhận được một khẩu súng lục."]
             },
             { "code": 111, "indent": 0, "parameters": [0, 27, 1] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -799,7 +801,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Press Page Up or Q to shoot your weapon! You can change your controls in the options menu."
+                "Nhấn Page Up hoặc Q để bắn! Bạn có thể thay đổi nút điều khiển trong menu cài đặt."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
@@ -807,60 +809,46 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "When you find other weapons or healing items, press Page Down or W "
+                "Khi bạn tìm được vũ khí khác hay vật phẩm hồi máu, nhấn Page Down hoặc W "
               ]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["to switch between them."]
-            },
+            { "code": 401, "indent": 1, "parameters": ["để chuyển đổi."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "For a more precise method, you can change your weapon by selecting it "
+                "Để tiện lợi hơn thì bạn có thể thay đổi vũ khí của mình bằng cách chọn nó trong menu vật phẩm."
               ]
             },
-            { "code": 401, "indent": 1, "parameters": ["in the items menu."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["Tap X to shoot your weapon!"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["Nhấn X để bắn!"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "When you find other weapons or healing items, tap Y "
+                "Khi bạn tìm được vũ khí khác hay vật phẩm hồi máu, nhấn Y "
               ]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["to switch between them."]
-            },
+            { "code": 401, "indent": 1, "parameters": ["để chuyển đổi."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "For a more precise method, you can change your weapon by selecting it "
+                "Để tiện lợi hơn thì bạn có thể thay đổi vũ khí của mình bằng cách chọn nó trong menu vật phẩm."
               ]
             },
-            { "code": 401, "indent": 1, "parameters": ["in the items menu."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have a bad feeling about this."]
+              "parameters": ["Mình có cảm giác không ổn chút nào."]
             },
             { "code": 121, "indent": 0, "parameters": [60, 60, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -1063,19 +1051,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...Ugh.\\! What happened..?"]
+              "parameters": ["...Ugh.\\! Có chuyện gì thế...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["And...\\| Where am I?"]
+              "parameters": ["Và...\\| Mình đang ở đâu vậy?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Wait!\\! \\n[2]!\\! \\n[3]!"]
+              "parameters": ["Chờ đã!\\! Mẹ!\\! Chị \\n[3]!"]
             },
             {
               "code": 205,
@@ -1113,7 +1101,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I have to go back home and make sure they're okay."
+                "Mình phải về nhà để xem liệu hai người họ có ổn hay không."
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1335,7 +1323,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -1463,7 +1451,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,

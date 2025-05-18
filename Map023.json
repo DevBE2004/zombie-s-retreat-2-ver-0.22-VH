@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Alley",
+  "displayName": "Con Hẻm",
   "encounterList": [],
   "encounterStep": 30,
   "height": 22,
@@ -138,8 +138,8 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 30, 30,
-    30, 0, 0, 0, 0, 30, 30, 30, 30, 30, 4, 30, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    30, 0, 0, 0, 0, 30, 30, 30, 30, 30, 0, 30, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 30, 30, 30, 30,
@@ -542,140 +542,11 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
           "moveType": 3,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 2,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "C",
-            "selfSwitchValid": true,
-            "switch1Id": 7,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 2
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "PHC_Em-Serv-ZomB2",
-            "direction": 6,
-            "pattern": 1,
-            "characterIndex": 2
-          },
-          "list": [
-            { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
-            { "code": 111, "indent": 0, "parameters": [0, 18, 0] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 15, "parameters": [60], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 411, "indent": 0, "parameters": [] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Damage1", "volume": 45, "pitch": 140, "pan": 0 }
-              ]
-            },
-            { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
-            { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
-            { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 411, "indent": 1, "parameters": [] },
-            { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 121, "indent": 2, "parameters": [18, 18, 0] },
-            {
-              "code": 205,
-              "indent": 2,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 15, "parameters": [60], "indent": null },
-                    { "code": 28, "parameters": [18], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 2,
-              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 2,
-              "parameters": [{ "code": 28, "parameters": [18], "indent": null }]
-            },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 412, "indent": 1, "parameters": [] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 5,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 45,
-                "parameters": ["this._chaseRange = 7"],
-                "indent": null
-              },
-              {
-                "code": 45,
-                "parameters": ["this._chaseSpeed = 2"],
-                "indent": null
-              },
-              { "code": 9, "indent": 0 },
-              { "code": 15, "parameters": [20], "indent": null },
-              { "code": 9, "indent": null },
-              { "code": 15, "parameters": [4], "indent": null },
-              { "code": 0, "parameters": [] }
-            ],
-            "repeat": true,
-            "skippable": true,
-            "wait": false
-          },
-          "moveSpeed": 2,
-          "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
           "through": false,
@@ -805,145 +676,11 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 3,
           "moveType": 3,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 2,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "B",
-            "selfSwitchValid": true,
-            "switch1Id": 7,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 2
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "PHC_Em-Serv-ZomGoreB2",
-            "direction": 6,
-            "pattern": 1,
-            "characterIndex": 2
-          },
-          "list": [
-            { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
-            { "code": 111, "indent": 0, "parameters": [0, 18, 0] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 15, "parameters": [60], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 411, "indent": 0, "parameters": [] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Damage1", "volume": 45, "pitch": 140, "pan": 0 }
-              ]
-            },
-            { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
-            { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
-            { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 411, "indent": 1, "parameters": [] },
-            { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 121, "indent": 2, "parameters": [18, 18, 0] },
-            {
-              "code": 205,
-              "indent": 2,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 15, "parameters": [60], "indent": null },
-                    { "code": 28, "parameters": [18], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 2,
-              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 2,
-              "parameters": [{ "code": 28, "parameters": [18], "indent": null }]
-            },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 412, "indent": 1, "parameters": [] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 5,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 45,
-                "parameters": ["this._alertSoundVol = 0"],
-                "indent": 0
-              },
-              {
-                "code": 45,
-                "parameters": ["this._chaseRange = 7"],
-                "indent": null
-              },
-              {
-                "code": 45,
-                "parameters": ["this._chaseSpeed = 3"],
-                "indent": null
-              },
-              { "code": 10, "indent": null },
-              { "code": 15, "parameters": [15], "indent": null },
-              { "code": 10, "indent": null },
-              { "code": 15, "parameters": [10], "indent": null },
-              { "code": 0, "parameters": [] }
-            ],
-            "repeat": true,
-            "skippable": true,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
           "through": false,
@@ -986,6 +723,37 @@
             { "code": 123, "indent": 1, "parameters": ["D", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    {
+                      "code": 41,
+                      "parameters": ["PHC_Em-Serv-ZomGoreB2", 2],
+                      "indent": null
+                    },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [
+                {
+                  "code": 41,
+                  "parameters": ["PHC_Em-Serv-ZomGoreB2", 2],
+                  "indent": null
+                }
+              ]
+            },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1314,140 +1082,11 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
           "moveType": 3,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 2,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 7,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": true,
-            "variableValue": 2
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "PHC_Em-Serv-ZomB2",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 5
-          },
-          "list": [
-            { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
-            { "code": 111, "indent": 0, "parameters": [0, 18, 0] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 15, "parameters": [60], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 411, "indent": 0, "parameters": [] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Damage1", "volume": 45, "pitch": 140, "pan": 0 }
-              ]
-            },
-            { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
-            { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
-            { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 411, "indent": 1, "parameters": [] },
-            { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 121, "indent": 2, "parameters": [18, 18, 0] },
-            {
-              "code": 205,
-              "indent": 2,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 15, "parameters": [60], "indent": null },
-                    { "code": 28, "parameters": [18], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 2,
-              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 2,
-              "parameters": [{ "code": 28, "parameters": [18], "indent": null }]
-            },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 412, "indent": 1, "parameters": [] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 5,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 45,
-                "parameters": ["this._chaseRange = 5"],
-                "indent": null
-              },
-              {
-                "code": 45,
-                "parameters": ["this._chaseSpeed = 3"],
-                "indent": null
-              },
-              { "code": 9, "indent": 0 },
-              { "code": 15, "parameters": [75], "indent": null },
-              { "code": 12, "indent": null },
-              { "code": 15, "parameters": [10], "indent": null },
-              { "code": 0, "parameters": [] }
-            ],
-            "repeat": true,
-            "skippable": true,
-            "wait": false
-          },
-          "moveSpeed": 2,
-          "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
           "through": false,
@@ -1577,145 +1216,11 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 3,
           "moveType": 3,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 2,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "B",
-            "selfSwitchValid": true,
-            "switch1Id": 7,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 2
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "PHC_Em-Serv-ZomGoreB2",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 5
-          },
-          "list": [
-            { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
-            { "code": 111, "indent": 0, "parameters": [0, 18, 0] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 15, "parameters": [60], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 411, "indent": 0, "parameters": [] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Damage1", "volume": 45, "pitch": 140, "pan": 0 }
-              ]
-            },
-            { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
-            { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
-            { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 411, "indent": 1, "parameters": [] },
-            { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 121, "indent": 2, "parameters": [18, 18, 0] },
-            {
-              "code": 205,
-              "indent": 2,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    { "code": 15, "parameters": [60], "indent": null },
-                    { "code": 28, "parameters": [18], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 2,
-              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 2,
-              "parameters": [{ "code": 28, "parameters": [18], "indent": null }]
-            },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 412, "indent": 1, "parameters": [] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 5,
-          "moveRoute": {
-            "list": [
-              {
-                "code": 45,
-                "parameters": ["this._alertSoundVol = 0"],
-                "indent": null
-              },
-              {
-                "code": 45,
-                "parameters": ["this._chaseRange = 6"],
-                "indent": null
-              },
-              {
-                "code": 45,
-                "parameters": ["this._chaseSpeed = 3"],
-                "indent": null
-              },
-              { "code": 10, "indent": null },
-              { "code": 15, "parameters": [10], "indent": null },
-              { "code": 10, "indent": null },
-              { "code": 15, "parameters": [13], "indent": null },
-              { "code": 0, "parameters": [] }
-            ],
-            "repeat": true,
-            "skippable": true,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
           "through": false,
@@ -1758,6 +1263,37 @@
             { "code": 123, "indent": 1, "parameters": ["D", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    {
+                      "code": 41,
+                      "parameters": ["PHC_Em-Serv-ZomGoreB2", 5],
+                      "indent": null
+                    },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [
+                {
+                  "code": 41,
+                  "parameters": ["PHC_Em-Serv-ZomGoreB2", 5],
+                  "indent": null
+                }
+              ]
+            },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1938,21 +1474,21 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Hah!\\! It made you jump!"]
+              "parameters":["Hah!\\! Nó làm bạn giật mình!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Man, you weren't joking about this thing beeping like crazy."
+                "Này, anh không đùa khi thứ này kêu bíp bíp như điên vậy."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["A battery must be close.\\! Let's find it!"]
+              "parameters": ["Có một cục pin ở gần đây.\\! Chúng ta hãy tìm nó!"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -1960,14 +1496,14 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Whoa!\\! The battery detector is going off!"]
+              "parameters": ["Whoa!\\! Máy dò pin đang kêu kìa!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Fiona wasn't joking about this thing beeping like crazy."
+                "Fiona không đùa khi thứ này kêu bíp bíp liên hồi."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 4, 0, 2] },
@@ -1975,7 +1511,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "That should mean a battery is close by somewhere."
+                "Điều đó có nghĩa là có một cục pin ở gần đâu đó."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1988,7 +1524,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Another battery should be close by!"]
+              "parameters": ["Có một khẩu đội khác ở gần đây!"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -1996,7 +1532,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Sounds like another battery is nearby."]
+              "parameters": ["Nghe như có một cục pin khác ở gần đây."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -2136,7 +1672,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["And there's the first battery!"]
+              "parameters": ["Và đó là cục pin đầu tiên!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 1, 0, 2] },
             { "code": 401, "indent": 2, "parameters": ["Nice work, \\n[1]!"] },
@@ -2144,14 +1680,14 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Hah!\\! I feel like a treasure hunter!"]
+              "parameters": ["Hah!\\! Tôi cảm thấy như một thợ săn kho báu!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Well then let's go find some more, treasure hunter!"
+                "Được rồi, chúng ta hãy đi tìm thêm kho báu nhé, thợ săn kho báu!"
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -2161,20 +1697,20 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "This must be one of the batteries that Fiona's looking for."
+                "Đây hẳn là một trong những cục pin mà Fiona đang tìm."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Hah!\\! I feel like a treasure hunter!"]
+              "parameters": ["Hah!\\! Tôi cảm thấy như một thợ săn kho báu!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["One down, more to go."]
+              "parameters": ["Đã xong một cái, còn nhiều cái nữa."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -2186,26 +1722,26 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Oh yeah!\\! There's our final battery!"]
+              "parameters": ["Ồ đúng rồi!\\! Đây là cục pin cuối cùng của chúng ta!"]
             },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You're a certified champ at treasure huntin'!"]
+              "parameters":["Bạn là nhà vô địch săn kho báu được chứng nhận!"]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["I'm glad I could help!"]
+              "parameters": ["Tôi rất vui vì có thể giúp được bạn!"]
             },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 3,
               "parameters": [
-                "I think it's time we make our way back to base then."
+                "Tôi nghĩ đã đến lúc chúng ta nên quay trở lại căn cứ rồi."
               ]
             },
             { "code": 122, "indent": 3, "parameters": [150, 150, 0, 0, 1] },
@@ -2215,13 +1751,13 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["There we go!\\! The final battery!"]
+              "parameters": ["Chúng ta bắt đầu thôi!\\! Trận chiến cuối cùng!"]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Time to head back home and give these to Fiona."]
+              "parameters": ["Đã đến lúc về nhà và đưa những thứ này cho Fiona."]
             },
             { "code": 122, "indent": 3, "parameters": [150, 150, 0, 0, 2] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -2231,18 +1767,18 @@
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 111, "indent": 2, "parameters": [4, 15, 0] },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 3, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["Another battery!"] },
+            { "code": 401, "indent": 3, "parameters": ["cục pin khác!"] },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },
             { "code": 401, "indent": 3, "parameters": ["Let's keep it up!"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["Another battery!"] },
+            { "code": 401, "indent": 3, "parameters": ["cục pin khác!"] },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["But I still have more to find!"]
+              "parameters":["Nhưng tôi vẫn còn phải tìm thêm!"]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },

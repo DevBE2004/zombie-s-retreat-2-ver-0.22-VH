@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "The Spooky Suburbs",
+  "displayName": "Vùng Ngoại Ô Ma Quái",
   "encounterList": [],
   "encounterStep": 30,
   "height": 31,
@@ -251,36 +251,36 @@
     0, 0, 744, 0, 0, 0, 752, 0, 0, 0, 0, 0, 720, 0, 0, 0, 0, 0, 0, 655, 0, 0,
     816, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 537, 0, 539, 0, 0, 760, 0, 0, 0, 0, 0, 728, 0,
-    0, 569, 0, 571, 0, 655, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 655, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 550,
+    551, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 655, 881, 882, 883, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 217, 0, 0, 0, 0, 0, 0, 0, 0,
+    845, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    550, 551, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 655, 881, 882, 883, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 217, 0, 0, 0, 0, 0, 0, 0,
-    0, 845, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 912, 913, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 155, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 817, 0, 395, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 912, 913, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 155, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 817, 0, 395, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 403, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 881, 882, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 403, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 807, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 881, 882, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 721, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 791, 0, 332, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 729, 0, 0, 749, 0, 751, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 340, 0, 0, 0, 0, 0, 0, 373, 341, 373, 0, 0, 0, 0, 0, 0, 372, 373, 373,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 807, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    721, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 791, 0, 332, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 729, 0, 0, 749, 0, 751, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 340, 0, 0, 0, 0, 0, 0, 373, 341, 373, 0, 0, 0, 0, 0, 0, 372, 373, 373,
     373, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 348, 0, 0, 0, 0, 0, 0, 381, 349, 381, 0,
     0, 0, 0, 0, 0, 380, 381, 381, 381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -324,54 +324,54 @@
     527, 397, 0, 653, 664, 666, 667, 560, 561, 643, 563, 564, 868, 869, 870,
     871, 817, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 840,
     846, 842, 0, 0, 0, 0, 0, 394, 829, 0, 395, 536, 725, 726, 727, 540, 533,
-    534, 535, 397, 0, 653, 672, 674, 675, 568, 749, 750, 751, 572, 872, 873,
-    874, 875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 0,
-    209, 0, 0, 0, 0, 0, 0, 0, 394, 837, 838, 395, 0, 733, 734, 735, 0, 549, 896,
-    897, 397, 0, 653, 680, 0, 683, 0, 757, 758, 759, 0, 880, 923, 924, 925, 0,
-    0, 722, 724, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 706, 708, 0, 824,
-    825, 826, 0, 0, 0, 0, 0, 394, 801, 0, 395, 0, 741, 0, 743, 0, 0, 904, 905,
-    397, 0, 653, 0, 0, 0, 0, 765, 0, 767, 0, 655, 931, 932, 933, 934, 926, 730,
-    732, 0, 0, 5, 0, 0, 0, 147, 0, 2, 0, 0, 0, 0, 0, 714, 716, 0, 832, 833, 834,
-    0, 0, 0, 0, 0, 394, 809, 0, 395, 791, 0, 0, 0, 586, 0, 918, 919, 397, 0,
-    653, 789, 790, 789, 585, 0, 0, 0, 592, 655, 939, 940, 941, 0, 926, 0, 0, 0,
-    0, 0, 0, 55, 0, 148, 0, 0, 0, 738, 740, 0, 0, 0, 0, 0, 840, 846, 842, 0, 0,
-    0, 0, 0, 394, 853, 854, 855, 791, 0, 0, 0, 0, 0, 0, 0, 397, 0, 653, 790,
-    789, 790, 0, 0, 0, 0, 0, 655, 0, 0, 0, 0, 0, 0, 192, 0, 0, 557, 558, 63, 0,
-    156, 0, 0, 0, 746, 748, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 394, 861,
-    862, 863, 428, 0, 0, 0, 427, 388, 388, 388, 405, 0, 661, 646, 646, 646, 686,
-    0, 0, 0, 685, 663, 0, 0, 0, 0, 0, 0, 200, 0, 0, 565, 566, 71, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 394, 869, 870, 871, 0, 0, 0, 0,
+    534, 535, 397, 0, 653, 672, 674, 675, 568, 569, 0, 571, 572, 872, 873, 874,
+    875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 0, 209,
+    0, 0, 0, 0, 0, 0, 0, 394, 837, 838, 395, 0, 733, 734, 735, 0, 549, 896, 897,
+    397, 0, 653, 680, 0, 683, 0, 757, 758, 759, 0, 880, 923, 924, 925, 0, 0,
+    722, 724, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 706, 708, 0, 824, 825,
+    826, 0, 0, 0, 0, 0, 394, 801, 0, 395, 0, 741, 0, 743, 0, 0, 904, 905, 397,
+    0, 653, 0, 0, 0, 0, 765, 0, 767, 0, 655, 931, 932, 933, 934, 926, 730, 732,
+    0, 0, 5, 0, 0, 0, 147, 0, 2, 0, 0, 0, 0, 0, 714, 716, 0, 832, 833, 834, 0,
+    0, 0, 0, 0, 394, 809, 0, 395, 791, 0, 0, 0, 586, 0, 918, 919, 397, 0, 653,
+    789, 790, 789, 585, 0, 0, 0, 592, 655, 939, 940, 941, 0, 926, 0, 0, 0, 0, 0,
+    0, 55, 0, 148, 0, 0, 0, 738, 740, 0, 0, 0, 0, 0, 840, 846, 842, 0, 0, 0, 0,
+    0, 394, 853, 854, 855, 791, 0, 0, 0, 0, 0, 0, 0, 397, 0, 653, 790, 789, 790,
+    0, 0, 0, 0, 0, 655, 0, 0, 0, 0, 0, 0, 192, 0, 0, 557, 558, 63, 0, 156, 0, 0,
+    0, 746, 748, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 394, 861, 862, 863, 428,
+    0, 0, 0, 427, 388, 388, 388, 405, 0, 661, 646, 646, 646, 686, 0, 0, 0, 685,
+    663, 0, 0, 0, 0, 0, 0, 200, 0, 0, 565, 566, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 394, 869, 870, 871, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 573, 574, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 410, 385, 385, 402, 873,
+    874, 875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    573, 574, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 410, 385,
-    385, 402, 873, 874, 875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 394, 53, 54, 50, 828, 829, 883, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 394, 53, 54, 50, 828, 829, 883, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 385, 385, 402, 61, 62, 58, 836, 837, 838, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 385, 385, 402, 61, 62, 58, 836,
-    837, 838, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 86, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 69, 70, 66, 844, 845, 0, 0, 0, 0, 86, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0,
-    0, 0, 580, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 848, 849, 850, 851, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 86, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 69,
+    70, 66, 844, 845, 0, 0, 0, 0, 86, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 580, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 848, 849, 850, 851, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 753, 0, 0, 753, 0, 753, 0, 0, 12, 0, 0, 0, 0,
-    856, 857, 858, 859, 365, 357, 365, 333, 365, 357, 365, 333, 365, 357, 365,
-    334, 0, 0, 0, 332, 365, 357, 365, 334, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    168, 169, 0, 0, 0, 0, 0, 761, 0, 0, 761, 750, 761, 0, 0, 0, 0, 0, 0, 0, 864,
-    865, 866, 867, 373, 0, 0, 0, 0, 373, 898, 899, 900, 373, 373, 374, 0, 0, 0,
-    848, 849, 850, 851, 342, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 170, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 757, 758, 759, 0, 388, 388, 389, 0, 0, 0, 872, 873, 874,
-    875, 381, 0, 0, 0, 0, 381, 906, 907, 908, 381, 381, 382, 0, 0, 0, 856, 857,
-    858, 859, 350, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 178, 0, 0, 0, 0, 0, 0, 0,
-    584, 0, 765, 0, 767, 0, 0, 0, 397, 0, 0, 0, 880, 881, 882, 883, 0, 588, 733,
-    734, 735, 595, 914, 915, 0, 0, 0, 0, 0, 0, 0, 864, 865, 866, 867, 358, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 579,
-    0, 0, 436, 0, 0, 0, 0, 0, 798, 356, 800, 801, 741, 0, 743, 0, 579, 0, 0, 0,
-    0, 0, 0, 0, 0, 872, 873, 874, 875, 358, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 923, 924, 925, 0, 0, 0, 0, 923, 924, 925, 397, 0, 0, 0,
-    365, 357, 365, 343, 808, 809, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 880,
-    881, 882, 883, 367, 365, 357, 365, 0, 0, 0, 0, 0, 78, 0, 0, 211, 0, 0, 0, 0,
-    0, 0, 931, 932, 933, 934, 0, 0, 0, 931, 932, 933, 934, 0, 78, 754, 373, 373,
+    0, 0, 0, 0, 0, 753, 0, 0, 753, 0, 753, 0, 0, 12, 0, 0, 0, 0, 856, 857, 858,
+    859, 365, 357, 365, 333, 365, 357, 365, 333, 365, 357, 365, 334, 0, 0, 0,
+    332, 365, 357, 365, 334, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 168, 169, 0, 0,
+    0, 0, 0, 761, 0, 0, 761, 750, 761, 0, 0, 0, 0, 0, 0, 0, 864, 865, 866, 867,
+    373, 0, 0, 0, 0, 373, 898, 899, 900, 373, 373, 374, 0, 0, 0, 848, 849, 850,
+    851, 342, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 170, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 757, 758, 759, 0, 388, 388, 389, 0, 0, 0, 872, 873, 874, 875, 381, 0, 0,
+    0, 0, 381, 906, 907, 908, 381, 381, 382, 0, 0, 0, 856, 857, 858, 859, 350,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 178, 0, 0, 0, 0, 0, 0, 0, 584, 0, 765,
+    0, 767, 0, 0, 0, 397, 0, 0, 0, 880, 881, 882, 883, 0, 588, 733, 734, 735,
+    595, 914, 915, 0, 0, 0, 0, 0, 0, 0, 864, 865, 866, 867, 358, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 579, 0, 0,
+    436, 0, 0, 0, 0, 0, 798, 356, 800, 801, 741, 0, 743, 0, 579, 0, 0, 0, 0, 0,
+    0, 0, 0, 872, 873, 874, 875, 358, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 923, 924, 925, 0, 0, 0, 0, 923, 924, 925, 397, 0, 0, 0, 365,
+    357, 365, 343, 808, 809, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 880, 881,
+    882, 883, 367, 365, 357, 365, 0, 0, 0, 0, 0, 78, 0, 0, 211, 0, 0, 0, 0, 0,
+    0, 931, 932, 933, 934, 0, 0, 0, 931, 932, 933, 934, 0, 78, 754, 373, 373,
     373, 351, 816, 817, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 797,
     375, 373, 373, 373, 0, 722, 723, 724, 0, 0, 753, 0, 219, 0, 0, 0, 0, 0, 0,
     0, 909, 910, 0, 0, 0, 0, 0, 909, 910, 436, 0, 0, 762, 381, 381, 381, 359, 0,
@@ -790,19 +790,23 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Trick or Treat!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Cho kẹo hay bị ghẹo!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Grunge Girl>Aren't you two a cute pair."]
+              "parameters": ["\\n<Cô Gái>Hai người đúng là đẹp đôi thật đấy."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Grunge Girl>I'd invite you two in to come share some of the festivities but..."
+                "\\n<Cô Gái>Mặc dù tôi muốn mời hai người vào trong thác loạn một chút nhưng..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -810,17 +814,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Grunge Girl>He really wants us all to himself."
+                "\\n<Cô Gái>Anh ấy chỉ muốn ba người bọn tôi thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["...Huh?!"] },
+            { "code": 401, "indent": 0, "parameters": ["...Hả?!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Grunge Girl>Heh, don't worry about it.\\! Here's some candy."
+                "\\n<Cô Gái>Hehe, em đừng để ý.\\! Kẹo của hai người đây."
               ]
             },
             {
@@ -932,14 +936,12 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Sharing?!"] },
+            { "code": 401, "indent": 0, "parameters": ["4-some ư?!"] },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Maybe some people are just a bit more free spirited..."
-              ]
+              "parameters": ["Chắc bọn họ thích cảm giác lạ..."]
             },
             {
               "code": 205,
@@ -973,7 +975,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well then I'm like him.\\! I want you all to myself \\n[2]!"
+                "Chà, còn con chẳng muốn giống anh ta chút nào.\\! Con chỉ muốn mẹ là của riêng con thôi!"
               ]
             },
             {
@@ -1007,7 +1009,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["And I'm all yours baby!"]
+              "parameters": ["Mẹ là của con, cục cưng!"]
             },
             { "code": 213, "indent": 0, "parameters": [18, 4, true] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1189,14 +1191,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Grunge Girl>You again?"]
+              "parameters": ["\\n<Cô Gái>Lại là em à?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Grunge Girl>Like I said, he doesn't want to share any of us."
+                "\\n<Cô Gái>Như chị vừa nói đấy, anh ấy không muốn chia sẻ với người ngoài."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1204,7 +1206,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Grunge Girl>I'm sorry if you want to join in but that's just not going to happen."
+                "\\n<Cô Gái>Nếu em muốn tham gia cùng thì có lẽ không được rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1212,11 +1214,11 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Grunge Girl>Good luck out there if you're trying to get lucky!"
+                "\\n<Cô Gái>Chị xin lỗi nhé!\\! Và chúc em may mắn!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh, thanks..."] },
+            { "code": 401, "indent": 0, "parameters": ["Oh, cảm ơn chị..."] },
             {
               "code": 205,
               "indent": 0,
@@ -1547,13 +1549,31 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Trick or Treat!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Cho kẹo hay bị ghẹo!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Costumed Milf>You're under arrest for your dirty tricks!"
+                "\\n<Người Phụ Nữ>Ngươi đã bị bắt vì hành vi của bản thân!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Người Phụ Nữ>Ha ha! Cô chỉ đùa thôi...!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Người Phụ Nữ>Cô hóa trang như thế này để tạo bất ngờ cho thằng con trai."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1561,7 +1581,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Costumed Milf>Hah hah! I'm just pulling your tail!"
+                "\\n<Người Phụ Nữ>Cô sẽ cho thằng bé một khoảng thời gian vui vẻ với mấy cái còng tay này sau khi nó chơi xong trò 'trick or treat'!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1569,23 +1589,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Costumed Milf>I bought this costume to surprise my \\n[8]."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Costumed Milf>I'm going to show him a fun time with these handcuffs when he gets home from trick or treating!"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Costumed Milf>Ah, that's right.\\! Almost forgot your candy!"
+                "\\n<Người Phụ Nữ>Ah, đúng rồi.\\! Chút nữa thì quên kẹo của con!"
               ]
             },
             {
@@ -1701,7 +1705,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She's planning on using handcuffs on her \\n[8]..?"
+                "Không ngờ cô ấy định dùng còng tay với cậu con trai...?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 4, 0, 2] },
@@ -1709,20 +1713,22 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I think they're planning to experiment with a roleplaying situation..."
+                "Mẹ nghĩ họ muốn vào vai nữ cảnh sát và phạm nhân..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh...\\! Like she's going to tie him down and-"]
+              "parameters": [
+                "Oh...\\! Ý mẹ là cô ấy sẽ trói tay cậu ta lại và-"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Yes.\\! That's exactly how I imagine it will go."]
+              "parameters": ["Ừ...\\! Đó là những gì mẹ đang tưởng tượng."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 216, "indent": 0, "parameters": [0] },
@@ -1904,7 +1910,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Costumed Milf>You're not my \\n[8]!\\! I've already given you some candy."
+                "\\n<Người Phụ Nữ>Oh, cứ tưởng là thằng con cô về!\\! Nhưng hình như cô đưa kẹo cho cháu rồi mà."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1912,7 +1918,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Costumed Milf>When he gets back, I'm going to ride him until the sun rises!"
+                "\\n<Người Phụ Nữ>Khi thằng bé về tới thì cô sẽ 'cưỡi' nó tới lúc trời sáng ~"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1920,7 +1926,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Costumed Milf>Since he's running late, I'm going to have all of the fun."
+                "\\n<Người Phụ Nữ>Chắc là thằng bé sẽ thích lắm đây."
               ]
             },
             {
@@ -2035,7 +2041,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Sounds like he's in for a long night..."]
+              "parameters": [
+                "Nghe có vẻ đêm nay sẽ là đêm dài nhất cuộc đời cậu ấy..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2260,13 +2268,17 @@
             { "code": 213, "indent": 0, "parameters": [14, 6, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Trick or Treat!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Cho kẹo hay bị ghẹo!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blushed Milf>*pant*\\! S-Sorry I'm a little late..."
+                "\\n<Người Phụ Nữ>*hộc* *hộc*\\! X-Xin lỗi, tôi mở cửa hơi chậm một chút..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -2274,7 +2286,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you okay?\\! Your face is so red and you're sweating!"
+                "Cô có sao không?\\! Mặt của cô đang khá đỏ và ra khá nhiều mồ hôi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2282,7 +2294,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blushed Milf>Oh, I'm okay!\\! Just spending some quality time with my \\n[8]."
+                "\\n<Người Phụ Nữ>Oh, cô không sao!\\! Chỉ là cô có chút việc với thằng con trai."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2290,7 +2302,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blushed Milf>Here's your candy.\\! I don't want to keep him waiting!"
+                "\\n<Người Phụ Nữ>Kẹo của cháu đây.\\! Cô không muốn để thằng bé chờ lâu!"
               ]
             },
             {
@@ -2406,23 +2418,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[2], you don't think they were doing \"it\", do you?"
+                "Hai người đó đang làm 'chuyện ấy', đúng không mẹ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Something tells me that's exactly what they are doing..."
-              ]
+              "parameters": ["Ừ, mẹ cũng nghĩ giống con..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe we should give them privacy and move on to the next house."
+                "Thôi được rồi.\\! Chúng ta đừng làm phiền họ nữa và chuyển sang ngôi nhà tiếp theo nào!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2496,27 +2506,27 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Blushed Milf>Ahh!\\! Oohh!"]
+              "parameters": ["\\n<Người Phụ Nữ>Ahh!\\! Oohh!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Blushed Milf>P-Please give us some privacy..!"
+                "\\n<Người Phụ Nữ>L-Làm ơn để chúng tôi yên đi...!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Blushed Milf>Ohh fuck!"]
+              "parameters": ["\\n<Người Phụ Nữ>Ohh fuck!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Maybe I should just leave them alone..."]
+              "parameters": ["Mình không nên làm phiền họ nữa..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2614,26 +2624,28 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A mausoleum?\\! Why would we knock on this door \\n[2]?!"
+                "Đây là một lăng mộ?\\! Sao chúng ta lại phải gõ cửa nơi này vậy, mẹ?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's the spirit of Halloween!"]
+              "parameters": ["Vì đó là tinh thần của ngày Halloween!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We can't leave a single door untapped!"]
+              "parameters": [
+                "Chúng ta không được phép bỏ sót bất cứ ngôi nhà nào!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*sigh*\\! If you say so..."]
+              "parameters": ["*haizz*\\! Thôi được rồi..."]
             },
             { "code": 230, "indent": 0, "parameters": [10] },
             {
@@ -2756,7 +2768,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh my!"] },
+            { "code": 401, "indent": 0, "parameters": ["Ôi trời!"] },
             {
               "code": 355,
               "indent": 0,
@@ -2782,7 +2794,11 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Trick or Treat..."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Cho kẹo hay bị ghẹo..."]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -2900,16 +2916,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "You certainly see peculiar costumes on Halloween night, don't you?"
-              ]
+              "parameters": ["Vừa rồi là gì thế...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A zombie ghost milf.\\! \\BST[5]We really have seen everything..."
+                "Một con ma Zombie.\\! \\BST[5]Không thể tin được..."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2983,7 +2997,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I don't think they want to be bothered anymore."]
+              "parameters": [
+                "Tốt nhất là không nên động vào nơi này một lần nào nữa."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3288,7 +3304,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cop>There's always a lot of mischief on Halloween night..."
+                "\\n<Chú Cảnh Sát>Đêm Halloween lúc nào cũng có rất nhiều trò nghịch ngợm..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3296,7 +3312,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cop>All of this patrolling has me completely parched.\\! I could use a drink..."
+                "\\n<Chú Cảnh Sát>Công việc tuần tra này đúng là mệt mà.\\! Ước gì bây giờ có thứ gì đó để uống..."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 97] },
@@ -3304,27 +3320,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I have some juice if that will help you out?"]
+              "parameters": [
+                "Nếu chú muốn thì con có một lon nước trái cây này...?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Cop>Do you really?\\! Oh man, that would be perfect right now!"
+                "\\n<Chú Cảnh Sát>Thật sao?\\! Oh trời, như thế thì còn gì bằng!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["No worries.\\! Here you go!"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["Của chú đây!"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Cop>Here, I'll give you something in return."]
+              "parameters": ["\\n<Chú Cảnh Sát>Đây, chú sẽ cho con thứ này..."]
             },
             {
               "code": 250,
@@ -3337,21 +3351,21 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You received a Brittle Shovel!"]
+              "parameters": ["Bạn nhận được một chiếc Xẻng!"]
             },
             { "code": 126, "indent": 1, "parameters": [98, 0, 0, 1] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Why are you giving me a shovel?"]
+              "parameters": ["Sao chú lại cho con cái Xẻng này?"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Cop>Some rascals were causing mischief with it so I confiscated it."
+                "\\n<Chú Cảnh Sát>Có một vài đứa nhóc lôi nó ra để nghịch nên chú đã tịch thu nó."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3359,15 +3373,11 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Cop>I haven't been able to find who it belongs to so I thought you can have it!"
+                "\\n<Chú Cảnh Sát>Và chú không biết làm gì với nó nên tặng lại cho cháu!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["I'll take care of it, I guess..."]
-            },
+            { "code": 401, "indent": 1, "parameters": ["Cảm ơn chú ạ..."] },
             { "code": 126, "indent": 1, "parameters": [97, 1, 0, 1] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -3418,14 +3428,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Cop>Thanks for the drink pal!"]
+              "parameters": ["\\n<Chú Cảnh Sát>Cảm ơn cậu vì lon nước!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cop>I feel like a brand new man.\\! I'll be patrolling all night now!"
+                "\\n<Chú Cảnh Sát>Giờ chú tuần tra cả đêm cũng được!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3523,14 +3533,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Return back home to The Grid?"]
+              "parameters": ["Bạn có muốn quay lại The Grid không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 1, "parameters": [27] },
             { "code": 117, "indent": 1, "parameters": [57] },
@@ -3545,7 +3555,7 @@
             { "code": 230, "indent": 1, "parameters": [60] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             {
               "code": 205,
               "indent": 1,
@@ -3627,66 +3637,60 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What a wild night, huh?!"]
+              "parameters": [
+                "Đêm nay vui thật đấy, cô có thấy thế không \\n[2]?!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I can hardly believe it Fiona!"]
+              "parameters": ["Ừ, đúng là không thể tin được..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I haven't had this much fun in so long!"]
+              "parameters": ["Lâu lắm rồi tôi mới thấy vui như hôm nay!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You can say that again.\\! \\BST[5]But man, I'm beat..."
-              ]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Đúng thế...!"] },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]!\\! You look exhausted as well!"]
+              "parameters": [
+                "\\n[1]!\\! Con ổn chứ?\\! Trông con xanh xao quá!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Me?\\! Oh, I'm good..."]
+              "parameters": ["Con?\\! Oh, con ổn..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Just a little tired I guess..."]
+              "parameters": ["Chỉ là hơi mệt một chút thôi ạ..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Can't say I'm surprised when you've got the two of us entertainin' ya!"
+                "Cũng không ngạc nhiên lắm khi em giúp bọn chị nhiều đến thế cơ mà!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["How's about the three of us head back home now?"]
+              "parameters": ["Được rồi, ba người chúng ta về nhà thôi?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["That sounds like a wonderful idea!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Về thôi..."] },
             { "code": 213, "indent": 0, "parameters": [18, 4, false] },
             { "code": 213, "indent": 0, "parameters": [19, 4, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3704,7 +3708,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You unlocked a special Halloween photograph!"]
+              "parameters": [
+                "Bạn đã mở khóa một bức ảnh đặc biệt trong sự kiện Halloween!"
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["enable_picture 12"] },
             { "code": 121, "indent": 0, "parameters": [169, 169, 0] },
@@ -3811,33 +3817,31 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It feels like Halloween lasts forever here!"]
+              "parameters": ["Chị có cảm giác đêm nay sẽ kéo dài mãi mãi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I think we have enough time for another round upstairs.\\! Wanna give it a go?"
-              ]
+              "parameters": ["Em muốn 'vui vẻ' với chị thêm lần nữa không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Of Course!", "Not Now"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Of Course!"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Fiona2", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Let's not waste any more time then."]
+              "parameters": ["Được rồi, đi theo chị nào ~"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 12] },
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Not Now"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3942,42 +3946,42 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What a lovely night to be out in costumes!"]
+              "parameters": [
+                "Đúng là cả năm mới có một dịp mà mẹ được hóa trang."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Talk", "Trick or Treat", "Sex", "Nevermind"],
+                ["Nói chuyện", "Trick or Treat", "Làm tình", "Rời đi"],
                 3,
                 0,
                 2,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Nói chuyện"] },
             { "code": 111, "indent": 1, "parameters": [0, 166, 0] },
             { "code": 101, "indent": 2, "parameters": ["1Mom4", 7, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": [
-                "I had so much fun trick or treating with you baby."
-              ]
+              "parameters": ["Trò 'trick or treat' đúng là thú vị thật!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Mom4", 5, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Maybe we can enjoy all of our candy back in this alleyway again..."
+                "Mẹ nghĩ chúng ta có thể thưởng thức số kẹo này ở đây..."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Mom4", 7, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["We'll see how many 'sweets' you can take!"]
+              "parameters": ["Để xem liệu con sẽ ăn được bao nhiêu!"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -3986,19 +3990,19 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Where did those two disappear to..?"]
+              "parameters": ["Hai người họ biến đi đâu mất rồi nhỉ...?"]
             },
             { "code": 101, "indent": 3, "parameters": ["1Mom4", 3, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["At this point, I just have to find out!"]
+              "parameters": ["Nhất định mẹ phải tìm ra họ..."]
             },
             { "code": 101, "indent": 3, "parameters": ["1Mom4", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Let's team up and search for them together."]
+              "parameters": ["Con với mẹ cùng nhau đi kiếm họ nhé?!"]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -4007,20 +4011,20 @@
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["We still haven't filled up our Halloween candy!"]
+              "parameters": ["Chúng ta vẫn phải kiếm thêm kẹo Halloween!"]
             },
             { "code": 101, "indent": 4, "parameters": ["1Mom4", 7, 0, 2] },
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["I'm not letting you throw in the towel!"]
+              "parameters": ["Con không được phép bỏ cuộc!"]
             },
             { "code": 101, "indent": 4, "parameters": ["1Mom4", 0, 0, 2] },
             {
               "code": 401,
               "indent": 4,
               "parameters": [
-                "Let's keep visiting more doors until we're overflowing with sweets!"
+                "Chúng ta sẽ tiếp tục ghé thăm nhiều ngôi nhà hơn cho đến khi đủ số kẹo cần thiết! "
               ]
             },
             { "code": 0, "indent": 4, "parameters": [] },
@@ -4030,14 +4034,16 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "When you're ready to go door to door, just tell me."
+                "Khi nào con sẵn sàng để đi từng nhà thì nói với mẹ nhé!"
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["1Mom4", 1, 0, 2] },
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["I'm so excited to go trick or treating again!"]
+              "parameters": [
+                "Mẹ háo hức muốn chơi trò 'trick or treat' lắm rồi!"
+              ]
             },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 412, "indent": 3, "parameters": [] },
@@ -4052,9 +4058,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": [
-                "A late night stroll with my \\n[8] sounds lovely."
-              ]
+              "parameters": ["Được đi dạo đêm với con là tuyệt nhất!"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -4063,16 +4067,12 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Let's see where they went to..."]
+              "parameters": ["Để xem họ đã đi đâu nào..."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
             { "code": 101, "indent": 3, "parameters": ["1Mom4", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 3,
-              "parameters": ["Let's go get some candy!"]
-            },
+            { "code": 401, "indent": 3, "parameters": ["Đi kiếm kẹo nào!"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -4101,24 +4101,24 @@
             { "code": 230, "indent": 1, "parameters": [40] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Sex"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Làm tình"] },
             { "code": 101, "indent": 1, "parameters": ["1Mom4", 5, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You want to fuck again?\\! Right here?"]
+              "parameters": ["Con muốn địt mẹ sao?\\! Ngay tại đây?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom4", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You're so naughty baby!"]
+              "parameters": ["Con hư hỏng quá đó, \\n[1]!"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 11] },
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4208,20 +4208,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you want to take a break from trick or treating, I can wait right here."
+                "Nếu muốn nghỉ ngơi một chút thì mẹ có thể đợi con ở đây!"
               ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Stay Here", "Stay With Me"], 1, 0, 2, 0]
+              "parameters": [["Đợi ở đây", "Tiếp tục đi"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Stay Here"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Đợi ở đây"] },
             { "code": 101, "indent": 1, "parameters": ["1Mom4", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Don't keep me waiting too long!"]
+              "parameters": ["Đừng để mẹ đợi lâu nhé!"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             {
@@ -4247,12 +4247,12 @@
             { "code": 121, "indent": 1, "parameters": [161, 161, 1] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Stay With Me"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Tiếp tục đi"] },
             { "code": 101, "indent": 1, "parameters": ["1Mom4", 1, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Okay!\\! \\BST[1]I'll stay with you."]
+              "parameters": ["Được thôi!\\! \\BST[1]Tiếp tục nào."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -4835,7 +4835,7 @@
     },
     {
       "id": 18,
-      "name": "Meredith (Cutscene)",
+      "name": "\\n[2] (Cutscene)",
       "note": "",
       "pages": [
         {
@@ -5120,11 +5120,7 @@
             { "code": 213, "indent": 0, "parameters": [21, 2, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["What part of the city is this..?"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Đây là nơi nào...?"] },
             {
               "code": 205,
               "indent": 0,
@@ -5153,7 +5149,7 @@
               "parameters": [{ "code": 15, "parameters": [45], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Well there he is!"] },
+            { "code": 401, "indent": 0, "parameters": ["Em đây rồi!"] },
             {
               "code": 205,
               "indent": 0,
@@ -5186,7 +5182,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]!\\! \\BST[1]I'm so happy you made it!"]
+              "parameters": ["\\n[1]!\\! \\BST[1]Cuối cùng con cũng tới!"]
             },
             {
               "code": 205,
@@ -5267,18 +5263,20 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[2]?!\\! Fiona?!"] },
+            { "code": 401, "indent": 0, "parameters": ["Mẹ?!\\! Chị Fiona?!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What are the two of you doing here?!"]
+              "parameters": ["Hai người đang làm gì ở đây thế?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["So waddya think?\\! How do we look?!"]
+              "parameters": [
+                "Em thấy sao?\\! Hai người bọn chị trông thế nào?!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [19, 3, false] },
             {
@@ -5414,124 +5412,118 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It took so long to squeeze into this outfit but I hope you like it!"
+                "Mất khá nhiều thời gian mẹ mới làm được bộ này nên hy vọng là con sẽ thích nó!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The two of you look incredible!"]
+              "parameters": ["Hai người trông đẹp lắm!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Those are-\\! really revealing costumes..."]
+              "parameters": ["Mấy bộ trang phục này-\\! hở hang quá..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But why are you still in your regular outfit..?"]
+              "parameters": ["Nhưng sao em vẫn mặc quần ào bình thường thế...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Don't tell me you forgot to get a costume!"]
+              "parameters": ["Đừng nói là em quên mặc nhé!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Sorry!\\! \\BST[5]I guess I didn't get the memo..."
-              ]
+              "parameters": ["Em xin lỗi!\\! \\BST[5]Em quên hóa trang rồi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well there's no sense in getting worked up over that now."
+                "Chà, bây giờ chuyện đó cũng không quan trọng lắm đâu..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Not when there's so much fun to be had!"]
+              "parameters": ["Vì còn nhiều thứ đang chờ chúng ta ở phía trước."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm burstin' at the seams!\\! \\BST[1]I'm so excited for tonight!"
+                "Đúng thế!\\! \\BST[1]Đêm nay chị thấy rất phấn khích!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What do you two have planned tonight?"]
+              "parameters": ["Vậy hai người đã có dự định gì chưa?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "There's some investigatin' that I need to get to!"
-              ]
+              "parameters": ["Có một vài thứ mà chị cần phải 'điều tra'!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've heard some strange rumors about this district that have me spooked..."
+                "Vừa nãy chị đã nghe được một vài tin đồn kỳ lạ về nơi này..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I could really use a helpin' hand!"]
+              "parameters": ["Em giúp chị một tay nhé!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And I've seen so many trick or treaters in adorable costumes!"
+                "Mẹ thì thấy có vài người hóa trang trông rất đáng yêu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "There's a particular pair I've been meaning to talk to."
-              ]
+              "parameters": ["Có một cặp kia mẹ rất muốn nói chuyện!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You should join me \\n[1]!"]
+              "parameters": ["Con nên tham gia với mẹ, \\n[1]!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hah hah!\\! \\BST[1]Sounds like a busy night!"]
+              "parameters": ["Ha ha!\\! \\BST[1]Đêm nay sẽ khá là bận rộn đây!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The night's still young!"]
+              "parameters": ["Đúng thế, đêm còn dài lắm!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 203, "indent": 0, "parameters": [18, 0, 42, 0, 2] },
@@ -5551,21 +5543,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Fiona has something she wants to investigate."]
+              "parameters": ["Chị Fiona có vài thứ muốn điều tra..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["And it sounds like \\n[2] has plans of her own."]
+              "parameters": ["Và mẹ thì cũng có kế hoạch riêng rồi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Guess I've got my hands full helping those two out tonight!"
-              ]
+              "parameters": ["Đêm nay, mình giúp hai người họ một tay!"]
             },
             { "code": 281, "indent": 0, "parameters": [0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -5981,29 +5971,23 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Candy Fiend>I was so busy scoring all of this candy that I "
+                "\\n<Người bạn kẹo ngọt>Vì mải mê kiếm kẹo quá mà tôi làm rơi mất đồng xu của máy bán hàng tự động rồi!"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["lost my vending machine token!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Candy Fiend>Last I recall, I had it in my hand when I was near the house at the "
+                "\\n<Người bạn kẹo ngọt>Nhớ không nhầm thì lần cuối tôi cầm nó trên tay là ở ngôi nhà cuối phố."
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["end of the street."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Candy Fiend>If you find it, you can keep it.\\! Just don't touch my candy stash!"
+                "\\n<Người bạn kẹo ngọt>Nếu tìm được thì cậu có thể giữ nó.\\! Nhưng đừng chạm vào kho kẹo của tôi đấy!"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [162, 162, 0] },
@@ -6081,9 +6065,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I think this is that coin the girl was talking about earlier."
-              ]
+              "parameters": ["Đây có lẽ là đồng xu mà cô ấy đã nhắc đến."]
             },
             {
               "code": 250,
@@ -6097,7 +6079,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found a Vending Machine Token!"]
+              "parameters": ["Tìm được Đồng Xu của Máy Bán Hàng Tự Động!"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6196,16 +6178,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a lot of tasty looking drinks left in this machine."
+                "Có rất nhiều đồ uống hấp dẫn ở cái máy bán hàng tự động này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "But I don't have a vending token to get anything..."
-              ]
+              "parameters": ["Nhưng mình không có đồng xu để mua nước..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6253,10 +6233,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hm...\\! What to get..?"]
+              "parameters": ["Hm...\\! Chọn loại nào đây...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I'll get that one!"] },
+            { "code": 401, "indent": 0, "parameters": ["Lấy lon này vậy!"] },
             { "code": 230, "indent": 0, "parameters": [20] },
             {
               "code": 250,
@@ -6286,7 +6266,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Exchanged the Vending Machine Token for a Tasty Juice!"
+                "Đổi Đồng Xu của máy bán hàng tự động để lấy lon nước Trái Cây!"
               ]
             },
             { "code": 126, "indent": 0, "parameters": [97, 0, 0, 1] },
@@ -6338,15 +6318,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I've already gotten a drink out of this machine."]
+              "parameters": ["Mình vừa đổi nước từ cái máy này."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I doubt I'll find another vending token anyways..."
-              ]
+              "parameters": ["Không biết kiếm thêm đồng xu khác ở đâu nhỉ...?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6371,7 +6349,7 @@
     },
     {
       "id": 28,
-      "name": "Meredith Quest Start",
+      "name": "\\n[2] Quest Start",
       "note": "<Hitbox Down: 5>",
       "pages": [
         {
@@ -6475,7 +6453,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There you are, honey!"]
+              "parameters": ["Con đây rồi, cục cưng!"]
             },
             {
               "code": 205,
@@ -6536,21 +6514,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I ran into the cute pair that I saw trick or treating earlier!"
+                "Trước đó mẹ đã vô tình gặp được cặp đôi dễ thương này!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh, nice to meet you guys."]
+              "parameters": ["Oh, rất vui được gặp hai người."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>The pleasure is all ours.\\! It's nice to find another couple enjoying everything this exciting holiday has to offer."
+                "\\n<Succubus>Chúng tôi cũng thế.\\! Thật tuyệt khi tìm được một cặp khác có chung mục đích."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6558,7 +6536,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Angel>You're going trick or treating too right!"
+                "\\n<Thiên Thần>Hai người cũng chơi trò 'trick or treat' đúng chứ?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
@@ -6566,7 +6544,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Who, me?!\\! \\BST[5]Well I didn't really plan on it."
+                "Ai cơ, chúng tôi?!\\! \\BST[5]À thì, tôi thực sự không có ý định đó!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6574,7 +6552,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>No, that can't be!\\! The two of you just HAVE to go trick or treating!"
+                "\\n<Succubus>Không, không thể nào!\\! Hai người nhất định phải chơi trò đó!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6582,7 +6560,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>It will be such a good bonding experience for the both of you."
+                "\\n<Succubus>Đó sẽ là một trải nghiệm đáng nhớ đấy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 2, 0, 2] },
@@ -6590,7 +6568,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A bonding experience?\\! \\BST[1]Well, that does sound like a good time!"
+                "Trải nghiệm đáng nhớ sao?\\! \\BST[1]Chà, nghe có vẻ thú vị đó chứ!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -6598,7 +6576,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I don't know if I really should be trick or treating anymo-"
+                "Con không biết liệu chúng ta có nên chơi trò đó hay không nữa-"
               ]
             },
             {
@@ -6633,7 +6611,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nonsense!\\! \\BST[2]We should let loose and enjoy the night, \\n[1]!"
+                "Con nói gì thế?!\\! \\BST[2]Mẹ và con nên thư giãn và tận hưởng đêm nay, \\n[1]!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6641,7 +6619,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Angel>Yup!\\! You should listen to her.\\! Trust me!"
+                "\\n<Thiên Thần>Đúng thế!\\! Cậu nên nghe cô ấy.\\! Tin tôi đi!"
               ]
             },
             {
@@ -6699,30 +6677,30 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Okay, okay.\\! I'll go trick or treating."]
+              "parameters": [
+                "Được, được rồi.\\! Tôi sẽ chơi trò 'trick or treat'."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>I promise the two of you will enjoy everything that it has to offer."
+                "\\n<Succubus>Hy vọng hai người sẽ có khoảng thời gian vui vẻ với nhau."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I'm sure we will!\\! \\BST[1]Thank you two for convincing my sweet \\n[8]!"
-              ]
+              "parameters": ["Chắc chắn rồi!\\! \\BST[1]Cảm ơn hai người!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>But of course!\\! I'm sure we'll run into you two again tonight."
+                "\\n<Succubus>Không có chi!\\! Có gì lát nữa chúng ta gặp lại nhé!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -6737,7 +6715,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When you're ready, just tell me and we can go trick or treating together."
+                "Khi nào con sẵn sàng chơi trò đó thì nói với mẹ nhé!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 1, 0, 2] },
@@ -6745,14 +6723,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Going door to door with you will be so fun and nostalgic!"
+                "Việc đi từng nhà và nói câu 'cho kẹo hay bị ghẹo' làm mẹ nhớ đến thời còn bé!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Let's not waste any time!"]
+              "parameters": ["Đừng để mẹ chờ lâu đó!"]
             },
             {
               "code": 355,
@@ -6856,7 +6834,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>Dressing up in sexy outfits is my favorite part of Halloween."
+                "\\n<Succubus>Mặc những bộ trang phục gợi dục là sở thích của tôi trong dịp Halloween."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -6864,7 +6842,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>It's my goal to be the sexiest lady in the neighborhood!"
+                "\\n<Succubus>Mục tiêu của tôi là trở thành quý cô quyến rũ nhất khu phố!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6962,14 +6940,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Angel>Halloween is the BEST holiday!"]
+              "parameters": [
+                "\\n<Thiên Thần>Halloween là ngày lễ tôi thích nhất!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Angel>When I go home, I'm eating my hard earned candy until I pass out!"
+                "\\n<Thiên Thần>Khi về đến nhà tôi sẽ ăn cho bằng hết số kẹo kiếm được!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7243,20 +7223,22 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "If I were a ghost... what would I be haunting a neighborhood for?"
-              ]
+              "parameters": ["Nếu chị là một con ma thì chị sẽ ám cái gì nhỉ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Probably for not following proper building codes!"
-              ]
+              "parameters": ["Chắc là mấy vật liệu xây dựng!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["But that's just me!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nhưng đó là chị, còn không biết con ma đó sẽ làm gì?"
+              ]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -7394,7 +7376,7 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [90] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Hey Fiona!"] },
+            { "code": 401, "indent": 0, "parameters": ["Chị Fiona!"] },
             {
               "code": 205,
               "indent": 0,
@@ -7427,7 +7409,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hey there \\n[1]!\\! Glad to see you could join me."
+                "\\n[1] đấy à!\\! Em đến đây để giúp chị, đúng chứ?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -7435,49 +7417,47 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Can I ask why you're just hanging around in a graveyard?"
+                "Vâng...\\! Nhưng sao chị chỉ loanh quanh ở nghĩa địa thế?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's a little unnerving if I'm being honest..."]
+              "parameters": ["Nói thật thì em thấy hơi sợ một chút..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well you see, this is where the mystery begins."]
+              "parameters": ["Em biết không, đây là nơi bí ẩn bắt đầu!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This neighborhood's been said to have a ghost haunting it!"
+                "Khu phố này được đồn đại là bị ám bởi một con ma!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A ghost?!\\! Y-You're joking right?!"]
+              "parameters": ["Một con ma?!\\! C-Chị đang trêu em, đúng không?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Nope!\\! \\BST[1]This place is straight up haunted!"
-              ]
+              "parameters": ["Không!\\! \\BST[1]Nơi này chắc chắn đã bị ma ám!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh great.\\! I can handle zombies but ghosts are a whole other story..."
+                "Oh, thật ạ!\\! Mấy con Zombie em còn xử lý được chứ ma thì không ổn đâu..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
@@ -7485,43 +7465,41 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Legend says the ghost is looking for something..."
+                "Người ta đồn rằng hồn ma đang tìm kiếm thứ gì đó..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "But no one seems to quite know what that something is."
-              ]
+              "parameters": ["Nhưng không ai biết rõ nó là gì."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "How do you suppose we figure that 'something' out then?"
+                "Vậy làm thế nào mà chị nghĩ chúng ta sẽ tìm ra được nó?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Detective Fiona is on the case!"]
+              "parameters": ["Vì chị là một thám tử đang điều tra vụ án!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm going to continue investigating."]
+              "parameters": ["Và chị sẽ tiếp tục điều tra."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe you can start by talking to some of the locals around here."
+                "Chị nghĩ em có thể bắt đầu bằng việc nói chuyện với vài người xung quanh đây."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 7, 0, 2] },
@@ -7529,7 +7507,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If we work together, I'm sure the pieces will start to fit!"
+                "Nếu chúng ta hợp tác với nhau thì chị tin là mọi chuyện sẽ dần sáng tỏ!"
               ]
             },
             {
@@ -7652,7 +7630,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cute Cop>Have fun trick or treating but be careful about who you run into!"
+                "\\n<Chị Cảnh Sát Dễ Thương>Chúc em dịp lễ Halloween vui vẻ nhưng hãy cẩn thận với những người mà em gặp phải!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7660,46 +7638,47 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cute Cop>Normally I don't believe in this kind of stuff but there's been a lot "
+                "\\n<Chị Cảnh Sát Dễ Thương>Thường thì chị không tin vào tâm linh nhưng đã có rất nhiều trường hợp nhìn thấy ma ở khu phố này..."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["of strange ghost sightings..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cute Cop>I've heard a weird saying about the graveyard.\\! Wanna hear it?"
+                "\\n<Chị Cảnh Sát Dễ Thương>Và chị đã từng nghe được một bài thơ kỳ lạ về nghĩa địa.\\! Em muốn nghe không?"
               ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 111, "indent": 1, "parameters": [1, 120, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Cute Cop>A spirit rests in the North West."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn yên nghỉ ở hướng Tây Bắc."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Cute Cop>A spirit cries in the East."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn khóc ở hướng Đông."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Cute Cop>A spirit torments in the South."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn đang bị dày vò ở hướng Nam."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -7708,19 +7687,25 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Cute Cop>A spirit rests in the South East."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn yên nghỉ ở hướng Đông Nam Bộ."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Cute Cop>A spirit cries in the Center."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn khóc ở Trung tâm."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Cute Cop>A spirit torments in the North."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn đang bị dày vò ở hướng Bắc."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -7729,20 +7714,24 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Cute Cop>A spirit rests in the West."]
-            },
-            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["\\n<Cute Cop>A spirit cries in the South West."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn yên nghỉ ở hướng Tây."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\n<Cute Cop>A spirit torments in the North East."
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn khóc ở hướng Tây Nam."
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn đang bị dày vò ở hướng Đông Bắc."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -7752,7 +7741,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Cute Cop>I'm not sure what that means but it creeps me out with this graveyard nearby."
+                "\\n<Chị Cảnh Sát Dễ Thương>Chị không biết bài thơ đó có ý nghĩa gì nhưng mỗi lần đi ngang qua nghĩa địa thì nó lại làm chị rùng mình."
               ]
             },
             { "code": 111, "indent": 1, "parameters": [0, 168, 0] },
@@ -7761,7 +7750,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "[Weird...\\! Maybe the Strange Orb has something to do with that riddle?]"
+                "[Lạ thật...\\! Mình nghĩ quả cầu này có liên quan đến bài thơ đó?!]"
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -7771,14 +7760,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "[I don't think I can do anything with that riddle right now...]"
+                "[Hiện tại mình không biết làm gì với bài thơ đó...]"
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7834,7 +7823,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cute Cop>I've heard a weird saying about the graveyard."
+                "\\n<Chị Cảnh Sát Dễ Thương>Chị đã từng nghe được một bài thơ kỳ lạ về nghĩa địa này."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [1, 120, 0, 0, 0] },
@@ -7842,19 +7831,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Cute Cop>A spirit rests in the North West."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn yên nghỉ ở hướng Tây Bắc."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Cute Cop>A spirit cries in the East."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn khóc ở hướng Đông."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Cute Cop>A spirit torments in the South."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn đang bị dày vò ở hướng Nam."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -7863,19 +7858,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Cute Cop>A spirit rests in the South East."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn yên nghỉ ở hướng Đông Nam Bộ."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Cute Cop>A spirit cries in the Center."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn khóc ở Trung tâm."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Cute Cop>A spirit torments in the North."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn đang bị dày vò ở hướng Bắc."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -7884,20 +7885,24 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Cute Cop>A spirit rests in the West."]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\n<Cute Cop>A spirit cries in the South West."]
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn yên nghỉ ở hướng Tây."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Cute Cop>A spirit torments in the North East."
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn khóc ở hướng Tây Nam."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\n<Chị Cảnh Sát Dễ Thương>Một linh hồn đang bị dày vò ở hướng Đông Bắc."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -7907,7 +7912,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cute Cop>I'm not sure what that means but it creeps me out with this graveyard nearby."
+                "\\n<Chị Cảnh Sát Dễ Thương>Chị không biết bài thơ đó có ý nghĩa gì nhưng mỗi lần đi ngang qua nghĩa địa thì nó lại làm chị rùng mình."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 168, 0] },
@@ -7916,7 +7921,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "[Weird...\\! Maybe the Strange Orb has something to do with that riddle?]"
+                "[Lạ thật...\\! Mình nghĩ quả cầu này có liên quan đến bài thơ đó?!]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -7926,7 +7931,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "[I don't think I can do anything with that riddle right now...]"
+                "[Hiện tại mình không biết làm gì với bài thơ đó...]"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -7985,7 +7990,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cute Cop>I noticed you near those tomb stones acting suspiciously..."
+                "\\n<Chị Cảnh Sát>Vừa nãy em làm gì với mấy cái bia mộ đó vậy...?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7993,16 +7998,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cute Cop>Whatever you did, things certainly feel a little less eerie now."
+                "\\n<Chị Cảnh Sát>Nhưng dù em có làm gì thì bây giờ mọi thứ đã bình thường trở lại rồi..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Cute Cop>Maybe I can take a little break from patrolling now..."
-              ]
+              "parameters": ["\\n<Chị Cảnh Sát>Chị chuẩn bị về nghỉ đây..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -8066,7 +8069,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Treat Lover>My \\n[5] said she has a surprise for me when I get back home tonight."
+                "\\n<Kẻ Thích Ghẹo>Mẹ nói là bà ấy có một bất ngờ cho tao khi về nhà đêm nay."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Kẻ Thích Kẹo>Thật à?\\! Mẹ tao cũng nói thế."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Kẻ Thích Ghẹo>Lạ thật.\\! Chắc họ không muốn chúng ta về nhà quá trễ."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8074,23 +8091,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Trick Lover>Really?\\! My \\n[5] said the same thing."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Treat Lover>Weird.\\! Maybe they just want us to not stay out too late."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Trick Lover>Hah!\\! I doubt it's just that.\\! I saw the costume my \\n[5] picked out..."
+                "\\n<Kẻ Thích Kẹo>Ha ha!\\! Tao cũng nghĩ thế.\\! Tao đã nhìn thấy bộ trang phục mà bà ấy chọn rồi..."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8195,7 +8196,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Treat Lover>My \\n[5] said she has a surprise for me when I get back home tonight."
+                "\\n<Kẻ Thích Ghẹo>Mẹ nói là bà ấy có một bất ngờ cho tao khi về nhà đêm nay."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Kẻ Thích Kẹo>Thật à?\\! Mẹ tao cũng nói thế."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Kẻ Thích Ghẹo>Lạ thật.\\! Chắc họ không muốn chúng ta về nhà quá trễ."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8203,23 +8218,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Trick Lover>Really?\\! My \\n[5] said the same thing."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Treat Lover>Weird.\\! Maybe they just want us to not stay out too late."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Trick Lover>Hah!\\! I doubt it's just that.\\! I saw the costume my \\n[5] picked out..."
+                "\\n<Kẻ Thích Kẹo>Ha ha!\\! Tao cũng nghĩ thế.\\! Tao đã nhìn thấy bộ trang phục mà bà ấy chọn rồi..."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8291,7 +8290,7 @@
     },
     {
       "id": 37,
-      "name": "Meredith Candy Cutscenes",
+      "name": "\\n[2] Candy Cutscenes",
       "note": "",
       "pages": [
         {
@@ -8325,7 +8324,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Look \\n[1]!\\! \\BST[1]We have so much Halloween candy now!"
+                "Nhìn này \\n[1]!\\! \\BST[1]Giờ mẹ và con có rất nhiều kẹo Halloween!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -8333,7 +8332,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Wow!\\! \\BST[1]We really went overboard with the trick or treating."
+                "Wow!\\! \\BST[1]Đó là thành quả của trò 'trick or treat'."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 0, 0, 2] },
@@ -8341,7 +8340,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Wasn't that so much fun!\\! \\BST[5]We learned quite a bit about this neighborhood too..."
+                "Vừa rồi đúng là vui thật!\\! \\BST[5]Không những có kẹo mà mẹ con mình còn hiểu rõ hơn về mấy người ở xung quanh khu này..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 0, 0, 2] },
@@ -8349,7 +8348,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A-Anyways.\\! Let's go check in with that cute pair and see how they're doing."
+                "D-Dù sao đi nữa thì...\\!giờ chúng ta đi kiếm cặp đôi dễ thương vừa nãy nào."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -8399,14 +8398,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That's weird.\\! They're not here anymore..."]
+              "parameters": ["Lạ thật.\\! Họ đi đâu mất rồi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh no..!\\! \\BST[5]I could have sworn I had just seen them here."
+                "Oh không...!\\! \\BST[5]Lúc nãy mẹ còn thấy hai người họ đứng ở đây mà!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 0, 0, 2] },
@@ -8414,7 +8413,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Let's look around for them.\\! They can't have wandered too far!"
+                "Chúng ta thử tìm xung quanh đây xem sao.\\! Chắc họ chưa đi quá xa đâu!"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -8516,22 +8515,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I could tell that you were really giving me your all, honey ~ ♥️"
-              ]
+              "parameters": ["Vừa rồi tuyệt lắm đó, con yêu ~ ♥️"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You must have been really excited..."]
+              "parameters": ["Chắc lúc đó con nứng lắm rồi, đúng chứ...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hah!\\! \\BST[1]Watching those two having sex just put me in the mood, I guess."
+                "Ha ha!\\! \\BST[1]Có lẽ là do nhìn lén hai người họ làm tình nên con mới hứng lên như thế."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 7, 0, 2] },
@@ -8539,14 +8536,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe we should watch those two more often and learn some new poses to try."
+                "Mẹ nghĩ chúng ta nên nhìn lén họ nhiều hơn để học thêm một số tư thế mới."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh!\\! Look who it is!"]
+              "parameters": ["Oh!\\! Nhìn kìa, hai người họ!"]
             },
             {
               "code": 205,
@@ -8788,34 +8785,40 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Angel>This was the greatest Halloween EVER!"]
+              "parameters": [
+                "\\n<Thiên Thần>Đây là ngày lễ Halloween tuyệt nhất từ trước tới giờ!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>I hope the two of you had an enjoyable Halloween as well."
+                "\\n<Succubus>Hy vọng hai người cũng cảm thấy giống bọn tôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It was... eventful."] },
+            { "code": 401, "indent": 0, "parameters": ["Thực ra thì..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>No need to be shy!\\! We loved watching the two of you go at it like wild lovers!"
+                "\\n<Succubus>Không cần phải ngại!\\! Chúng tôi đã thấy hết rồi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["You saw us?!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hai người đã thấy bọn tôi làm chuyện đó?!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Angel>Well duh.\\! We could hear the two of you moaning from a mile away!"
+                "\\n<Thiên Thần>Chà...\\! Có cách xa cả dặm bọn tôi cũng nghe được tiếng rên của hai người!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8823,7 +8826,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>There's no point in being embarrassed about the whole ordeal.\\! It's quite normal in this neighborhood."
+                "\\n<Succubus>Hai người không phải xấu hổ đâu.\\! Làm tình là chuyện bình thường ở khu này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8831,21 +8834,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>Anyway, it's getting quite late.\\! We'll be on our way home."
+                "\\n<Succubus>Dù sao thì, bây giờ cũng khá trễ rồi.\\! Chúng tôi về đây."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It was a pleasure to meet the two of you!"]
+              "parameters": ["Rất vui khi được gặp hai người!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Sultry Milf>Likewise.\\! You two take care now."
+                "\\n<Succubus>Chúng tôi cũng thế.\\! Hai người bảo trọng nhé."
               ]
             },
             {
@@ -9072,7 +9075,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We should consider heading home soon too...\\! It's getting late."
+                "Mẹ nghĩ chúng ta cũng nên về sớm...\\! Giờ đã khá muộn rồi."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 167, 0] },
@@ -9081,7 +9084,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Let's return back to the subway and see if Fiona is waiting for us over there."
+                "Quay lại chỗ tàu điện ngầm để xem liệu Fiona có đợi chúng ta ở đó hay không nào?!"
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -9093,7 +9096,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "But didn't Fiona need your help with something too?"
+                "Nhưng hình như con chưa đi giúp đỡ Fiona điều tra, đúng chứ?"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom4", 0, 0, 2] },
@@ -9101,16 +9104,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I don't mind waiting here for you a little longer."
+                "Vậy thì mẹ đợi con ở đây lâu hơn một chút cũng được."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom4", 2, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "Just don't get carried away and miss your curfew!"
-              ]
+              "parameters": ["Nhưng con phải nhớ về trước giờ giới nghiêm đấy!"]
             },
             { "code": 203, "indent": 1, "parameters": [29, 0, 33, 2, 6] },
             { "code": 203, "indent": 1, "parameters": [30, 0, 34, 2, 4] },
@@ -9254,14 +9255,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Putting the Strange Orb here doesn't do anything."
+                "Đặt quả cầu vào đây nhưng lại không có phản ứng gì hết."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Maybe it needs something first."]
+              "parameters": [
+                "Chắc mình cần thứ 'năng lượng ma thuật' mà chị Fiona nói."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -9310,14 +9313,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The orb feels really hot when I try to put it on the pedastal..."
+                "Quả cầu trở nên rất nóng lúc mình đặt nó lên bệ..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I don't think this energy is a good match yet."]
+              "parameters": ["Năng lượng này không tốt một chút nào."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -9433,15 +9436,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This spot looks like it was dug up recently."]
+              "parameters": ["Chỗ đất này có vẻ mới được đào lên gần đây."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Let's see if I can find anything with this shovel."
-              ]
+              "parameters": ["Thử dùng cái Xẻng của chú cảnh sát xem sao..."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 122, "indent": 0, "parameters": [118, 118, 0, 0, 2] },
@@ -9475,27 +9476,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found a Strange Orb."]
+              "parameters": ["Tìm thấy một quả cầu lạ."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["That shovel already broke..."]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Cái xẻng gãy rồi..."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But this orb looks so strange.\\! I wonder what it's for?"
+                "Nhưng quả cầu này trông lạ quá.\\! Không biết là nó để làm gì?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Maybe I'll ask Fiona about it."]
+              "parameters": ["Có lẽ mình nên đi hỏi chị Fiona."]
             },
             { "code": 126, "indent": 0, "parameters": [99, 0, 0, 1] },
             { "code": 126, "indent": 0, "parameters": [98, 1, 0, 1] },
@@ -9595,21 +9592,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"The Peaceful Resting Place\"..."]
+              "parameters": ["\"Nơi yên nghỉ vĩnh hằng\"..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't shake this hunch that something needs to go here."
+                "Chị có linh cảm cái bia mộ này chắc chắn có vấn đề."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Maybe that orb of yours is holding a secret."]
+              "parameters": ["Và quả cầu em tìm thấy chính là chìa khóa..."]
             },
             { "code": 111, "indent": 0, "parameters": [8, 103] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 1, 0, 2] },
@@ -9617,20 +9614,22 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "What about this spooky Jack-o-Lantern?!\\! \\BST[1]Think this'll help?"
+                "Thế còn cái lồng đèn bí ngô này thì sao ạ?!\\! \\BST[1]Em nghĩ nó sẽ giúp ích cho chúng ta...!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Umm...\\! It's just a carved pumpkin, \\n[1]."]
+              "parameters": [
+                "Umm...\\! Nó chỉ là một quả bí ngô bình thường thôi, \\n[1]..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Fiona2", 1, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["But it definitely looks cute!"]
+              "parameters": ["Nhưng trông nó cũng dễ thương đó!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -9826,7 +9825,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Any luck with the ghost story Fiona?"]
+              "parameters": ["Việc điều tra tới đâu rồi, chị Fiona?"]
             },
             {
               "code": 205,
@@ -9859,7 +9858,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm hot on the trail!"]
+              "parameters": ["Vẫn không có gì mới..."]
             },
             {
               "code": 355,
@@ -9897,7 +9896,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But I'm at a complete road block now..!"]
+              "parameters": ["Nhưng chị sắp tìm ra manh mối rồi!"]
             },
             {
               "code": 205,
@@ -9933,7 +9932,7 @@
               "parameters": [{ "code": 15, "parameters": [20], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["What's this thing?"] },
+            { "code": 401, "indent": 0, "parameters": ["Đây là cái gì ạ?"] },
             {
               "code": 205,
               "indent": 0,
@@ -9962,13 +9961,17 @@
               "parameters": [{ "code": 15, "parameters": [20], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's an epitaph."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Nó là một cái bia mộ."]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's a little hard to read but it says \"The Eternal Resting Place\"."
+                "Mặc dù hơi khó đọc một chút nhưng trên đó ghi \"Nơi an nghỉ vĩnh hằng\"."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -9976,17 +9979,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "So this is like a grave?\\! A place that could house a ghost..?"
+                "Chẳng lẽ đây là một ngôi mộ...?\\! Ngôi mộ của con ma đó...?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Of course!"] },
+            { "code": 401, "indent": 0, "parameters": ["Đúng thế!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe we should give up on the investigation then..."
+                "Chúng ta dừng cuộc điều tra tại đây được không ạ?"
               ]
             },
             {
@@ -10021,14 +10024,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But we're so close!\\! \\BST[5]We can't give up now!"
+                "Không được, mọi chuyện sắp sáng tỏ rồi!\\! \\BST[5]Chị và em không được bỏ cuộc!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Have you found anything?"]
+              "parameters": ["Thế em có tìm được thứ gì không?"]
             },
             {
               "code": 205,
@@ -10062,45 +10065,41 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well I found this orb.\\! I don't know if this has anything to do with things?"
+                "À thì, em tìm thấy quả cầu này.\\! Nhưng lại không biết tác dụng của nó..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Whoa!\\! It's so pretty!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Whoa!\\! Đẹp quá!"] },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It almost looks like it could fit on top of this pedastal.\\! But I don't think it'll do much."
+                "Nó có vẻ vừa khít với cái bệ đỡ này.\\! Nhưng chị đặt lên thì lại không phản ứng gì hết."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You know how ghosts are!"]
+              "parameters": ["Ahh, chị biết rồi...!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Unless there's some magical energy coming from that stone, we'll never help out."
+                "Phải có năng lượng ma thuật tác động đến quả cầu thì cái bia mộ này mới phản ứng."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You must read a lot of ghost stories, don't you?"]
+              "parameters": ["Chắc chị đọc nhiều truyện ma lắm nhỉ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["In my spare time!"] },
+            { "code": 401, "indent": 0, "parameters": ["Ha ha, đúng thế!"] },
             {
               "code": 205,
               "indent": 0,
@@ -10208,20 +10207,20 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Oh, you're going to help Fiona?"]
+              "parameters": ["Oh, con chuẩn bị đi giúp Fiona, đúng chứ?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom4", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Ghosts are something I'd rather not mess with..."]
+              "parameters": ["Mẹ không muốn dính dáng đến ma quỷ..."]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom4", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I'll just be waiting over there until the two of you are finished!"
+                "Thế nên mẹ sẽ đợi ở đây cho đến khi mọi chuyện kết thúc!"
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -10276,7 +10275,11 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Fiona, Fiona, look!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Fiona, chị Fiona, nhìn này!"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -10308,14 +10311,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The orb is glowing purple!"]
+              "parameters": ["Quả cầu đang phát ra ánh sáng màu tím!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Whoa there!\\! That's some pure spectral energy I'm feelin' from that thing..!"
+                "Whoa!\\! Chị cảm thấy năng lượng ma thuật phát ra từ nó...!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 6, 0, 2] },
@@ -10323,34 +10326,34 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What should I do?!\\! Is it going to devour my soul?!"
+                "Em nên làm gì bây giờ?!\\! Lỡ nó hút linh hồn em thì sao?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I don't think it's gonna do that necessarily."]
+              "parameters": ["Không có chuyện đó đâu, em đừng lo..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If anything, it's probably harboring the anger of tormented spirits now!"
+                "Nó chỉ đang chứa đựng sự phẫn nộ của những linh hồn đang bị dày vò thôi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["So what do we do with it now?"]
+              "parameters": ["Vậy chúng ta làm gì với nó bây giờ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Let's put it on the pedastal!"]
+              "parameters": ["Em đặt quả cầu lên bia mộ đi!"]
             },
             {
               "code": 205,
@@ -10386,11 +10389,7 @@
               "parameters": [{ "code": 15, "parameters": [20], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["You think it's time to try placing it up there?"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Chị chắc chứ?"] },
             {
               "code": 205,
               "indent": 0,
@@ -10423,28 +10422,28 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "At this point, it'll either work or we can kiss your soul goodbye..."
+                "Một là nó sẽ hoạt động còn không thì linh hồn em sẽ bị hút mất..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Don't joke around like that Fiona!"]
+              "parameters": ["Đừng đùa thế chứ, chị Fiona!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Heh, don't worry.\\! \\BST[8]I'll protect you from any angry soul snatchers!"
+                "He he, đừng lo.\\! \\BST[8]Nếu có chuyện gì thì chị sẽ bảo vệ em!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Okay.\\! I'll give it a try..."]
+              "parameters": ["Thôi được rồi.\\! Em sẽ thử..."]
             },
             {
               "code": 205,
@@ -10567,9 +10566,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Look!\\! I think something strange is starting to happen!"
-              ]
+              "parameters": ["Nhìn kìa!\\! Có gì đó sắp xảy ra!"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -10596,27 +10593,29 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The orb!\\! It's glowing with such a bright light now!"
-              ]
+              "parameters": ["Quả cầu!\\! Giờ nó lại phát ra ánh sáng rực rỡ!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The air definitely feels a lot less sinister around here."
+                "Không khí xung quanh đây cũng không còn u ám nữa."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Do you think we helped the ghost?"]
+              "parameters": ["Chẳng lẽ chúng ta vừa giúp con ma...?"]
             },
             { "code": 203, "indent": 0, "parameters": [42, 0, 40, 9, 6] },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I think so!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ừ, chị cũng nghĩ giống em!"]
+            },
             {
               "code": 355,
               "indent": 0,
@@ -10645,7 +10644,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe this orb is some kind of resting place for lost spirits."
+                "Có lẽ quả cầu này là nơi an nghỉ cho những linh hồn đã mất."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
@@ -10653,7 +10652,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If it was missing, that might explain why the neighborhood was reporting a bunch of weird activity."
+                "Vì nó bị mất nên khu phố này mới xảy ra một loạt những chuyện kỳ lạ."
               ]
             },
             {
@@ -10675,11 +10674,7 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["It sure is a beautiful stone!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Đẹp quá đi!"] },
             {
               "code": 205,
               "indent": 0,
@@ -10779,7 +10774,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Mysterious Woman>Thank you for restoring peace back to the neighborhood."
+                "\\n<Người Phụ Nữ Bí Ẩn>Cảm ơn cậu vì đã giúp cho khu phố này yên bình trở lại."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10787,7 +10782,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Mysterious Woman>It warms my heart to see kind souls willing to take the time to help."
+                "\\n<Người Phụ Nữ Bí Ẩn>Không ngờ thời nay còn có người tốt như cậu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -10795,7 +10790,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was no problem at all.\\! I'm glad we were able to help."
+                "Không có gì đâu.\\! Tôi vui là mình giúp được mọi người."
               ]
             },
             {
@@ -10831,11 +10826,7 @@
             { "code": 401, "indent": 0, "parameters": ["\\n[1]?"] },
             { "code": 230, "indent": 0, "parameters": [90] },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Are you okay over there?"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Em làm gì ở đó thế?"] },
             {
               "code": 205,
               "indent": 0,
@@ -10863,13 +10854,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I can hear you talking to yourself over there..?"]
+              "parameters": ["Tự dưng nói chuyện một mình làm gì?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh, no.\\! I was just saying you're welcome to-"]
+              "parameters": ["Oh, không.\\! Em đang chào hỏi ng-"]
             },
             {
               "code": 205,
@@ -10899,7 +10890,11 @@
               "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["What the..?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hả?!\\! Biến mất rồi!"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -10961,19 +10956,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "There's no point in trying to pull a fast one on me!"
-              ]
+              "parameters": ["Đang cố bày trò để hù chị sao?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm too good at pranks to fall for that!"]
+              "parameters": ["Chị không dễ bị mắc bẫy như thế đâu..."]
             },
             { "code": 230, "indent": 0, "parameters": [45] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Ya..."] },
+            { "code": 401, "indent": 0, "parameters": ["Vâng..."] },
             { "code": 230, "indent": 0, "parameters": [45] },
             {
               "code": 205,
@@ -11021,17 +11014,13 @@
               "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I guess you're right Fiona..."]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Lạ thật..."] },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, I'd say that's a job well done!\\! \\BST[2]No mystery can stump the ace detective Fiona!"
+                "Chà, việc phá án đã hoàn thành tốt đẹp!\\! \\BST[2]Không bí ẩn nào có thể làm khó thám tử Fiona!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -11039,46 +11028,44 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "So if we're done helping out ghosts, did you have anything else in mind while we're down here?"
+                "Vậy giờ chị có nghĩ ra việc gì khác để làm không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["*teehee*\\! I did!"] },
+            { "code": 401, "indent": 0, "parameters": ["*teehee*\\! Có chứ!"] },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I found out some crazy information while searching for ghost news."
+                "Trong lúc điều tra thì chị đã nghe được một vài thông tin thú vị."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Turns out, this neighborhood is into some really freaky stuff!"
-              ]
+              "parameters": ["Hóa ra là khu này có một vài phong tục kỳ quặc!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["So I wanted to try some of that out myself!"]
+              "parameters": ["Nên chị muốn tự mình kiểm chứng điều đó!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Freaky stuff?\\! Surely you don't mean more ghosts, right?"
+                "Phong tục kỳ quặc?\\! Chắc không phải nơi này có nhiều ma hơn đâu nhỉ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Just come on.\\! Follow me."]
+              "parameters": ["Không đâu...\\! Đi theo chị."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [8, 8, 0] },
@@ -11091,15 +11078,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Here's the address.\\! I rented out a room for us to share for the night."
-              ]
+              "parameters": ["Đến nơi rồi.\\! Chị vừa thuê phòng cho hai ta..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But I'm not ready to go to sleep yet Fiona!"]
+              "parameters": [
+                "Chị buồn ngủ rồi sao, chị Fiona?\\! Nhưng vẫn còn sớm mà..."
+              ]
             },
             {
               "code": 205,
@@ -11132,49 +11119,47 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Who said we're sleepin'?!"]
+              "parameters": ["Ai nói là chị thuê phòng để ngủ?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "No sir!\\! Instead, we're gonna have some wild sex!"
-              ]
+              "parameters": ["Chị thuê phòng để chúng ta địt nhau! "]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["SEX?!"] },
+            { "code": 401, "indent": 0, "parameters": ["ĐỊT?!"] },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"What happens on Halloween, stays on Halloween\" -\\! \\BST[1]That's what everyone's tellin' me."
+                "\"Nhưng việc xảy ra trong ngày Halloween chỉ là ảo ảnh mà thôi.\" -\\! \\BST[1]Đó là câu mà những người ở đây nói với chị."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Unless, you don't want to have sex with me..?"]
+              "parameters": ["Chẳng lẽ, em không muốn lên giường với chị...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I DO!\\! I want to Fiona!"]
+              "parameters": ["EM CÓ!\\! Em muốn chị, chị Fiona!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hah!\\! Whoa there partner!"]
+              "parameters": ["Ha ha!\\! Ngoan lắm!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Save that excitement for the bedroom ~ ♥️"]
+              "parameters": ["Đi theo chị nào ~ ♥️"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [8, 8, 1] },
@@ -11277,23 +11262,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Mysterious Woman>I'm sorry.\\! I didn't mean to block your way."
+                "\\n<Người Phụ Nữ Bí Ẩn>Xin lỗi...\\! Tôi không cố ý cản đường cậu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Mysterious Woman>I offer my sincerest apologies."
-              ]
+              "parameters": ["\\n<Người Phụ Nữ Bí Ẩn>Mong cậu bỏ qua..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Mysterious Woman>In return, take this gift for the inconvenience."
+                "\\n<Người Phụ Nữ Bí Ẩn>Đổi lại thì tôi sẽ cho cậu một món quà thay lời xin lỗi."
               ]
             },
             {
@@ -11307,28 +11290,26 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Received a Fresh Pumpkin!"]
+              "parameters": ["Nhận được một quả Bí Ngô!"]
             },
             { "code": 126, "indent": 0, "parameters": [102, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's no need to apologize."]
+              "parameters": ["Cô không cần xin lỗi đâu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But thank you for the gift!"]
+              "parameters": ["Nhưng cảm ơn vì món quà!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Mysterious Woman>Thank you for understanding."
-              ]
+              "parameters": ["\\n<Người Phụ Nữ Bí Ẩn>Không có chi..."]
             },
             {
               "code": 205,
@@ -11436,7 +11417,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Obnoxious Boy>Spending the night with you is such an amazing experience."
+                "\\n<Chàng Trai>Được ở bên cạnh em là ước muốn của cả đời anh."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Cô Gái>Em cũng thế...!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Chàng Trai>Anh xin lỗi vì không tìm thấy quả bí ngô nào để chúng ta khắc chữ lên..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11444,23 +11439,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Obnoxious Girl>I wouldn't want to have it any other way!"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Obnoxious Boy>I'm sorry I couldn't find us a pumpkin to carve..."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Obnoxious Girl>Oh how I wish we could carve a pumpkin together under the moonlight!"
+                "\\n<Cô Gái>Oh, ước gì em và anh có thể cùng nhau khắc một quả bí ngô dưới ánh trăng!"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 102] },
@@ -11469,7 +11448,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Uhh.\\! Hate to intrude but I have a pumpkin if you guys want it?"
+                "Uhh.\\! Không phải tôi nghe lén đâu, nhưng nếu hai người muốn thì tôi có một quả bí ngô đây?"
               ]
             },
             {
@@ -11536,17 +11515,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\\n<Obnoxious Girl>You do?!\\! That'd be wonderful!"
-              ]
+              "parameters": ["\\n<Cô Gái>Thật à?!\\! Thế thì tuyệt quá!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\\n<Obnoxious Boy>Let's start carving it right away!"
-              ]
+              "parameters": ["\\n<Chàng Trai>Chúng tôi sẽ bắt đầu khắc ngay!"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             {
@@ -11594,22 +11569,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Obnoxious Girl>Oh honey!\\! You're so good with your hands!"
+                "\\n<Cô Gái>Oh, anh yêu!\\! Đôi tay của anh điêu luyện quá!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\\n<Obnoxious Boy>Only because you inspire me to be my very best!"
-              ]
+              "parameters": ["\\n<Chàng Trai>Đó là do có em ở bên cạnh đấy!"]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["*groan*\\! Get me out of here..."]
+              "parameters": ["*trời ạ*\\! [Cơm chó ngập mồm...]"]
             },
             { "code": 213, "indent": 1, "parameters": [44, 3, true] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -11656,16 +11629,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\\n<Obnoxious Girl>Thank you so much for giving us this opportunity!"
-              ]
+              "parameters": ["\\n<Cô Gái>Cảm ơn cậu nhiều lắm!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Obnoxious Boy>As a show of our gratitude, you can keep this pumpkin."
+                "\\n<Chàng Trai>Để tỏ lòng biết ơn thì cậu có thể giữ quả bí ngô này."
               ]
             },
             {
@@ -11679,28 +11650,28 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Received a Jack-O-Lantern."]
+              "parameters": ["Nhận được Lồng Đèn Bí Ngô!"]
             },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You don't want to keep it?"]
+              "parameters": ["Hai người không muốn giữ nó sao?"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Obnoxious Boy>No, no...\\! It's the memories that we cherish the most."
+                "\\n<Chàng Trai>Không, không...\\! Chỉ cần được ở bên cô ấy là tôi mãn nguyện rồi."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is too sappy for me.\\! I'm out."]
+              "parameters": ["Hai người kỳ lạ thật đấy.\\! Thôi, tôi đi đây."]
             },
             {
               "code": 205,
@@ -11823,7 +11794,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Obnoxious Boy>Carving a pumpkin together was as magical as I imagined."
+                "\\n<Chàng Trai>Cảm giác khắc một quả bí ngô cùng nhau đúng là kỳ diệu thật, em nhỉ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11831,7 +11802,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Obnoxious Girl>I agree!\\! My heart is still aflutter!"
+                "\\n<Cô Gái>Vâng...!\\! Đến giờ em vẫn chưa quên được cảm giác đó!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -11896,7 +11867,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Obnoxious Boy>Spending the night with you is such an amazing experience."
+                "\\n<Chàng Trai>Được ở bên cạnh em là ước muốn của cả đời anh."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Cô Gái>Em cũng thế...!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Chàng Trai>Anh xin lỗi vì không tìm thấy quả bí ngô nào để chúng ta khắc chữ lên..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11904,23 +11889,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Obnoxious Girl>I wouldn't want to have it any other way!"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Obnoxious Boy>I'm sorry I couldn't find us a pumpkin to carve..."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Obnoxious Girl>Oh how I wish we could carve a pumpkin together under the moonlight!"
+                "\\n<Cô Gái>Oh, ước gì em và anh có thể cùng nhau khắc một quả bí ngô dưới ánh trăng!"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 102] },
@@ -11929,7 +11898,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Uhh.\\! Hate to intrude but I have a pumpkin if you guys want it?"
+                "Uhh.\\! Không phải tôi nghe lén đâu, nhưng nếu hai người muốn thì tôi có một quả bí ngô đây?"
               ]
             },
             {
@@ -11996,17 +11965,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\\n<Obnoxious Girl>You do?!\\! That'd be wonderful!"
-              ]
+              "parameters": ["\\n<Cô Gái>Thật à?!\\! Thế thì tuyệt quá!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\\n<Obnoxious Boy>Let's start carving it right away!"
-              ]
+              "parameters": ["\\n<Chàng Trai>Chúng tôi sẽ bắt đầu khắc ngay!"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             {
@@ -12054,22 +12019,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Obnoxious Girl>Oh honey!\\! You're so good with your hands!"
+                "\\n<Cô Gái>Oh, anh yêu!\\! Đôi tay của anh điêu luyện quá!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\\n<Obnoxious Boy>Only because you inspire me to be my very best!"
-              ]
+              "parameters": ["\\n<Chàng Trai>Đó là do có em ở bên cạnh đấy!"]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["*groan*\\! Get me out of here..."]
+              "parameters": ["*trời ạ*\\! [Cơm chó ngập mồm...]"]
             },
             { "code": 213, "indent": 1, "parameters": [44, 3, true] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -12116,16 +12079,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\\n<Obnoxious Girl>Thank you so much for giving us this opportunity!"
-              ]
+              "parameters": ["\\n<Cô Gái>Cảm ơn cậu nhiều lắm!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Obnoxious Boy>As a show of our gratitude, you can keep this pumpkin."
+                "\\n<Chàng Trai>Để tỏ lòng biết ơn thì cậu có thể giữ quả bí ngô này."
               ]
             },
             {
@@ -12139,28 +12100,28 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Received a Jack-O-Lantern."]
+              "parameters": ["Nhận được Lồng Đèn Bí Ngô!"]
             },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You don't want to keep it?"]
+              "parameters": ["Hai người không muốn giữ nó sao?"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Obnoxious Boy>No, no...\\! It's the memories that we cherish the most."
+                "\\n<Chàng Trai>Không, không...\\! Chỉ cần được ở bên cô ấy là tôi mãn nguyện rồi."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["This is too sappy for me.\\! I'm out."]
+              "parameters": ["Hai người kỳ lạ thật đấy.\\! Thôi, tôi đi đây."]
             },
             {
               "code": 205,
@@ -12283,7 +12244,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Obnoxious Boy>Carving a pumpkin together was as magical as I imagined."
+                "\\n<Chàng Trai>Cảm giác khắc một quả bí ngô cùng nhau đúng là kỳ diệu thật, em nhỉ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -12291,7 +12252,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Obnoxious Girl>I agree!\\! My heart is still aflutter!"
+                "\\n<Cô Gái>Vâng...!\\! Đến giờ em vẫn chưa quên được cảm giác đó!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -12389,7 +12350,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Wait, \\n[1].\\! Do you hear that..?"]
+              "parameters": ["Từ từ đã, \\n[1].\\! Con có nghe thấy không...?"]
             },
             {
               "code": 355,
@@ -12398,7 +12359,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Let's be quiet..."] },
+            { "code": 401, "indent": 0, "parameters": ["Yên lặng nào..."] },
             {
               "code": 245,
               "indent": 0,
@@ -12529,41 +12490,39 @@
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh my!"] },
+            { "code": 401, "indent": 0, "parameters": ["Ôi trời!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[2]!\\! They're..!"]
+              "parameters": ["Mẹ...!\\! Họ đang..!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["They're fucking like animals in heat..."]
+              "parameters": ["Họ đang địt nhau... "]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I thought they seemed close but I wasn't expecting to see this..."
+                "Lúc trước con chỉ nghĩ hai người họ thân nhau một chút nhưng không ngờ..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "That really seems to be a trend with this neighborhood."
-              ]
+              "parameters": ["Khu phố này đúng là rất kỳ lạ..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[8]'s fucking their \\n[5]'s without a care in the world..."
+                "Mấy người mẹ kia thì đụ con trai mình và xem nó là một việc bình thường..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 6, 0, 2] },
@@ -12571,21 +12530,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I...\\! I'm so tired of sitting around and observing them all, \\n[1]."
+                "Mẹ...\\! Mẹ thấy hơi mệt với việc theo dõi hai người họ rồi, \\n[1]."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What are you implying \\n[2]?"]
+              "parameters": ["Hả!\\! Ý mẹ là sao ạ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, I'm implying that I want to find our own private spot."
+                "Mẹ muốn chúng ta tìm đến một chỗ riêng tư chỉ có hai người..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 5, 0, 2] },
@@ -12593,14 +12552,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And I want you to fuck me senseless.\\! I want to moan your name for everyone to hear while you fill me up with love."
+                "Và mẹ muốn địt con.\\! Mẹ muốn rên tên con cho mọi người nghe thấy, \\n[1]."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom4", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Come on baby.\\! I can't wait any longer!"]
+              "parameters": ["Đến đây nào, cục cưng.\\! Mẹ nứng lắm rồi ~"]
             },
             { "code": 246, "indent": 0, "parameters": [3] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -12715,15 +12674,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves feel really mysterious."]
+              "parameters": ["Mấy ngôi mộ này trông khá bí ẩn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I don't think I have any need to mess with these right now though..."
-              ]
+              "parameters": ["Lúc này tốt nhất không nên động vào nó..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -12828,14 +12785,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These graves no longer feel strange but this orb is freaking me out!"
+                "Những ngôi mộ này không còn cảm giác kỳ lạ nữa nhưng quả cầu này làm mình sợ quá!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have to take this to Fiona immediately!"]
+              "parameters": ["Mình phải đưa nó cho chị Fiona ngay lập tức!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -12883,14 +12840,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves no longer feel strange."]
+              "parameters": ["Nhưng ngôi mộ đã trở nên bình thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that strange orb being purified, these souls must be resting peacefully."
+                "Với việc quả cầu kỳ lạ đó đã được thanh tẩy thì những linh hồn này cũng được yên nghỉ."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -12948,15 +12905,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves feel really mysterious."]
+              "parameters": ["Mấy ngôi mộ này trông khá bí ẩn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I don't think I have any need to mess with these right now though..."
-              ]
+              "parameters": ["Lúc này tốt nhất không nên động vào nó..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -13061,14 +13016,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These graves no longer feel strange but this orb is freaking me out!"
+                "Những ngôi mộ này không còn cảm giác kỳ lạ nữa nhưng quả cầu này làm mình sợ quá!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have to take this to Fiona immediately!"]
+              "parameters": ["Mình phải đưa nó cho chị Fiona ngay lập tức!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -13116,14 +13071,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves no longer feel strange."]
+              "parameters": ["Nhưng ngôi mộ đã trở nên bình thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that strange orb being purified, these souls must be resting peacefully."
+                "Với việc quả cầu kỳ lạ đó đã được thanh tẩy thì những linh hồn này cũng được yên nghỉ."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -13181,15 +13136,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves feel really mysterious."]
+              "parameters": ["Mấy ngôi mộ này trông khá bí ẩn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I don't think I have any need to mess with these right now though..."
-              ]
+              "parameters": ["Lúc này tốt nhất không nên động vào nó..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -13294,14 +13247,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These graves no longer feel strange but this orb is freaking me out!"
+                "Những ngôi mộ này không còn cảm giác kỳ lạ nữa nhưng quả cầu này làm mình sợ quá!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have to take this to Fiona immediately!"]
+              "parameters": ["Mình phải đưa nó cho chị Fiona ngay lập tức!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -13349,14 +13302,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves no longer feel strange."]
+              "parameters": ["Nhưng ngôi mộ đã trở nên bình thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that strange orb being purified, these souls must be resting peacefully."
+                "Với việc quả cầu kỳ lạ đó đã được thanh tẩy thì những linh hồn này cũng được yên nghỉ."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -13414,15 +13367,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves feel really mysterious."]
+              "parameters": ["Mấy ngôi mộ này trông khá bí ẩn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I don't think I have any need to mess with these right now though..."
-              ]
+              "parameters": ["Lúc này tốt nhất không nên động vào nó..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -13533,14 +13484,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These graves no longer feel strange but this orb is freaking me out!"
+                "Những ngôi mộ này không còn cảm giác kỳ lạ nữa nhưng quả cầu này làm mình sợ quá!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have to take this to Fiona immediately!"]
+              "parameters": ["Mình phải đưa nó cho chị Fiona ngay lập tức!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -13588,14 +13539,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves no longer feel strange."]
+              "parameters": ["Nhưng ngôi mộ đã trở nên bình thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that strange orb being purified, these souls must be resting peacefully."
+                "Với việc quả cầu kỳ lạ đó đã được thanh tẩy thì những linh hồn này cũng được yên nghỉ."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -13653,15 +13604,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves feel really mysterious."]
+              "parameters": ["Mấy ngôi mộ này trông khá bí ẩn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I don't think I have any need to mess with these right now though..."
-              ]
+              "parameters": ["Lúc này tốt nhất không nên động vào nó..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -13772,14 +13721,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These graves no longer feel strange but this orb is freaking me out!"
+                "Những ngôi mộ này không còn cảm giác kỳ lạ nữa nhưng quả cầu này làm mình sợ quá!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have to take this to Fiona immediately!"]
+              "parameters": ["Mình phải đưa nó cho chị Fiona ngay lập tức!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -13827,14 +13776,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves no longer feel strange."]
+              "parameters": ["Nhưng ngôi mộ đã trở nên bình thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that strange orb being purified, these souls must be resting peacefully."
+                "Với việc quả cầu kỳ lạ đó đã được thanh tẩy thì những linh hồn này cũng được yên nghỉ."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -13892,15 +13841,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves feel really mysterious."]
+              "parameters": ["Mấy ngôi mộ này trông khá bí ẩn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I don't think I have any need to mess with these right now though..."
-              ]
+              "parameters": ["Lúc này tốt nhất không nên động vào nó..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -14011,14 +13958,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These graves no longer feel strange but this orb is freaking me out!"
+                "Những ngôi mộ này không còn cảm giác kỳ lạ nữa nhưng quả cầu này làm mình sợ quá!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have to take this to Fiona immediately!"]
+              "parameters": ["Mình phải đưa nó cho chị Fiona ngay lập tức!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -14066,14 +14013,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves no longer feel strange."]
+              "parameters": ["Nhưng ngôi mộ đã trở nên bình thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that strange orb being purified, these souls must be resting peacefully."
+                "Với việc quả cầu kỳ lạ đó đã được thanh tẩy thì những linh hồn này cũng được yên nghỉ."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -14131,15 +14078,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves feel really mysterious."]
+              "parameters": ["Mấy ngôi mộ này trông khá bí ẩn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I don't think I have any need to mess with these right now though..."
-              ]
+              "parameters": ["Lúc này tốt nhất không nên động vào nó..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -14211,7 +14156,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Whoa.\\! The strange orb is now glowing a creepy purple color."
+                "Whoa.\\! Quả cầu đang phát ra ánh sáng màu tím..."
               ]
             },
             { "code": 230, "indent": 3, "parameters": [20] },
@@ -14226,7 +14171,9 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["The Strange Orb turned into the Cursed Orb."]
+              "parameters": [
+                "Quả cầu kỳ lạ đã biến thành Quả cầu bị nguyền rủa."
+              ]
             },
             { "code": 126, "indent": 3, "parameters": [100, 0, 0, 1] },
             { "code": 126, "indent": 3, "parameters": [99, 1, 0, 1] },
@@ -14238,10 +14185,9 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Hm...\\! That should be right but I don't think these graves mean "
+                "Hm...\\! Mình làm đúng rồi nhưng lại không có phản ứng gì hết!\\! Thôi để sau vậy..."
               ]
             },
-            { "code": 401, "indent": 3, "parameters": ["anything right now."] },
             { "code": 122, "indent": 3, "parameters": [121, 121, 0, 0, 0] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -14302,14 +14248,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These graves no longer feel strange but this orb is freaking me out!"
+                "Những ngôi mộ này không còn cảm giác kỳ lạ nữa nhưng quả cầu này làm mình sợ quá!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have to take this to Fiona immediately!"]
+              "parameters": ["Mình phải đưa nó cho chị Fiona ngay lập tức!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -14357,14 +14303,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves no longer feel strange."]
+              "parameters": ["Nhưng ngôi mộ đã trở nên bình thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that strange orb being purified, these souls must be resting peacefully."
+                "Với việc quả cầu kỳ lạ đó đã được thanh tẩy thì những linh hồn này cũng được yên nghỉ."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -14422,15 +14368,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves feel really mysterious."]
+              "parameters": ["Mấy ngôi mộ này trông khá bí ẩn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I don't think I have any need to mess with these right now though..."
-              ]
+              "parameters": ["Lúc này tốt nhất không nên động vào nó..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -14502,7 +14446,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Whoa.\\! The strange orb is now glowing a creepy purple color."
+                "Whoa.\\! Quả cầu đang phát ra ánh sáng màu tím..."
               ]
             },
             { "code": 230, "indent": 3, "parameters": [20] },
@@ -14517,7 +14461,9 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["The Strange Orb turned into the Cursed Orb."]
+              "parameters": [
+                "Quả cầu kỳ lạ đã biến thành Quả cầu bị nguyền rủa."
+              ]
             },
             { "code": 126, "indent": 3, "parameters": [100, 0, 0, 1] },
             { "code": 126, "indent": 3, "parameters": [99, 1, 0, 1] },
@@ -14529,10 +14475,9 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Hm...\\! That should be right but I don't think these graves mean "
+                "Hm...\\! Mình làm đúng rồi nhưng lại không có phản ứng gì hết!\\! Thôi để sau vậy..."
               ]
             },
-            { "code": 401, "indent": 3, "parameters": ["anything right now."] },
             { "code": 122, "indent": 3, "parameters": [121, 121, 0, 0, 0] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -14593,14 +14538,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These graves no longer feel strange but this orb is freaking me out!"
+                "Những ngôi mộ này không còn cảm giác kỳ lạ nữa nhưng quả cầu này làm mình sợ quá!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have to take this to Fiona immediately!"]
+              "parameters": ["Mình phải đưa nó cho chị Fiona ngay lập tức!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -14648,14 +14593,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves no longer feel strange."]
+              "parameters": ["Nhưng ngôi mộ đã trở nên bình thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that strange orb being purified, these souls must be resting peacefully."
+                "Với việc quả cầu kỳ lạ đó đã được thanh tẩy thì những linh hồn này cũng được yên nghỉ."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -14713,15 +14658,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves feel really mysterious."]
+              "parameters": ["Mấy ngôi mộ này trông khá bí ẩn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I don't think I have any need to mess with these right now though..."
-              ]
+              "parameters": ["Lúc này tốt nhất không nên động vào nó..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -14793,7 +14736,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Whoa.\\! The strange orb is now glowing a creepy purple color."
+                "Whoa.\\! Quả cầu đang phát ra ánh sáng màu tím..."
               ]
             },
             { "code": 230, "indent": 3, "parameters": [20] },
@@ -14808,7 +14751,9 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["The Strange Orb turned into the Cursed Orb."]
+              "parameters": [
+                "Quả cầu kỳ lạ đã biến thành Quả cầu bị nguyền rủa."
+              ]
             },
             { "code": 126, "indent": 3, "parameters": [100, 0, 0, 1] },
             { "code": 126, "indent": 3, "parameters": [99, 1, 0, 1] },
@@ -14820,10 +14765,9 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Hm...\\! That should be right but I don't think these graves mean "
+                "Hm...\\! Mình làm đúng rồi nhưng lại không có phản ứng gì hết!\\! Thôi để sau vậy..."
               ]
             },
-            { "code": 401, "indent": 3, "parameters": ["anything right now."] },
             { "code": 122, "indent": 3, "parameters": [121, 121, 0, 0, 0] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -14884,14 +14828,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These graves no longer feel strange but this orb is freaking me out!"
+                "Những ngôi mộ này không còn cảm giác kỳ lạ nữa nhưng quả cầu này làm mình sợ quá!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have to take this to Fiona immediately!"]
+              "parameters": ["Mình phải đưa nó cho chị Fiona ngay lập tức!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -14939,14 +14883,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["These graves no longer feel strange."]
+              "parameters": ["Nhưng ngôi mộ đã trở nên bình thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With that strange orb being purified, these souls must be resting peacefully."
+                "Với việc quả cầu kỳ lạ đó đã được thanh tẩy thì những linh hồn này cũng được yên nghỉ."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -15018,14 +14962,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Huh?!\\! The strange orb is pulling me to these graves."
+                "Hả?!\\! Quả cầu... nó đang kéo mình đến gần những ngôi mộ này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Please don't hurt me ghosts..."]
+              "parameters": ["Sợ quá!\\! Làm ơn đừng hù tôi nữa... "]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -15134,38 +15078,40 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "You really pack a punch with that cock of yours, \\n[1]!"
-              ]
+              "parameters": ["Cặc em sướng lắm đó, \\n[1]!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm gonna need an ice pack after that one..!"]
+              "parameters": ["Nhưng không hiểu sao giờ lồn chị nhức quá..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sorry Fiona, maybe I got a little carried away..."
+                "Em xin lỗi, chị Fiona!\\! Vừa rồi em hơi thô bạo một chút..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Don't apologize!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Em không phải xin lỗi đâu!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That was a wild time!"]
+              "parameters": ["Vừa rồi chị thấy sướng lắm!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona2", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man, it's really been one eventful Halloween, hasn't it?"
+                "Trời ạ, lễ Halloween năm nay có nhiều chuyện xảy ra quá..."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 166, 0] },
@@ -15173,13 +15119,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["It's getting pretty late, don't you think?"]
+              "parameters": ["Giờ cũng đã khá trễ rồi..."]
             },
             { "code": 101, "indent": 1, "parameters": ["1Fiona2", 1, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Let's round the gang up and head back home!"]
+              "parameters": ["Chúng ta về nhà thôi!"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 90, 47, 23, 8, 0] },
@@ -15190,20 +15136,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "But didn't your \\n[5] need help with something too?"
+                "Nhưng hình như \\n[2] cần em giúp chuyện gì đó, đúng chứ?"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Fiona2", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You can't leave her waiting all night!"]
+              "parameters": ["Đừng để cô ấy đợi lâu quá!"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Fiona2", 1, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I'll be waiting here if ya need me!"]
+              "parameters": ["Nếu cần gì thì em cứ đến đây tìm chị!"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 203, "indent": 1, "parameters": [12, 0, 44, 22, 2] },

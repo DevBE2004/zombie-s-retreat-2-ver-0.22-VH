@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Room 201",
+  "displayName": "Phòng 201",
   "encounterList": [],
   "encounterStep": 30,
   "height": 15,
@@ -97,7 +97,7 @@
     null,
     {
       "id": 2,
-      "name": "Meredith (Cutscene)",
+      "name": "\\n[2] (Cutscene)",
       "note": "",
       "pages": [
         {
@@ -129,7 +129,7 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]!\\! Help me!"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n[1]!\\! Cứu mẹ!"] },
             {
               "code": 205,
               "indent": 0,
@@ -196,7 +196,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["My gun!\\! Why won't it work?!"]
+              "parameters": ["Súng của con!\\! Nó bị làm sao thế này?!"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, false] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -250,7 +250,11 @@
               "parameters": [{ "code": 33, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Don't touch me!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đừng có chạm vào tao!"]
+            },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [2, 7, true] },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 6, 0, 2] },
@@ -261,7 +265,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "No!\\! \\BST[4]Lay your hands off of her, you monster!"
+                "Không!\\! \\BST[4]Bỏ tay ra khỏi bà ấy, đồ quái vật!"
               ]
             },
             {
@@ -295,7 +299,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]...\\! \\BST[7]You failed me."]
+              "parameters": ["\\n[1]...\\! \\BST[7]Mẹ thất vọng về con quá."]
             },
             {
               "code": 205,
@@ -328,13 +332,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I belong to this zombie now."]
+              "parameters": ["Giờ mẹ đã thuộc về con Zombie này."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No...\\! This can't be happening..."]
+              "parameters": ["Không...\\! Không thể nào..."]
             },
             {
               "code": 205,
@@ -368,19 +372,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm going to fuck him right here on this filthy bed!"
+                "Mẹ sẽ đụ nó ngay tại đây trên chính chiếc giường bẩn thỉu này!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "And there's nothing you can do to stop him from fucking me forever!"
-              ]
+              "parameters": ["Và mẹ sẽ đụ nó mãi mãi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["NO!\\! NOOOO!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["KHÔNG!\\! KHÔNG ĐƯỢC!"]
+            },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 121, "indent": 0, "parameters": [91, 91, 0] },

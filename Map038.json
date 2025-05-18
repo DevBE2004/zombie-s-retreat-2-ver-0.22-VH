@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Crimson City PD",
+  "displayName": "Đồn Cảnh Sát",
   "encounterList": [],
   "encounterStep": 30,
   "height": 24,
@@ -121,23 +121,21 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     401, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 971, 972, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 980, 0, 971, 972, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 980, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 242, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 348, 0, 244, 245, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    253, 254, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 995, 0, 252, 253, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 1003, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 242, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 348, 0, 244, 245, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 253, 254,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 995, 0, 252, 253, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    1003, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -149,15 +147,17 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 263, 0, 0, 901, 902, 903, 0, 886, 887, 0, 0, 901,
-    902, 903, 0, 0, 277, 0, 0, 0, 0, 353, 0, 262, 0, 0, 0, 0, 0, 0, 0, 0, 393,
-    0, 0, 0, 895, 909, 910, 911, 0, 0, 1000, 1001, 0, 909, 910, 911, 0, 0, 285,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 393, 0, 0, 0, 0, 0, 0, 0, 398,
-    399, 1008, 1009, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    963, 964, 401, 976, 977, 0, 0, 490, 467, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 971, 972, 0, 868, 869, 420, 421, 498,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 263, 0, 0, 901, 902, 903, 0, 886, 887, 0, 0, 901, 902,
+    903, 0, 0, 277, 0, 0, 0, 0, 353, 0, 262, 0, 0, 0, 0, 0, 0, 0, 0, 393, 0, 0,
+    0, 895, 909, 910, 911, 0, 0, 1000, 1001, 0, 909, 910, 911, 0, 0, 285, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 393, 0, 0, 0, 0, 0, 0, 0, 398, 399,
+    1008, 1009, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 963,
+    964, 401, 976, 977, 0, 0, 490, 467, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 971, 972, 0, 971, 972, 420, 421, 498,
     475, 113, 0, 0, 0, 0, 428, 429, 0, 0, 54, 55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 971, 972, 0, 868, 869, 0, 0, 506, 483, 121, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 971, 972, 0, 971, 972, 0, 0, 506, 483, 121, 0, 0, 0, 0, 0, 0, 0,
     0, 62, 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 960, 986, 953, 969,
     962, 0, 0, 0, 0, 0, 0, 0, 939, 0, 0, 932, 0, 0, 70, 71, 996, 0, 0, 0, 332,
     333, 244, 242, 246, 0, 0, 0, 0, 0, 960, 0, 0, 0, 962, 0, 0, 1002, 0, 0, 0,
@@ -296,7 +296,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The door is blocked on the other side."]
+              "parameters": ["Cánh cửa bị chặn ở phía bên trong."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -360,7 +360,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The door is blocked on the other side."]
+              "parameters": ["Cánh cửa bị chặn ở phía bên trong."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -425,7 +425,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found a Police Station Key."]
+              "parameters": ["Tìm thấy chìa khóa đồn cảnh sát!"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -742,39 +742,41 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Were you able to find the mechanical parts?"]
+              "parameters": ["Em có tìm thấy bộ dung cụ liên lạc nào không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Y-Ya.\\! I did."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Có ạ.\\! Em tìm thấy rồi."]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Is something the matter?\\! You don't sound very excited about it."
+                "Có chuyện gì thế?\\! Trông em có vẻ không tập trung lắm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Huh?\\! \\BST[2]Oh. Hah hah."]
+              "parameters": ["Hả?\\! \\BST[2]Oh. Ha ha."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's nothing!\\! I'm just ready to get back home now."
+                "Không có gì đâu ạ!\\! Chỉ là bây giờ em muốn về nhà..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I can't blame you.\\! \\BST[1]Let's get out of here."
-              ]
+              "parameters": ["Ừ...\\! \\BST[1]Ra khỏi đây thôi."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -828,47 +830,49 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Good work, \\n[1].\\! \\BST[1]We got the parts we need."
+                "Làm tốt lắm, \\n[1].\\! \\BST[1]Chúng ta đã có tất cả những thứ cần thiết."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I couldn't have done it without your help!"]
+              "parameters": [
+                "Nếu không có chị thì em không biết phải xoay sở thế nào nữa!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Does this mean you'll be leaving here, now?"]
+              "parameters": [
+                "Vậy có nghĩa là chị sẽ rời khỏi đây ngay bây giờ ạ?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "About that...\\! If it's not too much of a hassle..."
-              ]
+              "parameters": ["Về chuyện đó thì...\\! Nếu không có vấn đề gì..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You're gonna stay here?!"]
+              "parameters": ["Chị vẫn sẽ ở lại đây mà đúng chứ?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Just for a little longer."]
+              "parameters": ["Chị sẽ ở đây thêm vài ngày nữa. "]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's still an important mission I'm on so I can't hang around forever."
+                "Vì chị vẫn còn nhiệm vụ quan trọng phải làm nên không thể quanh quẩn mãi ở nơi này được."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -876,26 +880,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But if you'd like, I think we'd make a great team."
+                "Nhưng vừa rồi phải công nhận em và chị đúng là một đội ăn ý! "
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Em cũng nghĩ thế ạ."] },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Yeah, I think so too, Lucy."]
+              "parameters": ["Được rồi.\\! Giờ chị sẽ đi nghỉ một chút."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Okay.\\! I'll be getting some rest now."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Don't forget to take those new parts to Fiona!"]
+              "parameters": [
+                "Em nhớ phải đưa bộ dụng cụ liên lạc cho Fiona đó!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -984,7 +986,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We'll need a key to open that door up."]
+              "parameters": [
+                "Chúng ta cần một chiếc chìa khóa để mở cánh cửa này."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1041,7 +1045,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Police Station Key fit effortlessly into the lock."
+                "Chiếc chìa khóa vừa tìm được nằm gọn trong ổ khóa."
               ]
             },
             {
@@ -1661,7 +1665,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*Grr*\\! I'm not tall enough to reach that vent."]
+              "parameters": [
+                "*Grr*\\! Mình không đủ cao để với tới cái lỗ thông hơi đó."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1706,13 +1712,17 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Need a lift?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Em có cần chị nâng em lên không?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 28, 20, 8, 0] },
             { "code": 216, "indent": 1, "parameters": [1] },
@@ -1726,7 +1736,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1781,13 +1791,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 5, 21, 6, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -1798,7 +1808,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1844,13 +1854,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 5, 21, 6, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -1862,7 +1872,7 @@
             { "code": 216, "indent": 1, "parameters": [1] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1908,13 +1918,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 5, 21, 6, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -1930,7 +1940,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1985,13 +1995,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 16, 20, 4, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -2002,7 +2012,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2048,13 +2058,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 16, 20, 4, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -2066,7 +2076,7 @@
             { "code": 216, "indent": 1, "parameters": [1] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2112,13 +2122,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 16, 20, 4, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -2134,7 +2144,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2254,7 +2264,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This looks so hi-tech.\\! I don't think I can break it open."
+                "Thứ này trông có vẻ khá là phức tạp.\\! Mình không phá vỡ nó được."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2495,10 +2505,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well that's one way to make an entrance."]
+              "parameters": ["Vậy ra đó là cách để vào bên trong."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["And some attention."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Từ giờ chúng ta cần phải thật cẩn thận..."]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -2522,7 +2536,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We're bound to draw in some zombies, so let's find those parts quickly."
+                "Chị và em chắc chắc sẽ thu hút một vài con Zombie, nên phải nhanh chóng tìm những thứ cần thiết."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -2530,7 +2544,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The communications room is upstairs.\\! That's where we'll need to go."
+                "Phòng liên lạc ở ngay tầng trên.\\! Chúng ta đi nhanh nào."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -3179,7 +3193,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -3313,7 +3327,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -3548,7 +3562,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -3682,7 +3696,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -3917,7 +3931,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -4051,7 +4065,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -4343,7 +4357,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -4477,7 +4491,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -4770,7 +4784,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -4904,7 +4918,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -5160,7 +5174,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Nước!"] },
             { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5176,60 +5190,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -5316,7 +5276,11 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found a Med Kit!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tìm được Hộp Cứu Thương!"]
+            },
             { "code": 126, "indent": 0, "parameters": [12, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5332,60 +5296,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found a Med Kit!"] },
-            { "code": 126, "indent": 0, "parameters": [12, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -5472,11 +5382,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found an Electric Fuse!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Cầu Chì!"] },
             { "code": 126, "indent": 0, "parameters": [4, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5492,64 +5398,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found an Electric Fuse!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [4, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -5639,7 +5487,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found Shotgun Ammunition (3)!"]
+              "parameters": ["Tìm được Đạn Shotgun! (3)"]
             },
             { "code": 126, "indent": 0, "parameters": [23, 0, 0, 3] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -5656,64 +5504,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found Shotgun Ammunition (3)!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [23, 0, 0, 3] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true

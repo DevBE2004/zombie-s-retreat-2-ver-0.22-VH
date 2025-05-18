@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Hidden Alleyway",
+  "displayName": "Con Hẻm Bí Mật",
   "encounterList": [],
   "encounterStep": 30,
   "height": 17,
@@ -227,7 +227,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Weird.\\! This looks like a door but there's no handle..."
+                "Lạ thật.\\! Đây là một cánh cửa nhưng lại không có tay nắm..."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -252,7 +252,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hello?\\! Is anyone there?"]
+              "parameters": ["Xin chào?\\! Có ai ở trong đó không?"]
             },
             { "code": 230, "indent": 0, "parameters": [90] },
             {
@@ -300,36 +300,35 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<???>Welcome customer."]
+              "parameters": ["\\n<???>Xin chào quý khách."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A survivor!\\! \\BST[5]Wait... customer?"]
+              "parameters": ["Chào...!\\! \\BST[5]Chờ đã... quý khách ư?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<???>Are you not here to trade?\\! I have wares that I will exchange if you have "
+                "\\n<???>Tôi cứ tưởng cậu đến đây để giao dịch?!\\! Nếu muốn thì cậu có thể trao đổi hàng hóa với tôi."
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["enticing products."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, I don't know about trading.\\! Instead I figured you may need rescuing..?"
+                "À thì, tôi không rành về giao dịch lắm.\\! Tôi cứ nghĩ cậu cần được giải cứu...?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<???>Good bye then."]
+              "parameters": ["\\n<???>Vậy thì tạm biệt."]
             },
             {
               "code": 250,
@@ -385,7 +384,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["W-Wait a sec!"] },
+            { "code": 401, "indent": 0, "parameters": ["C-Chờ một chút!"] },
             {
               "code": 250,
               "indent": 0,
@@ -428,20 +427,20 @@
             { "code": 505, "indent": 0, "parameters": [{ "code": 19 }] },
             { "code": 230, "indent": 0, "parameters": [45] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<???>Yes?"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<???>Gì thế?"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Umm, if you're looking to trade I guess I wouldn't mind seeing what you have..."
+                "Umm, nếu cậu muốn giao dịch thì tôi cũng muốn thử một chút..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<???>Very well.\\! You may browse."]
+              "parameters": ["\\n<???>Được thôi.\\! Cậu cần gì...?"]
             },
             { "code": 302, "indent": 0, "parameters": [0, 83, 0, 0, true] },
             { "code": 605, "indent": 0, "parameters": [0, 84, 0, 0] },
@@ -454,7 +453,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<???>I look forward to further trades."]
+              "parameters": ["\\n<???>Rất vui được giao dịch với cậu."]
             },
             {
               "code": 250,
@@ -613,7 +612,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<???>Welcome customer."]
+              "parameters": ["\\n<???>Xin chào quý khách."]
             },
             { "code": 302, "indent": 0, "parameters": [0, 83, 0, 0, true] },
             { "code": 605, "indent": 0, "parameters": [0, 84, 0, 0] },
@@ -626,7 +625,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<???>Come again soon."]
+              "parameters": ["\\n<???>Sớm quay trở lại nhé."]
             },
             {
               "code": 250,
@@ -735,14 +734,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You've obtained the Digital Camera!"]
+              "parameters": ["Bạn nhận được Máy ảnh kỹ thuật số!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This new device can automatically snap pictures during certain special moments."
+                "Nó có thể tự động chụp ảnh trong những khoảnh khắc đặc biệt."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
@@ -750,27 +749,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Captured memories can be viewed in the gallery through the pause "
+                "Bạn có thể xem qua những tấm hình đã chụp trong thư viện thông qua menu tạm dừng hoặc bằng cách sử dụng Máy ảnh kỹ thuật số."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["menu or by using the Digital Camera."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Beta Notice: 50 photos is a placeholder value and is unlikely to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "be the final total. Photos will get added with future updates!"
+                "Thông báo Beta: Ảnh sẽ được thêm vào trong các bản cập nhật trong tương lai."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [125, 125, 0] },

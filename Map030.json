@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Crimson Apartments",
+  "displayName": "Chung Cư Crimson",
   "encounterList": [],
   "encounterStep": 30,
   "height": 24,
@@ -463,14 +463,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hello?!\\! Is anyone still in there?"]
+              "parameters": ["Xin chào?!\\! Có ai ở trong đó không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Soft Voice>Yes, hello?!\\! Let me unblock the door really quick!"
+                "\\n<Giọng nói dịu dàng>Vâng, chờ một chút?!\\! Để tôi chạy ra mở cửa!"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -601,7 +601,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's locked."] },
+            { "code": 401, "indent": 0, "parameters": ["Cửa bị khóa rồi."] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -650,21 +650,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Room 201.\\! \\BST[2]This must be it."]
+              "parameters": ["Phòng 201.\\! \\BST[2]Mẹ và con tới nơi rồi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Cool.\\! Just hand me the key and I'll check it out."
-              ]
+              "parameters": ["Được rồi.\\! Đưa con chìa khóa nào!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nice try mister!\\! I'll open it."]
+              "parameters": ["Không được!\\! Mẹ sẽ là người mở cửa."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },

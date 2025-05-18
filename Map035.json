@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Nadia's Bedroom",
+  "displayName": "Phòng Nadia",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -273,19 +273,23 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Oh! It's so late..."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Oh! Đã muộn lắm rồi..."]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Talk", "Party Up", "Nevermind"], 2, 0, 2, 0]
+              "parameters": [["Nói chuyện", "Đồng hành", "Rời đi"], 2, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Nói chuyện"] },
             { "code": 117, "indent": 1, "parameters": [45] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Party Up"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Đồng hành"] },
             { "code": 117, "indent": 1, "parameters": [65] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -404,7 +408,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [4, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1], you came!"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n[1], em đến rồi!"] },
             {
               "code": 205,
               "indent": 0,
@@ -475,49 +479,45 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Of course Nadia.\\! Is there something you wanted to talk to me about?"
-              ]
+              "parameters": ["Chị có gì muốn nói với em thế, chị Nadia?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Chị-\\! Chị cứ mải nghĩ về giả thuyết của em."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I-\\! haven't been able to stop thinking about what you theorized."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "To think that Isaac might have been keeping such a secret from me."
+                "Không ngờ Isaac lại làm chuyện đó với cô giáo của nó..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh.\\! I'm sorry Nadia, I didn't mean to-"]
+              "parameters": ["Oh.\\! Em xin lỗi, em không cố ý-"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No, no.\\! I think you might be right..."]
+              "parameters": ["Không, không.\\! Chị nghĩ là em nói đúng..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's just...\\! I just, I don't know..."]
+              "parameters": ["Chỉ là...\\! Chị không biết nữa..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1].\\! Tell me..."]
+              "parameters": ["\\n[1].\\! Nói chị nghe đi..."]
             },
             {
               "code": 205,
@@ -557,34 +557,30 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Nadia>Do you think I'm pretty..?"]
+              "parameters": ["\\n<Nadia>Em có thấy chị xinh không...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\n[1]>Nadia, why are you-"]
+              "parameters": ["\\n<\\n[1]>Chị Nadia, sao chị lại hỏ-"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Nadia>Please.\\! Answer honestly..."]
+              "parameters": ["\\n<Nadia>Chị muốn em...\\! trả lời thật lòng..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[1]>Of course I do Nadia!\\! Y-You're gorgeous..."
+                "\\n<\\n[1]>Tất nhiên là có ạ!\\! C-Chị lộng lẫy lắm..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Nadia>Is that so..?"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Nadia>Vậy à...?"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -608,61 +604,63 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Nadia>Do you still think I'm pretty \\n[1]?"]
+              "parameters": ["\\n<Nadia>Em có còn nghĩ chị xinh không, \\n[1]?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\n[1]>W-Whoa! N-Nadia?!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Nadia>I thought maybe you would like to see my boobs..."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Nadia>Although I'm sure Mrs. Johnson's are-"]
+              "parameters": ["\\n<\\n[1]>W-Whoa! Chị N-Nadia?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[1]>No, Mrs. Johnson's boobs never looked this good..!"
+                "\\n<Nadia>Chị nghĩ là có lẽ em muốn ngắm bộ ngực này của chị..."
               ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<\\n[1]>Your body is incredible!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Nadia>Do you really mean that..?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[1]>Trust me Nadia...\\! I wouldn't lie about great boobs!"
+                "\\n<Nadia>Mặc dù chúng có vẻ không bằng của cô Johnson-"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Nadia>*giggle*\\! \\n[1] ~ ♥️"]
+              "parameters": [
+                "\\n<\\n[1]>Không đâu, ngực của cô Johnson chắc chắn không đẹp như thế này...!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[1]>Cơ thể chị tuyệt lắm!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Nadia>Em thực sự nghĩ như thế sao...?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[1]>Tin em đi, chị Nadia...\\! Em không có lý do gì để nói dối chị!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Nadia>*cười khúc khích*\\! \\n[1] ~ ♥️"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
@@ -678,32 +676,38 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Sorry to bother you tonight, I just-"]
+              "parameters": ["Xin lỗi vì đã làm phiền em, chị chỉ muố-"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No, trust me.\\! That wasn't a bother at all..!"]
+              "parameters": ["Không có gì ạ.\\! Em không thấy phiền đâu...!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm glad you enjoyed the show then..."]
+              "parameters": ["May là em thấy thích việc vừa rồi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Well, I..\\! I think I'm going to get some rest now."
-              ]
+              "parameters": ["Chị...\\! Giờ chắc chị đi ngủ đây...!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Good night \\n[1]."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ngủ ngon nhé, \\n[1]."]
+            },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Night Nadia..!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Chúc chị ngủ ngon, chị Nadia...!"]
+            },
             { "code": 213, "indent": 0, "parameters": [4, 4, true] },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -724,7 +728,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man.\\! I'm still stunned that Nadia just flashed me like that..."
+                "Trời ạ.\\! Mình vẫn còn chưa hết sốc sau chuyện vừa rồi..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -732,7 +736,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wonder why she decided to do that all of the sudden?"
+                "Không ngờ chị ấy lại bất ngờ làm hành động đó!\\! Lạ thật!?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -740,7 +744,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ahh, who cares?!\\! I just saw tits!"]
+              "parameters": [
+                "Ahh, quan tâm làm gì chứ?!\\! Dù sao thì mình cũng thấy vú của chị ấy rồi!"
+              ]
             },
             {
               "code": 355,

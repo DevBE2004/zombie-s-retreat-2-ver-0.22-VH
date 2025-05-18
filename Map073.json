@@ -268,26 +268,30 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I knew it was dangerous to go alone..."]
+              "parameters": ["Mặc dù biết là đi một mình rất nguy hiểm..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But I knew I had to prove to myself that I wasn't worthless."
+                "Nhưng mình phải chứng minh bản thân không phải là một gánh nặng! "
               ]
             },
             { "code": 230, "indent": 0, "parameters": [120] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["*pft*\\! Dumb webs!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["*phù*\\! Mấy cái mạng nhện chết tiệt này!"]
+            },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There!\\! I think that's the vent to the storage room."
+                "Ở đằng kia...!\\! Mình nghĩ đấy là lỗ thông hơi của phòng trữ đồ."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -295,7 +299,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Almost...\\| there..."]
+              "parameters": ["Sắp tới...\\| rồi..."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -317,11 +321,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [120] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Well that's one way to make an entrance."]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tí thì bị vấp..."] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -464,7 +464,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Shit!\\! This isn't good..!"]
+              "parameters": ["Chết tiệt!\\! Không ổn rồi...!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 211, "indent": 0, "parameters": [1] },
@@ -740,13 +740,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Urgh!\\! \\n[3]! Y-You've gotta get out of here!"]
+              "parameters": ["Urgh!\\! Chị \\n[3]! C-Chị phải ra khỏi đây!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This zombie's way too dangerous!"]
+              "parameters": ["Con Zombie này nguy hiểm lắm!"]
             },
             {
               "code": 205,
@@ -773,14 +773,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Even then, you were concerned about me."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "And all I could do was sit in watch in terror when you needed me the most."
+                "Trong tình huống nguy hiểm như thế mà em ấy thậm chí vẫn còn lo cho mình."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -788,14 +782,22 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I tried to move my feet but they felt like rocks."
+                "Và tất cả những gì mình có thể làm là đứng đây trong sợ hãi lúc mà em ấy cần mình nhất."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This was it...\\! I truly am worthless..."]
+              "parameters": [
+                "Phải làm sao bây giờ...?\\!Mình không nhúc nhích được...  "
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Vô dụng...\\! Mình đúng là đồ vô dụng mà..."]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -809,7 +811,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["NO.\\! NO, NO NO NO!"]
+              "parameters": ["KHÔNG.\\! KHÔNG, KHÔNG KHÔNG KHÔNG!"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -863,13 +865,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...How dare you lay a hand on my \\n[9]."]
+              "parameters": ["... Sao mày dám làm em ấy bị thương..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now you're going to have to pay for that."]
+              "parameters": ["Giờ thì mày sẽ phải trả giá..."]
             },
             {
               "code": 355,
@@ -913,7 +915,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["                       DIE YOU FUCKING BASTARD!!"]
+              "parameters": ["                       CHỊU CHẾT ĐI!!"]
             },
             {
               "code": 205,
@@ -1119,7 +1121,7 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[3]! \\!You-"] },
+            { "code": 401, "indent": 0, "parameters": ["Chị \\n[3]! \\!Chị-"] },
             {
               "code": 205,
               "indent": 0,
@@ -1187,23 +1189,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Everything happened so fast..."]
+              "parameters": ["Mọi thứ diễn ra nhanh quá..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I felt a rush surge through my body unlike anything I had ever felt before."
+                "Tôi cảm thấy có một luồng điện chạy qua cơ thể mình, cái cảm giác mà trước giờ chưa từng xuất hiện."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "It was almost as if something took control of me..."
-              ]
+              "parameters": ["Nó đã hoàn toàn kiểm soát được cơ thể tôi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
@@ -1505,13 +1505,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Urgh!\\! \\n[3]! Y-You've gotta get out of here!"]
+              "parameters": ["Urgh!\\! Chị \\n[3]! C-Chị phải ra khỏi đây!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This zombie's way too dangerous!"]
+              "parameters": ["Con Zombie này nguy hiểm lắm!"]
             },
             {
               "code": 205,
@@ -1538,14 +1538,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Even then, you were concerned about me."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "And all I could do was sit in watch in terror when you needed me the most."
+                "Trong tình huống nguy hiểm như thế mà em ấy thậm chí vẫn còn lo cho mình."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1553,14 +1547,22 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I tried to move my feet but they felt like rocks."
+                "Và tất cả những gì mình có thể làm là đứng đây trong sợ hãi lúc mà em ấy cần mình nhất."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This was it...\\! I truly am worthless..."]
+              "parameters": [
+                "Phải làm sao bây giờ...?\\!Mình không nhúc nhích được...  "
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Vô dụng...\\! Mình đúng là đồ vô dụng mà..."]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -1574,7 +1576,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["NO.\\! NO, NO NO NO!"]
+              "parameters": ["KHÔNG.\\! KHÔNG, KHÔNG KHÔNG KHÔNG!"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -1628,7 +1630,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You...\\| You stupid fucking zombie."]
+              "parameters": ["Mày...\\| Con Zombie ngu l**..."]
             },
             {
               "code": 355,
@@ -1672,7 +1674,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["                       DIE YOU FUCKING BASTARD!!"]
+              "parameters": ["                       CHỊU CHẾT ĐI!!"]
             },
             {
               "code": 205,
@@ -1878,7 +1880,7 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[3]! \\!You-"] },
+            { "code": 401, "indent": 0, "parameters": ["Chị \\n[3]! \\!Chị-"] },
             {
               "code": 205,
               "indent": 0,
@@ -1946,23 +1948,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Everything happened so fast..."]
+              "parameters": ["Mọi thứ diễn ra nhanh quá..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I felt a rush surge through my body unlike anything I had ever felt before."
+                "Tôi cảm thấy có một luồng điện chạy qua cơ thể mình, cái cảm giác mà trước giờ chưa từng xuất hiện."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "It was almost as if something took control of me..."
-              ]
+              "parameters": ["Nó đã hoàn toàn kiểm soát được cơ thể tôi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
@@ -1999,7 +1999,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But now we're running.\\! Your hand clutched around mine as we sprint back home."
+                "Và thế là chúng tôi nhanh chóng chạy về nhà...\\! Bàn tay ấm áp của em ấy nắm chặt lấy tay tôi trong suốt đoạn đường.  "
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2007,7 +2007,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My warm blushed face is kept cool by this cold misty air."
+                "Không khí sương mù ở xung quanh đang che đi vết đỏ ửng trên khuôn mặt tôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2015,7 +2015,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The sound of our steps racing down the damp concrete streets fills the silence."
+                "Tiếng bước chân của chúng tôi vang vọng trên con đường bê tông ẩm ướt, che lấp đi sự im lặng đang bao trùm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2023,7 +2023,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Neither of us have spoken a single word to each other.\\! But we both know what's coming next."
+                "Đã được một lúc kể từ lần cuối hai đứa nói chuyện với nhau.\\! Nhưng chúng tôi đều hiểu đó là tình yêu mà cả hai sắp sửa đắm chìm vào..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2031,7 +2031,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Just now, in this moment, I realized what actually happened back in that storage closet."
+                "Trong khoảnh khắc này thì cuối cùng tôi cũng đã hiểu ra.\\! Tôi biết điều gì đã thực sự xảy ra ở phòng trữ đồ."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -2039,7 +2039,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That kiss was the first time-\\! that I fell in love."
+                "Nụ hôn bất ngờ đó là lần đầu tiên-\\! tôi bị rơi vào lưới tình."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [90] },

@@ -272,11 +272,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found Storage Crane Card A!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm thấy thẻ khu A!"] },
             { "code": 126, "indent": 0, "parameters": [45, 0, 0, 1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -589,27 +585,27 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["** SET CLAW POSITION **"]
+              "parameters": ["** THAY ĐỔI VỊ TRÍ **"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Pos. A", "Pos. B", "Pos. C", "Idle"],
+                ["Khu vực. A", "Khu Vực. B", "Khu Vực. C", "Về vị trí ban đầu"],
                 -1,
                 0,
                 2,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Pos. A"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Khu vực. A"] },
             { "code": 111, "indent": 1, "parameters": [8, 45] },
             { "code": 111, "indent": 2, "parameters": [1, 61, 0, 1, 0] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["** CLAW POSITION ALREADY SET TO A **"]
+              "parameters": ["** ĐÃ THAY ĐỔI VỊ TRÍ A **"]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -627,80 +623,47 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["** INVALID OPERATION **"]
-            },
+            { "code": 401, "indent": 2, "parameters": ["** KHÔNG HỢP LỆ **"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["** Storage Crane Card A REQUIRED **"]
+              "parameters": ["** YÊU CẦU Thẻ khu A **"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Pos. B"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Khu Vực. B"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["** KHÔNG HỢP LỆ **"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["** INVALID OPERATION **"]
+              "parameters": ["** YÊU CẦU Thẻ khu B **"]
             },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "Khu Vực. C"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["** KHÔNG HỢP LỆ **"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["** Storage Crane Card B REQUIRED **"]
+              "parameters": ["** YÊU CẦU Thẻ khu C **"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Pos. C"] },
-            { "code": 111, "indent": 1, "parameters": [8, 47] },
-            { "code": 111, "indent": 2, "parameters": [1, 61, 0, 3, 0] },
-            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
-              "code": 401,
-              "indent": 3,
-              "parameters": ["** CLAW POSITION ALREADY SET TO C **"]
+              "code": 402,
+              "indent": 0,
+              "parameters": [3, "Về vị trí ban đầu"]
             },
-            { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 411, "indent": 2, "parameters": [] },
-            { "code": 122, "indent": 3, "parameters": [61, 61, 0, 0, 3] },
-            {
-              "code": 250,
-              "indent": 3,
-              "parameters": [
-                { "name": "Machine", "volume": 55, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 225, "indent": 3, "parameters": [5, 5, 160, true] },
-            { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 412, "indent": 2, "parameters": [] },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 411, "indent": 1, "parameters": [] },
-            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["** INVALID OPERATION **"]
-            },
-            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["** Storage Crane Card C REQUIRED **"]
-            },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 412, "indent": 1, "parameters": [] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Idle"] },
             { "code": 111, "indent": 1, "parameters": [1, 61, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["** CLAW POSITION ALREADY SET TO IDLE **"]
+              "parameters": ["** ĐÃ THAY ĐỔI VỀ VỊ TRÍ BAN ĐẦU **"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -775,27 +738,27 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["** SET CLAW POSITION **"]
+              "parameters": ["** THAY ĐỔI VỊ TRÍ **"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Pos. A", "Pos. B", "Pos. C", "Idle"],
+                ["Khu vực. A", "Khu Vực. B", "Khu Vực. C", "Về vị trí ban đầu"],
                 -1,
                 0,
                 2,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Pos. A"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Khu vực. A"] },
             { "code": 111, "indent": 1, "parameters": [8, 45] },
             { "code": 111, "indent": 2, "parameters": [1, 61, 0, 1, 0] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["** CLAW POSITION ALREADY SET TO A **"]
+              "parameters": ["** ĐÃ THAY ĐỔI VỊ TRÍ A **"]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -813,55 +776,47 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["** INVALID OPERATION **"]
-            },
+            { "code": 401, "indent": 2, "parameters": ["** KHÔNG HỢP LỆ **"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["** Storage Crane Card A REQUIRED **"]
+              "parameters": ["** YÊU CẦU Thẻ khu A **"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Pos. B"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Khu Vực. B"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["** KHÔNG HỢP LỆ **"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["** INVALID OPERATION **"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["** Storage Crane Card B REQUIRED **"]
+              "parameters": ["** YÊU CẦU Thẻ khu B **"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Pos. C"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Khu Vực. C"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["** KHÔNG HỢP LỆ **"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["** INVALID OPERATION **"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["** Storage Crane Card C REQUIRED **"]
+              "parameters": ["** YÊU CẦU Thẻ khu C **"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Idle"] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [3, "Về vị trí ban đầu"]
+            },
             { "code": 111, "indent": 1, "parameters": [1, 61, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["** CLAW POSITION ALREADY SET TO IDLE **"]
+              "parameters": ["** ĐÃ THAY ĐỔI VỀ VỊ TRÍ BAN ĐẦU **"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -1032,11 +987,7 @@
             },
             { "code": 126, "indent": 0, "parameters": [3, 0, 0, 2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Gained some Scrap Brick (2)!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gạch! (2)"] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

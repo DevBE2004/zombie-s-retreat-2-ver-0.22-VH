@@ -288,68 +288,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>Alright shrimp!\\! Since you're officially a competitor, you can call me Carla."
+                "\\n<Người phụ nữ>Được rồi!\\! Vì cậu đã chính thức là một thí sinh tham gia thi đấu nên từ giờ cậu có thể gọi tôi là Carla."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Carla>This is the rest area."]
+              "parameters": ["\\n<Carla>Nơi này là khu vực phòng chờ."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>The rules for The Violet Cup are simple.\\! Survive the gauntlet of zombies."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Carla>Violet herself is supplying competitors with "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["unlimited ammunition."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Carla>You don't have to worry about consuming any of your own ammo.\\! But "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["you also are forbidden from healing in this cup."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Carla>In other cups, this may be a place to replenish your health or "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["stock up on ammunition."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Carla>Anyways, we don't have any time to waste.\\! Everyone knows that rookies go first!"
+                "\\n<Carla>Luật thi đấu của The Violet Cup rất đơn giản.\\! Sống sót trước những con Zombie."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -357,7 +310,39 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>Now go out there and try not to die in the first round!"
+                "\\n<Carla>Bản thân Violet đã cung cấp cho các thí sính số lượng đạn không giới hạn."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Carla>Vì thế cậu sẽ không cần phải lo lắng về đạn dược.\\! Nhưng thay vào đó thì trong quá trình thi cậu sẽ không được hồi máu!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Carla>Sau khi thi xong thì đây sẽ là nơi để cho cậu lấy lại sức và đạn dược!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Carla>Thôi được rồi, không lãng phí thời gian nữa.\\! Mọi người đều biết là tân binh sẽ thi trước!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Carla>Bây giờ hãy ra ngoài đó đi và cố gắng đừng chết ở vòng đầu tiên!"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, true] },
@@ -421,7 +406,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>Shrimp, I still can't believe you really pulled it off!"
+                "\\n<Carla>Wow, tôi không ngờ là cậu vượt qua được vòng đầu tiên!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -429,7 +414,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>The crowd was in an uproar when you won!\\! I've never seen anything like it!"
+                "\\n<Carla>Đám đông đã trở nên rất náo nhiệt khi cậu giành chiến thắng!\\! Từ trước tới nay tôi chưa từng thấy họ như thế bao giờ!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -437,7 +422,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>The rest of the competitors are still finishing their rounds.\\! Wait here until they're ready for you."
+                "\\n<Carla>Các thí sinh còn lại vẫn đang hoàn thành vòng thi của mình.\\! Cậu nên đợi ở đây cho đến khi tới lượt mình!"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
@@ -537,7 +522,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Former Competitor>Good work out there rookie.\\! I had to throw in the towel but atleast I kept my life."
+                "\\n<Thí sinh>Làm tốt lắm tân binh.\\! Mặc dù phải bỏ cuộc nhưng ít ra thì tôi đã giữ lại được mạng sống."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -545,7 +530,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Former Competitor>Don't get cocky though.\\! After your round was over another competitor came in."
+                "\\n<Thí sinh>Tôi khuyên cậu đừng nên tự mãn.\\! Sau khi vòng thi đấu của cậu kết thúc thì có một thí sinh khác tiếp tục..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -553,21 +538,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Former Competitor>I didn't see it myself but supposedly he decimated the zombies like it was nothin'."
+                "\\n<Thí sinh>Mặc dù tôi không tận mắt chứng kiến nhưng anh ta được cho là đã tiêu diệt bọn Zombie trong vòng một nốt nhạc."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Former Competitor>Keep an eye out."]
+              "parameters": ["\\n<Thí sinh>Cậu nên cẩn thận với anh ta."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Carla>Hey shrimp!"]
+              "parameters": ["\\n<Carla>Này \\n[1]!"]
             },
             {
               "code": 205,
@@ -600,9 +585,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Carla>They need you back out there!\\! Get a move on quick!"
-              ]
+              "parameters": ["\\n<Carla>Tới lượt cậu rồi đó!\\! Nhanh lên nào!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -669,7 +652,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>What are you thinkin' shrimp?!\\! You can't just leave the tournament now!"
+                "\\n<Carla>Cậu đang tính làm gì đấy?!\\! Bây giờ cậu chưa được rời khỏi cuộc thi!"
               ]
             },
             {
@@ -773,7 +756,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>Hey!\\! You can't just walk out there when it's not your turn."
+                "\\n<Carla>Này!\\! Cậu không được bước ra ngoài đó khi chưa tới lượt mình."
               ]
             },
             {
@@ -867,9 +850,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Broken Competitor>I'm good...\\! I just need a minute..."
-              ]
+              "parameters": ["\\n<Thí sinh>Tôi vẫn ổn...\\! Để tôi yên đi..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -917,9 +898,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Broken Competitor>I'm good...\\! I just need a minute..."
-              ]
+              "parameters": ["\\n<Thí sinh>Tôi vẫn ổn...\\! Để tôi yên đi..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1024,7 +1003,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>Wait right here shrimp.\\! Violet will be here shortly to congratulate you."
+                "\\n<Carla>Cậu cứ đứng đợi ở đây.\\! Lát nữa Violet sẽ đến để chức mừng cậu."
               ]
             },
             {
@@ -1190,26 +1169,28 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A talented fighter and you're cute?"]
+              "parameters": [
+                "Chà, một chiến binh tài năng và cũng khá là dễ thương?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well aren't you a delicious treat!"]
+              "parameters": ["Không biết mùi vị sẽ như thế nào đây?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["N-Nice to meet you Miss Violet."]
+              "parameters": ["Rất vui được gặp cô, cô Violet."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "No need to be formal dear.\\! \\BST[5]Violet will do just fine..."
+                "Không nhất thiết phải lịch sự như thế đâu.\\! \\BST[5]Em cứ gọi chị Violet là được..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
@@ -1217,63 +1198,63 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A new above ground competitor showing up and besting my tournament."
+                "Một người không đến từ Thế giới ngầm mà lại có thể dành chức vô địch ở giải đấu của chị."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Today has certainly been full of surprises."]
+              "parameters": ["Hôm nay đúng là có nhiều điều bất ngờ thật."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well?\\! What brings you down to my district?"]
+              "parameters": [
+                "Chà?\\! Vậy sao em lại xuống dưới này thế, \\n[1]?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I came here with my friend to learn more about what's happening in Crimson City."
+                "Em xuống đây để tìm hiểu thêm về những gì đang xảy ra ở Thành phố Crimson."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have a small area above ground with survivors."]
+              "parameters": [
+                "Hiện em đang quản lý một khu vực nhỏ trên mặt đất cùng với những người may mắn còn sống."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The zombies...\\! \\BST[1]And yet you still stand."
+                "Trên đó đầy rẫy Zombie...\\! \\BST[1]Mà em vẫn có thể xoay sở được?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The other survivors are all women, correct?"]
+              "parameters": [
+                "Những người may mắn còn sống đó đều là phụ nữ, đúng không?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Yup!"] },
+            { "code": 401, "indent": 0, "parameters": ["Đúng ạ!"] },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Lucky you.\\! Or perhaps they're the lucky ones."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "But don't even think about bringing them down here."
+                "Em may mắn thật đó.\\! Không...\\! Chính họ mới là những người may mắn."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
@@ -1281,21 +1262,29 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They'll be much safer in your care than down here."
+                "Nhưng chị khuyên em không nên nghĩ đến việc mang họ xuống đây."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Dưới sự chăm sóc của em thì ở trên đó họ sẽ an toàn hơn nhiều so với dưới này. "
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That's what I've been hearing..."]
+              "parameters": ["Vâng, có nhiều người cũng nói với em như thế..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Can you at least tell me more about what's been going on in the city?"
+                "Vậy chị có thể nói cho em biết thêm về những gì đang xảy ra trong thành phố được không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
@@ -1303,7 +1292,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This isn't the place to be discussing such serious matters."
+                "Đây không phải là nơi để thảo luận về những vấn đề nghiêm trọng như vậy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
@@ -1311,7 +1300,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The point of my visitation was to congratulate you on your tournament win."
+                "Dù sao thì mục đích chị đến đây chỉ là để chúc mừng em đã giành chức vô địch thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
@@ -1319,29 +1308,31 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And the reward for winning my cup is a special service from my girls but..."
+                "Và giải thưởng của em là một 'dịch vụ' đặc biệt từ các cô gái của chị nhưng..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I think I want you all to myself."]
+              "parameters": [
+                "Sau khi gặp em thì không hiểu sao chị lại muốn tự mình làm chuyện đó."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Come and find me in my residence."]
+              "parameters": ["Chắc là em biết nơi ở của chị rồi, đúng chứ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["My guards will be expecting your arrival."]
+              "parameters": ["Nhớ phải đến tìm chị đấy!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I'll be waiting."] },
+            { "code": 401, "indent": 0, "parameters": ["Chị sẽ đợi~"] },
             { "code": 213, "indent": 0, "parameters": [8, 4, true] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },

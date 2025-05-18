@@ -171,7 +171,7 @@
     null,
     {
       "id": 1,
-      "name": "Meredith Couch",
+      "name": "\\n[2] Couch",
       "note": "<Hitbox Left: 1>",
       "pages": [
         {
@@ -433,20 +433,33 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Breaking news!\\! Rescue operations for the Camp Zomi crisis have officially reached "
+                "Tin nóng!\\! Các hoạt động cứu hộ cho cuộc khủng hoảng Trại Zomi chính thức đạt đến"
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["two-months of ongoing efforts."]
+              "parameters": ["hai tháng nỗ lực liên tục."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A few members of the rescue team responded for comment about the situation."
+                "Một vài thành viên của đội cứu hộ đã trả lời phỏng vấn về tình hình."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Sương mù bao phủ hòn đảo vẫn còn quá dày đặc"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "để có thể đi qua.\\! Nó gần như một rào cản không thể xuyên thủng."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -454,29 +467,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The fog surrounding the island still remains too thick "
+                "Không có bất kỳ liên lạc nào từ những người dân Zomi bị mắc kẹt, bao gồm cả Thị trưởng Talia của Thành phố Crimson, nhiều"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to pass through.\\! It's almost like an inpenetrable barrier."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Without any communication from the stranded Zomi occupants, including Crimson City's very own Mayor Talia, many "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "research experts are speculating that survivors may be limited."
+                "các chuyên gia nghiên cứu đang suy đoán rằng số người sống sót có thể rất ít."
               ]
             },
             {
@@ -494,20 +492,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Despite the grim outlook, the brave men and women of the rescue team continue to work day and night "
+                "Bất chấp viễn cảnh ảm đạm, những người đàn ông và phụ nữ dũng cảm của đội cứu hộ vẫn tiếp tục làm việc ngày đêm"
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["in an attempt to breach the fog."]
+              "parameters": ["trong nỗ lực phá vỡ lớp sương mù."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rescuers remain hopeful that they can overcome this tragedy.\\! At this time, hope is the best shot we have..."
+                "Lực lượng cứu hộ vẫn hy vọng họ có thể vượt qua thảm kịch này.\\! Vào thời điểm này, hy vọng là cơ hội tốt nhất chúng ta có..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -515,7 +513,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We will be here to provide any updates on the situation should they arise."
+                "Chúng tôi sẽ ở đây để cung cấp bất kỳ thông tin cập nhật nào về tình hình nếu có."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -532,20 +530,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In unrelated news, CEO of Crimson City Energy, Norman T. Reeves is expected to hold a "
+                "Trong một tin tức không liên quan, Giám đốc điều hành của Crimson City Energy, Norman T. Reeves dự kiến sẽ tổ chức một"
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["press conference later this week."]
+              "parameters": ["cuộc họp báo vào cuối tuần này."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "How terrible!\\! To think they haven't made any progress after two whole months."
+                "Thật kinh khủng!\\! Nghĩ đến việc họ đã không đạt được bất kỳ tiến bộ nào sau hai tháng trời."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
@@ -553,7 +551,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Camp Zomi right?\\! \\BST[7]Yeah... \\!It's really scary to think about."
+                "Trại Zomi phải không?\\! \\BST[7]Vâng... \\!Thật đáng sợ khi nghĩ về nó."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -561,7 +559,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*sigh*\\! I hope all of those people on the island are okay..."
+                "*thở dài*\\! Mẹ hy vọng tất cả những người trên đảo đều ổn..."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -570,27 +568,29 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hmm...\\! It's gotten awfully quiet upstairs."]
+              "parameters": ["Hmm...\\! Tầng trên trở nên yên tĩnh lạ thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It sounds like maybe he finished unpacking!"]
+              "parameters": [
+                "Nghe có vẻ như có lẽ con trai đã dọn dẹp xong rồi!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you really think he did?\\! \\BST[1]I bet he just fell asleep again."
+                "Mẹ có thật sự nghĩ vậy không?\\! \\BST[1]Con cá là anh ấy lại ngủ quên rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm afraid you're probably correct."]
+              "parameters": ["Mẹ e rằng con có lẽ đúng."]
             },
             {
               "code": 355,
@@ -637,58 +637,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sweetieee!\\! \\BST[6]Are you awake up there young man?!"
+                "Con yếu ơi!\\! \\BST[6]Cậu trai trẻ kia dậy chưa đấy?!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [61, 61, 1] },
             { "code": 201, "indent": 0, "parameters": [0, 4, 11, 6, 0, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 3,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": true,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            { "code": 320, "indent": 0, "parameters": [5, "Maid"] },
-            { "code": 320, "indent": 0, "parameters": [8, "Client"] },
-            { "code": 320, "indent": 0, "parameters": [11, "me"] },
+            { "code": 0, "indent": 0, "parameters": [] },
             { "code": 203, "indent": 0, "parameters": [5, 0, 13, 8, 4] },
             { "code": 230, "indent": 0, "parameters": [10] },
             {
@@ -743,28 +699,28 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There you are!\\! \\BST[4]We were worried you fell asleep again."
+                "Con đây rồi!\\! \\BST[4]Mẹ cứ lo con lại ngủ quên mất."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Did you finish unpacking, \\n[1]?"]
+              "parameters": ["Con dọn xong đồ chưa, \\n[1]?"]
             },
             { "code": 112, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Enter the name that you call her."]
+              "parameters": ["Nhập tên mà con gọi cô ấy."]
             },
             { "code": 230, "indent": 1, "parameters": [5] },
             { "code": 303, "indent": 1, "parameters": [2, 8] },
-            { "code": 111, "indent": 1, "parameters": [4, 2, 1, "Mom"] },
-            { "code": 320, "indent": 2, "parameters": [5, "Mother"] },
-            { "code": 320, "indent": 2, "parameters": [8, "Son"] },
-            { "code": 320, "indent": 2, "parameters": [11, "Mommy"] },
+            { "code": 111, "indent": 1, "parameters": [4, 2, 1, "Mẹ"] },
+            { "code": 320, "indent": 2, "parameters": [5, "Mẹ"] },
+            { "code": 320, "indent": 2, "parameters": [8, "Con trai"] },
+            { "code": 320, "indent": 2, "parameters": [11, "Mẹ ơi"] },
             { "code": 113, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -772,7 +728,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["What is her relationship to you?"]
+              "parameters": ["Mối quan hệ của cô ấy với con là gì?"]
             },
             { "code": 230, "indent": 2, "parameters": [5] },
             { "code": 303, "indent": 2, "parameters": [5, 8] },
@@ -780,7 +736,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["And what is your relationship to her?"]
+              "parameters": ["Và mối quan hệ của con với cô ấy là gì?"]
             },
             { "code": 230, "indent": 2, "parameters": [5] },
             { "code": 303, "indent": 2, "parameters": [8, 8] },
@@ -789,18 +745,18 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You call her \\n[2]. She is your \\n[5] and you are her \\n[8].\\! Is this correct?"
+                "Con gọi cô ấy là \\n[2]. Cô ấy là \\n[5] của con và con là \\n[8] của cô ấy.\\! Đúng không?"
               ]
             },
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Vâng", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 2, "parameters": [0, "Vâng"] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -812,74 +768,74 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yup!\\! \\BST[1]I finished all of my packing \\n[2]!"
+                "Vâng ạ!\\! \\BST[1]Con dọn xong hết đồ rồi \\n[2]!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I definitely didn't doze off or anything."]
+              "parameters": ["Con chắc chắn không có ngủ gật hay gì đâu ạ."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Good.\\! What do you think about the new house now that we're settled in?"
+                "Tốt.\\! Con nghĩ sao về ngôi nhà mới bây giờ khi chúng ta đã ổn định rồi?"
               ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["I love it!", "It's alright..."], -1, 0, 2, 0]
+              "parameters": [["Con thích lắm!", "Cũng tàm tạm..."], -1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "I love it!"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Con thích lắm!"] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's pretty awesome!\\! \\BST[1]I really like my new room!"
+                "Tuyệt vời luôn ạ!\\! \\BST[1]Con thích phòng mới của con lắm!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Oh, that makes me so happy to hear sweetheart!"]
+              "parameters": ["Ôi, nghe con nói mẹ vui quá con yêu!"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Moving to Crimson City will be like a brand new adventure!"
+                "Chuyển đến Thành phố Crimson sẽ như một cuộc phiêu lưu hoàn toàn mới!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "It's alright..."] },
+            { "code": 402, "indent": 0, "parameters": [1, "Cũng tàm tạm..."] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "It's okay.\\! I miss the old apartment quite a bit still."
-              ]
+              "parameters": ["Cũng được ạ.\\! Con vẫn nhớ căn hộ cũ nhiều lắm."]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Aww, I'm sorry sweetie.\\! \\BST[1]Just give it some more time."
+                "Ôi, mẹ xin lỗi con yêu.\\! \\BST[1]Cứ cho thêm chút thời gian nữa nhé."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I'm sure you'll come around to your new room!"]
+              "parameters": [
+                "Mẹ chắc chắn con sẽ thích phòng mới của con thôi!"
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -888,7 +844,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hey, uhh-\\| Not to sound impatient or anything but can we discuss dinner?"
+                "Ê, ờ-\\| Không phải là em mất kiên nhẫn hay gì đâu nhưng chúng ta nói về bữa tối được không?"
               ]
             },
             { "code": 204, "indent": 0, "parameters": [6, 3, 2] },
@@ -898,7 +854,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Enter the name that you call her."]
+              "parameters": ["Nhập tên mà con gọi cô ấy."]
             },
             { "code": 230, "indent": 1, "parameters": [5] },
             { "code": 303, "indent": 1, "parameters": [3, 8] },
@@ -906,13 +862,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["What is her relationship to you?"]
+              "parameters": ["Mối quan hệ của cô ấy với con là gì?"]
             },
             { "code": 230, "indent": 1, "parameters": [5] },
             { "code": 303, "indent": 1, "parameters": [6, 8] },
-            { "code": 111, "indent": 1, "parameters": [4, 6, 1, "Sister"] },
-            { "code": 320, "indent": 2, "parameters": [9, "Brother"] },
-            { "code": 320, "indent": 2, "parameters": [12, "Sis"] },
+            { "code": 111, "indent": 1, "parameters": [4, 6, 1, "Chị gái"] },
+            { "code": 320, "indent": 2, "parameters": [9, "Anh trai"] },
+            { "code": 320, "indent": 2, "parameters": [12, "Chị"] },
             { "code": 113, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -920,7 +876,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["And what is your relationship to her?"]
+              "parameters": ["Và mối quan hệ của con với cô ấy là gì?"]
             },
             { "code": 230, "indent": 2, "parameters": [5] },
             { "code": 303, "indent": 2, "parameters": [9, 8] },
@@ -929,18 +885,18 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Her name is \\n[3]. She is your \\n[6] and you are her \\n[9].\\! Is this correct?"
+                "Tên cô ấy là \\n[3]. Cô ấy là \\n[6] của con và con là \\n[9] của cô ấy.\\! Đúng không?"
               ]
             },
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Vâng", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 2, "parameters": [0, "Vâng"] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -952,7 +908,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Our pantry is still empty and my stomach is starting to go crazy..."
+                "Tủ đựng thức ăn của chúng ta vẫn trống trơn và bụng em bắt đầu réo ầm ĩ rồi..."
               ]
             },
             { "code": 204, "indent": 0, "parameters": [4, 3, 2] },
@@ -979,9 +935,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "That's right!\\! I completely forgot about dinner!"
-              ]
+              "parameters": ["Đúng rồi!\\! Mẹ hoàn toàn quên mất bữa tối!"]
             },
             {
               "code": 205,
@@ -1006,7 +960,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've been so busy unpacking that I forgot to shop for meals."
+                "Mẹ bận rộn dọn dẹp đến nỗi quên cả việc đi chợ mua đồ ăn rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
@@ -1014,7 +968,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If I give you some money, do you think you could go to the store for us \\n[1]?"
+                "Nếu mẹ đưa cho con ít tiền, con có nghĩ là con có thể đi đến cửa hàng giúp chúng ta được không \\n[1]?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
@@ -1022,22 +976,22 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It will be a great way for you to learn about the layout of our new neighborhood."
+                "Đó sẽ là một cách tuyệt vời để con làm quen với bố cục khu phố mới của chúng ta đấy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ya, I suppose I could do that."]
+              "parameters": ["Vâng, con nghĩ con có thể làm được."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Thank you honey!"] },
+            { "code": 401, "indent": 0, "parameters": ["Cảm ơn con yêu!"] },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Here.\\! You'll need some money before you go."]
+              "parameters": ["Đây.\\! Con sẽ cần ít tiền trước khi đi."]
             },
             { "code": 125, "indent": 0, "parameters": [0, 0, 5] },
             {
@@ -1051,27 +1005,27 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[2] gave you 5 Ƶ."]
+              "parameters": ["\\n[2] đã cho bạn 5 Ƶ."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The nearest convenience store is just to the east of here."
+                "Cửa hàng tiện lợi gần nhất nằm ngay phía đông đây thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Be safe out there, okay?"]
+              "parameters": ["Đi đường cẩn thận nhé con?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I will, I will.\\! I'll be back soon!"]
+              "parameters": ["Vâng ạ, vâng ạ.\\! Con sẽ về sớm thôi!"]
             },
             {
               "code": 205,
@@ -1238,36 +1192,36 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Breaking news!\\! Rescue operations for the Camp Zomi crisis has officially reached a "
+                "Tin nóng!\\! Các hoạt động cứu hộ cho cuộc khủng hoảng Trại Zomi chính thức đạt đến"
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["two-months of ongoing efforts."]
+              "parameters": ["hai tháng nỗ lực liên tục."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rescuers have commented that the fog surrounding the island remains too thick "
+                "Lực lượng cứu hộ đã bình luận rằng sương mù bao phủ hòn đảo vẫn còn quá dày đặc"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["to pass through."] },
+            { "code": 401, "indent": 0, "parameters": ["để có thể đi qua."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Without any communication from the Zomi occupants, including Mayor Talia of Crimson City, many "
+                "Không có bất kỳ liên lạc nào từ những người dân Zomi, bao gồm cả Thị trưởng Talia của Thành phố Crimson, nhiều"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "research experts are speculating that survivors may be limited."
+                "các chuyên gia nghiên cứu đang suy đoán rằng số người sống sót có thể rất ít."
               ]
             },
             { "code": 222, "indent": 0, "parameters": [] },
@@ -1279,33 +1233,33 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Despite the grim outlook the brave men and women of the rescue team continue to work day and night "
+                "Bất chấp viễn cảnh ảm đạm, những người đàn ông và phụ nữ dũng cảm của đội cứu hộ vẫn tiếp tục làm việc ngày đêm"
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["in an attempt to breach the fog."]
+              "parameters": ["trong nỗ lực phá vỡ lớp sương mù."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In unrelated news, CEO of Crimson City Energy, Norman T. Reeves is expected to hold a "
+                "Trong một tin tức không liên quan, Giám đốc điều hành của Crimson City Energy, Norman T. Reeves dự kiến sẽ tổ chức một"
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["press conference later this week."]
+              "parameters": ["cuộc họp báo vào cuối tuần này."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "How terrible!\\! To think they haven't made any progress after two whole months."
+                "Thật kinh khủng!\\! Nghĩ đến việc họ đã không đạt được bất kỳ tiến bộ nào sau hai tháng trời."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
@@ -1313,7 +1267,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Camp Zomi right?\\! \\BST[7]Yeah... \\!It's a real shame."
+                "Trại Zomi phải không?\\! \\BST[7]Vâng... \\!Thật đáng tiếc."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -1321,7 +1275,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*sigh*\\! I hope all of those people on the island are okay..."
+                "*thở dài*\\! Mẹ hy vọng tất cả những người trên đảo đều ổn..."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1329,27 +1283,29 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hm, it's awfully quiet upstairs."]
+              "parameters": ["Hm, tầng trên yên tĩnh quá."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It sounds like he might have finished unpacking!"]
+              "parameters": [
+                "Nghe có vẻ như con trai có lẽ đã dọn dẹp xong rồi!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you think he did?\\! \\BST[1]I bet he just fell asleep again."
+                "Mẹ có nghĩ vậy không?\\! \\BST[1]Con cá là anh ấy lại ngủ quên rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm afraid you're probably correct."]
+              "parameters": ["Mẹ e rằng con có lẽ đúng."]
             },
             {
               "code": 355,
@@ -1396,7 +1352,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sweetieee!\\! \\BST[6]Are you awake up there young man?!"
+                "Sweetieee!\\! \\BST[6]Con trai yêu quý!\\! Con tỉnh chưa đấy?!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1426,7 +1382,7 @@
     },
     {
       "id": 5,
-      "name": "Meredith Walking",
+      "name": "\\n[2] Walking",
       "note": "",
       "pages": [
         {
@@ -1618,7 +1574,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I shouldn't waste any more time.\\! \\BST[1]I need to head to the C-Store."
+                "Mình không nên lãng phí thêm thời gian nữa.\\! \\BST[1]Mình cần đến Cửa hàng tiện lợi."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1677,7 +1633,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I shouldn't waste any more time.\\! \\BST[1]I need to head to the C-Store."
+                "Mình không nên lãng phí thêm thời gian nữa.\\! \\BST[1]Mình cần đến Cửa hàng tiện lợi."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

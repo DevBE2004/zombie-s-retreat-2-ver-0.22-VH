@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Sewer",
+  "displayName": "Cống Ngầm",
   "encounterList": [],
   "encounterStep": 30,
   "height": 22,
@@ -800,7 +800,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's the access terminal."]
+              "parameters": [
+                "Đợi chị một chút...\\! Ở đây có một cái cửa điện tử."
+              ]
             },
             {
               "code": 205,
@@ -860,7 +862,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You can unlock the way through here?"]
+              "parameters": ["Chị có thể mở khóa đường đi ở đây à?"]
             },
             {
               "code": 250,
@@ -928,7 +930,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The perks of being a detective!"]
+              "parameters": ["Ừ, dù sao thì chị cũng là một mật vụ mà!"]
             },
             {
               "code": 205,
@@ -952,24 +954,28 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Could you get me into the Z-Cola store?!"]
+              "parameters": ["Vậy chị đưa em vào cửa hàng Z-Cola được không ạ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Z-Cola?!\\! That stuff is absolutely horrid for you..."
+                "Z-Cola?!\\! Thứ đó không tốt cho sức khỏe của em đâu..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You...\\! \\BST[4]You like that stuff?!"]
+              "parameters": ["Em...\\! \\BST[4]Em thích uống thứ đó à?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It's delicious..."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Vâng, nó ngon lắm... "]
+            },
             { "code": 213, "indent": 0, "parameters": [11, 6, true] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1177,7 +1183,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Here.\\! I'll open the gate again."]
+              "parameters": ["Chờ chút.\\! Để chị mở cổng cho."]
             },
             {
               "code": 250,

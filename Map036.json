@@ -159,13 +159,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We can't leave already!"]
+              "parameters": ["Chúng ta chưa thể rời đi lúc này được!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We haven't uncovered their recipe secrets yet."]
+              "parameters": [
+                "Còn một đống công thức nấu ăn đang đợi chị em mình khám phá đó!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -272,13 +274,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We can't leave already!"]
+              "parameters": ["Chúng ta chưa thể rời đi lúc này được!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We haven't uncovered their recipe secrets yet."]
+              "parameters": [
+                "Còn một đống công thức nấu ăn đang đợi chị em mình khám phá đó!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -404,14 +408,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this Sweets Stash?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 117, "indent": 1, "parameters": [96] },
@@ -423,12 +427,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The Sweets Stash went empty..."]
+              "parameters": ["Điểm chứa đồ ngọt này đã trống không..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -854,7 +858,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -985,7 +989,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -1276,7 +1280,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -1409,7 +1413,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -1700,7 +1704,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -1834,7 +1838,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -2074,21 +2078,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*Grr*\\! More zombies!"]
+              "parameters": ["*Grr*\\! Nhiều Zombie quá!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n[1]...\\! Would you be able to dispose of them?"
-              ]
+              "parameters": ["\\n[1]...\\! Xử lý bọn chúng cho chị nào?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*sigh*\\! Easier said than done but I'll try..."]
+              "parameters": ["*Haizz*\\! Được rồi, em sẽ cố..."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
@@ -2182,20 +2184,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The coast looks clear!"]
+              "parameters": ["Wow!\\! Bọn chúng chết hết rồi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You're the best, \\n[1]!"]
+              "parameters": ["Em giỏi thật đó, \\n[1]!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now I just have to find out where they're hiding their secrets..."
+                "Giờ chỉ cần tìm ra chỗ họ giấu công thức là xong..."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2248,7 +2250,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A-ha!\\! \\BST[1]I found it!"]
+              "parameters": ["A-ha!\\! \\BST[1]Chị tìm thấy rồi!"]
             },
             {
               "code": 205,
@@ -2281,7 +2283,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That's great!\\! \\BST[1]What does it say?"]
+              "parameters": ["Tuyệt quá!\\! \\BST[1]Chị tìm thấy gì thế?"]
             },
             {
               "code": 205,
@@ -2332,35 +2334,41 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a bunch of recipes in here."]
+              "parameters": ["Ở đây có một đống công thức nấu ăn..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But this page looks especially juicy!"]
+              "parameters": ["Nhưng chị ấn tượng nhất với món này!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A Sweets Stash?!\\! Why didn't I think of that?!"]
+              "parameters": [
+                "Oh, điểm chứa đồ ngọt?!\\! Sao chị không nghĩ ra nó sớm hơn nhỉ?!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["A.. Sweets Stash?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Điểm chứa... đồ ngọt?!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A super secret stash filled with some of the tastiest treats!"
+                "Ừ, đó là nơi chứa đầy những nguyên liệu mà chị cần!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Look.\\! They have one right over there."]
+              "parameters": ["Em nhìn đi.\\! Họ có một cái ngay đằng kia."]
             },
             {
               "code": 205,
@@ -2424,21 +2432,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You know those salvage spots that you've been getting supplies from?"
+                "Em biết mấy điểm loot đồ ở ngoài kia mà đúng không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A Sweets Stash is sort of like that!"]
+              "parameters": ["Điểm chứa đồ ngọt cũng tương tự như thế!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They're chock full of tasty goodies that I can use to make shakes with."
+                "Chỉ khác ở chỗ là nó chứa những nguyên liệu mà chị có thể dùng để làm món sữa lắc."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -2446,7 +2454,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I think I get it.\\! So I can search for ingredients in spots like these?"
+                "Em hiểu rồi.\\! Vậy từ bây giờ em có thể tìm nguyên liệu cho chị ở chỗ này đúng không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
@@ -2454,37 +2462,36 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's right.\\! \\BST[6]Although maybe you should bring me along."
+                "Ừ.\\! \\BST[6]Nhưng tốt hơn hết thì em vẫn nên đưa chị đi cùng."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Your sweet tooth isn't as good as mine..."]
+              "parameters": ["Khẩu vị của em không tốt bằng chị..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll probably be able to find some extra sweets when we search "
+                "Nên chị có thể tìm thêm được một vài nguyên liệu khác trong trường hợp em không nhận ra được!"
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["these spots!"] },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Let's check out this stash and then head out of here."
+                "Chúng ta kiểm tra cái kho này và sau đó rời khỏi đây thôi...!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Before some more zombies come around..."]
+              "parameters": ["Trước khi mấy con Zombie khác tràn vô..."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 211, "indent": 0, "parameters": [1] },
@@ -2497,14 +2504,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You've unlocked Sweets Stashes!\\! These function like salvage "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "points but only for Stacy's milkshake ingredients."
+                "Bạn đã mở khóa Điểm chứa đồ ngọt!\\! Chức năng này hoạt động tương tự như điểm loot đồ nhưng chỉ dành cho nguyên liệu làm sữa tắc của Stacy!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 0, 1] },
@@ -2512,13 +2512,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sweets Stashes aren't as crucial for survival but milkshakes "
+                "Điểm chứa đồ ngọt không đóng vai trò quan trọng trong việc sinh tồn nhưng nó có thể giúp bạn thuận lợi hơn trong việc khám phá."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["may give you an upper hand when exploring."]
             },
             {
               "code": 355,
@@ -2726,7 +2721,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Food (Fresh)!"]
+              "parameters": ["Tìm được Thực Phẩm (Tươi)!"]
             },
             { "code": 126, "indent": 0, "parameters": [13, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -2743,64 +2738,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Food (Fresh)!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [13, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -2887,7 +2824,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Nước!"] },
             { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2903,60 +2840,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true

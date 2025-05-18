@@ -398,7 +398,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm thu hồi đã hết..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
@@ -563,7 +563,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm thu hồi đã hết..."]
             },
             { "code": 122, "indent": 3, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 3, "parameters": [21, 21, 0, 0, 0] },
@@ -5035,7 +5035,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found a bottle of Z-Cola!"]
+              "parameters": ["Tìm thấy một chai Z-Cola!"]
             },
             {
               "code": 205,
@@ -5059,7 +5059,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Z-Cola?!\\! \\BST[2]My favorite!"]
+              "parameters": ["Z-Cola?!\\! \\BST[2]Yêu thích của tôi.!"]
             },
             { "code": 111, "indent": 0, "parameters": [0, 22, 1] },
             { "code": 122, "indent": 1, "parameters": [19, 19, 1, 0, 1] },
@@ -5116,7 +5116,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Your internal organs survived the rush of sugar and questionable ingredients.\\! Congratulations!"
+              "Các cơ quan nội tạng của bạn đã sống sót sau cơn sốt đường và các thành phần nghi ngờ. Chúc mừng!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -5126,7 +5126,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Your Max HP has increased!"]
+              "parameters": ["Máu tối đa của bạn đã tăng lên!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },

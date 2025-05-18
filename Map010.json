@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "West Meadow Apartments",
+  "displayName": "Chung cư West Meadow",
   "encounterList": [],
   "encounterStep": 30,
   "height": 26,
@@ -1091,12 +1091,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Wait, \\n[1]!"] },
+            { "code": 401, "indent": 0, "parameters": ["Chờ đã, \\n[1]!"] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm still not done searching just yet."]
+              "parameters": ["Dì vẫn chưa tìm đồ xong."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2051,14 +2051,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 111, "indent": 1, "parameters": [1, 17, 0, 1, 1] },
@@ -2084,12 +2084,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm này đã trống không..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -2158,14 +2158,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 112, "indent": 1, "parameters": [] },
@@ -2187,59 +2187,43 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Gained some Food (Grain)!"]
+              "parameters": ["Tìm được Thực Phẩm (Ngũ Cốc)!"]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
             { "code": 111, "indent": 3, "parameters": [1, 21, 0, 18, 1] },
             { "code": 126, "indent": 4, "parameters": [5, 0, 0, 1] },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 4,
-              "parameters": ["Gained some Medicinal Herb!"]
-            },
+            { "code": 401, "indent": 4, "parameters": ["Tìm được Thảo Dược!"] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 411, "indent": 3, "parameters": [] },
             { "code": 111, "indent": 4, "parameters": [1, 21, 0, 15, 1] },
             { "code": 126, "indent": 5, "parameters": [1, 0, 0, 1] },
             { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 5,
-              "parameters": ["Gained some Scrap Metal!"]
-            },
+            { "code": 401, "indent": 5, "parameters": ["Tìm được Kim Loại!"] },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 411, "indent": 4, "parameters": [] },
             { "code": 111, "indent": 5, "parameters": [1, 21, 0, 11, 1] },
             { "code": 126, "indent": 6, "parameters": [2, 0, 0, 1] },
             { "code": 101, "indent": 6, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 6,
-              "parameters": ["Gained some Scrap Wood!"]
-            },
+            { "code": 401, "indent": 6, "parameters": ["Tìm được Gỗ!"] },
             { "code": 0, "indent": 6, "parameters": [] },
             { "code": 411, "indent": 5, "parameters": [] },
             { "code": 111, "indent": 6, "parameters": [1, 21, 0, 8, 1] },
             { "code": 126, "indent": 7, "parameters": [29, 0, 0, 1] },
             { "code": 101, "indent": 7, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 7, "parameters": ["Gained some String!"] },
+            { "code": 401, "indent": 7, "parameters": ["Tìm được Cuộn Dây!"] },
             { "code": 0, "indent": 7, "parameters": [] },
             { "code": 411, "indent": 6, "parameters": [] },
             { "code": 111, "indent": 7, "parameters": [1, 21, 0, 6, 1] },
             { "code": 126, "indent": 8, "parameters": [3, 0, 0, 1] },
             { "code": 101, "indent": 8, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 8,
-              "parameters": ["Gained some Scrap Brick!"]
-            },
+            { "code": 401, "indent": 8, "parameters": ["Tìm được Gạch!"] },
             { "code": 0, "indent": 8, "parameters": [] },
             { "code": 411, "indent": 7, "parameters": [] },
             { "code": 126, "indent": 8, "parameters": [6, 0, 0, 1] },
             { "code": 101, "indent": 8, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 8, "parameters": ["Gained some Water!"] },
+            { "code": 401, "indent": 8, "parameters": ["Tìm được Nước!"] },
             { "code": 0, "indent": 8, "parameters": [] },
             { "code": 412, "indent": 7, "parameters": [] },
             { "code": 0, "indent": 7, "parameters": [] },
@@ -2268,7 +2252,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm này đã trống không..."]
             },
             { "code": 122, "indent": 3, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 3, "parameters": [21, 21, 0, 0, 0] },
@@ -2278,7 +2262,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 413, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -2413,14 +2397,14 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I have to make sure the coast is clear first!"]
+              "parameters": [
+                "Trước tiên mình phải giết hết mấy con Zombie ngoài hành lang đã!"
+              ]
             },
-            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2502,13 +2486,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Go away you disgusting monsters!"]
+              "parameters": ["Cút đi lũ quái vật gớm ghiếc!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[7] \\n[4]?!\\! It's me.\\! \\n[1]!"]
+              "parameters": ["Dì \\n[4]?!\\! Là con.\\! \\n[1] đây!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["\\n[1]?!"] },
@@ -2543,19 +2527,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Is that really you?!"]
+              "parameters": ["Đó thực sự là con sao?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I've cleared out the hallway.\\! Can I come in?"]
+              "parameters": [
+                "Con đã giết hết mấy con Zombie ngoài hành lang rồi.\\! Con vào trong được chứ?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Of course!\\! Come in, quickly!"]
+              "parameters": ["Tất nhiên rồi!\\! Vào đây, nhanh lên!"]
             },
             {
               "code": 250,
@@ -2752,73 +2738,81 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're actually safe!\\! \\BST[1]What a relief to find someone still alive."
+                "May là con vẫn an toàn!\\! \\BST[1]Thật nhẹ nhõm khi biết ở ngoài kia vẫn còn có người sống sót."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's good to know you're safe too \\n[7] \\n[4]."]
+              "parameters": [
+                "Con cũng thế. \\!Thật tốt khi biết dì vẫn an toàn, dì \\n[4]."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Is this your home?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đây là nhà của dì à?"]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Ah! N-No it's-"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah! Không phả-"] },
             { "code": 230, "indent": 0, "parameters": [40] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...Yes.\\! I know it's probably not as big as you'd expect but-"
+                "...Ừ.\\! Dì biết là nó không được to như con mong đợi nhưng-"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You've kept this place so neat and cozy!"]
+              "parameters": ["Nơi này thật là gọn gàng và ấm cúng!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I like it!"] },
+            { "code": 401, "indent": 0, "parameters": ["Con thích nó!"] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You do?!\\! \\BST[1]I'm happy you think that."]
+              "parameters": ["Thật sao?!\\! \\BST[1]Mừng là con nghĩ thế."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But, I think it's better if you come with me."]
+              "parameters": [
+                "Nhưng mà, con nghĩ bây giờ tốt nhất là dì nên đi theo con..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We have a townhome where it's much safer!"]
+              "parameters": ["Con biết một nơi an toàn hơn chỗ này nhiều!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[2] and \\n[3] are living there too."]
+              "parameters": ["Mẹ con và chị \\n[3] cũng sống ở đó."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister!\\! Oh, I was worried sick thinking about her."
+                "Chị gái vẫn còn sống!\\! Oh, tốt quá rồi. \\!Dì lo cho chị ấy chết đi được!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Okay, I'm ready.\\! Lead the way!"]
+              "parameters": ["Okay, dì sẵn sàng rồi.\\! Con dẫn đường đi!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -2915,13 +2909,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Go away you disgusting monsters!"]
+              "parameters": ["Cút đi lũ quái vật gớm ghiếc!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[7] \\n[4]?!\\! It's me.\\! \\n[1]!"]
+              "parameters": ["Dì \\n[4]?!\\! Là con.\\! \\n[1] đây!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["\\n[1]?!"] },
@@ -2956,19 +2950,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Is that really you?!"]
+              "parameters": ["Đó thực sự là con sao?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I've cleared out the hallway.\\! Can I come in?"]
+              "parameters": [
+                "Con đã giết hết mấy con Zombie ngoài hành lang rồi.\\! Con vào trong được chứ?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Of course!\\! Come in, quickly!"]
+              "parameters": ["Tất nhiên rồi!\\! Vào đây, nhanh lên!"]
             },
             {
               "code": 250,
@@ -3176,86 +3172,88 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Olivia!\\! Oh, you're okay!"]
+              "parameters": ["Olivia!\\! Oh, em không sao chứ?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Sis!\\! Oh thank heavens!"]
+              "parameters": ["Chị \\n[2]!\\! Oh tạ ơn trời!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You two are actually safe!\\! \\BST[1]What a relief..."
+                "May là cả hai vẫn an toàn!\\! \\BST[1]Tốt quá rồi..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's good to know you're safe too \\n[7] \\n[4]."]
+              "parameters": [
+                "Con cũng thế. \\!Thật tốt khi biết dì vẫn an toàn, dì \\n[4]."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Is this your home?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đây là nhà của dì à?"]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Ah! N-No it's-"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah! Không phả-"] },
             { "code": 230, "indent": 0, "parameters": [40] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...Yes.\\! I know it's probably not as big as you'd expect but-"
+                "...Ừ.\\! Dì biết là nó không được to như con mong đợi nhưng-"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You've kept this place so neat and cozy!"]
+              "parameters": ["Nơi này thật là gọn gàng và ấm cúng!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I like it!"] },
+            { "code": 401, "indent": 0, "parameters": ["Con thích nó!"] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You do?!\\! \\BST[1]I'm happy you think that."]
+              "parameters": ["Thật sao?!\\! \\BST[1]Mừng là con nghĩ thế."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But it's clearly not safe here.\\! You should come with us."
+                "Hiện tại chúng ta vẫn chưa an toàn hẳn đâu.\\! Đi thôi nào..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We have a new townhome where it's safe!"]
+              "parameters": ["Có một nơi còn an toàn hơn ở đây nhiều!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[3] is there with us too."]
+              "parameters": ["Chị \\n[3] cũng ở đó nữa!"]
             },
+            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Chị nói đúng..."] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I suppose you're right..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Okay, I'm ready.\\! Lead the way!"]
+              "parameters": ["Okay, dì sẵn sàng rồi.\\! Con dẫn đường đi!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3352,13 +3350,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Go away you disgusting monsters!"]
+              "parameters": ["Cút đi lũ quái vật gớm ghiếc!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[7] \\n[4]?!\\! It's me.\\! \\n[1]!"]
+              "parameters": ["Dì \\n[4]?!\\! Là con.\\! \\n[1] đây!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["\\n[1]?!"] },
@@ -3393,19 +3391,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Is that really you?!"]
+              "parameters": ["Đó thực sự là con sao?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I've cleared out the hallway.\\! Can I come in?"]
+              "parameters": [
+                "Con đã giết hết mấy con Zombie ngoài hành lang rồi.\\! Con vào trong được chứ?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Of course!\\! Come in, quickly!"]
+              "parameters": ["Tất nhiên rồi!\\! Vào đây, nhanh lên!"]
             },
             {
               "code": 250,
@@ -3613,88 +3613,96 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[7] \\n[4]!\\! You're safe!"]
+              "parameters": ["Dì \\n[4]!\\! Dì không sao chứ?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[3]!\\! Oh my goodness, you've grown so much!"]
+              "parameters": [
+                "\\n[3] đó à!\\! Ôi trời, con trưởng thành hơn nhiều rồi!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You two are actually safe!\\! \\BST[1]What a relief..."
+                "May là cả hai vẫn an toàn!\\! \\BST[1]Tốt quá rồi..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's good to know you're safe too \\n[7] \\n[4]."]
+              "parameters": [
+                "Con cũng thế. \\!Thật tốt khi biết dì vẫn an toàn, dì \\n[4]."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Is this your home?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đây là nhà của dì à?"]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Ah! N-No it's-"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah! Không phả-"] },
             { "code": 230, "indent": 0, "parameters": [40] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...Yes.\\! I know it's probably not as big as you'd expect but-"
+                "...Ừ.\\! Dì biết là nó không được to như con mong đợi nhưng-"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You've kept this place so neat and cozy!"]
+              "parameters": ["Nơi này thật là gọn gàng và ấm cúng!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I like it!"] },
+            { "code": 401, "indent": 0, "parameters": ["Con thích nó!"] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You do?!\\! \\BST[1]I'm happy you think that."]
+              "parameters": ["Thật sao?!\\! \\BST[1]Mừng là con nghĩ thế."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But it's clearly not safe here.\\! You should come with us."
+                "Hiện tại chúng ta vẫn chưa an toàn hẳn đâu.\\! Đi thôi nào..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["We have a new townhome where it's safe!"]
+              "parameters": ["Có một nơi còn an toàn hơn ở đây nhiều!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[2] is there with us too."]
+              "parameters": ["Cả mẹ con cũng ở đó nữa."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister!\\! Oh, I was worried sick thinking about her."
+                "Chị gái vẫn còn sống!\\! Oh, tốt quá rồi. \\!Dì lo cho chị ấy chết đi được!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Okay, I'm ready.\\! Lead the way!"]
+              "parameters": ["Okay, dì sẵn sàng rồi.\\! Con dẫn đường đi!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -4115,9 +4123,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Okay.\\! I'll only need a minute to search around."
-              ]
+              "parameters": ["Được rồi.\\! Con đợi dì một lát nhé!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [13] },
@@ -4548,7 +4554,11 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Darn. It's locked."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Chết tiệt! Cửa bị khóa rồi."]
+            },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4594,12 +4604,14 @@
           "list": [
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Here's the room."] },
+            { "code": 401, "indent": 0, "parameters": ["Căn phòng đây rồi!"] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The key should still work for this door..."]
+              "parameters": [
+                "Hy vọng chiếc chìa khóa vẫn còn mở được cánh cửa này..."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [45] },
             {
@@ -4611,14 +4623,12 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["And voila!"] },
+            { "code": 401, "indent": 0, "parameters": ["Có thế chứ!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Nothing left to do but check what's past here then."
-              ]
+              "parameters": ["Chúng ta vào trong thôi!"]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -4669,7 +4679,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I shouldn't go in here without \\n[7] \\n[4]."]
+              "parameters": [
+                "Mình không nên vào đó khi không có dì \\n[4] đi cùng."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6792,7 +6804,7 @@
     },
     {
       "id": 21,
-      "name": "Aunt",
+      "name": "Dì",
       "note": "",
       "pages": [
         {
@@ -7162,7 +7174,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["S-Step back!\\! Get away from me!"]
+              "parameters": ["L-Lùi lại!\\! Tránh xa tao ra!"]
             },
             {
               "code": 205,
@@ -7305,26 +7317,22 @@
             { "code": 230, "indent": 0, "parameters": [120] },
             { "code": 213, "indent": 0, "parameters": [-1, 2, true] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Was that..?!"] },
+            { "code": 401, "indent": 0, "parameters": ["Đó là..?!"] },
             { "code": 112, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["Enter the name that you call her."]
-            },
+            { "code": 401, "indent": 1, "parameters": ["Nhập tên của cô ấy:"] },
             { "code": 230, "indent": 1, "parameters": [5] },
             { "code": 303, "indent": 1, "parameters": [4, 8] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["What is her relationship to you?"]
+              "parameters": ["Mối quan hệ của cô ấy với bạn là gì?"]
             },
             { "code": 230, "indent": 1, "parameters": [5] },
             { "code": 303, "indent": 1, "parameters": [7, 9] },
             { "code": 111, "indent": 1, "parameters": [4, 7, 1, "Aunt"] },
-            { "code": 320, "indent": 2, "parameters": [13, "Auntie"] },
+            { "code": 320, "indent": 2, "parameters": [13, "Dì"] },
             { "code": 113, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -7333,7 +7341,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["And what is your relationship to her?"]
+              "parameters": ["Và bạn là gì với cô ấy?"]
             },
             { "code": 230, "indent": 2, "parameters": [5] },
             { "code": 303, "indent": 2, "parameters": [10, 9] },
@@ -7342,18 +7350,18 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You call her \\n[4]. She is your \\n[7] and you are her \\n[10].\\! Is this correct?"
+                "Bạn gọi cô ấy là \\n[4]. Cô ấy là \\n[7] của bạn và bạn là \\n[10] của cô ấy.\\! Có đúng không?"
               ]
             },
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -7364,7 +7372,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No time to question it.\\! I need to help her!"]
+              "parameters": ["Không chần chừ nữa.\\! Mình phải cứu dì ấy!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [50] },
@@ -7458,7 +7466,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["S-Step back!\\! Get away from me!"]
+              "parameters": ["L-Lùi lại!\\! Tránh xa tao ra!"]
             },
             {
               "code": 205,
@@ -7602,23 +7610,19 @@
             { "code": 213, "indent": 0, "parameters": [-1, 2, true] },
             { "code": 112, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["Enter the name that you call her."]
-            },
+            { "code": 401, "indent": 1, "parameters": ["Nhập tên của cô ấy:"] },
             { "code": 230, "indent": 1, "parameters": [5] },
             { "code": 303, "indent": 1, "parameters": [4, 8] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["What is her relationship to you?"]
+              "parameters": ["Mối quan hệ của cô ấy với bạn là gì?"]
             },
             { "code": 230, "indent": 1, "parameters": [5] },
             { "code": 303, "indent": 1, "parameters": [7, 8] },
             { "code": 111, "indent": 1, "parameters": [4, 7, 1, "Aunt"] },
-            { "code": 320, "indent": 2, "parameters": [13, "Auntie"] },
+            { "code": 320, "indent": 2, "parameters": [13, "Dì"] },
             { "code": 113, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -7627,7 +7631,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["And what is your relationship to her?"]
+              "parameters": ["Và bạn là gì với cô ấy?"]
             },
             { "code": 230, "indent": 2, "parameters": [5] },
             { "code": 303, "indent": 2, "parameters": [10, 8] },
@@ -7636,18 +7640,18 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You call her \\n[4]. She is your \\n[7] and you are her \\n[10].\\! Is this correct?"
+                "Bạn gọi cô ấy là \\n[4]. Cô ấy là \\n[7] của bạn và bạn là \\n[10] của cô ấy.\\! Có đúng không?"
               ]
             },
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -7660,7 +7664,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hurry \\n[1]!\\! We have to go rescue her!"]
+              "parameters": [
+                "Nhanh lên nào \\n[1]!\\! Chúng ta phải cứu dì con!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [50] },
@@ -7754,7 +7760,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["S-Step back!\\! Get away from me!"]
+              "parameters": ["L-Lùi lại!\\! Tránh xa tao ra!"]
             },
             {
               "code": 205,
@@ -7897,26 +7903,22 @@
             { "code": 230, "indent": 0, "parameters": [120] },
             { "code": 213, "indent": 0, "parameters": [-1, 2, true] },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Was that-"] },
+            { "code": 401, "indent": 0, "parameters": ["Đó là-"] },
             { "code": 112, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["Enter the name that you call her."]
-            },
+            { "code": 401, "indent": 1, "parameters": ["Nhập tên của cô ấy:"] },
             { "code": 230, "indent": 1, "parameters": [5] },
             { "code": 303, "indent": 1, "parameters": [4, 8] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["What is her relationship to you?"]
+              "parameters": ["Mối quan hệ của cô ấy với bạn là gì?"]
             },
             { "code": 230, "indent": 1, "parameters": [5] },
             { "code": 303, "indent": 1, "parameters": [7, 8] },
             { "code": 111, "indent": 1, "parameters": [4, 7, 1, "Aunt"] },
-            { "code": 320, "indent": 2, "parameters": [13, "Auntie"] },
+            { "code": 320, "indent": 2, "parameters": [13, "Dì"] },
             { "code": 113, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -7925,7 +7927,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["And what is your relationship to her?"]
+              "parameters": ["Và bạn là gì với cô ấy?"]
             },
             { "code": 230, "indent": 2, "parameters": [5] },
             { "code": 303, "indent": 2, "parameters": [10, 8] },
@@ -7934,18 +7936,18 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You call her \\n[4]. She is your \\n[7] and you are her \\n[10].\\! Is this correct?"
+                "Bạn gọi cô ấy là \\n[4]. Cô ấy là \\n[7] của bạn và bạn là \\n[10] của cô ấy.\\! Có đúng không?"
               ]
             },
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -7956,7 +7958,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No time to question it.\\! I need to help her!"]
+              "parameters": ["Không chần chừ nữa.\\! Mình phải cứu dì ấy!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [50] },
@@ -8804,7 +8806,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Nước!"] },
             { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8820,60 +8822,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -8958,7 +8906,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These boxes are too heavy to move alone.\\! Maybe I shouldn't bother."
+                "Mấy cái thùng các-tông này nặng quá.\\! Mình không đẩy ra chỗ khác được."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -9009,16 +8957,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "These are the boxes \\n[7] \\n[4] was talking about."
-              ]
+              "parameters": ["Đây là mấy cái thùng mà dì \\n[4] đã nhắc đến!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They're way too heavy for me to lift.\\! I need to come back with her."
+                "Với sức của một mình mình thì không dời đi chỗ khác được.\\! Chắc lần tới phải đưa dì ấy đi cùng."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -9069,33 +9015,35 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Here's our way up to the attic."]
+              "parameters": ["Đây là đường để đi lên tầng gác mái."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's probably best to make sure we're prepared before we go up there."
+                "Tốt nhất là chúng ta nên chuẩn bị kỹ càng trước khi lên đó!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Are you ready, \\n[1]?"]
+              "parameters": ["Con có sẵn sàng không, \\n[1]?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Okay.\\! Help me lift these boxes."]
+              "parameters": [
+                "Được rồi.\\! Giúp dì dời mấy cái thùng này đi nào."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 230, "indent": 1, "parameters": [30] },
@@ -9111,7 +9059,7 @@
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 356, "indent": 1, "parameters": ["Light activate"] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -9163,25 +9111,23 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "I don't think I ever want to go back up there again..."
-              ]
+              "parameters": ["Con không muốn lên trên đó lần nữa đâu..."]
             },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Are you still riled up by the cat?"]
+              "parameters": ["Con vẫn còn sợ con mèo à?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": [". . . \\!Yes."] },
+            { "code": 401, "indent": 1, "parameters": [". . . \\!Vâng."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I don't have a reason to go upstairs right now."]
+              "parameters": ["Mình không có lý do gì để lên trên đó..."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -9241,10 +9187,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Why aren't they in here!?"]
+              "parameters": ["Sao chúng không có ở đây nhỉ!?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I could've sworn..."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Dì nhớ là nó ở đây mà..."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -9301,7 +9251,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I don't think I see anything here that she'd be looking for..."
+                "Mình nghĩ chắc ở đây không có đồ mà dì ấy đang tìm..."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -9359,9 +9309,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Maybe whatever she's looking for is under her bed?"
-              ]
+              "parameters": ["Thử tìm ở dưới giường của dì ấy xem sao?"]
             },
             {
               "code": 205,
@@ -9434,7 +9382,7 @@
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["This is..."] },
+            { "code": 401, "indent": 0, "parameters": ["Đây là..."] },
             {
               "code": 250,
               "indent": 0,
@@ -9447,10 +9395,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found \\n[7] \\n[4]'s bra..."]
+              "parameters": ["Tìm thấy áo ngực của dì \\n[4]..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Umm, \\n[7] \\n[4]?"] },
+            { "code": 401, "indent": 0, "parameters": ["Umm, dì \\n[4]!?"] },
             {
               "code": 205,
               "indent": 0,
@@ -9667,96 +9615,101 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh dear!\\! You weren't supposed to find that..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "I'm sorry, I just noticed something under your bed."
+                "Ôi trời!\\! Dì không muốn con tìm ra nó một chút nào..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Is this what you were looking for..?"]
+              "parameters": [
+                "Con xin lỗi, tại con để ý thấy dưới giường của dì có thứ gì đó."
+              ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*sigh*\\! Yes, it's my favorite set."]
+              "parameters": ["Nó là thứ mà dì đang tìm đúng không...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But I suppose you didn't find the matching panties with them, did you?"
+                "*thở dài*\\! Ừ, đó là chiếc áo ngực yêu thích của dì."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nhưng chắc con không tìm thấy chiếc quần lót đi cùng một bộ với nó đúng không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Panties?!\\! W-Well, no, I didn't."]
+              "parameters": ["Quần lót ạ?!\\! À thì, không, con không thấy."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Surely it wasn't him, right..?"]
+              "parameters": ["Chẵng lẽ là do ông ta...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Him..?"] },
+            { "code": 401, "indent": 0, "parameters": ["Ông ta..?"] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I guess there's no harm in telling you.\\! When I lived here, I had a stalker."
+                "Nói cho con biết chắc cũng không sao.\\! Khi dì sống ở đây thì đã có một tên rình mò dì."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A stalker?!\\! What happened?!"]
+              "parameters": [
+                "Có kẻ theo dõi dì sao? Rồi hắn ta có làm hại dì không?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thankfully nothing.\\! \\BST[4]But I always had this feeling like I "
+                "May là không có chuyện gì xảy ra.\\! \\BST[4]Nhưng dì luôn có cảm giác mình bị theo dõi.."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["was being watched..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wonder if he's been through here since we've been gone?"
+                "Không biết liệu hắn ta có lẻn vào đây trong lúc dì đi vắng hay không?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Even though he's likely a zombie now?"]
+              "parameters": [
+                "Dì vẫn nghĩ thế mặc dù có khả năng hắn ta đã biến thành Zombie rồi sao?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Stranger things have happened, right..?"]
+              "parameters": [
+                "Trên đời này thiếu gì chuyện kỳ lạ, ai mà biết được chứ..."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
@@ -9806,7 +9759,7 @@
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 213, "indent": 0, "parameters": [29, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["What was that?!"] },
+            { "code": 401, "indent": 0, "parameters": ["Có chuyện gì thế?"] },
             {
               "code": 250,
               "indent": 0,
@@ -9820,7 +9773,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's coming from upstairs!"]
+              "parameters": ["Dì nghe thấy tiếng động từ tầng trên!"]
             },
             {
               "code": 250,
@@ -9835,7 +9788,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Quick!\\! We need to hide!"]
+              "parameters": ["Nhanh lên!\\! Chúng ta phải trốn đi!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -9851,48 +9804,28 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[4]>What do you see down there?"]
+              "parameters": ["\\n<\\N[4]>Con thấy gì ở dưới đó vậy?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>Something is going into your bedroom..."
+                "\\n<\\N[1]>Có thứ gì đó đang đi vào phòng của dì..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[4]>Really?!\\! W-What does look like?"]
+              "parameters": ["\\n<\\N[4]>Thật hả?!\\! N-Nó trông như thế nào?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>It's hard to tell...\\! I could only see a dark figure..."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<\\N[4]>Oh no...\\! What do we do?!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<\\N[1]>I um-\\! I'm not sure..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<\\N[1]>[Oh no!\\! \\n[7] \\n[4] is pressing her butt up against me again...]"
+                "\\n<\\N[1]>Khó nói lắm ạ...\\! Con chỉ nhìn thấy một bóng đen..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -9900,7 +9833,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>Do you think that thing is still following us, \\n[1]?"
+                "\\n<\\N[4]>Ôi không...\\! Chúng ta làm gì bây giờ?!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\N[1]>Con-\\! Con không biết nữa..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\N[1]>[Không xong rồi!\\! Mông của dì \\n[4] lại đè vào người mình...]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -9908,28 +9855,36 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>I can't see anything down the hall anymore.\\! I think we might be safe now."
+                "\\n<\\N[4]>Con có nghĩ thứ đó vẫn còn đi theo chúng ta không, \\n[1]?"
               ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<\\N[4]>Oh thank heavens..!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>[I don't think I can hold it back anymore..!\\! I'm starting to get another boner...]"
+                "\\n<\\N[1]>Con không nhìn thấy gì ở ngoài hành lang nữa.\\! Có lẽ bây giờ chúng ta an toàn rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[4]>OH!\\! W-Well, I see..."]
+              "parameters": ["\\n<\\N[4]>Ôi, tạ ơn trời...!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\N[1]>[Mình sắp không kiềm chế được rồi..!\\! Nó đang chuẩn bị cương lên...]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\N[4]>OH!\\! Chà chà, xem nào..."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [10] },
@@ -9939,7 +9894,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now we have another new problem on our hands, don't we?"
+                "Bây giờ chúng ta lại có thêm một rắc rối nho nhỏ...!"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -10003,7 +9958,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These boxes are too heavy to move alone.\\! Maybe I shouldn't bother."
+                "Mấy cái thùng các-tông này nặng quá.\\! Mình không đẩy ra chỗ khác được."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -10054,16 +10009,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "These are the boxes \\n[7] \\n[4] was talking about."
-              ]
+              "parameters": ["Đây là mấy cái thùng mà dì \\n[4] đã nhắc đến!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They're way too heavy for me to lift.\\! I need to come back with her."
+                "Với sức của một mình mình thì không dời đi chỗ khác được.\\! Chắc lần tới phải đưa dì ấy đi cùng."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -10114,33 +10067,35 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Here's our way up to the attic."]
+              "parameters": ["Đây là đường để đi lên tầng gác mái."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's probably best to make sure we're prepared before we go up there."
+                "Tốt nhất là chúng ta nên chuẩn bị kỹ càng trước khi lên đó!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Are you ready, \\n[1]?"]
+              "parameters": ["Con có sẵn sàng không, \\n[1]?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Okay.\\! Help me lift these boxes."]
+              "parameters": [
+                "Được rồi.\\! Giúp dì dời mấy cái thùng này đi nào."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 230, "indent": 1, "parameters": [30] },
@@ -10156,7 +10111,7 @@
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 356, "indent": 1, "parameters": ["Light activate"] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -10208,25 +10163,23 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "I don't think I ever want to go back up there again..."
-              ]
+              "parameters": ["Con không muốn lên trên đó lần nữa đâu..."]
             },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Are you still riled up by the cat?"]
+              "parameters": ["Con vẫn còn sợ con mèo à?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": [". . . \\!Yes."] },
+            { "code": 401, "indent": 1, "parameters": [". . . \\!Vâng."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I don't have a reason to go upstairs right now."]
+              "parameters": ["Mình không có lý do gì để lên trên đó..."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -10599,16 +10552,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "When we get back I can't wait to take a nice warm bath!"
-              ]
+              "parameters": ["Khi về tới nhà dì sẽ đi tắm nước ấm!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["And I'm totally going to-"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Và con sẽ-"] },
             { "code": 230, "indent": 0, "parameters": [60] },
             {
               "code": 250,
@@ -10657,7 +10604,7 @@
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 213, "indent": 0, "parameters": [29, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Was that..?!"] },
+            { "code": 401, "indent": 0, "parameters": ["Đó là..?!"] },
             {
               "code": 250,
               "indent": 0,
@@ -10671,7 +10618,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hurry!\\! We have to hide again!"]
+              "parameters": ["Nhanh lên!\\! Chúng ta phải trốn đi!"]
             },
             {
               "code": 250,
@@ -10804,14 +10751,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[4]>Is it back?"]
+              "parameters": ["\\n<\\N[4]>Nó lại quay trở lại rồi à?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>Ya.\\! I... I think it's coming this way..!"
+                "\\n<\\N[1]>Vâng ạ.\\! C-Con nghĩ nó đang đi về hướng này...!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10819,21 +10766,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>Can you get a closer look at it this time?"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<\\N[1]>No...\\! It's just too shadowy..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<\\N[1]>It's going into the room we were just in now."
+                "\\n<\\N[4]>Lần này con có nhìn ra được nó là gì không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10841,34 +10774,50 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>Really?!\\! It's like it's been watching us all this time."
+                "\\n<\\N[1]>Không ạ...\\! Nó vẫn chỉ là một bóng đen..."
               ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<\\N[1]>Feels like it, yeah."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>*sigh*\\! I just know whatever that thing is, it's following us!"
+                "\\n<\\N[1]>Nó đang đi vào căn phòng dì và con vừa ở."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>Ngh!\\! W-Well, it's gone now..."]
+              "parameters": [
+                "\\n<\\N[4]>Thật hả?!\\! Nghe giống như nó đã theo dõi chúng ta suốt thời gian qua."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[4]>Hmmm ~ You don't say?"]
+              "parameters": ["\\n<\\N[1]>Vâng, có vẻ là như thế."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\N[4]>*thở dài*\\! Tại sao nó lại theo dõi chung ta?!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\N[1]>Ngh!\\! C-Chà, nó lại biến mất rồi..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\N[4]>Hmmm ~ Vậy à?!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [10] },
@@ -10909,17 +10858,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[7] \\n[4]...\\! If you keep moving like that..."
+                "Dì \\n[4]...\\! Nếu dì cứ tiếp tục như thế thì..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What ever do you mean, \\n[10]?"]
+              "parameters": ["Ý con là sao, \\n[1]?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["[Sh-Shit!]"] },
+            { "code": 401, "indent": 0, "parameters": ["[F-Fuck!]"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 241,
@@ -10937,37 +10886,35 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>[It happened again..!\\! And she won't move out of the way!]"
+                "\\n<\\N[1]>[Lại nữa rồi...!\\! Dì ấy lại làm thế với mình!]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\n[7] \\n[4]..!"]
+              "parameters": ["\\n<\\N[1]>Dì \\n[4]...!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>What a big surprise!\\! Mmm, and it's so warm too ~ ♥️"
+                "\\n<\\N[4]>Bự quá đi!\\! Mmm, và nó còn nóng nữa ~ ♥️"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<\\N[4]>You're such a naughty \\n[10], aren't you?!"
-              ]
+              "parameters": ["\\n<\\N[4]>Con đúng là hư hỏng thật đó?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>Pressing up against your \\n[7] with a big hot erection..!"
+                "\\n<\\N[4]>Ai lại đi ấn con cặc to nóng đấy vào người dì của mình chứ...!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10975,20 +10922,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>[We're in such a dangerous postion.\\! He's so close to fucking me!]"
+                "\\n<\\N[4]>[Tư thế này nguy hiểm quá.\\! Cặc thằng bé suýt chút nữa đã đút vào lồn mình!]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[4]>[I want to...\\! But I just can't.]"]
+              "parameters": [
+                "\\n<\\N[4]>[Mình muốn thế lắm chứ...\\! Nhưng, không được...]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[4]>[I can't let my own \\n[10] fuck me!]"]
+              "parameters": [
+                "\\n<\\N[4]>[Mình không được làm tình với cháu trai!]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
@@ -10999,12 +10950,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I think we've had enough fun and games for now, don't you agree?"
-              ]
+              "parameters": ["Dì nghĩ hôm nay hai ta đến đây đủ rồi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Let's go home."] },
+            { "code": 401, "indent": 0, "parameters": ["Về thôi nào!"] },
             { "code": 230, "indent": 0, "parameters": [45] },
             { "code": 235, "indent": 0, "parameters": [5] },
             { "code": 235, "indent": 0, "parameters": [6] },
@@ -11337,7 +11286,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You know, we should scout ahead before we go search down this hallway..."
+                "Dì nghĩ chúng ta nên do thám một chút trước khi đi tìm quanh hành lang này..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -11345,60 +11294,58 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you sure?\\! I'm pretty sure we've already cleared it out long ago..."
+                "Con đã giết sạch Zombie ở hành lang từ lâu rồi mà dì \\n[4]..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*giggle*\\! You're so dense sometimes!"]
+              "parameters": [
+                "*cười khúc khích*\\! Con đúng là ngây thơ thật đấy!"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Dì chỉ đang kiếm một cái cớ để địt con thôi."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Ở đây ạ?!"] },
+            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Đúng thế!"] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was trying to give you an excuse to come and fuck me."
+                "Còn chần chờ gì nữa?!\\! Con có muốn địt gì ở đây không?"
               ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Out here?!"] },
-            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Where it's exciting and dangerous!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["What are you waiting for?!"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I can hardly wait!\\! Come here baby!"]
+              "parameters": ["Dì nứng lắm rồi, \\n[1]!\\! Đến đây nào ~"]
             },
             { "code": 121, "indent": 1, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 5] },
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["B", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["*sigh*\\! It was worth a try..."]
+              "parameters": ["*haizz*\\! Để khi khác vậy..."]
             },
             {
               "code": 205,
@@ -11468,27 +11415,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "What do you say we get into a little 'mischief' here?"
-              ]
+              "parameters": ["Bây giờ con muốn làm gì?!"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Fuck", "Thighjob", "Not Now"], 2, 0, 2, 0]
+              "parameters": [["Đụ", "Thighjob", "Không làm gì hết"], 2, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Fuck"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Đụ"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Come on over here baby!"]
+              "parameters": ["Lại đây nào, cục cưng!"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I need you to fuck me right now!"]
+              "parameters": ["Dì muốn cặc của con...!"]
             },
             { "code": 121, "indent": 1, "parameters": [11, 11, 0] },
             { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 5] },
@@ -11500,25 +11445,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Come on over here baby!"]
+              "parameters": ["Lại đây nào, cục cưng!"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I want to make you feel good..."]
+              "parameters": ["Dì sẽ cho con lên đỉnh..."]
             },
             { "code": 121, "indent": 1, "parameters": [11, 11, 1] },
             { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 5] },
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["C", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Not Now"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Không làm gì hết"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["*sigh*\\! It was worth a try..."]
+              "parameters": ["*haizz*\\! Để khi khác vậy..."]
             },
             {
               "code": 205,
@@ -11655,7 +11600,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you feeling okay \\n[1]?\\! You don't look so good."
+                "Cháu ổn không \\n[1]?\\! Trông cháu không được khỏe."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -11663,7 +11608,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He remembered who you are.\\! He was listening to you..."
+                "Cậu ấy đã nhớ ra dì là ai rồi đấy!\\! Cậu ấy đã nghe dì nói..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -11671,21 +11616,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "All this time, I've failed to see these zombies as anything but monsters."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["It's quite tragic to think about, isn't it?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "But we have to remember that these zombies are so incredibly dangerous."
+                "Suốt thời gian qua, cháu đã không thể nhìn nhận những zombie này như bất cứ thứ gì khác ngoài lũ quái vật."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
@@ -11693,7 +11624,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Perhaps one day we can figure out a way to save them."
+                "Thật bi thảm khi nghĩ về điều đó, đúng không cháu?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 2, 0, 2] },
@@ -11701,38 +11632,54 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But until that day, our safety is the top priority."
+                "Nhưng chúng ta phải nhớ rằng những zombie này vô cùng nguy hiểm."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Có lẽ một ngày nào đó chúng ta có thể tìm ra cách để cứu họ."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Aunt1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nhưng cho đến ngày đó, sự an toàn của chúng ta vẫn là ưu tiên hàng đầu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ya, you're right \\n[7] \\n[4]."]
+              "parameters": ["Vâng, dì nói đúng \\n[7] \\n[4]."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now turn that frown around young man!"]
+              "parameters": ["Nào cậu trai trẻ, đừng có cau có nữa!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Sorry.\\! I'm okay now!"]
+              "parameters": ["Cháu xin lỗi ạ!\\! Cháu ổn rồi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's the happy \\n[10] I know!"]
+              "parameters": ["Đúng là \\n[10] vui vẻ mà dì biết!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I think it's time we finally go home."]
+              "parameters": ["Dì nghĩ đã đến lúc chúng ta về nhà rồi."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -11796,7 +11743,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Scrap Metal!"]
+              "parameters": ["Tìm thấy một ít kim loại phế liệu!"]
             },
             { "code": 126, "indent": 0, "parameters": [1, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -11853,7 +11800,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Scrap Metal!"]
+              "parameters": ["Tìm thấy một ít kim loại phế liệu!"]
             },
             { "code": 126, "indent": 0, "parameters": [1, 0, 0, 1] },
             { "code": 117, "indent": 0, "parameters": [101] },

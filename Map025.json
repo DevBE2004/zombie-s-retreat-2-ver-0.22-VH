@@ -318,7 +318,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Welcome back to the diner!"]
+              "parameters": ["Chào mừng em đến với quán ăn!"]
             },
             {
               "code": 355,
@@ -334,22 +334,30 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Talk", "Kiss", "Dessert", "Party Up", "Nevermind"],
+                [
+                  "Nói chuyện",
+                  "Hôn",
+                  "Tráng miệng đặc biệt",
+                  "Đồng hành",
+                  "Rời đi"
+                ],
                 4,
                 0,
                 2,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Nói chuyện"] },
             { "code": 117, "indent": 1, "parameters": [44] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Kiss"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Hôn"] },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["One sweet smooch coming up for the customer!"]
+              "parameters": [
+                "Một nụ hôn ngọt ngào chỉ dành cho em thôi, \\n[1]... "
+              ]
             },
             {
               "code": 231,
@@ -371,7 +379,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Stacy>[\\n[1] comes off as innocent but he's deceptive with his tongue!]"
+                "\\n<Stacy>[Khuôn mặt ngây thơ của em ấy không hợp với chiếc lưỡi này chút nào!]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -379,7 +387,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Stacy>[Does he... practice with anyone else around here..?]"
+                "\\n<Stacy>[Chẳng lẽ em ấy... tập hôn với người khác ở quanh đây...?]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -387,7 +395,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Stacy>[He's such a pro, he's making my heart melt ~ ♥️]"
+                "\\n<Stacy>[Lưỡi em ấy điêu luyện quá, nó làm tim mình tan chảy mất ~ ♥️]"
               ]
             },
             {
@@ -399,29 +407,35 @@
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 1, "parameters": [""] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Um- Thanks Stacy..."] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Um- Cảm ơn chị Stacy..."]
+            },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There's always more where that came from!"]
+              "parameters": ["*cười khúc khích* Không có chi..."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Dessert"] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [2, "Tráng miệng đặc biệt"]
+            },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "You can't get enough of my Special Banana Split, can you?"
-              ]
+              "parameters": ["Em nghiện món Kem chuối của chị rồi, đúng chứ?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "No need for ingredients.\\! This one's on the house!"
+                "Lần này em không cần phải tìm nguyên liệu nữa.\\! Chị đã có đủ rồi!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 4, 0, 2] },
@@ -429,28 +443,28 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Now would you like whipped cream on that dessert?"
+                "Em muốn trang trí theo kiểu phức tạp hay đơn giản?"
               ]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Whipped", "Plain"], -1, 0, 2, 0]
+              "parameters": [["Phức tạp", "Đơn giản"], -1, 0, 2, 0]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Whipped"] },
+            { "code": 402, "indent": 1, "parameters": [0, "Phức tạp"] },
             { "code": 121, "indent": 2, "parameters": [11, 11, 1] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "Plain"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Đơn giản"] },
             { "code": 121, "indent": 2, "parameters": [11, 11, 0] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 3] },
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Party Up"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Đồng hành"] },
             { "code": 117, "indent": 1, "parameters": [64] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -499,28 +513,36 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Welcome back, cutie!"]
+              "parameters": ["Chào mừng em quay lại, \\n[1]!"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Talk", "Kiss", "Dessert", "Party Up", "Nevermind"],
+                [
+                  "Nói chuyện",
+                  "Hôn",
+                  "Tráng miệng đặc biệt",
+                  "Đồng hành",
+                  "Rời đi"
+                ],
                 4,
                 0,
                 2,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Nói chuyện"] },
             { "code": 117, "indent": 1, "parameters": [44] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Kiss"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Hôn"] },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["One sweet smooch coming up for the customer!"]
+              "parameters": [
+                "Một nụ hôn ngọt ngào chỉ dành cho em thôi, \\n[1]... "
+              ]
             },
             {
               "code": 231,
@@ -542,7 +564,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Stacy>[\\n[1] comes off as innocent but he's deceptive with his tongue!]"
+                "\\n<Stacy>[Khuôn mặt ngây thơ của em ấy không hợp với chiếc lưỡi này chút nào!]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -550,7 +572,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Stacy>[Does he... practice with anyone else around here..?]"
+                "\\n<Stacy>[Chẳng lẽ em ấy... tập hôn với người khác ở quanh đây...?]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -558,7 +580,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Stacy>[He's such a pro, he's making my heart melt ~ ♥️]"
+                "\\n<Stacy>[Lưỡi em ấy điêu luyện quá, nó làm tim mình tan chảy mất ~ ♥️]"
               ]
             },
             {
@@ -570,28 +592,36 @@
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 1, "parameters": [""] },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Um- Thanks Stacy..."] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Um- Cảm ơn chị Stacy..."]
+            },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There's always more where that came from!"]
+              "parameters": ["*cười khúc khích* Không có chi..."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Dessert"] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [2, "Tráng miệng đặc biệt"]
+            },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Would you prefer a Banana Split or a Banana Cream Pie?"
+                "Em thích món nào hơn?\\! Kem chuối hay là Kem trứng...?"
               ]
             },
             {
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["Banana Split (Paizuri)", "Cream Pie (Sex)"],
+                ["Kem chuối (Titjob)", "Kem trứng (Làm tình)"],
                 -1,
                 0,
                 2,
@@ -601,51 +631,57 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [0, "Banana Split (Paizuri)"]
+              "parameters": [0, "Kem chuối (Titjob)"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Can't get enough of my tits, can you?"]
+              "parameters": ["Em nghiện vú của chị rồi, đúng chứ?"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Do you want whipped cream on that dessert?"]
+              "parameters": [
+                "Em muốn trang trí theo kiểu đơn giản hay phức tạp?"
+              ]
             },
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Whipped", "Plain"], -1, 0, 2, 0]
+              "parameters": [["Phức tạp", "Đơn giản"], -1, 0, 2, 0]
             },
-            { "code": 402, "indent": 2, "parameters": [0, "Whipped"] },
+            { "code": 402, "indent": 2, "parameters": [0, "Phức tạp"] },
             { "code": 121, "indent": 3, "parameters": [11, 11, 1] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Plain"] },
+            { "code": 402, "indent": 2, "parameters": [1, "Đơn giản"] },
             { "code": 121, "indent": 3, "parameters": [11, 11, 0] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 122, "indent": 2, "parameters": [7, 7, 0, 0, 3] },
             { "code": 117, "indent": 2, "parameters": [28] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "Cream Pie (Sex)"] },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [1, "Kem trứng (Làm tình)"]
+            },
             { "code": 101, "indent": 2, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Perfect.\\! I've been craving a good fuck!"]
+              "parameters": ["Tuyệt.\\! Chị đang nứng lắm rồi ~"]
             },
             { "code": 122, "indent": 2, "parameters": [7, 7, 0, 0, 7] },
             { "code": 117, "indent": 2, "parameters": [28] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Party Up"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Đồng hành"] },
             { "code": 117, "indent": 1, "parameters": [64] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [4, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -783,20 +819,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This banana shake is so smooth and delicious!"]
+              "parameters": ["Món chuối lắc này ngon quá!"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Talk", "Party Up", "Nevermind"], 2, 0, 2, 0]
+              "parameters": [["Nói chuyện", "Đồng hành", "Rời đi"], 2, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Nói chuyện"] },
             { "code": 117, "indent": 1, "parameters": [42] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Party Up"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Đồng hành"] },
             { "code": 117, "indent": 1, "parameters": [62] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -894,13 +930,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This picture is so pleasing to look at."]
+              "parameters": [
+                "Mỗi lần nhìn vào bức tranh này thì mình lại thấy nứng..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That's not...\\! No, it can't be..."]
+              "parameters": ["Chẳng lẽ...\\! Không, không thể nào..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -976,7 +1014,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What would you like to order?"]
+              "parameters": ["Em muốn order món gì?"]
             },
             { "code": 117, "indent": 0, "parameters": [124] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1005,46 +1043,6 @@
             "selfSwitchCh": "A",
             "selfSwitchValid": false,
             "switch1Id": 8,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 16,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 246,
             "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
@@ -1159,7 +1157,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["One milkshake order comin' right up!"]
+              "parameters": ["Ly sữa lắc của em đây...!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 6, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["UWAH!"] },
@@ -1167,13 +1165,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah! Stacy, be careful with that tray!"]
+              "parameters": ["Ah! Cẩn thận, chị Stacy!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I CAN'T STOP MY ROLLERSKATES!"]
+              "parameters": ["CHỊ KHÔNG DỪNG LẠI ĐƯỢC!"]
             },
             {
               "code": 232,
@@ -1186,15 +1184,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>Maybe I can reeeaach!"]
+              "parameters": ["\\n<\\N[1]>Em nghĩ là mình với tới!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Stacy>[I don't think he understands that I'm taller than him...]"
-              ]
+              "parameters": ["\\n<Stacy>[Rõ ràng là mình cao hơn em ấy mà...]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1301,28 +1297,28 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ta-daaa!\\! \\BST[1]Welcome to Stacy's Diner!"]
+              "parameters": [
+                "Ta-daaa!\\! \\BST[1]Chào mừng em đến với quán ăn Stacy!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Wow Stacy!\\! \\BST[1]This place really turned out nice!"
-              ]
+              "parameters": ["Wow!\\! \\BST[1]Nơi này đẹp thật đó, chị Stacy!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's all thanks to you and Fiona!"]
+              "parameters": ["Tất cả là nhờ vào em và Fiona đấy!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And to show my gratitude, shakes are on the house!"
+                "Và để cảm ơn em thì hiện tại món sữa lắc đã sẵn sàng để phục vụ rồi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
@@ -1330,7 +1326,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When you want to order a drink, you can go up to that menu right there."
+                "Nếu em muốn gọi đồ uống thì có thể vào menu ngay tại đây."
               ]
             },
             {
@@ -1384,14 +1380,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["There's one teeny tiny catch though..."]
+              "parameters": ["Tuy nhiên thì vẫn còn một vấn đề nhỏ nữa..."]
             },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I, uhh, sort of need ingredients for each milkshake, ah-hah..."
+                "Chị, uhh, đại loại là cần nguyên liệu cho mỗi món sữa lắc, ah-hah..."
               ]
             },
             {
@@ -1443,27 +1439,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "[I knew free milkshakes sounded too good to be true...]"
-              ]
+              "parameters": ["[Đúng là chỉ có làm thì mới có ăn...]"]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Where can I find these ingredients?"]
+              "parameters": ["Vậy em có thể tìm được nguyên liệu ở đâu?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I think I have an idea!"]
+              "parameters": ["Chị mới nảy ra ý này!"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Just come over and talk to me when you're ready!"]
+              "parameters": ["Đến nói chuyện với chị khi em sẵn sàng nhé!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1472,7 +1466,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Thanks to your help, I'm able to find ingredients as well!"
+                "Nhờ em mà bây giờ chị có thể tự tìm được nguyên liệu...!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 4, 0, 2] },
@@ -1480,15 +1474,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Don't forget that I'll be needing those goodies from Sweet Stashes if you "
+                "Nhưng nếu em muốn uống sữa lắc thì chị vẫn cần đến nguyên liệu ở điểm chứa đồ ngọt."
               ]
             },
-            { "code": 401, "indent": 1, "parameters": ["want a shake!"] },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Feel free to order up when you're ready!"]
+              "parameters": ["Khi nào có đủ thì em cứ thoải mái order!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -1746,24 +1739,20 @@
             { "code": 230, "indent": 0, "parameters": [120] },
             { "code": 213, "indent": 0, "parameters": [8, 3, true] },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Another delicious dessert coming right up!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Món sắp ra rồi đây!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Careful Stacy!\\! You're rolling around awfully fast!"
-              ]
+              "parameters": ["Cẩn thận, chị Stacy!\\! Không thì ngã bây giờ!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nonsense!\\! I'm already an all-star at this!"]
+              "parameters": [
+                "Vô lý!\\! Chị tập nó nhiều lắm rồi, sao mà ngã được!"
+              ]
             },
             {
               "code": 205,
@@ -1896,7 +1885,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Stacy>[He broke my fall but our lips are totallly locked right now...]"
+                "\\n<Stacy>[Chết rồi.\\! Mình và em ấy đang hôn nhau...]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1904,7 +1893,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Stacy>[But he doesn't seem to be too mad about it ~ ♥️]"
+                "\\n<Stacy>[Nhưng hình như có vẻ em ấy không tức giận về việc này ~ ♥️]"
               ]
             },
             {
@@ -1926,7 +1915,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Stacy>[\\n[1] didn't even flinch by my sneak attack!]"
+                "\\n<Stacy>[\\n[1] thậm chí còn không phản ứng trước hành động của mình!]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1934,7 +1923,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Stacy>[His tongue is swirling all around mine!\\! He's like a pro at this!]"
+                "\\n<Stacy>[Lưỡi của em ấy đang quấn lấy lưỡi mình!\\! Không ngờ em ấy lại có kinh nghiệm trong việc này!]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1942,7 +1931,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Stacy>[Oh no...\\! I should stop this now before I get carried away ~ ♥️]"
+                "\\n<Stacy>[Oh không...\\! Mình nên dừng lại thôi không thì nghiện mất ~ ♥️]"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [10] },
@@ -1958,22 +1947,26 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["T-That was a close call Stacy..."]
+              "parameters": ["V-Vừa rồi chị suýt té đó, chị Stacy..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ya, umm- totally a close call..."]
+              "parameters": ["Ừ, umm- suýt thì té..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["At least I was able to hang onto your dessert!"]
+              "parameters": ["Ít ra thì chị vẫn giữ được món tráng miệng!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Well, enjoy!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Chà, em ăn ngon miệng nhé!"]
+            },
             { "code": 213, "indent": 0, "parameters": [8, 4, true] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [8, 8, 1] },
@@ -2078,7 +2071,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You know you've really been helping the business thrive, \\n[1]!"
+                "Em thực sự có công rất lớn giúp quán ăn này phát triển đấy, \\n[1]!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
@@ -2086,82 +2079,82 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Everyone in the neighborhood has been stopping by for desserts!"
+                "Mọi người ở quanh đây đều đã ghé qua để thưởng thức mấy món tráng miệng của chị!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["At this rate I'm gonna have to work overtime!"]
+              "parameters": ["Với tình hình này thì chị sẽ phải tăng ca mất!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've been telling everyone how delicious your desserts are!"
+                "Em chỉ nói ra cảm nghĩ của mình với mọi người xung quanh thôi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You are pretty talented, you know."]
+              "parameters": [
+                "Chủ yếu là do tài nấu nướng của chị đấy, chị Stacy."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well then you're in luck!"]
+              "parameters": ["Chà, em may mắn đó...!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I added a new 'special' dessert on the menu just for you."
+                "Chị đã thêm một món tráng miệng 'đặc biệt' vào menu và chỉ dành riêng cho mình em thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "It's gonna knock your socks off!\\! \\BST[4] POW!\\! BAM!\\! BOOM!"
-              ]
+              "parameters": ["Chắc chắn nó sẽ làm em bất ngờ!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Whoa!\\! Sounds like quite a treat, hah!"]
+              "parameters": ["Whoa!\\! Tò mò thật đấy, haha!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I promise you won't regret it!"]
+              "parameters": ["Chị sẽ không làm em thất vọng đâu!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's.. gonna need a bunch of ingredients though."]
+              "parameters": ["Nhưng... món đó cần khá là nhiều nguyên liệu."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "No worries Stacy.\\! You can count on me to find some more."
+                "Đừng lo, chị Stacy.\\! Em sẽ tìm đủ nguyên liệu cho chị."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That's what I like to hear!"]
+              "parameters": ["Thật sao?!\\! Cảm ơn em nhé!"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 213, "indent": 0, "parameters": [8, 4, true] },
@@ -2267,13 +2260,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This picture makes my pants feel tight..."]
+              "parameters": ["Bức tranh này làm cặc mình khó chịu quá..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That's not...\\! No, it can't be..."]
+              "parameters": ["Chẳng lẽ...\\! Không, không thể nào..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2349,7 +2342,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What would you like to order?"]
+              "parameters": ["Em muốn order món gì?"]
             },
             { "code": 117, "indent": 0, "parameters": [124] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2433,7 +2426,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You really know how to take a girl on a wild ride, huh, \\n[1]?"
+                "Em thực sự rất biết cách để thu hút một cô gái đấy, \\n[1]?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
@@ -2441,7 +2434,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're so much more of a bad boy than you let on, y'know?"
+                "Không ngờ em lại giỏi làm \"chuyện đó\" đến thế!\\! Hư quá đi ~"
               ]
             },
             {
@@ -2462,13 +2455,8 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Stacy>[He fucked me like a total pro!\\! I'm gonna have a lot of "
+                "\\n<Stacy>[Vừa rồi em ấy đã địt tung lồn mình!\\! Giờ nó vẫn còn ê ẩm...\\! Nhưng uớc gì được làm lại chuyện đó lần nữa ~ ♥️]"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["fun riding that cock some more ~ ♥️]"]
             },
             {
               "code": 232,
@@ -2483,14 +2471,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, I guess it's time to get back to work then, yeah?"
+                "Nào, đã đến lúc chị phải quay lại làm việc rồi...!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But next time I'm on break, I'll be waiting..!"]
+              "parameters": [
+                "Nhưng nếu em 'muốn' thì bất cứ lúc nào cũng có thể đến tìm chị, chị sẽ đợi...!"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 212, "indent": 0, "parameters": [-1, 56, true] },
@@ -2500,7 +2490,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A chaotic energy surges through your body!"]
+              "parameters": [
+                "Một năng lượng hỗn loạn dâng trào trong cơ thể bạn!"
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [3] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2677,7 +2669,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[3]?\\! I didn't expect to see you here too."]
+              "parameters": ["\\n[3]?\\! Tôi không ngờ lại gặp anh ở đây."]
             },
             {
               "code": 205,
@@ -2791,7 +2783,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*giggle*\\! \\BST[1]Stacy was telling me all about her milkshake flavors!"
+                "*cười khúc khích*\\! \\BST[1]Stacy đã kể cho tôi nghe tất cả về hương vị sữa lắc của cô ấy!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
@@ -2799,59 +2791,59 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yup!\\! \\BST[1]I know all of the special recipes!"
+                "Yup!\\! \\BST[1]Tôi biết tất cả các công thức đặc biệt!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well, except for one..."]
+              "parameters": ["Ờ, ngoại trừ một điều..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Only one?\\! What is it?"]
+              "parameters": ["Chỉ có một thôi sao?\\! Là cái gì vậy?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The super secret mythical milkshake!"]
+              "parameters": ["Sữa lắc huyền thoại siêu bí mật!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I know the entire recipe by heart!"]
+              "parameters": ["Tôi thuộc lòng toàn bộ công thức này!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...Except for the secret ingredient, of course."]
+              "parameters": ["...Tất nhiên là trừ nguyên liệu bí mật."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Wait, hang on.\\! \\BST[3]There's a 'mythical' milkshake?"
+                "Khoan đã, đợi đã.\\! \\BST[3]Có một loại sữa lắc 'huyền thoại' à?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Of course there is, silly!"]
+              "parameters": ["Tất nhiên là có rồi, ngốc ạ!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But it's only ever been crafted by the legendary milkshake master."
+                "Nhưng nó chỉ được tạo ra bởi bậc thầy pha chế sữa lắc huyền thoại."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 5, false] },
@@ -2859,14 +2851,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["And some people have the nerve to say it's fake!"]
+              "parameters": ["Và một số người còn dám nói rằng nó là giả!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But the clues to the secret ingredient are out there!\\! I just know it!"
+                "Nhưng manh mối về thành phần bí mật vẫn còn ở ngoài kia!\\! Tôi biết mà!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
@@ -2874,14 +2866,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you have any idea where this secret ingredient is?"
+                "Bạn có biết thành phần bí mật này ở đâu không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's right here in Crimson City!"]
+              "parameters": ["Nó ở ngay đây, tại Crimson City!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Seriously?!"] },
@@ -2891,28 +2883,28 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But how do you know all of this Stacy?!"]
+              "parameters":["Nhưng làm sao bạn biết tất cả những điều này vậy Stacy?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Because I learned everything there is to know about milkshakes from my sensei!"
+               "Bởi vì tôi đã học được mọi thứ cần biết về sữa lắc từ thầy tôi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["None other than the milkshake master, himself!"]
+              "parameters": ["Không ai khác chính là bậc thầy pha sữa lắc!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He even left me a hint to the mythic milkshake's secret ingredient."
+                "Anh ấy thậm chí còn để lại cho tôi manh mối về thành phần bí mật của ly sữa lắc huyền thoại."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
@@ -2920,7 +2912,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If that's the case, why don't we try and look for it then?"
+                "Nếu vậy thì tại sao chúng ta không thử đi tìm xem?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
@@ -2928,117 +2920,117 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Wait, for real?!\\! You guys would help me find it?!"
+                "Khoan đã, thật sao?!\\! Các người sẽ giúp tôi tìm nó sao?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What do you say \\n[1]?\\! Wanna help?"]
+              "parameters": ["Bạn nói gì thế \\n[1]?\\! Bạn có muốn giúp không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hmm ~\\! Only on one condition."]
+              "parameters": ["Hmm ~\\! Chỉ với một điều kiện."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["And what's that?"] },
+            { "code": 401, "indent": 0, "parameters": ["Và đó là gì?"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["If we're able to find this special ingredient-"]
+              "parameters": ["Nếu chúng ta có thể tìm thấy nguyên liệu đặc biệt này-"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I want to try this tasty milkshake from Stacy!"]
+              "parameters": ["Tôi muốn thử món sữa lắc ngon tuyệt này của Stacy!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You're on partner!\\! This is totally awesome!"]
+              "parameters": ["Bạn là đối tác!\\! Thật tuyệt vời!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Secret Agent Stacy is back on the scene!"]
+              "parameters": ["Đặc vụ Stacy đã trở lại hiện trường!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["So where do we start looking?"]
+              "parameters": ["Vậy chúng ta bắt đầu tìm kiếm ở đâu?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["My old teacher gave me a riddle before he left."]
+              "parameters": ["giáo viên cũ của tôi đã ra cho tôi một câu đố trước khi rời đi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\"Cold drink and pizza.\\!"]
+              "parameters": ["\"Đồ uống lạnh và pizza.\\!"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["<br>Games and prizes, thrills and sights.\\!"]
+              "parameters": ["<br>Trò chơi và giải thưởng, cảm giác hồi hộp và cảnh đẹp.\\!"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["<br>Inspiration delight.\""]
+              "parameters": ["<br>Cảm hứng thú vị.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Pizza and drinks..."] },
+            { "code": 401, "indent": 0, "parameters": ["Pizza và đồ uống..."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Games and prizes..?"] },
+            { "code": 401, "indent": 0, "parameters": ["Trò chơi và giải thưởng..?"] },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Maybe that's in the arcade?"]
+              "parameters": ["Có lẽ ở trong tiệm trò chơi điện tử?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*gasp*\\! My old work!?"]
+              "parameters": ["*thở hổn hển*\\! Tác phẩm cũ của tôi!?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["That's gotta be it!"] },
+            { "code": 401, "indent": 0, "parameters": ["Chắc chắn là vậy rồi!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Yeah, that does make a lot of sense."]
+              "parameters":["Đúng vậy, điều đó rất có lý."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Should we go investigate it then?"]
+              "parameters": ["Vậy chúng ta có nên đi điều tra không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Yes, let's all go together!"]
+              "parameters": ["Được, chúng ta cùng đi nhé!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can now group up and explore with both \\n[3] & Stacy!"
+                "Bây giờ bạn có thể nhóm lại và khám phá với cả \\n[3] và Stacy!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
@@ -3046,13 +3038,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In order to decipher the Milkshake Master's clues, you'll need both of "
+                "Để giải mã được manh mối của Milkshake Master, bạn sẽ cần cả hai"
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["them in your party at the same time!"]
+              "parameters": ["họ trong nhóm của bạn cùng lúc!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [8, 8, 1] },
@@ -3349,14 +3341,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Finally, we're back..!"]
+              "parameters": ["Cuối cùng chúng ta đã trở lại..!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My legs feel like jelly after all of that walking..."
+                "Chân tôi như muốn nhũn ra sau khi đi bộ nhiều vậy..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
@@ -3364,7 +3356,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Once you two get a taste of this shake, you're going to feel completely refreshed!"
+                "Khi hai bạn nếm thử loại sữa lắc này, bạn sẽ cảm thấy hoàn toàn sảng khoái!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -3372,7 +3364,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Stacy, are you really sure this milkshake is going to be worth all the trouble?"
+                "Stacy, bạn có chắc là ly sữa lắc này đáng để bạn vất vả thế không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
@@ -3380,21 +3372,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's hard to imagine that a cherry was really the missing ingredient."
+                "Thật khó để tưởng tượng rằng quả anh đào thực sự là thành phần còn thiếu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Don't worry \\n[3], just trust me!"]
+              "parameters": ["Đừng lo lắng \\n[3], hãy tin tôi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My Sensei was a wiz at all things milky and shaked."
+                "Sensei của tôi là một phù thủy trong mọi thứ liên quan đến sữa và sữa lắc."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
@@ -3402,7 +3394,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He always said he wanted to watch me shake my milkshakes too!"
+                "Anh ấy luôn nói rằng anh ấy cũng muốn xem tôi lắc sữa lắc!"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -3415,14 +3407,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Are you sure he wasn't talking about your boobs?"]
+              "parameters":["Bạn có chắc là anh ấy không nói về ngực của bạn không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now that you mention it, he was kind of a perv..."
+                "Giờ nhắc mới nhớ, anh ta đúng là một tên biến thái..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 3, 0, 2] },
@@ -3430,20 +3422,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But he was way more fun than my old boss!\\! Screw that guy!"
+                "Nhưng ông ấy vui tính hơn ông chủ cũ của tôi nhiều!\\! Kệ xác ông ấy đi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah!\\! I'm getting distracted!"]
+              "parameters": ["Ah!\\! Tôi đang mất tập trung!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's time to whip up those mythical shakes!"]
+              "parameters": ["Đã đến lúc pha chế những ly sinh tố huyền thoại này rồi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Wait right here!"] },
@@ -3492,45 +3484,45 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well..?!\\! How's it taste?!"]
+              "parameters": ["Ờ..?!\\! Vị thế nào?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's ~\\! \\BST[3]Delicious!"]
+              "parameters": ["Thật là ~\\! \\BST[3]Ngon quá!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Incredible!\\! \\BST[1]It's such a smooth texture and a perfectly sweet taste!"
+                "Thật không thể tin được!\\! \\BST[1]Kết cấu của nó thật mịn màng và có vị ngọt hoàn hảo!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["And the cherry!\\! It-\\!It's magical!"]
+              "parameters": ["Và quả anh đào!\\! Nó-\\!Thật kỳ diệu!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I knew it would knock your socks off!"]
+              "parameters": ["Tôi biết điều này sẽ khiến bạn kinh ngạc mà!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Would you guys mind if I tried a sip too..?"]
+              "parameters": ["Mọi người có phiền không nếu tôi thử một ngụm nhỉ..?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Of course.\\! Come try it!"]
+              "parameters":["Tất nhiên rồi.\\! Hãy thử xem!"]
             },
             {
               "code": 205,
@@ -3572,20 +3564,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Wow!\\! It really is the perfect shake!"]
+              "parameters":["Wow!\\! Quả thực là một thức uống lắc hoàn hảo!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thick, creamy, and bursting with flavor!"]
+              "parameters": ["Dày, béo ngậy và tràn đầy hương vị!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I-I must say ~\\! I'm feeling a bit funny after trying it."
+                "T-tôi phải nói rằng ~\\! Tôi cảm thấy hơi buồn cười sau khi thử nó."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -3596,14 +3588,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Sensei!\\! Your pervy tricks strike again!"]
+              "parameters": ["Sensei!\\! Trò biến thái của anh lại tấn công nữa rồi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This perfect balance of flavors and ingredients creates a side effect..."
+                "Sự cân bằng hoàn hảo giữa hương vị và thành phần tạo ra một tác dụng phụ..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
@@ -3611,14 +3603,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Mythic Milkshake isn't just a regular shake!\\! It's a..."
+               "Mythic Milkshake không chỉ là một loại sữa lắc thông thường!\\! Nó là..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A deliciously naughty aphrodisiac!"]
+              "parameters":["Một ​​loại thuốc kích thích tình dục cực kỳ hấp dẫn!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 121, "indent": 0, "parameters": [246, 246, 1] },

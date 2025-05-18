@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Reception Area",
+  "displayName": "Quầy Lễ Tân",
   "encounterList": [],
   "encounterStep": 30,
   "height": 21,
@@ -205,7 +205,7 @@
     null,
     {
       "id": 1,
-      "name": "Elevator",
+      "name": "Thang Máy",
       "note": "",
       "pages": [
         {
@@ -335,7 +335,6 @@
             },
             { "code": 201, "indent": 0, "parameters": [0, 83, 10, 9, 8, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -382,7 +381,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That's not the right way!"]
+              "parameters": ["Không phải đường này!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -444,8 +443,6 @@
             },
             { "code": 121, "indent": 0, "parameters": [62, 62, 0] },
             { "code": 201, "indent": 0, "parameters": [0, 45, 5, 8, 2, 0] },
-            { "code": 117, "indent": 0, "parameters": [27] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -492,58 +489,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I can't leave until I've found \\n[2]!"]
+              "parameters": ["Mình sẽ không bỏ đi nếu chưa tìm thấy mẹ!"]
             },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 208,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I can't go this way!\\! I need to save Snowball!"]
-            },
-            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -604,8 +551,6 @@
             },
             { "code": 121, "indent": 0, "parameters": [62, 62, 0] },
             { "code": 201, "indent": 0, "parameters": [0, 45, 6, 8, 2, 0] },
-            { "code": 117, "indent": 0, "parameters": [27] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -652,58 +597,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I can't leave until I've found \\n[2]!"]
+              "parameters": ["Mình sẽ không bỏ đi nếu chưa tìm thấy mẹ!"]
             },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 208,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I can't go this way!\\! I need to save Snowball!"]
-            },
-            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -764,8 +659,6 @@
             },
             { "code": 121, "indent": 0, "parameters": [62, 62, 0] },
             { "code": 201, "indent": 0, "parameters": [0, 45, 10, 8, 2, 0] },
-            { "code": 117, "indent": 0, "parameters": [27] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -812,58 +705,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I can't leave until I've found \\n[2]!"]
+              "parameters": ["Mình sẽ không bỏ đi nếu chưa tìm thấy mẹ!"]
             },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 208,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I can't go this way!\\! I need to save Snowball!"]
-            },
-            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -924,8 +767,6 @@
             },
             { "code": 121, "indent": 0, "parameters": [62, 62, 0] },
             { "code": 201, "indent": 0, "parameters": [0, 45, 11, 8, 2, 0] },
-            { "code": 117, "indent": 0, "parameters": [27] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -972,58 +813,8 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I can't leave until I've found \\n[2]!"]
+              "parameters": ["Mình sẽ không bỏ đi nếu chưa tìm thấy mẹ!"]
             },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": false
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 208,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I can't go this way!\\! I need to save Snowball!"]
-            },
-            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1288,13 +1079,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[2]!\\! Hello?!\\! Are you here?!"]
+              "parameters": ["Mẹ!\\! Mẹ ơi?!\\! Mẹ có ở đây không?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Dammit!\\! She has to be up ahead."]
+              "parameters": ["Chết tiệt!\\! Đi đâu rồi không biết...?!"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1396,7 +1187,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Nước!"] },
             { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1412,60 +1203,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -1636,7 +1373,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -1770,7 +1507,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 3,
@@ -1887,46 +1624,6 @@
             "selfSwitchCh": "D",
             "selfSwitchValid": false,
             "switch1Id": 106,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 1
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": true,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "D",
-            "selfSwitchValid": false,
-            "switch1Id": 7,
             "switch1Valid": true,
             "switch2Id": 1,
             "switch2Valid": false,
@@ -2366,46 +2063,6 @@
           "through": true,
           "trigger": 0,
           "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "D",
-            "selfSwitchValid": false,
-            "switch1Id": 7,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 1
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": true,
-          "trigger": 0,
-          "walkAnime": true
         }
       ],
       "x": 18,
@@ -2492,20 +2149,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*sigh*\\! Here we are again."]
+              "parameters": ["*thở dài*\\! Chúng ta lại ở đây rồi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I wasn't expecting to return here so soon..."]
+              "parameters": ["Tôi không ngờ mình lại quay lại đây sớm như vậy..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But that elevator over there can take us to the second floor."
+                "Nhưng thang máy đằng kia có thể đưa chúng ta lên tầng hai."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -2513,7 +2170,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Keep a look out for medical supplies to take back to the other survivors."
+                "Hãy chú ý tìm kiếm vật tư y tế để mang về cho những người sống sót khác."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -2613,51 +2270,51 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Okay.\\! We've got a Cat Toy for Snowball."]
+              "parameters": ["Được rồi.\\! Chúng ta có đồ chơi mèo cho Snowball."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I just know Snowball will love it!"]
+              "parameters": ["Tôi biết chắc là Snowball sẽ thích điều này!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now we just have to lure her out with it."]
+              "parameters": ["Bây giờ chúng ta chỉ cần dụ cô ta ra ngoài bằng nó thôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["How will we do that?"]
+              "parameters": ["Chúng ta sẽ làm điều đó bằng cách nào?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I know a secret trick to call Snowball!"]
+              "parameters": ["Tôi biết một mẹo bí mật để gọi Snowball!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Whenever I wanted to find her, I would jingle the toy near the vent in "
+                "Bất cứ khi nào tôi muốn tìm cô ấy, tôi sẽ lắc đồ chơi gần lỗ thông hơi trong "
               ]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["the room that we met."]
+              "parameters": ["căn phòng mà chúng ta đã gặp nhau."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Let's go down to the second floor and try it out."
+                "Chúng ta xuống tầng hai thử xem."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [204, 204, 0] },

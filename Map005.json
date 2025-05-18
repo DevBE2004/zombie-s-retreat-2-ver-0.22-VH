@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "West District",
+  "displayName": "Quận Tây",
   "encounterList": [],
   "encounterStep": 30,
   "height": 34,
@@ -224,55 +224,53 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 377, 346, 221, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 354, 229, 0, 0, 0, 0, 0, 0, 0, 0, 0, 381,
-    381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 381, 381, 381, 381, 0, 381, 381, 0,
+    381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 381, 381, 0, 381, 381, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 207, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 269, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 207, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 269, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 707, 707, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    174, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 182, 183,
-    0, 0, 0, 0, 707, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 286, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 190, 191, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 277, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 707, 707, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 174,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 182, 183, 0,
+    0, 0, 0, 707, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    286, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 190, 191, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 496, 0, 0, 496, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 496, 0, 0, 496, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 385, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 268, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 201, 276, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 385, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 268, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 640, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 956, 957, 958, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 652, 0, 0, 0, 0, 0, 0, 0, 0, 648, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 964, 965, 966, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 271, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 972, 973, 974, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 846, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 201, 276, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 286, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 194,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 202, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 640, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 956, 957, 958, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 652, 0, 0, 0, 0, 0, 0, 0, 0, 648, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 964, 965, 966, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 271, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 972, 973, 974, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 846, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 286, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 194, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 202, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -284,25 +282,27 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 181, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 71, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 181, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 71, 0, 0, 0, 0, 0,
     344, 377, 377, 377, 377, 377, 179, 180, 48, 49, 50, 51, 52, 0, 0, 0, 0, 0,
     373, 373, 373, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 373, 373, 373, 373, 373,
     373, 373, 373, 26, 27, 28, 0, 0, 0, 0, 352, 0, 141, 0, 0, 0, 187, 188, 56,
     57, 58, 59, 60, 0, 597, 598, 599, 0, 163, 181, 381, 237, 0, 656, 5, 0, 660,
-    0, 0, 0, 0, 0, 723, 724, 179, 180, 381, 198, 199, 0, 34, 35, 36, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 381, 381, 179, 180, 381, 198, 199, 0, 34, 35, 36, 0, 0, 0, 0,
     352, 11, 0, 0, 0, 0, 0, 354, 64, 65, 66, 67, 68, 0, 605, 606, 607, 0, 171,
-    189, 4, 245, 0, 664, 0, 0, 668, 0, 0, 0, 0, 0, 731, 732, 187, 188, 0, 206,
-    147, 0, 42, 43, 44, 0, 0, 0, 0, 352, 0, 0, 721, 0, 0, 0, 0, 0, 0, 0, 285,
-    286, 0, 268, 136, 0, 0, 0, 0, 0, 253, 0, 0, 0, 0, 0, 0, 556, 557, 558, 559,
-    0, 0, 0, 0, 0, 0, 155, 0, 0, 0, 0, 0, 0, 0, 0, 352, 0, 0, 729, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 276, 152, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 564, 565,
-    566, 567, 0, 0, 0, 0, 0, 141, 0, 0, 0, 721, 0, 0, 0, 0, 0, 352, 175, 720, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 562,
-    715, 715, 560, 0, 0, 0, 0, 0, 0, 0, 0, 0, 729, 0, 0, 0, 0, 0, 360, 371, 728,
-    0, 0, 696, 699, 698, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 285, 572, 0, 0, 575, 0, 0, 0, 0, 0, 0, 210, 0, 0, 0, 0, 0, 0, 0, 0, 368,
-    370, 736, 660, 0, 712, 715, 714, 0, 0, 0, 293, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    189, 4, 245, 0, 664, 0, 0, 668, 0, 0, 0, 0, 0, 0, 0, 187, 188, 0, 206, 147,
+    0, 42, 43, 44, 0, 0, 0, 0, 352, 0, 0, 721, 0, 0, 0, 0, 0, 0, 0, 285, 286, 0,
+    268, 136, 0, 0, 0, 0, 0, 253, 0, 0, 0, 0, 0, 0, 556, 557, 558, 559, 0, 0, 0,
+    0, 0, 0, 155, 0, 0, 0, 0, 0, 0, 0, 0, 352, 0, 0, 729, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 276, 152, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 564, 565, 566, 567,
+    0, 0, 0, 0, 0, 141, 0, 0, 0, 721, 0, 0, 0, 0, 0, 352, 175, 720, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 562, 715,
+    715, 560, 0, 0, 0, 0, 0, 0, 0, 0, 0, 729, 0, 0, 0, 0, 0, 360, 330, 728, 0,
+    0, 696, 699, 698, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    285, 572, 0, 0, 575, 0, 0, 0, 0, 0, 0, 210, 0, 0, 0, 0, 0, 0, 0, 0, 368,
+    338, 736, 660, 0, 712, 715, 714, 0, 0, 0, 293, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 218, 0, 0, 0, 0, 0, 0, 0, 0,
     376, 378, 0, 668, 0, 0, 0, 1014, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 662, 663, 0, 0, 0, 0,
@@ -436,7 +436,7 @@
     0, 0, 0, 30, 0, 0, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 30, 0, 0, 0, 0, 0,
     0, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 30, 0, 0, 0, 0, 0, 0, 1,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 30, 0, 0, 0, 0, 0, 0,
@@ -1139,7 +1139,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Crimson City Police Department"]
+              "parameters": ["Trụ sở cảnh sát thành phố Crimson"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1196,7 +1196,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Crimson City Police Department"]
+              "parameters": ["Trụ sở cảnh sát thành phố Crimson"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1272,14 +1272,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 111, "indent": 1, "parameters": [1, 17, 0, 1, 1] },
@@ -1305,12 +1305,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm này đã trống không..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -1379,14 +1379,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 112, "indent": 1, "parameters": [] },
@@ -1408,38 +1408,26 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Gained some Food (Fish)!"]
+              "parameters": ["Tìm được Thực Phẩm (Cá)!"]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
             { "code": 111, "indent": 3, "parameters": [1, 21, 0, 18, 1] },
             { "code": 126, "indent": 4, "parameters": [5, 0, 0, 1] },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 4,
-              "parameters": ["Gained some Medicinal Herb!"]
-            },
+            { "code": 401, "indent": 4, "parameters": ["Tìm được Thảo Dược!"] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 411, "indent": 3, "parameters": [] },
             { "code": 111, "indent": 4, "parameters": [1, 21, 0, 14, 1] },
             { "code": 126, "indent": 5, "parameters": [1, 0, 0, 1] },
             { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 5,
-              "parameters": ["Gained some Scrap Metal!"]
-            },
+            { "code": 401, "indent": 5, "parameters": ["Tìm được Kim Loại!"] },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 411, "indent": 4, "parameters": [] },
             { "code": 111, "indent": 5, "parameters": [1, 21, 0, 9, 1] },
             { "code": 126, "indent": 6, "parameters": [2, 0, 0, 1] },
             { "code": 101, "indent": 6, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 6,
-              "parameters": ["Gained some Scrap Wood!"]
-            },
+            { "code": 401, "indent": 6, "parameters": ["Tìm được Gỗ!"] },
             { "code": 0, "indent": 6, "parameters": [] },
             { "code": 411, "indent": 5, "parameters": [] },
             { "code": 111, "indent": 6, "parameters": [1, 21, 0, 7, 1] },
@@ -1448,7 +1436,7 @@
             {
               "code": 401,
               "indent": 7,
-              "parameters": ["Gained some Pistol Ammo (6)!"]
+              "parameters": ["Tìm được Đạn Súng Lúc (6)!"]
             },
             { "code": 117, "indent": 7, "parameters": [16] },
             { "code": 0, "indent": 7, "parameters": [] },
@@ -1456,16 +1444,12 @@
             { "code": 111, "indent": 7, "parameters": [1, 21, 0, 3, 1] },
             { "code": 126, "indent": 8, "parameters": [3, 0, 0, 1] },
             { "code": 101, "indent": 8, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 8,
-              "parameters": ["Gained some Scrap Brick!"]
-            },
+            { "code": 401, "indent": 8, "parameters": ["Tìm được Gạch!"] },
             { "code": 0, "indent": 8, "parameters": [] },
             { "code": 411, "indent": 7, "parameters": [] },
             { "code": 126, "indent": 8, "parameters": [29, 0, 0, 1] },
             { "code": 101, "indent": 8, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 8, "parameters": ["Gained some String!"] },
+            { "code": 401, "indent": 8, "parameters": ["Tìm được Cuộn Dây!"] },
             { "code": 0, "indent": 8, "parameters": [] },
             { "code": 412, "indent": 7, "parameters": [] },
             { "code": 0, "indent": 7, "parameters": [] },
@@ -1494,7 +1478,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm này đã trống không..."]
             },
             { "code": 122, "indent": 3, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 3, "parameters": [21, 21, 0, 0, 0] },
@@ -1504,7 +1488,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 413, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -1639,7 +1623,6 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             {
               "code": 250,
               "indent": 0,
@@ -1698,7 +1681,6 @@
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 6, 12, 8, 8, 0] },
             { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
-            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5654,11 +5636,7 @@
             },
             { "code": 126, "indent": 0, "parameters": [2, 0, 0, 2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Gained some Scrap Wood (2)!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gỗ! (2)"] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5974,7 +5952,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's barricaded from the other side."]
+              "parameters": ["Hình như có gì đó đang chặn ở phía bên trong."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6023,7 +6001,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Here we are.\\! Back at the old office."]
+              "parameters": ["Chúng ta tới nơi rồi.\\! Đồn cảnh sát Crimson..."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -6038,13 +6016,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Looks like it's barricaded, though."]
+              "parameters": ["Hình như cánh cửa bị chặn rồi, chị Lucy."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No worries.\\! \\BST[5]Step aside."]
+              "parameters": ["Đừng lo.\\! \\BST[5]Em đứng sang một bên đi."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -6109,7 +6087,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I shouldn't go back in without Lucy."]
+              "parameters": ["Mình không nên vào đó khi không có chị Lucy."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6382,7 +6360,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's barricaded from the other side."]
+              "parameters": ["Hình như có gì đó đang chặn ở phía bên trong."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6431,7 +6409,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Here we are.\\! Back at the old office."]
+              "parameters": ["Chúng ta tới nơi rồi.\\! Đồn cảnh sát Crimson..."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -6446,13 +6424,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Looks like it's barricaded, though."]
+              "parameters": ["Hình như cánh cửa bị chặn rồi, chị Lucy."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No worries.\\! \\BST[5]Step aside."]
+              "parameters": ["Đừng lo.\\! \\BST[5]Em đứng sang một bên đi."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -6517,7 +6495,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I shouldn't go back in without Lucy."]
+              "parameters": ["Mình không nên vào đó khi không có chị Lucy."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6787,7 +6765,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Nước!"] },
             { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6803,60 +6781,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -7067,7 +6991,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["West District now available for Fast Travel!"]
+              "parameters": ["Quận Tây hiện đã có thể dịch chuyển đến!"]
             },
             { "code": 121, "indent": 0, "parameters": [321, 321, 0] },
             { "code": 111, "indent": 0, "parameters": [0, 121, 1] },
@@ -7076,14 +7000,16 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Bus stops provide convenient routes to other discovered locations!"
+                "Điểm dừng xe buýt cung cấp các tuyến đường thuận lợi để đi đến các địa điểm đã được khám phá!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Find and activate more bus stops to fast travel!"]
+              "parameters": [
+                "Tìm và kích hoạt thêm các điểm dừng xe buýt để di chuyển nhanh hơn!"
+              ]
             },
             { "code": 121, "indent": 1, "parameters": [121, 121, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -7422,7 +7348,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe I could scavenge these bricks with a special tool."
+                "Có lẽ mình có thể nhặt những viên gạch này bằng một công cụ đặc biệt."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7471,19 +7397,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Use a hammer to scavenge brick?"]
+              "parameters": ["Có nên dùng búa để đập tấm gạch này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 117, "indent": 1, "parameters": [93] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7769,14 +7695,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 111, "indent": 1, "parameters": [1, 17, 0, 1, 1] },
@@ -7802,12 +7728,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm này đã trống không..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -7977,7 +7903,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["And there's the first battery!"]
+              "parameters": ["Và đây là viên pin đầu tiên!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 1, 0, 2] },
             { "code": 401, "indent": 2, "parameters": ["Nice work, \\n[1]!"] },
@@ -7985,15 +7911,13 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Hah!\\! I feel like a treasure hunter!"]
+              "parameters": ["Hah!\\!Tôi cảm thấy như một thợ săn kho báu!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": [
-                "Well then let's go find some more, treasure hunter!"
-              ]
+              "parameters": ["Vậy thì hãy đi tìm thêm, thợ săn kho báu!"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -8002,20 +7926,20 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "This must be one of the batteries that Fiona's looking for."
+                "Chắc hẳn đây là một trong những viên pin mà Fiona đang tìm."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Hah!\\! I feel like a treasure hunter!"]
+              "parameters": ["Hah!\\! Tôi cảm thấy như một thợ săn kho báu!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["One down, more to go."]
+              "parameters": ["Được một rồi, còn nhiều nữa."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -8027,27 +7951,27 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Oh yeah!\\! There's our final battery!"]
+              "parameters": [
+                "Oh yeah!\\! Đây là viên pin cuối cùng của chúng ta!"
+              ]
             },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["You're a certified champ at treasure huntin'!"]
+              "parameters": ["Bạn là một nhà thám hiểm kho báu chính hiệu!"]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["I'm glad I could help!"]
+              "parameters": ["Tôi rất vui vì có thể giúp đỡ!"]
             },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": [
-                "I think it's time we make our way back to base then."
-              ]
+              "parameters": ["Tôi nghĩ đã đến lúc chúng ta trở về căn cứ."]
             },
             { "code": 122, "indent": 3, "parameters": [150, 150, 0, 0, 1] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -8056,13 +7980,15 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["There we go!\\! The final battery!"]
+              "parameters": ["Đây rồi! Viên pin cuối cùng!"]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Time to head back home and give these to Fiona."]
+              "parameters": [
+                "Đã đến lúc trở về nhà và đưa những cái này cho Fiona."
+              ]
             },
             { "code": 122, "indent": 3, "parameters": [150, 150, 0, 0, 2] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -8072,18 +7998,30 @@
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 111, "indent": 2, "parameters": [4, 15, 0] },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 3, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["Another battery!"] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["Thêm một viên pin nữa!"]
+            },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["Let's keep it up!"] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["Hãy tiếp tục như vậy!"]
+            },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["Another battery!"] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["Thêm một viên pin nữa!"]
+            },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["But I still have more to find!"]
+              "parameters": ["Nhưng tôi vẫn còn nhiều thứ để tìm!"]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -8218,21 +8156,21 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Hah!\\! It made you jump!"]
+              "parameters": ["Hah!\\! Nó làm bạn giật mình!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Man, you weren't joking about this thing beeping like crazy."
+                "Chà, bạn không đùa đâu về cái thứ này kêu bíp ầm ĩ."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["A battery must be close.\\! Let's find it!"]
+              "parameters": ["Chắc chắn viên pin ở gần. Hãy tìm nó!"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -8240,23 +8178,19 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Whoa!\\! The battery detector is going off!"]
+              "parameters": ["Whoa!\\! Máy phát hiện pin đang kêu!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": [
-                "Fiona wasn't joking about this thing beeping like crazy."
-              ]
+              "parameters": ["Fiona không đùa đâu về cái thứ này kêu bíp ầm ĩ."]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": [
-                "That should mean a battery is close by somewhere."
-              ]
+              "parameters": ["Điều đó có nghĩa là một viên pin ở gần đâu đó."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -8268,7 +8202,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Another battery should be close by!"]
+              "parameters": ["Viên pin khác chắc chắn ở gần đây!"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -8276,7 +8210,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Sounds like another battery is nearby."]
+              "parameters": ["Nghe có vẻ như có viên pin khác ở gần đây."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },

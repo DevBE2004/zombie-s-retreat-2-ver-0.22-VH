@@ -142,7 +142,7 @@
     null,
     {
       "id": 1,
-      "name": "Subway Point",
+      "name": "Điểm Tàu Điện Ngầm",
       "note": "",
       "pages": [
         {
@@ -334,7 +334,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -377,6 +377,7 @@
                 { "name": "Damage3", "volume": 35, "pitch": 150, "pan": 0 }
               ]
             },
+            { "code": 122, "indent": 0, "parameters": [64, 64, 1, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["D", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -477,11 +478,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Scrap Metal!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Kim Loại!"] },
             { "code": 126, "indent": 0, "parameters": [1, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -667,7 +664,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -801,7 +798,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -845,6 +842,7 @@
               ]
             },
             { "code": 111, "indent": 0, "parameters": [2, "B", 0] },
+            { "code": 122, "indent": 1, "parameters": [64, 64, 1, 0, 1] },
             { "code": 123, "indent": 1, "parameters": ["D", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },

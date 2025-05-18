@@ -161,14 +161,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>\\n[2]?!\\! You're awake?!"]
+              "parameters": ["\\n<\\N[1]>Mẹ?!\\! Mẹ tỉnh rồi à?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>Yes honey...\\! You can put me down now."
+                "\\n<\\N[2]>Ừ...\\! Giờ con thả mẹ xuống được rồi."
               ]
             },
             {
@@ -189,17 +189,17 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you okay?!\\! Can you hear me still?!\\! You're not..."
+                "Mẹ ổn chứ?!\\! Mẹ có nghe thấy con nói không?!\\! Mẹ không bị..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm okay dear.\\! I'm okay..."]
+              "parameters": ["Mẹ ổn, con yêu.\\! Mẹ vẫn ổn..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[2]!\\! I..."] },
+            { "code": 401, "indent": 0, "parameters": ["Mẹ!\\! Con..."] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [4, 6, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -207,22 +207,26 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["... I was so scared to lose you, \\n[2]."]
+              "parameters": ["... Con rất sợ mất mẹ."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Oh baby...\\! I'm so sorry to have frightened you."
-              ]
+              "parameters": ["Oh con yêu...\\! Mẹ xin lỗi vì đã làm con sợ."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
+              "parameters": ["Là lỗi của con khi không thể bảo vệ mẹ..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
               "parameters": [
-                "It was my fault for not being able to protect you."
+                "Không đâu.\\! Đó mới là lỗi của mẹ khi cố tình liều lĩnh đi ra ngoài một mình."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -230,135 +234,102 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "No honey.\\! It was reckless of me to go out alone."
+                "Con đã rất cố gắng vì bọn mẹ rồi.\\! Nên mẹ cảm thấy mình cần phải làm gì đó để giúp con."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "You work so hard for all of us.\\! I felt I needed to do my part as your \\n[5]."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I'm so sorry \\n[1]..."]
+              "parameters": ["Mẹ xin lỗi, \\n[1]..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[2]!"] },
+            { "code": 401, "indent": 0, "parameters": ["Mẹ!"] },
             { "code": 213, "indent": 0, "parameters": [4, 4, true] },
-            { "code": 221, "indent": 0, "parameters": [] },
             {
               "code": 231,
               "indent": 0,
-              "parameters": [8, "4MomKiss3[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+              "parameters": [8, "4MomKiss3", 0, 0, 0, 0, 100, 100, 0, 0]
             },
             {
-              "code": 356,
+              "code": 231,
               "indent": 0,
-              "parameters": ["AnimatedPicture 8 Speed 8"]
+              "parameters": [9, "4MomKiss4", 0, 0, 0, 0, 100, 100, 0, 0]
             },
             {
-              "code": 356,
+              "code": 231,
               "indent": 0,
-              "parameters": ["AnimatedPicture 8 Loop"]
+              "parameters": [10, "4MomKiss5", 0, 0, 0, 0, 100, 100, 0, 0]
             },
-            { "code": 230, "indent": 0, "parameters": [30] },
             {
-              "code": 245,
+              "code": 232,
               "indent": 0,
-              "parameters": [
-                {
-                  "name": "MilfMedKissBJ_Cotton",
-                  "volume": 90,
-                  "pitch": 100,
-                  "pan": 0
-                }
-              ]
+              "parameters": [8, 0, 0, 0, 0, 0, 100, 100, 255, 0, 120, true]
             },
-            { "code": 230, "indent": 0, "parameters": [120] },
-            { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[2]>[I just love him so much ~ ♥️]"]
+              "parameters": ["\\n<\\N[2]>[Mình thực sự rất yêu thằng bé ~ ♥️]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>[He makes me feel so loved and cared for...]"
+                "\\n<\\N[2]>[Thằng bé khiến cho mình cảm thấy được quan tâm và chiều chuộng...]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[2]>[Yes.\\! Those feelings of mine...]"]
-            },
-            { "code": 221, "indent": 0, "parameters": [] },
-            {
-              "code": 231,
-              "indent": 0,
-              "parameters": [9, "4MomKiss4[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+              "parameters": [
+                "\\n<\\N[2]>[Đúng thế.\\! Những cảm xúc đó của mình...]"
+              ]
             },
             {
-              "code": 356,
+              "code": 232,
               "indent": 0,
-              "parameters": ["AnimatedPicture 9 Speed 8"]
+              "parameters": [9, 0, 0, 0, 0, 0, 100, 100, 255, 0, 60, false]
             },
+            { "code": 230, "indent": 0, "parameters": [10] },
             {
-              "code": 356,
+              "code": 232,
               "indent": 0,
-              "parameters": ["AnimatedPicture 9 Loop"]
+              "parameters": [8, 0, 0, 0, 0, 0, 100, 100, 0, 0, 60, true]
             },
             { "code": 235, "indent": 0, "parameters": [8] },
-            { "code": 230, "indent": 0, "parameters": [90] },
-            { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[2]>[I can't ignore them any longer!]"]
+              "parameters": ["\\n<\\N[2]>[Mình không thể phớt lờ nó được nữa!]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>[This is what my heart truly wants...\\! him.]"
+                "\\n<\\N[2]>[Điều trái tim mình thực sự muốn đó là...\\! thằng bé.]"
               ]
             },
-            { "code": 246, "indent": 0, "parameters": [2] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 221, "indent": 0, "parameters": [] },
             {
-              "code": 231,
+              "code": 232,
               "indent": 0,
-              "parameters": [10, "4MomKiss5[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+              "parameters": [10, 0, 0, 0, 0, 0, 100, 100, 255, 0, 60, false]
             },
+            { "code": 230, "indent": 0, "parameters": [10] },
             {
-              "code": 356,
+              "code": 232,
               "indent": 0,
-              "parameters": ["AnimatedPicture 10 Speed 8"]
-            },
-            {
-              "code": 356,
-              "indent": 0,
-              "parameters": ["AnimatedPicture 10 Loop"]
+              "parameters": [9, 0, 0, 0, 0, 0, 100, 100, 0, 0, 60, true]
             },
             { "code": 235, "indent": 0, "parameters": [9] },
-            { "code": 230, "indent": 0, "parameters": [90] },
-            { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -366,7 +337,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>Honey.\\! Maybe we should get out of this rain, don't you agree?"
+                "\\n<\\N[2]>Con yêu...\\! Mẹ nghĩ chúng ta nên nhanh chóng về nhà thôi...?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -374,14 +345,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>Before one of us gets another cold. *giggle*"
+                "\\n<\\N[2]>Nếu không thì cả hai chúng ta sẽ bị cảm lạnh mất. *cười khúc khích*"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>Hah, I guess you're right \\n[2]."]
+              "parameters": ["\\n<\\N[1]>Ha ha, mẹ nói đúng..."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 246, "indent": 0, "parameters": [4] },

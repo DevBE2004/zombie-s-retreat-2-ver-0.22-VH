@@ -173,7 +173,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Nervous Guy>Not too many folks enter The Colosseum and make it out in one piece."
+                "\\n<Người đàn ông sợ hãi>Rất hiếm người bước vào Đấu Trường La Mã và trở ra mà vẫn còn lành lặn."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -181,7 +181,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Nervous Guy>If you lose and still come back with your life, consider yourself lucky."
+                "\\n<Người đàn ông sợ hãi>Nếu cậu thua mà vẫn còn sống sót trở về thì đó là do cậu may mắn."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -189,7 +189,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Nervous Guy>Me?\\! No way in hell am I going in there!"
+                "\\n<Người đàn ông sợ hãi>Tôi ư?\\! Không đời nào tôi lại đi vào đó!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -384,7 +384,6 @@
           },
           "list": [
             { "code": 201, "indent": 0, "parameters": [0, 79, 11, 15, 8, 0] },
-            { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

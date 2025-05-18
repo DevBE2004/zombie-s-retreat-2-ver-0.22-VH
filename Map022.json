@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Docking Port",
+  "displayName": "Cảng",
   "encounterList": [],
   "encounterStep": 30,
   "height": 31,
@@ -797,6 +797,37 @@
             { "code": 123, "indent": 1, "parameters": ["D", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    {
+                      "code": 41,
+                      "parameters": ["PHC_Em-Serv-ZomGoreA2", 7],
+                      "indent": null
+                    },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [
+                {
+                  "code": 41,
+                  "parameters": ["PHC_Em-Serv-ZomGoreA2", 7],
+                  "indent": null
+                }
+              ]
+            },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -902,7 +933,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -1031,7 +1062,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -1077,7 +1108,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -1211,7 +1242,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -1258,6 +1289,37 @@
             { "code": 123, "indent": 1, "parameters": ["D", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    {
+                      "code": 41,
+                      "parameters": ["PHC_Em-Serv-ZomGoreA2", 6],
+                      "indent": null
+                    },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [
+                {
+                  "code": 41,
+                  "parameters": ["PHC_Em-Serv-ZomGoreA2", 6],
+                  "indent": null
+                }
+              ]
+            },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1358,30 +1420,24 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fish by throwing a fishing rod into various fishing spots around the "
+                "Câu cá bằng cách ném cần câu vào các điểm câu khác nhau xung quanh thành phố."
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["city."] },
             { "code": 111, "indent": 0, "parameters": [0, 27, 1] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "To catch a fish, wait until you hear a bite and press the interact button "
+                "Để bắt một con cá, hãy đợi cho đến khi bạn nghe thấy tiếng cắn và nhấn nút tương tác (Mặc định là Z) để thu cần câu!"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["(Default Z) to reel it in!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "If you're too fast or too slow, the fish will get away."
+                "Nếu bạn ấn quá nhanh hoặc quá chậm thì cá sẽ chạy mất."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1391,7 +1447,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Once a fish is on the hook, you'll automatically reel it in!"
+                "Khi cá đã mắc câu, bạn sẽ tự động thu cần câu về!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1415,13 +1471,17 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Go fishing?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Bạn có muốn câu không?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 1] },
             {
               "code": 250,
@@ -1432,7 +1492,7 @@
             },
             { "code": 117, "indent": 1, "parameters": [70] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [86, 86, 0] },
@@ -1497,13 +1557,17 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Go fishing?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Bạn có muốn câu không?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 1] },
             {
               "code": 250,
@@ -1519,13 +1583,13 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["The fishing spot became silent..."]
+              "parameters": ["Điểm câu đã không còn động tĩnh..."]
             },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1712,7 +1776,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -1846,7 +1910,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -1893,6 +1957,37 @@
             { "code": 123, "indent": 1, "parameters": ["D", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    {
+                      "code": 41,
+                      "parameters": ["PHC_Em-Serv-ZomGoreB2", 0],
+                      "indent": null
+                    },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [
+                {
+                  "code": 41,
+                  "parameters": ["PHC_Em-Serv-ZomGoreB2", 0],
+                  "indent": null
+                }
+              ]
+            },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2090,11 +2185,7 @@
             },
             { "code": 126, "indent": 0, "parameters": [2, 0, 0, 2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Gained some Scrap Wood (2)!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gỗ! (2)"] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2284,7 +2375,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -2330,7 +2421,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -2464,7 +2555,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 3,
@@ -2510,7 +2601,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 3,
@@ -2557,6 +2648,37 @@
             { "code": 123, "indent": 1, "parameters": ["D", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    {
+                      "code": 41,
+                      "parameters": ["PHC_Em-Serv-ZomGoreA2", 5],
+                      "indent": null
+                    },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [
+                {
+                  "code": 41,
+                  "parameters": ["PHC_Em-Serv-ZomGoreA2", 5],
+                  "indent": null
+                }
+              ]
+            },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2870,7 +2992,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe I could scavenge this metal with a special tool."
+                "Có lẽ mình có thể nhặt miếng kim loại này bằng một công cụ đặc biệt."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2919,19 +3041,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Use a Metal Cutting Saw to scavenge metal?"]
+              "parameters": [
+                "Có nên sử dụng Cưa cắt Kim Loại để cắt miếng Kim Loại này không?"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 117, "indent": 1, "parameters": [94] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

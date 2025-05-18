@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Hallway 2F",
+  "displayName": "Hành Lang Tầng 2",
   "encounterList": [],
   "encounterStep": 30,
   "height": 20,
@@ -1749,7 +1749,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This red locker is numbered \"69\"."]
+              "parameters": ["Cái tủ màu đỏ này được đánh số \"69\"."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

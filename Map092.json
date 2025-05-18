@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Pool",
+  "displayName": "Bể Bơi",
   "encounterList": [],
   "encounterStep": 30,
   "height": 23,
@@ -221,7 +221,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This door says \"Staff Only\".\\! I can't get in here without Nadia with me."
+                "Trên cánh cửa ghi là \"Chỉ dành cho giáo viên\".\\! Có chị Nadia đi cùng thì mình mới vào được!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -231,7 +231,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This door says \"Staff Only\".\\! I won't be able to get in here."
+                "Trên cánh cửa ghi là \"Chỉ dành cho giáo viên\".\\! Mình không thể vào đó được!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -418,7 +418,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This green locker is numbered \"12\"."]
+              "parameters": ["Cái tủ màu xanh lá này được đánh số \"12\"."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -831,14 +831,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The smell of the pool water is so nice!"]
+              "parameters": ["Mùi của nước hồ bơi này thơm quá!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The smell just reminds me of getting rescued by the lifeguard again and again..."
+                "Cái mùi ấy làm em liên tưởng đến việc được nhân viên cứu hộ cứu hết lần này đến lần khác..."
               ]
             },
             { "code": 242, "indent": 0, "parameters": [3] },
@@ -899,7 +899,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Um... Nadia?\\! Did the doors just lock on us?"]
+              "parameters": [
+                "Um... Chị Nadia?\\! Có phải cánh cửa vừa bị khóa đúng không?"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -996,7 +998,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh come on!\\! Don't tell me these one's are part of the swim team?!"
+                "Oh thôi nào!\\! Chẳng lẽ những con Zombie này là người của đội bơi?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -1004,12 +1006,12 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I skipped gym class just to avoid having to swim here!"
+                "[May mà hồi trước mình không chọn học môn bơi...]"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [8, 5, true] },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["That does it!"] },
+            { "code": 401, "indent": 0, "parameters": ["Chết tiệt...!"] },
             {
               "code": 241,
               "indent": 0,
@@ -1048,20 +1050,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm sick of all you stupid zombies!"]
+              "parameters": ["Chị phát ốm với mấy con Zombie kinh tởm này rồi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Get out of our way or I'll tear you apart!"]
+              "parameters": ["Tránh đường nếu không tao sẽ xé xác bọn mày ra!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They won't stop unless we take them out.\\! Let's get them Nadia!"
+                "Bọn nó sẽ không dừng lại trừ khi chúng ta hạ gục chúng.\\! Cứ để việc đó cho em, chị Nadia!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -4287,17 +4289,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ugh, I think they're gone now..."]
+              "parameters": ["Ugh, em nghĩ bọn chúng chết hết rồi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Nice work \\n[1]!"] },
+            { "code": 401, "indent": 0, "parameters": ["Giỏi lắm, \\n[1]!"] },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "The locker rooms should be just up ahead, I think."
-              ]
+              "parameters": ["Phòng thay đồ đã ở ngay phía trước!"]
             },
             { "code": 230, "indent": 0, "parameters": [50] },
             {
@@ -4715,7 +4715,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Nước!"] },
             { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4731,60 +4731,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true

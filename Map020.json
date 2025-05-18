@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Fiona's Workshop",
+  "displayName": "Xưởng làm việc của Fiona",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -178,344 +178,76 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Time for work!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đến giờ bắt tay vào làm việc rồi!"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Talk", "Party Up", "Nevermind"], 2, 0, 2, 0]
+              "parameters": [["Nói chuyện", "Đồng hành", "Rời đi"], 2, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Nói chuyện"] },
             { "code": 117, "indent": 1, "parameters": [43] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Party Up"] },
-            { "code": 117, "indent": 1, "parameters": [55] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Nevermind"] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 404, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 195,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "Fiona",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 1
-          },
-          "list": [
-            { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Just in time. I could use a helpin' hand!"]
-            },
-            {
-              "code": 102,
-              "indent": 0,
-              "parameters": [
-                ["Talk", "Blowjob", "Party Up", "Nevermind"],
-                3,
-                0,
-                2,
-                0
-              ]
-            },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
-            { "code": 117, "indent": 1, "parameters": [43] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Blowjob"] },
-            { "code": 101, "indent": 1, "parameters": ["1Fiona1", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["I think I've got some spare time..."]
-            },
-            { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 19] },
-            { "code": 117, "indent": 1, "parameters": [28] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Party Up"] },
-            { "code": 117, "indent": 1, "parameters": [55] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Nevermind"] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 404, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 199,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "Fiona",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 1
-          },
-          "list": [
-            { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["You caught me right on a break!"]
-            },
-            {
-              "code": 102,
-              "indent": 0,
-              "parameters": [
-                ["Talk", "Sex", "Blowjob", "Party Up", "Nevermind"],
-                4,
-                0,
-                2,
-                0
-              ]
-            },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
-            { "code": 117, "indent": 1, "parameters": [43] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Sex"] },
-            { "code": 101, "indent": 1, "parameters": ["1Fiona1", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Should we do it here or do you want to go for a joy ride?"
-              ]
-            },
-            {
-              "code": 102,
-              "indent": 1,
-              "parameters": [["Workshop", "Subway"], -1, 0, 1, 0]
-            },
-            { "code": 402, "indent": 1, "parameters": [0, "Workshop"] },
-            { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
+            { "code": 402, "indent": 0, "parameters": [1, "Đồng hành"] },
+            { "code": 111, "indent": 1, "parameters": [0, 6, 1] },
+            { "code": 101, "indent": 2, "parameters": ["1Fiona1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Come fuck me right here then!"]
+              "parameters": ["Đi tìm kiếm vật liệu nào!"]
             },
-            { "code": 121, "indent": 2, "parameters": [11, 11, 0] },
-            { "code": 122, "indent": 2, "parameters": [7, 7, 0, 0, 20] },
-            { "code": 117, "indent": 2, "parameters": [28] },
+            { "code": 221, "indent": 2, "parameters": [] },
+            { "code": 129, "indent": 2, "parameters": [15, 0, false] },
+            { "code": 230, "indent": 2, "parameters": [60] },
+            { "code": 121, "indent": 2, "parameters": [6, 6, 0] },
+            { "code": 222, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "Subway"] },
-            { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["1Fiona1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Let's go for a ride then!"]
+              "parameters": [
+                "Nếu chúng ta đi ra ngoài kia với quá nhiều người thì bọn Zombie sẽ chú ý."
+              ]
             },
-            { "code": 121, "indent": 2, "parameters": [11, 11, 1] },
-            { "code": 122, "indent": 2, "parameters": [7, 7, 0, 0, 20] },
-            { "code": 117, "indent": 2, "parameters": [28] },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 404, "indent": 1, "parameters": [] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Blowjob"] },
-            { "code": 101, "indent": 1, "parameters": ["1Fiona1", 6, 0, 2] },
+            { "code": 101, "indent": 2, "parameters": ["1Fiona1", 0, 0, 2] },
             {
               "code": 401,
-              "indent": 1,
-              "parameters": ["I think I've got some spare time..."]
+              "indent": 2,
+              "parameters": ["Em có muốn chị đi thay không?"]
             },
-            { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 19] },
-            { "code": 117, "indent": 1, "parameters": [28] },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 2, "parameters": [0, "Có"] },
+            { "code": 221, "indent": 3, "parameters": [] },
+            { "code": 117, "indent": 3, "parameters": [8] },
+            { "code": 129, "indent": 3, "parameters": [15, 0, false] },
+            { "code": 230, "indent": 3, "parameters": [60] },
+            { "code": 121, "indent": 3, "parameters": [6, 6, 0] },
+            { "code": 222, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
+            { "code": 101, "indent": 3, "parameters": ["1Fiona1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["Thế để lần khác vậy."]
+            },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 404, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Party Up"] },
-            { "code": 117, "indent": 1, "parameters": [55] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [4, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 207,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "Fiona",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 1
-          },
-          "list": [
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Hey Fiona.\\! I had a question for you."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Fiona1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Alright.\\! What's on your mind?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It's about Michelle...\\! You see, she's a bit sad about a cat we're trying to rescue."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Fiona1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["A cat?!\\! \\BST[3]I can't blame her then."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Ya...\\! I'm still working on that part."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "But I wanted to see if you have any ideas about how I could cheer her up in the mean time?"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Fiona1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Hmm ~\\! Well, I could upgrade her room..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Fiona1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Giving her a more comfortable living setup might help take her mind "
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["off things."] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Ya!\\! \\BST[1]A room upgrade would definitely help to cheer her up."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Fiona1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I'll put it on the list of things to build!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["As long as you bring me the supplies I'll need!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["You've got it."] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You can now construct Michelle's Bedroom Upgrade!"
-              ]
-            },
-            { "code": 121, "indent": 0, "parameters": [353, 353, 0] },
-            { "code": 121, "indent": 0, "parameters": [207, 207, 1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -670,29 +402,33 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What would you like to work on?"]
+              "parameters": ["Bạn muốn làm việc gì?"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Construction", "Home Decoration", "Customization", "Leave"],
+                ["Xây dựng", "Trang trí ngôi nhà", "Điều chỉnh", "Rời đi"],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Construction"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Xây dựng"] },
             { "code": 117, "indent": 1, "parameters": [150] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Home Decoration"] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [1, "Trang trí ngôi nhà"]
+            },
             { "code": 117, "indent": 1, "parameters": [149] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Customization"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Điều chỉnh"] },
             { "code": 117, "indent": 1, "parameters": [148] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -749,46 +485,6 @@
           "priorityType": 0,
           "stepAnime": false,
           "through": true,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 8,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
           "trigger": 0,
           "walkAnime": true
         }
@@ -849,29 +545,33 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What would you like to work on?"]
+              "parameters": ["Bạn muốn làm việc gì?"]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Construction", "Home Decoration", "Customization", "Leave"],
+                ["Xây dựng", "Trang trí ngôi nhà", "Điều chỉnh", "Rời đi"],
                 3,
                 0,
                 1,
                 0
               ]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Construction"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Xây dựng"] },
             { "code": 117, "indent": 1, "parameters": [150] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Home Decoration"] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [1, "Trang trí ngôi nhà"]
+            },
             { "code": 117, "indent": 1, "parameters": [149] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Customization"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Điều chỉnh"] },
             { "code": 117, "indent": 1, "parameters": [148] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [3, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1019,13 +719,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Change music?"] },
+            { "code": 401, "indent": 0, "parameters": ["Thay đổi nhạc?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Homebase", "Leave"], 1, 0, 1, 0]
+              "parameters": [["The Grid", "Rời đi"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Homebase"] },
+            { "code": 402, "indent": 0, "parameters": [0, "The Grid"] },
             {
               "code": 355,
               "indent": 1,
@@ -1034,22 +734,9 @@
               ]
             },
             {
-              "code": 355,
-              "indent": 1,
-              "parameters": [
-                "hide_choice(4, \"$gameSwitches.value(229) === false\")"
-              ]
-            },
-            {
               "code": 102,
               "indent": 1,
-              "parameters": [
-                ["Chill", "Nostalgia", "Halloween", "Festival"],
-                -2,
-                0,
-                1,
-                0
-              ]
+              "parameters": [["Chill", "Cổ Điển", "Halloween"], -2, 0, 1, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "Chill"] },
             { "code": 122, "indent": 2, "parameters": [14, 14, 0, 0, 0] },
@@ -1061,7 +748,7 @@
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "Nostalgia"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Cổ Điển"] },
             { "code": 122, "indent": 2, "parameters": [14, 14, 0, 0, 1] },
             {
               "code": 241,
@@ -1086,21 +773,11 @@
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Festival"] },
-            { "code": 122, "indent": 2, "parameters": [14, 14, 0, 0, 3] },
-            {
-              "code": 241,
-              "indent": 2,
-              "parameters": [
-                { "name": "MorningRain", "volume": 40, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 0, "indent": 2, "parameters": [] },
             { "code": 403, "indent": 1, "parameters": [6, null] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1253,13 +930,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Change music?"] },
+            { "code": 401, "indent": 0, "parameters": ["Thay đổi nhạc?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Homebase", "Leave"], 1, 0, 1, 0]
+              "parameters": [["The Grid", "Rời đi"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Homebase"] },
+            { "code": 402, "indent": 0, "parameters": [0, "The Grid"] },
             {
               "code": 355,
               "indent": 1,
@@ -1268,22 +945,9 @@
               ]
             },
             {
-              "code": 355,
-              "indent": 1,
-              "parameters": [
-                "hide_choice(4, \"$gameSwitches.value(229) === false\")"
-              ]
-            },
-            {
               "code": 102,
               "indent": 1,
-              "parameters": [
-                ["Chill", "Nostalgia", "Halloween", "Festival"],
-                -2,
-                0,
-                1,
-                0
-              ]
+              "parameters": [["Chill", "Cổ Điển", "Halloween"], -2, 0, 1, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "Chill"] },
             { "code": 122, "indent": 2, "parameters": [14, 14, 0, 0, 0] },
@@ -1295,7 +959,7 @@
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [1, "Nostalgia"] },
+            { "code": 402, "indent": 1, "parameters": [1, "Cổ Điển"] },
             { "code": 122, "indent": 2, "parameters": [14, 14, 0, 0, 1] },
             {
               "code": 241,
@@ -1320,21 +984,11 @@
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Festival"] },
-            { "code": 122, "indent": 2, "parameters": [14, 14, 0, 0, 3] },
-            {
-              "code": 241,
-              "indent": 2,
-              "parameters": [
-                { "name": "MorningRain", "volume": 40, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 0, "indent": 2, "parameters": [] },
             { "code": 403, "indent": 1, "parameters": [6, null] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1398,28 +1052,28 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well that was quite the trip, huh?"]
+              "parameters": ["Ồ, đó quả là một chuyến đi tuyệt vời, phải không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're a wild time, y'know?!\\! I definitely had my own share of excitement!"
+                "Bạn thật là điên rồ, bạn biết không?!\\! Tôi chắc chắn cũng có phần phấn khích của riêng mình!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But I should probably get back to work now..."]
+              "parameters": ["Nhưng có lẽ tôi nên quay lại làm việc ngay bây giờ..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If I get too carried away suckin' you off, I'll fall behind..."
+                "Nếu anh quá say mê khi bú em, anh sẽ tụt lại phía sau mất..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 1, 0, 2] },
@@ -1427,7 +1081,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But don't worry.\\! \\BST[6]I'll call you when I'm on lunch break!"
+                "Nhưng đừng lo lắng.\\! \\BST[6]Tôi sẽ gọi cho bạn khi tôi nghỉ trưa!"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 4, true] },
@@ -1439,7 +1093,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["A chaotic energy surges through your body!"]
+              "parameters":["Một ​​luồng năng lượng hỗn loạn tràn vào cơ thể bạn!"]
             },
             { "code": 242, "indent": 0, "parameters": [3] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1554,7 +1208,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "Cutscene if Fiona is with you during final battery"
+                "Cảnh cắt nếu Fiona ở cùng bạn trong trận chiến cuối cùng"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [44, 44, 0, 0, 5] },
@@ -1605,7 +1259,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yes!\\! I've been lookin' forward to this all day long!"
+                "Vâng!\\! Tôi đã mong chờ điều này suốt cả ngày!"
               ]
             },
             {
@@ -1679,21 +1333,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Some of those batteries were tricky to spot."]
+              "parameters": ["Một ​​số loại pin này rất khó phát hiện."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But your locater really worked like a charm!"]
+              "parameters": ["Nhưng máy định vị của anh thực sự hoạt động rất tốt!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I knew it would!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tôi biết là thế mà!"] },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'll take those batteries off your hand now."]
+              "parameters": ["Tôi sẽ tháo những cục pin đó ra khỏi tay anh ngay bây giờ."]
             },
             { "code": 126, "indent": 0, "parameters": [77, 1, 0, 4] },
             {
@@ -1705,27 +1359,27 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Perfect."] },
+            { "code": 401, "indent": 0, "parameters": ["Hoàn hảo."] },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But now I have to figure out a way to pay you back..."
+                "Nhưng bây giờ tôi phải nghĩ cách trả ơn anh..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nah, no need to worry about that."]
+              "parameters": ["Không, không cần phải lo về điều đó đâu."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Perhaps...\\! Maybe...\\! I could give you a blowjob?"
+                "Có lẽ...\\! Có lẽ...\\! Anh có thể thổi kèn cho em không?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -1736,14 +1390,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Y'know, for going out of your way to help a girl in need..."
+                "Bạn biết đấy, vì đã hết lòng giúp đỡ một cô gái đang gặp khó khăn..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I wouldn't mind doing that for you, y'know?"]
+              "parameters": ["Tôi không ngại làm điều đó vì anh đâu, anh biết không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Fiona..!"] },
@@ -1751,13 +1405,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Don't worry!\\! It's my treat!"]
+              "parameters": ["Đừng lo!\\! Tôi đãi mà!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Come on!\\! Over here."]
+              "parameters": ["Đến đây!\\! Ở đây."]
             },
             {
               "code": 205,
@@ -1836,7 +1490,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hold on.\\! I wanna try somethin' a little more fun!"
+                "Khoan đã.\\! Tôi muốn thử một điều gì đó vui hơn một chút!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1899,7 +1553,7 @@
               "code": 108,
               "indent": 0,
               "parameters": [
-                "Cutscene if Fiona is with you during final battery"
+                "Cảnh cắt nếu Fiona ở cùng bạn trong trận chiến cuối cùng"
               ]
             },
             { "code": 122, "indent": 0, "parameters": [44, 44, 0, 0, 5] },
@@ -1949,7 +1603,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I've been waitin' for ya!"]
+              "parameters": ["Tôi đã đợi anh đấy!"]
             },
             {
               "code": 205,
@@ -2023,34 +1677,34 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I had a lot of fun searching for those batteries."
+                "Tôi đã có rất nhiều niềm vui khi tìm kiếm những cục pin đó."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Yeah, it was nice to get some fresh air!"]
+              "parameters": ["Ừ, thật tuyệt khi được hít thở không khí trong lành!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well, as fresh as Crimson City air can get..."]
+              "parameters": ["Ồ, không khí trong lành như ở Crimson City..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Your locater really worked like a charm!"]
+              "parameters": ["Thiết bị định vị của anh thực sự hoạt động rất tốt!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I knew it would!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tôi biết là thế mà!"] },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'll take those batteries off your hand now."]
+              "parameters": ["Tôi sẽ tháo những cục pin đó ra khỏi tay anh ngay bây giờ."]
             },
             { "code": 126, "indent": 0, "parameters": [77, 1, 0, 4] },
             {
@@ -2068,21 +1722,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But now I have to figure out a way to pay you back..."
+                "Nhưng bây giờ tôi phải nghĩ cách trả ơn anh..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nah, no need to worry about that."]
+              "parameters": ["Không, không cần phải lo về điều đó đâu."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Perhaps...\\! Maybe...\\! I could give you a blowjob?"
+                "Có lẽ...\\! Có lẽ...\\! Anh có thể thổi kèn cho em không?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -2093,14 +1747,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Y'know, for going out of your way to help a girl in need..."
+               "Bạn biết đấy, vì đã hết lòng giúp đỡ một cô gái đang gặp khó khăn..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I wouldn't mind doing that for you, y'know?"]
+              "parameters": ["Tôi không ngại làm điều đó vì anh đâu, anh biết không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Fiona..!"] },
@@ -2108,13 +1762,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Don't worry!\\! It's my treat!"]
+              "parameters": ["Đừng lo!\\! Tôi đãi mà!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Come on!\\! Over here."]
+              "parameters": ["Đến đây!\\! Ở đây."]
             },
             {
               "code": 205,
@@ -2193,7 +1847,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hold on.\\! I wanna try somethin' a little more fun!"
+                "Khoan đã.\\! Tôi muốn thử một điều gì đó vui hơn một chút!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },

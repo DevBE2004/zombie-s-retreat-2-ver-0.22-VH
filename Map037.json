@@ -251,62 +251,30 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Good evening residents of Crimson City."]
+              "parameters": ["Chào buổi tối các cư dân của thành phố Crimson."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As you are all painfully aware, the recent zombie outbreak has "
+                "Như tất cả các bạn đều đã biết, đợt bùng phát zombie gần đây đã khiến tất cả chúng ta phải trải qua rất nhiều bi thương."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["caused us all immense heartbreak."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And with the Crimson City rescue efforts falling short, the status "
+                "Và với nỗ lực giải cứu Thành phố đang lâm vào bế tắc, tình trạng của Thị trưởng Talia vẫn không có tin tức nào mới..."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["of Mayor Talia is still unknown."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The outbreak has overtaken the city's Police Department.\\! But we will "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["not succumb to lawlessness."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I am pleased to announce that this city will swiftly regain it's grasp on this "
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["outbreak."] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Effective today, I- Norman T. Reeves, will be acting as your new Mayor of Crimson City."
+                "Sự bùng phát đã nằm ngoài khả năng kiểm soát của Sở cảnh sát thành phố.\\! Nhưng chúng tôi sẽ không bỏ cuộc..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
@@ -314,16 +282,31 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We will utilize Crimson City Energy's network to monitor and contain this "
+                "Tôi vui mừng thông báo rằng thành phố sẽ nhanh chóng lấy lại quyền kiểm soát đối với đợt bùng phát này."
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["new found danger."] },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Bắt đầu có hiệu lực từ hôm nay, tôi- Norman T. Reeves, sẽ đảm nhiệm chức vụ Thị trưởng mới của Thành phố Crimson."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Chúng tôi sẽ sử dụng mạng lưới của Crimson Energy để theo dõi và ngăn chặn những mối nguy hiểm xung quanh thành phố."
+              ]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The affected districts remain deeply sealed and heavily fortified."
+                "Các quận bị ảnh hưởng bởi đại dịch sẽ phải chịu sự phong tỏa và được phòng vệ nghiêm ngặt."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
@@ -331,7 +314,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We will continue to survey any threats of danger."
+                "Chúng tôi sẽ tiếp tục quan sát tình hình trước mắt và đưa ra giải pháp kịp thời."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
@@ -339,7 +322,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As we all move forward to recover from this disaster, remember to stand strong."
+                "Tất cả chúng ta sẽ đều hướng về phía trước để phục hồi lại sau thảm họa, hãy mạnh mẽ lên..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
@@ -347,14 +330,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My fellow residents, we will persevere and get through this together!"
+                "Hỡi người dân thành phố Crimson, chúng ta sẽ kiên trì và cùng nhau vượt qua quãng thời gian khó khăn này!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["One community.\\! One Crimson.\\! Thank you."]
+              "parameters": [
+                "Thành phố Crimson muôn năm.\\! Cảm ơn mọi người vì đã lắng nghe."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },

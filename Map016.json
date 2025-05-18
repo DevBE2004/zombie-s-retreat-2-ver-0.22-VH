@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "East C-Store",
+  "displayName": "Cửa hàng East C",
   "encounterList": [],
   "encounterStep": 30,
   "height": 18,
@@ -155,7 +155,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This looks like the back room.\\! I don't need to go back there."
+                "Đây giống như căn phòng phía sau.\\! Mình không cần quay lại đó."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -275,7 +275,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Instant noodles, my favorite!"]
+              "parameters": ["Mì ăn liền, món ưa thích của mình!"]
             },
             {
               "code": 250,
@@ -290,28 +290,26 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Gained some Food (Junk)!"]
+              "parameters": ["Nhận được mì ăn liền!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I don't think \\n[2] or \\n[3] will care for this too much..."
-              ]
+              "parameters": ["Mình nghĩ hai người họ sẽ không để ý đâu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["But it's just for one night!"]
+              "parameters": ["Dù gì thì lâu rồi cũng chưa ăn mì."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And besides...\\! It's the only thing I know how to make."
+                "Và ngoài ra thì...\\! Nó là món duy nhất mà mình biết làm."
               ]
             },
             { "code": 242, "indent": 0, "parameters": [1] },
@@ -389,7 +387,11 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["W-What was that?!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["C-Có chuyện gì thế?!"]
+            },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 355,
@@ -404,7 +406,11 @@
             },
             { "code": 230, "indent": 0, "parameters": [40] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Argh!\\! M-My head!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Argh!\\! Đ-Đầu mình!"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -469,7 +475,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Everything..\\| feels..\\| so heavy.."]
+              "parameters": ["Mọi thứ..\\| đang..\\| dần mờ đi.."]
             },
             {
               "code": 205,
@@ -502,7 +508,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Gotta..\\| make it..\\| home."]
+              "parameters": ["Phải..\\| về..\\| nhà."]
             },
             { "code": 213, "indent": 0, "parameters": [9, 6, false] },
             {
@@ -699,22 +705,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "7Ƶ for a bag of chips?!\\! \\BST[3]Damn prices just keep goin' up on me."
+                "7Ƶ cho một bịch khoai tây chiên?!\\! \\BST[3]Sao giá lại tăng lên nữa rồi?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "And I haven't gotten paid yet for the new district..."
-              ]
+              "parameters": ["Và mình còn chưa được nhận lương nữa..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Fine.\\! Here you go."]
+              "parameters": ["Được rồi.\\! Của anh đây."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -748,10 +752,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah!\\! \\BST[2]You startled me."]
+              "parameters": ["Ah!\\! \\BST[2]Em làm chị giật mình đấy."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Wait a sec..."] },
+            { "code": 401, "indent": 0, "parameters": ["Chờ một chút..."] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [4, 9, false] },
@@ -778,27 +782,27 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're one of the new move-ins down the block right?"
+                "Em là một trong những người mới chuyển đến khu này đúng không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That's right.\\! My name's \\n[1]."]
+              "parameters": ["Vâng ạ.\\! Tên em là \\n[1]."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Pleasure to meet ya \\n[1].\\! Name's Fiona."]
+              "parameters": ["Rất vui được gặp em, \\n[1].\\! Chị là Fiona."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm actually the one who built that whole townhouse of yours."
+                "Thực ra chị là người đã xây toàn bộ mấy ngôi nhà ở xung quanh khu này đấy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -806,27 +810,29 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You built the whole thing?!\\! \\BST[1]That's pretty impressive!"
+                "Chị xây tất cả mấy ngôi nhà xung quanh đây?!\\! \\BST[1]Không thể tin được!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah, it's nothin' a day's worth of work can't do."]
+              "parameters": [
+                "À, mà chị chỉ cần đúng một ngày là căn nhà được hoàn thiện."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["[ONE DAY?!\\! H-How in the world?!]"]
+              "parameters": ["[MỘT NGÀY?!\\! L-Làm thế nào mà...?!]"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm actually in charge of buildin' up that whole district."
+                "Và nếu em không biết thì chị là quản lý xây dựng ở khu này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
@@ -834,7 +840,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "So I'm sure we'll be seein' each other around some more!"
+                "Nên chị nghĩ chúng ta sẽ còn gặp nhau thường xuyên đấy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 1, 0, 2] },
@@ -842,7 +848,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now if you'll excuse me, my lunch break is waitin' on me!"
+                "Vậy, gặp lại em sau nhé!\\! Đến giờ nghỉ trưa của chị rồi."
               ]
             },
             {
@@ -942,13 +948,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Fiona.\\! She seems pretty nice."]
+              "parameters": [
+                "Nếu nhớ không nhầm thì tên chị ấy là Fiona.\\! Trông chị ấy có vẻ khá là thân thiện."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Alright, time to find a meal for the night."]
+              "parameters": [
+                "Thôi không nghĩ nhiều nữa, đến lúc mua đồ cho bữa tối rồi. "
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1046,13 +1056,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I can't leave without getting the food first."]
+              "parameters": ["Mình không thể rời đi mà chưa mua đồ ăn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[3] gets pretty scary when she's hungry."]
+              "parameters": ["\\n[3] sẽ trông rất đáng sợ khi chị ấy đói."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1109,13 +1119,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I can't leave without getting the food first."]
+              "parameters": ["Mình không thể rời đi mà chưa mua đồ ăn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[3] gets pretty scary when she's hungry."]
+              "parameters": ["\\n[3] sẽ trông rất đáng sợ khi chị ấy đói."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1140,7 +1150,7 @@
     },
     {
       "id": 7,
-      "name": "Cashier",
+      "name": "Thu ngân",
       "note": "",
       "pages": [
         {
@@ -1172,7 +1182,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Easy meals are in the back."]
+              "parameters": ["Thức ăn nhanh ở phía sau."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1325,7 +1335,7 @@
     },
     {
       "id": 9,
-      "name": "Civilian1",
+      "name": "Người dân",
       "note": "",
       "pages": [
         {
@@ -1358,7 +1368,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I know I shouldn't pick spicy but I just can't resist."
+                "Biết là không nên ăn cay nhưng mình không thể nào kiềm chế được."
               ]
             },
             {
@@ -1393,7 +1403,127 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Huh?!\\! Oh, uhh, don't mind me."]
+              "parameters": ["Hử?!\\! Oh, uhh, đừng để ý đến tôi."]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 18, "indent": null },
+                    { "code": 35, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 35, "indent": null }]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 8
+    },
+    {
+      "id": 9,
+      "name": "Civilian1",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "Male Heroes",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Tôi biết mình không nên chọn đồ cay nhưng tôi không thể cưỡng lại được."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 36, "indent": null },
+                    { "code": 25, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 36, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 25, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [0, 1, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hả?!\\! Ồ, ừm, đừng để ý đến tôi."]
             },
             {
               "code": 205,

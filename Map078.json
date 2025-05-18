@@ -304,7 +304,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Great!\\! A subway pass will be a nice way to come back here in case we ever need to."
+                "Tuyệt!\\! Thẻ tàu điện ngầm sẽ là một cách hay để quay lại đây trong trường hợp chúng ta cần."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -314,7 +314,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "A one way trip with the subway will be a nice break from all this walking."
+                "Quay trở lại mặt đất bằng tàu điện ngầm sẽ giúp chúng ta có được khoảng thời gian tuyệt vời để nghỉ ngơi sau chuyến đi này."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -323,19 +323,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It sure beats the scenic route..."]
+              "parameters": ["Vâng, giờ em buồn ngủ lắm rồi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Full of sewage and angsty electric guys!"]
+              "parameters": ["Nơi này toàn là nước thải và những kẻ điên!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now let's go back home and rest up."]
+              "parameters": [
+                "Nếu bị nhốt ở đây cả đời chắc chị sẽ không chịu nổi được mất!"
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [47, 47, 1, 0, 1] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -446,6 +448,22 @@
       "x": 10,
       "y": 10
     },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     {
       "id": 4,
       "name": "EV004",

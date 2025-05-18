@@ -291,7 +291,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -478,7 +478,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -659,21 +659,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ladies and gentlemen, citizens of The Underground!"
+                "Thưa quý vị... hỡi những người dân của Thế giới ngầm!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Welcome to The Violet Cup!"]
+              "parameters": ["Chào mừng đến với The Violet Cup!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What you are about to witness will be a bloodbath of man versus zombie!"
+                "Những gì quý vị sắp chứng kiến ngay bây giờ sẽ là một cuộc chiến đẫm máu giữa con người và Zombie!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
@@ -681,7 +681,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Only the strongest competitors will have a chance to survive."
+                "Chỉ có những thí sinh mạnh nhất mới có cơ hội sống sót."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
@@ -689,7 +689,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And should a competitor emerge victorious from this onslaught..."
+                "Và thí sinh nào dành được chiến thắng ở giải đấu này..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
@@ -697,7 +697,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They will receive a congratulatory 'service' from one of my own ladies."
+                "Thì sẽ nhận được 'sự phục vụ' từ một trong những quý cô của tôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
@@ -705,54 +705,58 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm sure you all know my ladies don't come cheap..."
+                "Chắc hẳn là mọi người đều biết các quý cô của tôi không hề rẻ..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Now!\\! It's time to begin our first round!"]
+              "parameters": ["Nào!\\! Đã đến lúc bắt đầu vòng đầu tiên!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This first competitor is a brand new face in The Underground."
+                "Thí sinh đầu tiên là một gương mặt hoàn toàn mới ở Thế giới ngầm!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["He's short, but he's sure to pack a punch."]
+              "parameters": [
+                "Tuy không cao to đen hôi, nhưng cậu ấy cũng không dễ xơi một chút nào."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hailing from above ground, it's \\n[1]!"]
+              "parameters": ["Một tràng pháo tay cho \\n[1]!!!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ahh, thank you.. thank you..."]
+              "parameters": ["Ahh, cảm ơn... cảm ơn..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<Crowd>BOOOO!"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Đám đông>BOOOO!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Crowd>This guy will get ripped to shreds!"]
+              "parameters": [
+                "\\n<Đám đông>Chắc chắn tên này sẽ bị bọn chúng xé xác!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Crowd>Go back above ground loser!"]
+              "parameters": ["\\n<Đám đông>Về mà bú ti mẹ đi nhóc con!"]
             },
             {
               "code": 205,
@@ -803,7 +807,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Wait?!\\! \\BST[4]Are they booing me?!"]
+              "parameters": ["Cái gì?!\\! \\BST[4]Họ đang chế nhạo mình?!"]
             },
             {
               "code": 205,
@@ -837,19 +841,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "I'll show you guys who's gonna be the next champ!"
-              ]
+              "parameters": ["Tôi sẽ cho các người thấy ai mới là nhà vô địch!"]
             },
             { "code": 230, "indent": 0, "parameters": [40] },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Are you ready?!\\! Round one..."]
+              "parameters": ["Cậu đã sẵn sàng chưa?!\\! Vòng đầu tiênnnn..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["BEGIN!"] },
+            { "code": 401, "indent": 0, "parameters": ["BẮT ĐẦU!"] },
             {
               "code": 322,
               "indent": 0,
@@ -967,7 +969,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Against all odds, a survivor has emerged victorious in The Colosseum!"
+                "Mặc dù không được ai đặt cược cho mình, nhưng cậu ấy đã sống sót và giành chiến thắng ở Đấu Trường La Mã..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
@@ -975,27 +977,31 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Give it up for \\n[1]!\\! Semi-finalist of The Violet Cup!"
+                "Dành một tràng pháo tay cho \\n[1] nào!\\! Người đã vào tới chung kết của The Violet Cup!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Semi-finalist?!"] },
+            { "code": 401, "indent": 0, "parameters": ["Chung kết?!"] },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "All of the other competitors have either cowered in defeat or gotten ripped to shreds by zombies."
+                "Tất cả các thí sinh khác đều đã bỏ cuộc hoặc bị Zombie xé xác."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Except for one."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ngoại trừ hai người..."]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As you all know, there can only ever be one winner in The Colosseum."
+                "Như mọi người đã biết thì chỉ có duy nhất một người dành chiến thắng sau cùng ở Đấu Trường La Mã."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
@@ -1003,7 +1009,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Our other semi-finalist, the mysterious boy from outside the city.\\! Come on out!"
+                "Nên hai người đó sẽ chiến đấu với nhau, chàng trai bí ẩn đến từ bên ngoài thành phố...\\! Xuất hiện đi nào!"
               ]
             },
             {
@@ -1148,7 +1154,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now the two of you will face off to the death in a bloody fight for the crown."
+                "Bây giờ hai cậu sẽ chiến đấu với nhau cho tới chết để giành lấy chức vô địch."
               ]
             },
             {
@@ -1179,19 +1185,23 @@
               "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["What?!\\! N-No!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Cái gì?!\\! K-Không!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Residents of The Underground!\\! This will be the show of the century!"
+                "Hỡi người dân của Thế giới ngầm!\\! Đây là một trận đấu thế kỷ!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Competitors..."] },
+            { "code": 401, "indent": 0, "parameters": ["Trận chung kếttt..."] },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["FIGHT!"] },
+            { "code": 401, "indent": 0, "parameters": ["BẮT ĐẦU!"] },
             {
               "code": 205,
               "indent": 0,
@@ -1242,7 +1252,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["L-Look, I don't think we should-"]
+              "parameters": ["N-Nghe này, tôi không nghĩ chúng ta nên-"]
             },
             { "code": 230, "indent": 0, "parameters": [15] },
             { "code": 212, "indent": 0, "parameters": [5, 40, true] },
@@ -1272,7 +1282,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*cough*\\! A smoke bomb?!"]
+              "parameters": ["*khục* *khục*\\! Bom khói?!"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 222, "indent": 0, "parameters": [] },
@@ -1321,19 +1331,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["What..?\\! Where did..."]
+              "parameters": ["Hả...?\\! Anh ta đâu rồi...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*ahem*\\! I-In a shockingly fast duel..."]
+              "parameters": [
+                "*e hèm*\\! Trong một trận đấu tay đôi nhanh nhất từ trước đến giờ thì..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The winner of the Violet Cup is \\n[1]!"]
+              "parameters": [
+                "Người dành chiến thắng của The Violet Cup là \\n[1]!"
+              ]
             },
             {
               "code": 205,
@@ -1365,7 +1379,7 @@
             { "code": 213, "indent": 0, "parameters": [-1, 2, true] },
             { "code": 230, "indent": 0, "parameters": [15] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["I... won?"] },
+            { "code": 401, "indent": 0, "parameters": ["Mình... thắng rồi?"] },
             {
               "code": 205,
               "indent": 0,
@@ -1418,7 +1432,11 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Hah hah!\\! I won!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ha ha!\\! Mình thắng rồi!"]
+            },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [149, 149, 0] },
@@ -1637,7 +1655,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -1831,7 +1849,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -2018,7 +2036,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -2205,7 +2223,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -2434,7 +2452,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -2663,7 +2681,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -2852,7 +2870,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -3121,7 +3139,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -3439,7 +3457,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -3547,7 +3565,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -3895,7 +3913,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -4236,7 +4254,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -4579,7 +4597,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -4687,7 +4705,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -5213,43 +5231,49 @@
             { "code": 121, "indent": 0, "parameters": [154, 154, 1] },
             { "code": 230, "indent": 0, "parameters": [90] },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["UNBELIEVABLE!"] },
+            { "code": 401, "indent": 0, "parameters": ["KHÔNG THỂ TIN ĐƯỢC!"] },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "To think a rookie could clear The Violet Cup and still remain standing!"
+                "Không ngờ một tân binh lại có thể vượt qua The Violet Cup mà vẫn còn đứng vững!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ladies and gentleman, give it up for \\n[1]!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<Crowd>WHOOOO!"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Crowd>Let's go rookie!"]
+              "parameters": ["Thưa quý vị, một tràng pháo tay cho \\n[1] nào!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Crowd>I always knew you could do it \\n[1]!"]
+              "parameters": ["\\n<Đám đông>WHOOOO!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Đám đông>Hay lắm, tân binh!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Đám đông>Tôi biết là cậu có thể làm được mà, \\n[1]!"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [13] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["*huff*\\! *huff*"] },
+            { "code": 401, "indent": 0, "parameters": ["*phù*\\! *phù*"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["At least now they believe in me!"]
+              "parameters": ["Ít nhất thì bây giờ bọn họ đã tin tưởng mình!"]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -5582,7 +5606,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -5690,7 +5714,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -6040,7 +6064,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -6381,7 +6405,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -6724,7 +6748,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -6832,7 +6856,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -7180,7 +7204,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -7529,7 +7553,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -7878,7 +7902,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -7986,7 +8010,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -8334,7 +8358,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -8677,7 +8701,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -8785,7 +8809,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -9133,7 +9157,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -9474,7 +9498,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },
@@ -9825,7 +9849,7 @@
             { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
             { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
             { "code": 117, "indent": 2, "parameters": [15] },
-            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 117, "indent": 2, "parameters": [198] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 2, "parameters": [15] },

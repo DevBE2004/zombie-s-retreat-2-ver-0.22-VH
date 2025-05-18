@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "East C-Store",
+  "displayName": "Của Hàng East C",
   "encounterList": [],
   "encounterStep": 30,
   "height": 18,
@@ -683,14 +683,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 111, "indent": 1, "parameters": [1, 17, 0, 1, 1] },
@@ -716,12 +716,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm này đã trống không..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -790,14 +790,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 112, "indent": 1, "parameters": [] },
@@ -816,11 +816,7 @@
             { "code": 111, "indent": 2, "parameters": [1, 21, 0, 20, 0] },
             { "code": 126, "indent": 3, "parameters": [5, 0, 0, 1] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 3,
-              "parameters": ["Gained some Medicinal Herb!"]
-            },
+            { "code": 401, "indent": 3, "parameters": ["Tìm được Thảo Dược!"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
             { "code": 111, "indent": 3, "parameters": [1, 21, 0, 18, 1] },
@@ -829,28 +825,20 @@
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["Gained some Food (Fish)!"]
+              "parameters": ["Tìm được Thực Phẩm (Cá)!"]
             },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 411, "indent": 3, "parameters": [] },
             { "code": 111, "indent": 4, "parameters": [1, 21, 0, 17, 1] },
             { "code": 126, "indent": 5, "parameters": [1, 0, 0, 1] },
             { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 5,
-              "parameters": ["Gained some Scrap Metal!"]
-            },
+            { "code": 401, "indent": 5, "parameters": ["Tìm được Kim Loại!"] },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 411, "indent": 4, "parameters": [] },
             { "code": 111, "indent": 5, "parameters": [1, 21, 0, 15, 1] },
             { "code": 126, "indent": 6, "parameters": [2, 0, 0, 1] },
             { "code": 101, "indent": 6, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 6,
-              "parameters": ["Gained some Scrap Wood!"]
-            },
+            { "code": 401, "indent": 6, "parameters": ["Tìm được Gỗ!"] },
             { "code": 0, "indent": 6, "parameters": [] },
             { "code": 411, "indent": 5, "parameters": [] },
             { "code": 111, "indent": 6, "parameters": [1, 21, 0, 13, 1] },
@@ -859,7 +847,7 @@
             {
               "code": 401,
               "indent": 7,
-              "parameters": ["Gained some Pistol Ammo (6)!"]
+              "parameters": ["Tìm được Đạn Súng Lục (6)!"]
             },
             { "code": 117, "indent": 7, "parameters": [16] },
             { "code": 0, "indent": 7, "parameters": [] },
@@ -870,7 +858,7 @@
             {
               "code": 401,
               "indent": 8,
-              "parameters": ["Gained some Food (Junk)!"]
+              "parameters": ["Tìm được Thức Ăn (Vặt)!"]
             },
             { "code": 0, "indent": 8, "parameters": [] },
             { "code": 411, "indent": 7, "parameters": [] },
@@ -880,13 +868,13 @@
             {
               "code": 401,
               "indent": 9,
-              "parameters": ["Gained some Food (Fresh)!"]
+              "parameters": ["Tìm được Thực Phẩm (Tươi)!"]
             },
             { "code": 0, "indent": 9, "parameters": [] },
             { "code": 411, "indent": 8, "parameters": [] },
             { "code": 126, "indent": 9, "parameters": [6, 0, 0, 1] },
             { "code": 101, "indent": 9, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 9, "parameters": ["Gained some Water!"] },
+            { "code": 401, "indent": 9, "parameters": ["Tìm được Nước!"] },
             { "code": 0, "indent": 9, "parameters": [] },
             { "code": 412, "indent": 8, "parameters": [] },
             { "code": 0, "indent": 8, "parameters": [] },
@@ -917,7 +905,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm này đã trống không..."]
             },
             { "code": 122, "indent": 3, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 3, "parameters": [21, 21, 0, 0, 0] },
@@ -927,7 +915,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 413, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -1072,7 +1060,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is a salvage point.\\! A key component to survival."
+                "Đây là điểm loot đồ.\\! Một yếu tố quan trọng để sinh tồn."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1080,16 +1068,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Salvage points will contain various resources that you can take to help "
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["survive."] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Once empty, a salvage point will respawn after two days have passed."
+                "Điểm loot đồ sẽ chứa nhiều tài nguyên khác nhau mà bạn có thể sử dụng để sống sót."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1097,13 +1076,16 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Be careful! While scavenging, enemies can still move and target you so "
+                "Sau khi lấy được đồ thì điểm loot sẽ xuất hiện trở lại sau hai ngày."
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["pick a safe time to salvage!"]
+              "parameters": [
+                "Trong khi bạn loot đồ, zombie vẫn có thể di chuyển và bạn có khả năng sẽ bị chúng tấn công.\\! Nên là hãy lựa chọn thời điểm thích hợp để loot."
+              ]
             },
             { "code": 204, "indent": 0, "parameters": [2, 3, 4] },
             { "code": 230, "indent": 0, "parameters": [45] },
@@ -1292,7 +1274,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -1553,7 +1535,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -1952,7 +1934,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -2214,7 +2196,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -2611,7 +2593,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -2754,7 +2736,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Nước!"] },
             { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2770,60 +2752,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -2913,7 +2841,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Food (Fresh)!"]
+              "parameters": ["Tìm được Thực Phẩm (Tươi)!"]
             },
             { "code": 126, "indent": 0, "parameters": [13, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -3019,7 +2947,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Food (Junk)!"]
+              "parameters": ["Tìm được Thức Ăn (Vặt)!"]
             },
             { "code": 126, "indent": 0, "parameters": [9, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -3036,64 +2964,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Food (Junk)!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [9, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -3195,14 +3065,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this Sweets Stash?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 117, "indent": 1, "parameters": [96] },
@@ -3214,12 +3084,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The Sweets Stash went empty..."]
+              "parameters": ["Điểm chứa đồ ngọt này đã trống không..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },

@@ -159,7 +159,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Damn.\\! It's locked."]
+              "parameters": ["Chết tiệt.\\! Bị khóa rồi."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -210,7 +210,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Stacy said she stole a key to this door.\\! I should bring her with me."
+                "Chị Stacy nói là đã đánh cắp được chìa khóa.\\! Có lẽ mình nên mang chị ấy theo cùng."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -262,7 +262,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is the door you \"borrowed\" a key for, right?"
+                "Đây là cánh cửa mà chị đã \"mượn\" chìa khóa của họ đúng không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
@@ -270,7 +270,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sure is!\\! \\BST[8]Now step aside and let me work my magic!"
+                "Ừ!\\! \\BST[8]Giờ em tránh sang một bên đi để chị mở cửa nào!"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [15] },
@@ -494,7 +494,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Damn.\\! It's locked."]
+              "parameters": ["Chết tiệt.\\! Bị khóa rồi."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -545,7 +545,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Stacy said she stole a key to this door.\\! I should bring her with me."
+                "Chị Stacy nói là đã đánh cắp được chìa khóa.\\! Có lẽ mình nên mang chị ấy theo cùng."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -597,7 +597,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is the door you \"borrowed\" a key for, right?"
+                "Đây là cánh cửa mà chị đã \"mượn\" chìa khóa của họ đúng không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
@@ -605,7 +605,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sure is!\\! \\BST[8]Now step aside and let me work my magic!"
+                "Ừ!\\! \\BST[8]Giờ em tránh sang một bên đi để chị mở cửa nào!"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [15] },
@@ -976,14 +976,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 111, "indent": 1, "parameters": [1, 17, 0, 1, 1] },
@@ -1011,14 +1011,14 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Found \"Bartender's Basics\"!"]
+              "parameters": ["Tìm thấy \"Sách công thức dành cho Bartender\""]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 3,
               "parameters": [
-                "With this I can craft some new drinks!\\! \\BST[5]Why would someone try to throw this away?"
+                "Với thứ này thì mình có thể làm ra được một vài loại đồ uống mới!\\! \\BST[5]Sao lại có người cố tình vứt nó đi nhỉ?"
               ]
             },
             { "code": 121, "indent": 3, "parameters": [116, 116, 0] },
@@ -1042,12 +1042,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm này đã trống không..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -1116,14 +1116,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 112, "indent": 1, "parameters": [] },
@@ -1145,18 +1145,14 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Gained some Food (Junk)!"]
+              "parameters": ["Tìm được Thức ăn (Vặt)!"]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
             { "code": 111, "indent": 3, "parameters": [1, 21, 0, 18, 1] },
             { "code": 126, "indent": 4, "parameters": [5, 0, 0, 1] },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 4,
-              "parameters": ["Gained some Medicinal Herb!"]
-            },
+            { "code": 401, "indent": 4, "parameters": ["Tìm được Thảo Dược!"] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 411, "indent": 3, "parameters": [] },
             { "code": 111, "indent": 4, "parameters": [1, 21, 0, 13, 1] },
@@ -1165,7 +1161,7 @@
             {
               "code": 401,
               "indent": 5,
-              "parameters": ["Gained some Food (Fish)!"]
+              "parameters": ["Tìm được Thực Phẩm (Cá)!"]
             },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 411, "indent": 4, "parameters": [] },
@@ -1175,33 +1171,25 @@
             {
               "code": 401,
               "indent": 6,
-              "parameters": ["Gained some Food (Grain)!"]
+              "parameters": ["Tìm được Thực Phẩm (Ngũ Cốc)!"]
             },
             { "code": 0, "indent": 6, "parameters": [] },
             { "code": 411, "indent": 5, "parameters": [] },
             { "code": 111, "indent": 6, "parameters": [1, 21, 0, 7, 1] },
             { "code": 126, "indent": 7, "parameters": [2, 0, 0, 1] },
             { "code": 101, "indent": 7, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 7,
-              "parameters": ["Gained some Scrap Wood!"]
-            },
+            { "code": 401, "indent": 7, "parameters": ["Tìm được Gỗ!"] },
             { "code": 0, "indent": 7, "parameters": [] },
             { "code": 411, "indent": 6, "parameters": [] },
             { "code": 111, "indent": 7, "parameters": [1, 21, 0, 5, 1] },
             { "code": 126, "indent": 8, "parameters": [3, 0, 0, 1] },
             { "code": 101, "indent": 8, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 8,
-              "parameters": ["Gained some Scrap Brick!"]
-            },
+            { "code": 401, "indent": 8, "parameters": ["Tìm được Gạch!"] },
             { "code": 0, "indent": 8, "parameters": [] },
             { "code": 411, "indent": 7, "parameters": [] },
             { "code": 126, "indent": 8, "parameters": [6, 0, 0, 1] },
             { "code": 101, "indent": 8, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 8, "parameters": ["Gained some Water!"] },
+            { "code": 401, "indent": 8, "parameters": ["Tìm được Nước!"] },
             { "code": 0, "indent": 8, "parameters": [] },
             { "code": 412, "indent": 7, "parameters": [] },
             { "code": 0, "indent": 7, "parameters": [] },
@@ -1230,7 +1218,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["The salvage point went empty..."]
+              "parameters": ["Điểm này đã trống không..."]
             },
             { "code": 122, "indent": 3, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 3, "parameters": [21, 21, 0, 0, 0] },
@@ -1240,7 +1228,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 413, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },

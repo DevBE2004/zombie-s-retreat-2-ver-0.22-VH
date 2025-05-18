@@ -213,17 +213,17 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Hey \\n[2].\\! This looks like the soap you were talking about right?"
+                "Mẹ này...\\! Đây là cục xà phòng mà mẹ muốn đúng không?"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["That's the one!"] },
+            { "code": 401, "indent": 1, "parameters": ["Đúng là nó đó!"] },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "We should return home so we can wash up and try it out!"
+                "Được rồi \\n[1], mẹ con mình nhanh chóng về nhà để thử nó nào!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -232,16 +232,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "There are just a bunch of sex toys around here..."
-              ]
+              "parameters": ["Ở đây có một đống các loại đồ chơi tình dục..."]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Oh, here it is!\\! This looks like the soap that \\n[2] was talking about."
+                "Oh, nó đây rồi!\\! Cái này trông có vẻ khá giống loại xà phòng mà mẹ muốn..."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -258,7 +256,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found the Erotic Soap!"]
+              "parameters": ["Tìm thấy xà phòng kích dục!"]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             {

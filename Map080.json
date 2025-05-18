@@ -205,7 +205,7 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": true,
+          "through": false,
           "trigger": 0,
           "walkAnime": true
         }
@@ -215,838 +215,9 @@
     },
     {
       "id": 2,
-      "name": "Cutscenes",
+      "name": "EV002",
       "note": "SS D is unused",
       "pages": [
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            { "code": 230, "indent": 0, "parameters": [80] },
-            { "code": 222, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Today's the big day!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Are you excited for your big event Violet?!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Yup, there's a lot of fresh talent out there today."
-              ]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                1,
-                {
-                  "list": [
-                    { "code": 16, "indent": null },
-                    { "code": 15, "parameters": [15], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": false,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 16, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "My girls are salivating at the thought of servicing a new champion."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "That is-\\! assuming a winner even emerges from those beasts."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'm confident they'll be far too much for any single competitor to take on."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I wouldn't be so sure this time."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "There's a new entrant who is drawing my attention."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["He claims to reside from outside the city."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'm not sure how that's even possible currently..."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Impossible!"] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["There's no way that could happen unless..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Whatever, I wouldn't sweat it.\\! He's probably just lying to generate excitement."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Hmm, I suppose it won't matter."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Say, there's still one more spot open."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Are you sure you don't want to sign up Norman?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I'll even endorse you."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["And get blood on my new suit?!\\! Oh heavens no!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Aha hah hah!"] },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Figured as much."] },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Regardless, my girls would love to show you some hospitality later."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'm.. afraid I'll have to decline, thank you very much."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I believe I'm late for another important meeting."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I'll be on my way Violet."]
-            },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                4,
-                {
-                  "list": [
-                    { "code": 1, "indent": null },
-                    { "code": 1, "indent": null },
-                    { "code": 1, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Ah yes, that reminds me..."]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                4,
-                {
-                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Might I suggest replacing your guards.\\! They seem to be getting quite careless..."
-              ]
-            },
-            { "code": 204, "indent": 0, "parameters": [2, 3, 2] },
-            { "code": 230, "indent": 0, "parameters": [140] },
-            { "code": 213, "indent": 0, "parameters": [3, 1, true] },
-            { "code": 230, "indent": 0, "parameters": [90] },
-            { "code": 221, "indent": 0, "parameters": [] },
-            { "code": 230, "indent": 0, "parameters": [60] },
-            { "code": 211, "indent": 0, "parameters": [1] },
-            { "code": 201, "indent": 0, "parameters": [0, 88, 11, 12, 8, 0] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 3,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": true,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 238,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [8, 8, 0] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 29, "parameters": [6], "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 3, "indent": null },
-                    { "code": 19, "indent": null },
-                    { "code": 29, "parameters": [4], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 29, "parameters": [6], "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                1,
-                {
-                  "list": [{ "code": 16, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 16, "indent": null }]
-            },
-            { "code": 230, "indent": 0, "parameters": [60] },
-            { "code": 222, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["You both made it back."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Did you find anything useful over there?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "We found a generator.\\! Supposedly, it's what's causing people to turn into zombies."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["So you learned the truth..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You knew?!\\! Tell me, what all do you know about the generator?"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Not much more than that..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 7, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "That asshole Reeves has been using it against me as a bargaining chip!"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "He demanded my cooperation, in exchange for keeping the Underground "
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["safe and powered."] },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["But if I were to disobey..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "He's threatening to turn everyone here into zombies?!"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["He is.\\! I didn't believe him at first."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["But then he set off a generator above ground."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 7, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I saw the horrors that occurred in that area!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Instantly, I knew I was powerless to do anything about it..."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "That must be the generator that caused the zombies near us, Lucy."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Seems that way."] },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "All he has to do is set off that nearby generator and all of the men here turn into monsters."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Everything I've worked for could be erased in an instant..."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Not a minute goes by that I don't worry about that threat."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "People think I'm in this position because of the money, or for the fame."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "But the Underground and it's people mean everything to me."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I can't bear to lose that..."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["We won't let him do that."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Yeah, we'll find a way to stop him!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I warned you \\n[1].\\! You're picking a fight with a sick, twisted man."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "He's hurt so many people Violet.\\! Innocent people."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Just thinking about it..."]
-            },
-            { "code": 213, "indent": 0, "parameters": [-1, 5, false] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["It-\\! It makes my hands shake with anger!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I could never let him get away with this!"]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                1,
-                {
-                  "list": [
-                    { "code": 19, "indent": null },
-                    { "code": 15, "parameters": [30], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
-            },
-            { "code": 213, "indent": 0, "parameters": [1, 6, true] },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You know, I didn't think I'd ever believe anyone had the power to stop him."
-              ]
-            },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                1,
-                {
-                  "list": [
-                    { "code": 1, "indent": null },
-                    { "code": 15, "parameters": [30], "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 1, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["But you might just be crazy enough to do it!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "If the time comes, you have the support of myself and the citizens of the Underground."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["That is very kind of you Violet."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Thank you for your time.\\! We'll be on our way now."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Be safe out there."] },
-            { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["And don't be a stranger, \\n[1] ~ ♥️"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["*gulp*\\! I-I won't..!"]
-            },
-            { "code": 213, "indent": 0, "parameters": [-1, 6, true] },
-            { "code": 221, "indent": 0, "parameters": [] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 121, "indent": 0, "parameters": [8, 8, 1] },
-            { "code": 201, "indent": 0, "parameters": [0, 76, 18, 4, 2, 0] },
-            { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 222, "indent": 0, "parameters": [] },
-            { "code": 230, "indent": 0, "parameters": [15] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["So what do you think our next step is, Lucy?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Let's return home for now."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "We'll come up with a plan of action after we get some rest."
-              ]
-            },
-            {
-              "code": 355,
-              "indent": 0,
-              "parameters": ["Galv.QUEST.complete(32);"]
-            },
-            { "code": 122, "indent": 0, "parameters": [47, 47, 1, 0, 1] },
-            { "code": 123, "indent": 0, "parameters": ["B", 0] },
-            { "code": 121, "indent": 0, "parameters": [243, 243, 1] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 3,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "B",
-            "selfSwitchValid": true,
-            "switch1Id": 1,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
         {
           "conditions": {
             "actorId": 1,
@@ -1162,7 +333,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'll be on my way Violet."]
+              "parameters": ["Tạm biệt cô, Violet."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -1197,7 +368,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah yes, that reminds me..."]
+              "parameters": ["À đúng rồi, chút nữa thì quên..."]
             },
             {
               "code": 205,
@@ -1222,12 +393,363 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Might I suggest replacing your guards.\\! They seem to be getting quite careless..."
+                "Tôi khuyên cô nên đổi đội bảo vệ...\\! Dạo gần đây họ có vẻ khá là bất cẩn..."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [3, 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 230, "indent": 0, "parameters": [80] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hôm nay là một ngày trọng đại!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Cô có thấy hào hứng trước sự kiện của mình không, Violet?!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Có chứ, vì giải đấu sẽ có khá nhiều thí sinh tài năng."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                1,
+                {
+                  "list": [
+                    { "code": 16, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Những cô gái của tôi đang rất nóng lòng muốn phục vụ cho nhà vô địch mới rồi đấy. "
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nhưng-\\! nếu người chiến thắng là mấy thứ quái thai đó thì cô tính sao?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Tôi không nghĩ mấy thí sinh sẽ đánh thắng được thứ đó đâu."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Lần này tôi cũng không chắc lắm."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nhưng có một người đăng ký tham gia đang thu hút sự chú ý của tôi."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Anh ta tuyên bố mình là người đến từ thành phố khác."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 6, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Điều mà hầu như không có khả năng xảy ra vào thời điểm này!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 7, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Không thể nào!"] },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Không đời nào chuyện đó có thể xảy ra trừ khi..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Dù sao đi nữa thì tôi cũng không quan tâm.\\! Chắc anh ta chỉ đang nói dối để tạo tiếng vang thôi."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hmm, tôi cũng cho là như thế."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Mà này, nếu tôi nhớ không nhầm thì vẫn còn một suất trống."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Anh thật sự không muốn đăng ký thi đấu sao, Norman?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Nếu anh tham gia thì tôi sẽ ủng hộ anh hết mình."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Tôi sẽ không để bộ đồ mới của mình bị dính máu đâu!\\! Không đời nào!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Bah hah hah!"] },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hmm, tiếc thật đấy..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nhưng mặc kệ điều đó thì mấy cô gái của tôi rất muốn thể hiện 'lòng hiếu khách' với anh."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tôi... chắc là phải từ chối thôi, cảm ơn cô."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Giờ tôi có một cuộc họp quan trọng cần phải tham gia."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tạm biệt cô, Violet."]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["À đúng rồi, chút nữa thì quên..."]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Tôi khuyên cô nên đổi đội bảo vệ...\\! Dạo gần đây họ có vẻ khá là bất cẩn..."
+              ]
+            },
+            { "code": 204, "indent": 0, "parameters": [2, 3, 2] },
+            { "code": 230, "indent": 0, "parameters": [140] },
+            { "code": 213, "indent": 0, "parameters": [3, 1, true] },
+            { "code": 230, "indent": 0, "parameters": [90] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 211, "indent": 0, "parameters": [1] },
+            { "code": 201, "indent": 0, "parameters": [0, 88, 11, 12, 8, 0] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
           "moveFrequency": 3,
           "moveRoute": {
             "list": [{ "code": 0, "parameters": [] }],
@@ -1291,46 +813,6 @@
           "through": false,
           "trigger": 0,
           "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 8,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
         }
       ],
       "x": 12,
@@ -1377,47 +859,7 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": true,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 8,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "characterIndex": 0,
-            "characterName": "",
-            "direction": 2,
-            "pattern": 0,
-            "tileId": 0
-          },
-          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": false,
-          "through": true,
+          "through": false,
           "trigger": 0,
           "walkAnime": true
         }

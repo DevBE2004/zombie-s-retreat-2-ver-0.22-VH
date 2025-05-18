@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Crimson City PD",
+  "displayName": "Đồn Cảnh Sát",
   "encounterList": [],
   "encounterStep": 30,
   "height": 24,
@@ -710,13 +710,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["This gate feels flimsy."]
+              "parameters": ["Cái hàng rào này mỏng quá..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I wonder if I can break it off somehow."]
+              "parameters": ["Nhưng phải có dụng cụ thì mới có thể cắt được?!"]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -812,13 +812,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 21, 6, 8, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -829,7 +829,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -875,13 +875,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 21, 6, 8, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -893,7 +893,7 @@
             { "code": 216, "indent": 1, "parameters": [1] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -939,13 +939,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 21, 6, 8, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -961,7 +961,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1026,7 +1026,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The door is blocked on the other side."]
+              "parameters": ["Cánh cửa bị chặn ở phía bên kia."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1090,7 +1090,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["The door is blocked on the other side."]
+              "parameters": ["Cánh cửa bị chặn ở phía bên kia."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1641,13 +1641,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 13, 12, 2, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -1658,7 +1658,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1704,13 +1704,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 13, 12, 2, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -1722,7 +1722,7 @@
             { "code": 216, "indent": 1, "parameters": [1] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1768,13 +1768,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 13, 12, 2, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -1790,7 +1790,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1987,34 +1987,28 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You obtained a shotgun!"]
+              "parameters": ["Bạn nhận được một khẩu Shotgun!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Whoa!\\! This thing looks like it packs a serious punch..."
-              ]
+              "parameters": ["Whoa!\\! Khẩu súng này trông ngầu quá..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Hah hah! \\!Oh, yeah!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Ha ha! \\!Hay lắm!"] },
             { "code": 111, "indent": 0, "parameters": [4, 14, 0] },
             { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Careful where you swing that thing!"]
+              "parameters": ["Khi sử dụng nó em nhớ phải cẩn thận đấy!"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Now let's blow off some zombie heads!"]
+              "parameters": ["Nào, chúng ta đi thôi!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -2218,7 +2212,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*Grr*\\! I'm not tall enough to reach that vent."]
+              "parameters": [
+                "*Grr*\\! Mình không đủ cao để trào lên cái ống thông hơi này."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2263,13 +2259,17 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Need a lift?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Em có cần chị nâng em không?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 4, 4, 2, 0] },
             { "code": 216, "indent": 1, "parameters": [1] },
@@ -2283,7 +2283,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2338,13 +2338,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 31, 6, 8, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -2355,7 +2355,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2401,13 +2401,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 31, 6, 8, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -2419,7 +2419,7 @@
             { "code": 216, "indent": 1, "parameters": [1] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2465,13 +2465,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 31, 6, 8, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -2487,7 +2487,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2542,13 +2542,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 15, 4, 2, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -2559,7 +2559,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2605,13 +2605,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 15, 4, 2, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -2623,7 +2623,7 @@
             { "code": 216, "indent": 1, "parameters": [1] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2669,13 +2669,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Climb in?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 40, 15, 4, 2, 0] },
             { "code": 117, "indent": 1, "parameters": [13] },
@@ -2691,7 +2691,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2758,7 +2758,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found a Communications Kit."]
+              "parameters": ["Tìm thấy Bộ dụng cụ liên lạc."]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2818,14 +2818,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This looks exactly like what Lucy was mentioning."
+                "Thứ này trông có vẻ giống với những gì mà chị Lucy miêu tả."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hopefully this is everything we need!"]
+              "parameters": ["Hy vọng đây là tất cả những gì mà chúng ta cần!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 212, "indent": 0, "parameters": [17, 102, false] },
@@ -2857,13 +2857,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well, well, well.\\! What a nice surprise."]
+              "parameters": ["Ái chà chà.\\! Bất ngờ thật đấy."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah!\\! W-Who are you?!"]
+              "parameters": ["Ah!\\! N-Ngươi là ai?!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [17, 8, true] },
@@ -2871,19 +2871,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*groan*\\! Really?\\! What a bummer..."]
+              "parameters": [
+                "*lẩm bẩm*\\! Trời ạ?\\! Đúng là thất vọng thật..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Whatever.\\! You can call me L-001."]
+              "parameters": ["Thôi được rồi.\\! Cậu có thể gọi tôi là L-001."]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's the new name boss gave me."]
+              "parameters": ["Đấy là cái tên mà cô chủ đặt cho tôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["L... 001?"] },
@@ -2891,9 +2893,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Yaaa, it's kinda dumb if you ask me, but I guess it's starting to catch on..."
-              ]
+              "parameters": ["Ừ, nghe đúng vở vẩn nhỉ...?"]
             },
             {
               "code": 205,
@@ -2917,7 +2917,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I just came to visit and see how my-"]
+              "parameters": [
+                "Dù sao thì tôi chỉ ghé qua một chút và xem làm thế nào để-"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -2934,13 +2936,13 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, false] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["St-Step back!"] },
+            { "code": 401, "indent": 0, "parameters": ["L-Lùi lại!"] },
             { "code": 101, "indent": 0, "parameters": ["1L001", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Or you're gonna, what?\\! Shoot me?\\! \\BST[2]Ah hah hah hah!"
+                "Hả?!\\! Cậu định làm gì thế?\\! Bắn tôi?\\! \\BST[2]Ah hah hah hah!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001", 0, 0, 2] },
@@ -2948,7 +2950,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm not here to hurt you.\\! We can save that for later."
+                "Tôi không đến đây để làm hại cậu.\\! Hiện tại thì không..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001", 0, 0, 2] },
@@ -2956,7 +2958,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I just figured a proper introduction was deserved, that's all."
+                "Tôi chỉ đến đây để giới thiệu qua một chút rồi sẽ đi..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001", 2, 0, 2] },
@@ -2964,12 +2966,12 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But oh well.\\! \\BST[1]It's good to see you're doing well, \\n[1]."
+                "Thôi được rồi.\\! \\BST[1]Mừng là cậu vẫn ổn, \\n[1]."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["[What..!]"] },
+            { "code": 401, "indent": 0, "parameters": ["[Cái gì...!]"] },
             {
               "code": 205,
               "indent": 0,
@@ -2998,17 +3000,9 @@
               "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Well, guess I'll just get going then."]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Chà, tôi đi đây!"] },
             { "code": 101, "indent": 0, "parameters": ["1L001", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Oh!\\! That's right..."]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Oh!\\! Đúng rồi..."] },
             {
               "code": 205,
               "indent": 0,
@@ -3040,10 +3034,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Be sure to tell Lucy I said hi, will ya?"]
+              "parameters": [
+                "Nhớ nói với Lucy là tôi gửi lời chào đến cô ấy nhé?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["How do you-"] },
+            { "code": 401, "indent": 0, "parameters": ["Làm thế nào mà-"] },
             {
               "code": 205,
               "indent": 0,
@@ -3070,14 +3066,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["He knows who we are..?"]
+              "parameters": ["Anh ta biết rõ mình là ai...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's not important right now.\\! I need to make sure Lucy is still safe."
+                "Không quan tâm đến việc đó nữa.\\! Điều quan trọng bây giờ là mình cần phải đảm bảo chị Lucy vẫn an toàn."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -3229,7 +3225,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1].\\! Do you see that over there?"]
+              "parameters": ["\\n[1].\\! Em nhìn đằng kia xem?"]
             },
             { "code": 204, "indent": 0, "parameters": [8, 1, 3] },
             {
@@ -3256,7 +3252,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That vent is exposed.\\! We might be able to use it."
+                "Lỗ thông hơi đó bị hở.\\! Chị và em có thể sử dụng nó."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -3264,28 +3260,30 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's pretty high up.\\! I don't think I can reach it."
+                "Nó khá cao.\\! Em không nghĩ là mình với tới được."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'll give you a boost!"]
+              "parameters": ["Chị có thể nâng em lên!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It will mean that you'll have to be on your own for a bit."
+                "Nhưng cũng đồng nghĩa với việc em sẽ phải ở một mình trong một lúc đấy..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No big deal.\\! I can handle it."]
+              "parameters": [
+                "Không sao đâu ạ.\\! Em có thể tự mình xoay sở được."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -4023,11 +4021,7 @@
             },
             { "code": 126, "indent": 0, "parameters": [3, 0, 0, 2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Gained some Scrap Brick (2)!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gạch! (2)"] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4217,7 +4211,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -4351,7 +4345,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -4586,7 +4580,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -4720,7 +4714,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 2,
@@ -4955,7 +4949,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -5089,7 +5083,7 @@
               { "code": 0, "parameters": [] }
             ],
             "repeat": true,
-            "skippable": true,
+            "skippable": false,
             "wait": false
           },
           "moveSpeed": 1,
@@ -5239,11 +5233,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Scrap Metal!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Kim Loại!"] },
             { "code": 126, "indent": 0, "parameters": [1, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5259,64 +5249,6 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 290,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle1",
-            "direction": 4,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Scrap Metal!"]
-            },
-            { "code": 126, "indent": 0, "parameters": [1, 0, 0, 1] },
-            { "code": 117, "indent": 0, "parameters": [101] },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": true,
           "through": false,
           "trigger": 0,
           "walkAnime": true
@@ -5403,11 +5335,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Found some Scrap Brick!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tìm được Gạch!"] },
             { "code": 126, "indent": 0, "parameters": [3, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

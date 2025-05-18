@@ -6,7 +6,7 @@
   "bgm": { "name": "Striptease", "pan": 0, "pitch": 100, "volume": 25 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Recreation Center",
+  "displayName": "Trung Tâm Giải Trí",
   "encounterList": [],
   "encounterStep": 30,
   "height": 21,
@@ -358,7 +358,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["NO!\\! \\n[1], you've got to save me!"]
+              "parameters": ["KHÔNG!\\! \\n[1], em phải cứu chị!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -467,7 +467,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["NO!\\! \\n[1], you've got to save me!"]
+              "parameters": ["KHÔNG!\\! \\n[1], em phải cứu chị!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -665,7 +665,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Troublemaker>Haven't seen you two around before..."
+                "\\n<Kẻ Gây Rối>Trước đây tôi chưa từng gặp hai người..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -673,7 +673,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Troublemaker>When you guys got a sec, come talk to me in the back over here, okay?"
+                "\\n<Kẻ Gây Rối>Khi nào có thời gian thì hai người đến đây nói chuyện với tôi, được không?"
               ]
             },
             {
@@ -922,7 +922,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [19, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]! HELP!"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n[1]! CỨU CHỊ!"] },
             {
               "code": 205,
               "indent": 0,
@@ -945,7 +945,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's a gun over there!\\! PLEASE!! Take it!"]
+              "parameters": [
+                "Có khẩu súng ở đằng kia!\\! NHANH LÊN!! Cầm lấy nó đi!"
+              ]
             },
             { "code": 204, "indent": 0, "parameters": [2, 3, 5] },
             {

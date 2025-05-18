@@ -236,7 +236,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*pant*\\| *pant*\\| What the hell was that?!"]
+              "parameters": ["*hộc*\\| *hộc*\\| Cái quái gì thế?!"]
             },
             {
               "code": 205,
@@ -262,7 +262,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It was like a zombie or something..."]
+              "parameters": ["Nó trông không khác gì một con Zombie..."]
             },
             {
               "code": 205,
@@ -286,14 +286,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Something really bad is going on in this city."]
+              "parameters": [
+                "Có chuyện gì đó rất không bình thường đang xảy ra ở thành phố này."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I have to get home and make sure \\n[2] and \\n[3] are okay."
+                "Phải về nhà nhanh thôi để đảm bảo mẹ và chị vẫn ổn."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },

@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "Lucy's Bedroom",
+  "displayName": "Phòng Lucy",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -24,8 +24,8 @@
   "data": [
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7795, 7793,
     7793, 7793, 7793, 7793, 7793, 7793, 7793, 7797, 0, 0, 0, 0, 0, 0, 0, 7792,
-    1539, 8002, 8002, 8002, 8002, 8002, 1555, 8002, 7792, 0, 0, 0, 0, 0, 0, 0,
-    7792, 1547, 8009, 8008, 8008, 8008, 8008, 1563, 8008, 7792, 0, 0, 0, 0, 0,
+    1539, 8002, 8002, 8002, 8002, 8002, 8002, 8002, 7792, 0, 0, 0, 0, 0, 0, 0,
+    7792, 1547, 8008, 8008, 8008, 8008, 8008, 8008, 8008, 7792, 0, 0, 0, 0, 0,
     0, 0, 7792, 1649, 1649, 1649, 1649, 1649, 1649, 1649, 1649, 7792, 0, 0, 0,
     0, 0, 0, 0, 7792, 1649, 1649, 1649, 1649, 1649, 1649, 1649, 1649, 7792, 0,
     0, 0, 0, 0, 0, 0, 7792, 1649, 1649, 1649, 1649, 1649, 1649, 1649, 1649,
@@ -56,7 +56,7 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 580, 581, 354, 316, 317, 0, 550, 551, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 556, 557, 0, 324, 325, 0, 558, 559, 0, 0, 0, 0, 0, 0, 0, 0, 0, 524, 525,
-    0, 696, 697, 0, 566, 567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 704, 705, 0,
+    0, 682, 683, 0, 566, 567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 690, 691, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 736, 737, 0, 0, 0, 0, 611, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 744, 745, 0, 0, 0, 0, 612, 613, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 620, 621, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -121,7 +121,7 @@
               ]
             },
             { "code": 121, "indent": 0, "parameters": [62, 62, 0] },
-            { "code": 201, "indent": 0, "parameters": [0, 3, 32, 9, 2, 0] },
+            { "code": 201, "indent": 0, "parameters": [0, 3, 37, 8, 2, 0] },
             { "code": 117, "indent": 0, "parameters": [27] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -276,23 +276,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's good to see you."]
+              "parameters": ["Thật tốt khi được gặp em."]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Talk", "Party Up", "Nevermind"], 2, 0, 2, 0]
+              "parameters": [["Nói chuyện", "Đồng hành", "Rời đi"], 2, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Nói chuyện"] },
             { "code": 117, "indent": 1, "parameters": [46] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Party Up"] },
+            { "code": 402, "indent": 0, "parameters": [1, "Đồng hành"] },
             { "code": 111, "indent": 1, "parameters": [1, 47, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["1Lucy1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["I wanted to talk to you first."]
+              "parameters": ["Từ từ đã, chị muốn nói chuyện với em trước."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -300,7 +300,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [2, "Rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

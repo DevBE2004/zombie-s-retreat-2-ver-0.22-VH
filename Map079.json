@@ -6,7 +6,7 @@
   "bgm": { "name": "Dungeon3", "pan": 0, "pitch": 100, "volume": 30 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "The Colosseum",
+  "displayName": "Đấu Trường La Mã",
   "encounterList": [],
   "encounterStep": 30,
   "height": 17,
@@ -170,7 +170,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>Welcome to The Colosseum!\\! Home of the bloodiest battles you'll ever find in Crimson City!"
+                "\\n<Người phụ nữ>Chào mừng đến với Đấu Trường La Mã!\\! Nơi khởi nguồn của những trận chiến đẫm máu nhất ở Thành phố Crimson!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -178,7 +178,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>If you're looking for the spectator booth, it's over there."
+                "\\n<Người phụ nữ>Nếu như cậu đang tìm kiếm hàng ghế dành cho khán giả thì nó nằm ở đằng kia."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -186,7 +186,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was actually looking to compete in the next tournament."
+                "Thực ra thì tôi đến đây để ghi danh tham gia vào giải đấu tiếp theo."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -194,21 +194,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>*Oh ho ho*\\! A shrimp like you is planning to compete?!"
+                "\\n<Người phụ nữ>*Oh ho ho*\\! Người cậu như con tôm thế này mà cũng muốn tham gia thi đấu sao?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["H-Hey!\\! I'm not a shrimp..."]
+              "parameters": ["N-Này!\\! Tôi không phải là một con tôm..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>You've got a fiery spark in your eye that tells me you're not kidding around..."
+                "\\n<Người phụ nữ>Thấy cậu phản ứng quyết liệt như thế thì có vẻ như cậu đang khá nghiêm túc..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -216,7 +216,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>I'll give you the benefit of the doubt.\\! I've got one entrance slot left."
+                "\\n<Người phụ nữ>Xin lỗi vì coi thường cậu.\\! Để tạ lỗi thì tôi vẫn còn một suất đăng ký đây."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -224,39 +224,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>If you're feeling brave enough, show me that endorsement and you can enter."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Uhh, endorsement..?"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Tough Woman>*bwa hah hah*\\! Every competitor needs an endorsement first."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Tough Woman>Someone credible that can vouch you won't go lifeless after the first swing."
+                "\\n<Người phụ nữ>Nếu cậu cảm thấy đủ can đảm thì đưa tôi xem giấy chứng thực và sau đó cậu có thể tham gia."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I don't have an endorsement though."]
+              "parameters": ["Uhh, giấy chứng thực..?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>Then you can't compete.\\! Them's the rules."
+                "\\n<Người phụ nữ>*bwa hah hah*\\! Những người muốn thi đấu trước tiên phải có giấy chứng thực..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -264,7 +246,29 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>Don't look so glum though shrimp.\\! There's always next tournament."
+                "\\n<Người phụ nữ>Chúng tôi cần thứ đó để đảm bảo là cậu sẽ không chết sau cú đấm đầu tiên."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Nhưng tôi không có thứ đó."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Người phụ nữ>Vậy cậu sẽ không được tham gia.\\! Đó là quy tắc ở đây."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Người phụ nữ>Đừng u rũ như thế nữa.\\! Cậu có thể đợi đến giải đấu tiếp theo để tham gia."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [150, 150, 0] },
@@ -315,7 +319,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>Can't let you in without an endorsement."
+                "\\n<Người phụ nữ>Tôi sẽ không để cậu tham gia nếu không có giấy chứng thực."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -323,7 +327,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>I don't make the rules.\\! I just enforce 'em."
+                "\\n<Người phụ nữ>Tôi không phải người đặt ra quy định ở đây.\\! Tôi chỉ thực hiện chúng thôi."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -373,29 +377,25 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>Hold on, is that an endorsement you're carrying?"
+                "\\n<Người phụ nữ>Chờ một chút, cậu đang cầm trên tay giấy chứng thực?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["It sure is!"] },
+            { "code": 401, "indent": 0, "parameters": ["Đúng vậy!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Tough Woman>From Misty of all people?!"]
+              "parameters": [
+                "\\n<Người phụ nữ>Và giấy chứng thực đó là của Misty?!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Yup!\\! So I'm eligible to compete now, right?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>I'm not sure what she sees in you but an endorsement's an endorsement."
+                "Đúng thế!\\! Vậy bây giờ tôi đủ điều kiện để tham gia thi đấu rồi đúng chứ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -403,28 +403,23 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>There's still one spot left.\\! You can enter now if you'd like?"
+                "\\n<Người phụ nữ>Không biết tại sao cô ấy lại làm thế nhưng dù gì thì giấy chứng thực vẫn là giấy chứng thực."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "WARNING: Normally Colosseum tournaments are safe to lose your HP in.\\! But this tournament is do or die!\\! Be sure to "
+                "\\n<Người phụ nữ>Vẫn còn một suất trống.\\! Cậu có thể tham gia ngay bây giờ nếu muốn?!"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["save before you're ready!"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["I'm Ready!", "Not Yet..."], 1, 0, 2, 0]
+              "parameters": [["Tham gia!", "Chưa phải lúc..."], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "I'm Ready!"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Tham gia!"] },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [3] },
@@ -433,7 +428,7 @@
             { "code": 230, "indent": 1, "parameters": [90] },
             { "code": 201, "indent": 1, "parameters": [0, 80, 13, 6, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Not Yet..."] },
+            { "code": 402, "indent": 0, "parameters": [1, "Chưa phải lúc..."] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -484,7 +479,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>I'm not sure what Misty sees in you but an endorsement's an endorsement."
+                "\\n<Người phụ nữ>Không biết tại sao cô ấy lại làm thế nhưng dù gì thì giấy chứng thực vẫn là giấy chứng thực."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -492,15 +487,15 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>There's still one spot left.\\! You can enter now if you'd like?"
+                "\\n<Người phụ nữ>Vẫn còn một suất trống.\\! Cậu có thể tham gia ngay bây giờ nếu muốn?!"
               ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["I'm Ready!", "Not Yet..."], 1, 0, 2, 0]
+              "parameters": [["Tham gia!", "Chưa phải lúc..."], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "I'm Ready!"] },
+            { "code": 402, "indent": 0, "parameters": [0, "Tham gia!"] },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [3] },
@@ -509,7 +504,7 @@
             { "code": 230, "indent": 1, "parameters": [90] },
             { "code": 201, "indent": 1, "parameters": [0, 80, 13, 6, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Not Yet..."] },
+            { "code": 402, "indent": 0, "parameters": [1, "Chưa phải lúc..."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -558,110 +553,22 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Carla>Congratulations on the big win shrimp!"]
+              "parameters": ["\\n<Carla>Chúc mừng cậu đã giành chức vô địch!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>They're still cleaning up from the last tournament so there's nothing "
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": ["new going on yet."] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Carla>But The Underground is always hungry for more competitions!"
+                "\\n<Carla>Hiện tại không có bất kỳ giải đấu mới nào nhưng Thế giới ngầm luôn đầy ắp những bí ẩn! "
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Carla>So check back soon, ya hear?!"]
+              "parameters": ["\\n<Carla>Hẹn gặp lại cậu!"]
             },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 1,
-          "stepAnime": false,
-          "through": false,
-          "trigger": 0,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 1,
-            "actorValid": false,
-            "itemId": 36,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 155,
-            "switch1Valid": true,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": false,
-          "image": {
-            "tileId": 0,
-            "characterName": "$MorganB",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Carla>Welcome back to the Colosseum!"]
-            },
-            { "code": 111, "indent": 0, "parameters": [0, 160, 0] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "\\n<Carla>A new competition has opened up for you!"
-              ]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "\\n<Carla>Now what kinda challenge are you lookin' to face?!"
-              ]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 411, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "\\n<Carla>What kinda challenge are you lookin' to face?!"
-              ]
-            },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 121, "indent": 0, "parameters": [160, 160, 1] },
-            { "code": 117, "indent": 0, "parameters": [181] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -685,7 +592,7 @@
     },
     {
       "id": 2,
-      "name": "Guard",
+      "name": "Bảo vệ",
       "note": "",
       "pages": [
         {
@@ -718,7 +625,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Guard>This balcony's for paying ticket holders only."
+                "\\n<Bảo vệ>Chỗ này chỉ dành cho những người trả tiền mua vé!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -773,7 +680,6 @@
           },
           "list": [
             { "code": 201, "indent": 0, "parameters": [0, 84, 11, 8, 2, 0] },
-            { "code": 117, "indent": 0, "parameters": [27] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -848,7 +754,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Guard>This balcony's for paying ticket holders only."
+                "\\n<Bảo vệ>Chỗ này chỉ dành cho những người trả tiền mua vé!"
               ]
             },
             {
@@ -1200,7 +1106,7 @@
             { "code": 122, "indent": 0, "parameters": [159, 159, 0, 0, 0] },
             { "code": 122, "indent": 0, "parameters": [160, 160, 0, 0, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["You blacked out..."] },
+            { "code": 401, "indent": 0, "parameters": ["Bạn đã ngất đi..."] },
             { "code": 121, "indent": 0, "parameters": [156, 156, 1] },
             { "code": 111, "indent": 0, "parameters": [0, 283, 1] },
             { "code": 121, "indent": 1, "parameters": [300, 300, 1] },
@@ -1216,7 +1122,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>Tough luck.\\! You'll get 'em next time champ!"
+                "\\n<Carla>Xui xẻo quá.\\! Lần sau anh sẽ hạ được chúng thôi, nhà vô địch!"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [159, 159, 1] },
@@ -1290,7 +1196,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>Congratulations on completing the Bathhouse Brawl!"
+                "\\n<Carla>Xin chúc mừng vì đã hoàn thành Cuộc ẩu đả trong nhà tắm!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1298,7 +1204,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>Here's your prize to commemorate your victory!"
+                "\\n<Carla>Đây là giải thưởng để ăn mừng chiến thắng của bạn!"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [2, "A", 1] },
@@ -1315,7 +1221,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["You won a Public Bathhouse Schematic!"]
+              "parameters": ["Bạn đã trúng sơ đồ nhà tắm công cộng!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1393,7 +1299,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>Congratulations on completing the Violet Cup!"
+                "\\n<Carla>Xin chúc mừng vì đã hoàn thành Cúp Violet!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1401,7 +1307,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>Here's your prize to commemorate your victory!"
+               "\\n<Carla>Đây là giải thưởng để ăn mừng chiến thắng của bạn!"
               ]
             },
             { "code": 125, "indent": 0, "parameters": [0, 0, 3] },
@@ -1413,7 +1319,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["You won 3Ƶ!"] },
+            { "code": 401, "indent": 0, "parameters": ["Bạn đã thắng 3Ƶ!"] },
             { "code": 121, "indent": 0, "parameters": [235, 235, 1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
