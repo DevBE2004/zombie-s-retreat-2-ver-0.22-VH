@@ -1,19 +1,3009 @@
 {
-"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":17,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":6,"width":22,
-"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6067,6065,6065,6065,6065,6065,6065,6065,6065,6065,6065,6065,6065,6065,6065,6065,6069,0,0,0,0,0,6064,7330,7330,7330,7330,7330,7330,7330,7330,7330,7330,7330,7330,7330,7330,7330,6064,0,0,0,0,0,6064,7336,7336,7336,7336,7336,7336,7336,7336,7336,7336,7336,7336,7336,7336,7336,6064,0,0,0,0,0,6064,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,6064,0,0,0,0,0,6064,1544,1545,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,6064,0,0,0,0,0,6064,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,6064,0,0,0,0,0,6064,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1545,1544,1544,1544,6064,0,0,0,0,0,6064,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,6064,0,0,0,0,0,6064,1544,1544,1544,1544,1545,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,6064,0,0,0,0,0,6064,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,6064,0,0,0,0,0,6073,6065,6065,6065,6065,6065,6065,6065,6065,6065,6065,6077,7035,7037,6075,6065,6071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3578,0,0,3578,0,0,3578,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3580,0,0,3580,0,0,3580,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,686,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,574,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,637,638,0,678,0,0,0,213,214,238,0,977,0,0,0,0,0,0,0,0,0,244,645,646,0,227,228,229,1,0,245,246,244,985,468,0,0,0,0,0,0,0,0,252,653,654,230,235,236,237,127,0,253,254,252,0,476,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,979,0,0,0,0,0,0,22,0,0,0,0,0,0,0,63,0,0,0,0,0,567,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,71,0,992,0,0,0,0,0,0,0,0,0,564,0,38,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,563,0,0,0,0,521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,572,573,572,573,572,573,572,519,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,30,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,30,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,30,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,30,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,30,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,30,0,0,0,0,0,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-"events":[
-null,
-{"id":1,"name":"DoorExit1","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":101,"indent":0,"parameters":["1Stacy1",2,0,2]},{"code":401,"indent":0,"parameters":["We can't leave already!"]},{"code":101,"indent":0,"parameters":["1Stacy1",7,0,2]},{"code":401,"indent":0,"parameters":["We haven't uncovered their recipe secrets yet."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":98,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":90}]},{"code":201,"indent":0,"parameters":[0,21,16,4,2,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false}],"x":14,"y":12},
-{"id":2,"name":"DoorExit1","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":101,"indent":0,"parameters":["1Stacy1",2,0,2]},{"code":401,"indent":0,"parameters":["We can't leave already!"]},{"code":101,"indent":0,"parameters":["1Stacy1",7,0,2]},{"code":401,"indent":0,"parameters":["We haven't uncovered their recipe secrets yet."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":98,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":90}]},{"code":201,"indent":0,"parameters":[0,21,17,4,2,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false}],"x":15,"y":12},
-{"id":3,"name":"Sweets Stash","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":98,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"$Sparkle","direction":4,"pattern":1,"characterIndex":0},"list":[{"code":121,"indent":0,"parameters":[40,40,1]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Search through this Sweets Stash?"]},{"code":102,"indent":0,"parameters":[["Yes","No"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"Yes"]},{"code":123,"indent":1,"parameters":["A",0]},{"code":123,"indent":1,"parameters":["B",0]},{"code":117,"indent":1,"parameters":[96]},{"code":111,"indent":1,"parameters":[4,16,0]},{"code":117,"indent":2,"parameters":[59]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["The Sweets Stash went empty..."]},{"code":122,"indent":1,"parameters":[20,20,0,0,0]},{"code":122,"indent":1,"parameters":[21,21,0,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"No"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":121,"indent":0,"parameters":[40,40,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":1,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":0,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":0,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":5},
-{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"PowerUps","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":250,"indent":0,"parameters":[{"name":"Empty Clip","volume":30,"pitch":120,"pan":0}]},{"code":126,"indent":0,"parameters":[20,0,0,8]},{"code":117,"indent":0,"parameters":[16]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":15,"parameters":[30],"indent":null},{"code":20,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":3,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":22,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"PowerUps","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":250,"indent":0,"parameters":[{"name":"Empty Clip","volume":30,"pitch":120,"pan":0}]},{"code":126,"indent":0,"parameters":[20,0,0,6]},{"code":117,"indent":0,"parameters":[16]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":15,"parameters":[30],"indent":null},{"code":20,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":3,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":20,"itemValid":true,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":20,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":65,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":3,"y":10},
-{"id":5,"name":"EV005","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":157,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"PHC_Em-Serv-ZomA2","direction":6,"pattern":1,"characterIndex":0},"list":[{"code":108,"indent":0,"parameters":["<projEffect>"]},{"code":111,"indent":0,"parameters":[0,18,0]},{"code":205,"indent":1,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":1,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":250,"indent":1,"parameters":[{"name":"Damage1","volume":45,"pitch":140,"pan":0}]},{"code":122,"indent":1,"parameters":[18,18,2,0,1]},{"code":111,"indent":1,"parameters":[1,18,0,0,2]},{"code":117,"indent":2,"parameters":[15]},{"code":117,"indent":2,"parameters":[10]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":117,"indent":2,"parameters":[15]},{"code":121,"indent":2,"parameters":[18,18,0]},{"code":205,"indent":2,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":28,"parameters":[18],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":2,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":505,"indent":2,"parameters":[{"code":28,"parameters":[18],"indent":null}]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":45,"parameters":["this._chaseRange = 5"],"indent":null},{"code":45,"parameters":["this._chaseSpeed = 2"],"indent":null},{"code":10,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":true,"wait":false},"moveSpeed":2,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":2,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":157,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"PHC_Em-Serv-ZomGoreA2","direction":6,"pattern":1,"characterIndex":0},"list":[{"code":108,"indent":0,"parameters":["<projEffect>"]},{"code":111,"indent":0,"parameters":[0,18,0]},{"code":205,"indent":1,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":1,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":250,"indent":1,"parameters":[{"name":"Damage1","volume":45,"pitch":140,"pan":0}]},{"code":122,"indent":1,"parameters":[18,18,2,0,1]},{"code":111,"indent":1,"parameters":[1,18,0,0,2]},{"code":117,"indent":2,"parameters":[15]},{"code":117,"indent":2,"parameters":[10]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":117,"indent":2,"parameters":[15]},{"code":121,"indent":2,"parameters":[18,18,0]},{"code":205,"indent":2,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":28,"parameters":[18],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":2,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":505,"indent":2,"parameters":[{"code":28,"parameters":[18],"indent":null}]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":45,"parameters":["this._alertSoundVol = 0"],"indent":null},{"code":45,"parameters":["this._chaseRange = 6"],"indent":null},{"code":45,"parameters":["this._chaseSpeed = 3"],"indent":null},{"code":10,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":true,"wait":false},"moveSpeed":2,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":2,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"PHC_Em-Serv-ZomA2","direction":6,"pattern":1,"characterIndex":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Damage3","volume":35,"pitch":150,"pan":0}]},{"code":111,"indent":0,"parameters":[2,"B",0]},{"code":122,"indent":1,"parameters":[65,65,1,0,1]},{"code":123,"indent":1,"parameters":["D",0]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["B",0]},{"code":123,"indent":1,"parameters":["A",1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":7,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"PHC_Em-Serv-ZomA2","direction":6,"pattern":1,"characterIndex":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Damage3","volume":35,"pitch":150,"pan":0}]},{"code":111,"indent":0,"parameters":[2,"B",0]},{"code":123,"indent":1,"parameters":["D",0]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["B",0]},{"code":123,"indent":1,"parameters":["A",1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"D","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}],"x":5,"y":9},
-{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":157,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"Male_Zombies","direction":2,"pattern":1,"characterIndex":6},"list":[{"code":108,"indent":0,"parameters":["<projEffect>"]},{"code":111,"indent":0,"parameters":[0,18,0]},{"code":205,"indent":1,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":1,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":250,"indent":1,"parameters":[{"name":"Damage1","volume":45,"pitch":140,"pan":0}]},{"code":122,"indent":1,"parameters":[18,18,2,0,1]},{"code":111,"indent":1,"parameters":[1,18,0,0,2]},{"code":117,"indent":2,"parameters":[15]},{"code":117,"indent":2,"parameters":[10]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":117,"indent":2,"parameters":[15]},{"code":121,"indent":2,"parameters":[18,18,0]},{"code":205,"indent":2,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":28,"parameters":[18],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":2,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":505,"indent":2,"parameters":[{"code":28,"parameters":[18],"indent":null}]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":45,"parameters":["this._chaseRange = 5"],"indent":null},{"code":45,"parameters":["this._chaseSpeed = 2"],"indent":null},{"code":10,"indent":null},{"code":15,"parameters":[15],"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":true,"wait":false},"moveSpeed":2,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":2,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":157,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"Male_Zombies_Gore","direction":2,"pattern":1,"characterIndex":6},"list":[{"code":108,"indent":0,"parameters":["<projEffect>"]},{"code":111,"indent":0,"parameters":[0,18,0]},{"code":205,"indent":1,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":1,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":250,"indent":1,"parameters":[{"name":"Damage1","volume":45,"pitch":140,"pan":0}]},{"code":122,"indent":1,"parameters":[18,18,2,0,1]},{"code":111,"indent":1,"parameters":[1,18,0,0,2]},{"code":117,"indent":2,"parameters":[15]},{"code":117,"indent":2,"parameters":[10]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":117,"indent":2,"parameters":[15]},{"code":121,"indent":2,"parameters":[18,18,0]},{"code":205,"indent":2,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":28,"parameters":[18],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":2,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":505,"indent":2,"parameters":[{"code":28,"parameters":[18],"indent":null}]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":45,"parameters":["this._alertSoundVol = 0"],"indent":null},{"code":45,"parameters":["this._chaseRange = 6"],"indent":null},{"code":45,"parameters":["this._chaseSpeed = 3"],"indent":null},{"code":10,"indent":null},{"code":15,"parameters":[10],"indent":null},{"code":10,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":true,"wait":false},"moveSpeed":2,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":2,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Male_Zombies","direction":2,"pattern":1,"characterIndex":6},"list":[{"code":250,"indent":0,"parameters":[{"name":"Damage3","volume":35,"pitch":150,"pan":0}]},{"code":111,"indent":0,"parameters":[2,"B",0]},{"code":122,"indent":1,"parameters":[65,65,1,0,1]},{"code":123,"indent":1,"parameters":["D",0]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["B",0]},{"code":123,"indent":1,"parameters":["A",1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":7,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Male_Zombies","direction":2,"pattern":1,"characterIndex":6},"list":[{"code":250,"indent":0,"parameters":[{"name":"Damage3","volume":35,"pitch":150,"pan":0}]},{"code":111,"indent":0,"parameters":[2,"B",0]},{"code":123,"indent":1,"parameters":["D",0]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["B",0]},{"code":123,"indent":1,"parameters":["A",1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"D","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}],"x":10,"y":5},
-{"id":7,"name":"EV007","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":157,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"Male_Zombies","direction":8,"pattern":1,"characterIndex":5},"list":[{"code":108,"indent":0,"parameters":["<projEffect>"]},{"code":111,"indent":0,"parameters":[0,18,0]},{"code":205,"indent":1,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":1,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":250,"indent":1,"parameters":[{"name":"Damage1","volume":45,"pitch":140,"pan":0}]},{"code":122,"indent":1,"parameters":[18,18,2,0,1]},{"code":111,"indent":1,"parameters":[1,18,0,0,2]},{"code":117,"indent":2,"parameters":[15]},{"code":117,"indent":2,"parameters":[10]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":117,"indent":2,"parameters":[15]},{"code":121,"indent":2,"parameters":[18,18,0]},{"code":205,"indent":2,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":28,"parameters":[18],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":2,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":505,"indent":2,"parameters":[{"code":28,"parameters":[18],"indent":null}]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":45,"parameters":["this._chaseRange = 5"],"indent":null},{"code":45,"parameters":["this._chaseSpeed = 2"],"indent":null},{"code":9,"indent":0},{"code":15,"parameters":[30],"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":true,"wait":false},"moveSpeed":1,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":2,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":157,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"Male_Zombies_Gore","direction":8,"pattern":1,"characterIndex":5},"list":[{"code":108,"indent":0,"parameters":["<projEffect>"]},{"code":111,"indent":0,"parameters":[0,18,0]},{"code":205,"indent":1,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":1,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":250,"indent":1,"parameters":[{"name":"Damage1","volume":45,"pitch":140,"pan":0}]},{"code":122,"indent":1,"parameters":[18,18,2,0,1]},{"code":111,"indent":1,"parameters":[1,18,0,0,2]},{"code":117,"indent":2,"parameters":[15]},{"code":117,"indent":2,"parameters":[10]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":117,"indent":2,"parameters":[15]},{"code":121,"indent":2,"parameters":[18,18,0]},{"code":205,"indent":2,"parameters":[0,{"list":[{"code":15,"parameters":[60],"indent":null},{"code":28,"parameters":[18],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":2,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":505,"indent":2,"parameters":[{"code":28,"parameters":[18],"indent":null}]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":45,"parameters":["this._alertSoundVol = 0"],"indent":null},{"code":45,"parameters":["this._chaseRange = 6"],"indent":null},{"code":45,"parameters":["this._chaseSpeed = 3"],"indent":null},{"code":10,"indent":null},{"code":15,"parameters":[20],"indent":null},{"code":10,"indent":null},{"code":15,"parameters":[10],"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":true,"wait":false},"moveSpeed":2,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":2,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Male_Zombies","direction":8,"pattern":1,"characterIndex":5},"list":[{"code":250,"indent":0,"parameters":[{"name":"Damage3","volume":35,"pitch":150,"pan":0}]},{"code":111,"indent":0,"parameters":[2,"B",0]},{"code":122,"indent":1,"parameters":[65,65,1,0,1]},{"code":123,"indent":1,"parameters":["D",0]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["B",0]},{"code":123,"indent":1,"parameters":["A",1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":7,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Male_Zombies","direction":8,"pattern":1,"characterIndex":5},"list":[{"code":250,"indent":0,"parameters":[{"name":"Damage3","volume":35,"pitch":150,"pan":0}]},{"code":111,"indent":0,"parameters":[2,"B",0]},{"code":123,"indent":1,"parameters":["D",0]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["B",0]},{"code":123,"indent":1,"parameters":["A",1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"D","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}],"x":14,"y":7},
-{"id":8,"name":"Cutscenes","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":121,"indent":0,"parameters":[40,40,1]},{"code":121,"indent":0,"parameters":[7,7,0]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[3],"indent":null},{"code":4,"indent":null},{"code":29,"parameters":[4],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[3],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":230,"indent":0,"parameters":[30]},{"code":101,"indent":0,"parameters":["1Stacy1",3,0,2]},{"code":401,"indent":0,"parameters":["*Grr*\\! More zombies!"]},{"code":101,"indent":0,"parameters":["1Stacy1",5,0,2]},{"code":401,"indent":0,"parameters":["\\n[1]...\\! Would you be able to dispose of them?"]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["*sigh*\\! Easier said than done but I'll try..."]},{"code":121,"indent":0,"parameters":[40,40,0]},{"code":121,"indent":0,"parameters":[7,7,1]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":65,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":121,"indent":0,"parameters":[40,40,1]},{"code":122,"indent":0,"parameters":[45,45,0,0,4]},{"code":230,"indent":0,"parameters":[30]},{"code":101,"indent":0,"parameters":["1Stacy1",1,0,2]},{"code":401,"indent":0,"parameters":["The coast looks clear!"]},{"code":101,"indent":0,"parameters":["1Stacy1",4,0,2]},{"code":401,"indent":0,"parameters":["You're the best, \\n[1]!"]},{"code":101,"indent":0,"parameters":["1Stacy1",7,0,2]},{"code":401,"indent":0,"parameters":["Now I just have to find out where they're hiding their secrets..."]},{"code":221,"indent":0,"parameters":[]},{"code":211,"indent":0,"parameters":[0]},{"code":201,"indent":0,"parameters":[0,36,6,8,2,0]},{"code":230,"indent":0,"parameters":[30]},{"code":121,"indent":0,"parameters":[8,8,0]},{"code":203,"indent":0,"parameters":[9,0,8,5,8]},{"code":203,"indent":0,"parameters":[10,0,4,8,4]},{"code":230,"indent":0,"parameters":[30]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[30]},{"code":205,"indent":0,"parameters":[9,{"list":[{"code":2,"indent":null},{"code":19,"indent":null},{"code":15,"parameters":[30],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[30],"indent":null}]},{"code":213,"indent":0,"parameters":[9,2,true]},{"code":230,"indent":0,"parameters":[30]},{"code":213,"indent":0,"parameters":[10,9,false]},{"code":101,"indent":0,"parameters":["1Stacy1",1,0,2]},{"code":401,"indent":0,"parameters":["A-ha!\\! \\BST[1]I found it!"]},{"code":205,"indent":0,"parameters":[9,{"list":[{"code":17,"indent":null},{"code":15,"parameters":[30],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[30],"indent":null}]},{"code":101,"indent":0,"parameters":["1MC1",1,0,2]},{"code":401,"indent":0,"parameters":["That's great!\\! \\BST[1]What does it say?"]},{"code":205,"indent":0,"parameters":[9,{"list":[{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":101,"indent":0,"parameters":["1Stacy1",5,0,2]},{"code":401,"indent":0,"parameters":["There's a bunch of recipes in here."]},{"code":101,"indent":0,"parameters":["1Stacy1",7,0,2]},{"code":401,"indent":0,"parameters":["But this page looks especially juicy!"]},{"code":101,"indent":0,"parameters":["1Stacy1",2,0,2]},{"code":401,"indent":0,"parameters":["A Sweets Stash?!\\! Why didn't I think of that?!"]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["A.. Sweets Stash?"]},{"code":101,"indent":0,"parameters":["1Stacy1",1,0,2]},{"code":401,"indent":0,"parameters":["A super secret stash filled with some of the tastiest treats!"]},{"code":101,"indent":0,"parameters":["1Stacy1",0,0,2]},{"code":401,"indent":0,"parameters":["Look.\\! They have one right over there."]},{"code":205,"indent":0,"parameters":[10,{"list":[{"code":19,"indent":null},{"code":15,"parameters":[5],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[5],"indent":null}]},{"code":205,"indent":0,"parameters":[9,{"list":[{"code":19,"indent":null},{"code":15,"parameters":[15],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[15],"indent":null}]},{"code":230,"indent":0,"parameters":[30]},{"code":121,"indent":0,"parameters":[98,98,0]},{"code":230,"indent":0,"parameters":[60]},{"code":101,"indent":0,"parameters":["1Stacy1",0,0,2]},{"code":401,"indent":0,"parameters":["You know those salvage spots that you've been getting supplies from?"]},{"code":101,"indent":0,"parameters":["1Stacy1",1,0,2]},{"code":401,"indent":0,"parameters":["A Sweets Stash is sort of like that!"]},{"code":101,"indent":0,"parameters":["1Stacy1",0,0,2]},{"code":401,"indent":0,"parameters":["They're chock full of tasty goodies that I can use to make shakes with."]},{"code":101,"indent":0,"parameters":["1MC1",0,0,2]},{"code":401,"indent":0,"parameters":["I think I get it.\\! So I can search for ingredients in spots like these?"]},{"code":101,"indent":0,"parameters":["1Stacy1",0,0,2]},{"code":401,"indent":0,"parameters":["That's right.\\! \\BST[6]Although maybe you should bring me along."]},{"code":101,"indent":0,"parameters":["1Stacy1",5,0,2]},{"code":401,"indent":0,"parameters":["Your sweet tooth isn't as good as mine..."]},{"code":101,"indent":0,"parameters":["1Stacy1",4,0,2]},{"code":401,"indent":0,"parameters":["I'll probably be able to find some extra sweets when we search "]},{"code":401,"indent":0,"parameters":["these spots!"]},{"code":101,"indent":0,"parameters":["1Stacy1",0,0,2]},{"code":401,"indent":0,"parameters":["Let's check out this stash and then head out of here."]},{"code":101,"indent":0,"parameters":["1Stacy1",5,0,2]},{"code":401,"indent":0,"parameters":["Before some more zombies come around..."]},{"code":221,"indent":0,"parameters":[]},{"code":211,"indent":0,"parameters":[1]},{"code":121,"indent":0,"parameters":[8,8,1]},{"code":230,"indent":0,"parameters":[60]},{"code":121,"indent":0,"parameters":[40,40,0]},{"code":222,"indent":0,"parameters":[]},{"code":101,"indent":0,"parameters":["",5,0,1]},{"code":401,"indent":0,"parameters":["You've unlocked Sweets Stashes!\\! These function like salvage "]},{"code":401,"indent":0,"parameters":["points but only for Stacy's milkshake ingredients."]},{"code":101,"indent":0,"parameters":["",5,0,1]},{"code":401,"indent":0,"parameters":["Sweets Stashes aren't as crucial for survival but milkshakes "]},{"code":401,"indent":0,"parameters":["may give you an upper hand when exploring."]},{"code":355,"indent":0,"parameters":["Galv.QUEST.complete(7);"]},{"code":123,"indent":0,"parameters":["B",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":2,"y":14},
-{"id":9,"name":"MC (Cutscene)","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":8,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"1MainCharacter","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":8,"y":15},
-{"id":10,"name":"Stacy (Cutscene)","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":8,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"1Stacy","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":9,"y":15},
-{"id":11,"name":"EV011","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Item2","volume":70,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Found some Food (Fresh)!"]},{"code":126,"indent":0,"parameters":[13,0,0,1]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":290,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"$Sparkle1","direction":4,"pattern":1,"characterIndex":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Item2","volume":70,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Found some Food (Fresh)!"]},{"code":126,"indent":0,"parameters":[13,0,0,1]},{"code":117,"indent":0,"parameters":[101]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":3,"y":8},
-{"id":12,"name":"EV012","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Item2","volume":70,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Found some Water!"]},{"code":126,"indent":0,"parameters":[6,0,0,1]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":290,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"$Sparkle1","direction":4,"pattern":1,"characterIndex":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Item2","volume":70,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Found some Water!"]},{"code":126,"indent":0,"parameters":[6,0,0,1]},{"code":117,"indent":0,"parameters":[101]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":14,"y":5}
-]
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 17,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 6,
+  "width": 22,
+  "data": [
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6067, 6065,
+    6065, 6065, 6065, 6065, 6065, 6065, 6065, 6065, 6065, 6065, 6065, 6065,
+    6065, 6065, 6069, 0, 0, 0, 0, 0, 6064, 7330, 7330, 7330, 7330, 7330, 7330,
+    7330, 7330, 7330, 7330, 7330, 7330, 7330, 7330, 7330, 6064, 0, 0, 0, 0, 0,
+    6064, 7336, 7336, 7336, 7336, 7336, 7336, 7336, 7336, 7336, 7336, 7336,
+    7336, 7336, 7336, 7336, 6064, 0, 0, 0, 0, 0, 6064, 1544, 1544, 1544, 1544,
+    1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 6064, 0,
+    0, 0, 0, 0, 6064, 1544, 1545, 1544, 1544, 1544, 1544, 1544, 1544, 1544,
+    1544, 1544, 1544, 1544, 1544, 1544, 6064, 0, 0, 0, 0, 0, 6064, 1544, 1544,
+    1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544,
+    1544, 6064, 0, 0, 0, 0, 0, 6064, 1544, 1544, 1544, 1544, 1544, 1544, 1544,
+    1544, 1544, 1544, 1544, 1545, 1544, 1544, 1544, 6064, 0, 0, 0, 0, 0, 6064,
+    1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544,
+    1544, 1544, 1544, 6064, 0, 0, 0, 0, 0, 6064, 1544, 1544, 1544, 1544, 1545,
+    1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 6064, 0, 0, 0,
+    0, 0, 6064, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544, 1544,
+    1544, 1544, 1544, 1544, 1544, 6064, 0, 0, 0, 0, 0, 6073, 6065, 6065, 6065,
+    6065, 6065, 6065, 6065, 6065, 6065, 6065, 6077, 7035, 7037, 6075, 6065,
+    6071, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 3578, 0, 0, 3578, 0, 0, 3578, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 3580, 0, 0, 3580, 0, 0, 3580, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 686, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    574, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 637, 638, 0, 678, 0, 0,
+    0, 213, 214, 238, 0, 977, 0, 0, 0, 0, 0, 0, 0, 0, 0, 244, 645, 646, 0, 227,
+    228, 229, 1, 0, 245, 246, 244, 985, 468, 0, 0, 0, 0, 0, 0, 0, 0, 252, 653,
+    654, 230, 235, 236, 237, 127, 0, 253, 254, 252, 0, 476, 0, 0, 0, 0, 0, 0, 0,
+    0, 55, 0, 0, 0, 0, 0, 0, 979, 0, 0, 0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 63,
+    0, 0, 0, 0, 0, 567, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 71, 0,
+    992, 0, 0, 0, 0, 0, 0, 0, 0, 0, 564, 0, 38, 0, 0, 0, 0, 0, 0, 0, 79, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 563, 0, 0,
+    0, 0, 521, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 572, 573, 572, 573,
+    572, 573, 572, 519, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 30, 30,
+    30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 0, 0, 30, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 30, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
+    0, 0, 0, 30, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+    30, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0,
+    0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0,
+    0, 30, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 30,
+    30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "DoorExit1",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["We can't leave already!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["We haven't uncovered their recipe secrets yet."]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 98,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Open1", "pan": 0, "pitch": 100, "volume": 90 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 21, 16, 4, 2, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 14,
+      "y": 12
+    },
+    {
+      "id": 2,
+      "name": "DoorExit1",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["We can't leave already!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["We haven't uncovered their recipe secrets yet."]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 98,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Open1", "pan": 0, "pitch": 100, "volume": 90 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 21, 17, 4, 2, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 15,
+      "y": 12
+    },
+    {
+      "id": 3,
+      "name": "Sweets Stash",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 98,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$Sparkle",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Search through this Sweets Stash?"]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 123, "indent": 1, "parameters": ["A", 0] },
+            { "code": 123, "indent": 1, "parameters": ["B", 0] },
+            { "code": 117, "indent": 1, "parameters": [96] },
+            { "code": 111, "indent": 1, "parameters": [4, 16, 0] },
+            { "code": 117, "indent": 2, "parameters": [59] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["The Sweets Stash went empty..."]
+            },
+            { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
+            { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 5
+    },
+    {
+      "id": 4,
+      "name": "EV004",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PowerUps",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Empty Clip", "volume": 30, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 126, "indent": 0, "parameters": [20, 0, 0, 8] },
+            { "code": 117, "indent": 0, "parameters": [16] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              { "code": 15, "parameters": [30], "indent": null },
+              { "code": 20, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 22,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PowerUps",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Empty Clip", "volume": 30, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 126, "indent": 0, "parameters": [20, 0, 0, 6] },
+            { "code": 117, "indent": 0, "parameters": [16] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              { "code": 15, "parameters": [30], "indent": null },
+              { "code": 20, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 20,
+            "itemValid": true,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 20,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 65,
+            "variableValid": true,
+            "variableValue": 3
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 10
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 157,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PHC_Em-Serv-ZomA2",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
+            { "code": 111, "indent": 0, "parameters": [0, 18, 0] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                { "name": "Damage1", "volume": 45, "pitch": 140, "pan": 0 }
+              ]
+            },
+            { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
+            { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 121, "indent": 2, "parameters": [18, 18, 0] },
+            {
+              "code": 205,
+              "indent": 2,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 28, "parameters": [18], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 28, "parameters": [18], "indent": null }]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 45,
+                "parameters": ["this._chaseRange = 5"],
+                "indent": null
+              },
+              {
+                "code": 45,
+                "parameters": ["this._chaseSpeed = 2"],
+                "indent": null
+              },
+              { "code": 10, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": true,
+            "wait": false
+          },
+          "moveSpeed": 2,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 2,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 157,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PHC_Em-Serv-ZomGoreA2",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
+            { "code": 111, "indent": 0, "parameters": [0, 18, 0] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                { "name": "Damage1", "volume": 45, "pitch": 140, "pan": 0 }
+              ]
+            },
+            { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
+            { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 121, "indent": 2, "parameters": [18, 18, 0] },
+            {
+              "code": 205,
+              "indent": 2,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 28, "parameters": [18], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 28, "parameters": [18], "indent": null }]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 45,
+                "parameters": ["this._alertSoundVol = 0"],
+                "indent": null
+              },
+              {
+                "code": 45,
+                "parameters": ["this._chaseRange = 6"],
+                "indent": null
+              },
+              {
+                "code": 45,
+                "parameters": ["this._chaseSpeed = 3"],
+                "indent": null
+              },
+              { "code": 10, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": true,
+            "wait": false
+          },
+          "moveSpeed": 2,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 2,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PHC_Em-Serv-ZomA2",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Damage3", "volume": 35, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 111, "indent": 0, "parameters": [2, "B", 0] },
+            { "code": 122, "indent": 1, "parameters": [65, 65, 1, 0, 1] },
+            { "code": 123, "indent": 1, "parameters": ["D", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 123, "indent": 1, "parameters": ["B", 0] },
+            { "code": 123, "indent": 1, "parameters": ["A", 1] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 7,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "PHC_Em-Serv-ZomA2",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Damage3", "volume": 35, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 111, "indent": 0, "parameters": [2, "B", 0] },
+            { "code": 123, "indent": 1, "parameters": ["D", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 123, "indent": 1, "parameters": ["B", 0] },
+            { "code": 123, "indent": 1, "parameters": ["A", 1] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 9
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 157,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Male_Zombies",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
+            { "code": 111, "indent": 0, "parameters": [0, 18, 0] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                { "name": "Damage1", "volume": 45, "pitch": 140, "pan": 0 }
+              ]
+            },
+            { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
+            { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 121, "indent": 2, "parameters": [18, 18, 0] },
+            {
+              "code": 205,
+              "indent": 2,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 28, "parameters": [18], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 28, "parameters": [18], "indent": null }]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 45,
+                "parameters": ["this._chaseRange = 5"],
+                "indent": null
+              },
+              {
+                "code": 45,
+                "parameters": ["this._chaseSpeed = 2"],
+                "indent": null
+              },
+              { "code": 10, "indent": null },
+              { "code": 15, "parameters": [15], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": true,
+            "wait": false
+          },
+          "moveSpeed": 2,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 2,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 157,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Male_Zombies_Gore",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
+            { "code": 111, "indent": 0, "parameters": [0, 18, 0] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                { "name": "Damage1", "volume": 45, "pitch": 140, "pan": 0 }
+              ]
+            },
+            { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
+            { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 121, "indent": 2, "parameters": [18, 18, 0] },
+            {
+              "code": 205,
+              "indent": 2,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 28, "parameters": [18], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 28, "parameters": [18], "indent": null }]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 45,
+                "parameters": ["this._alertSoundVol = 0"],
+                "indent": null
+              },
+              {
+                "code": 45,
+                "parameters": ["this._chaseRange = 6"],
+                "indent": null
+              },
+              {
+                "code": 45,
+                "parameters": ["this._chaseSpeed = 3"],
+                "indent": null
+              },
+              { "code": 10, "indent": null },
+              { "code": 15, "parameters": [10], "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": true,
+            "wait": false
+          },
+          "moveSpeed": 2,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 2,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Male_Zombies",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Damage3", "volume": 35, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 111, "indent": 0, "parameters": [2, "B", 0] },
+            { "code": 122, "indent": 1, "parameters": [65, 65, 1, 0, 1] },
+            { "code": 123, "indent": 1, "parameters": ["D", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 123, "indent": 1, "parameters": ["B", 0] },
+            { "code": 123, "indent": 1, "parameters": ["A", 1] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 7,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Male_Zombies",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Damage3", "volume": 35, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 111, "indent": 0, "parameters": [2, "B", 0] },
+            { "code": 123, "indent": 1, "parameters": ["D", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 123, "indent": 1, "parameters": ["B", 0] },
+            { "code": 123, "indent": 1, "parameters": ["A", 1] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 5
+    },
+    {
+      "id": 7,
+      "name": "EV007",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 157,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Male_Zombies",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 5
+          },
+          "list": [
+            { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
+            { "code": 111, "indent": 0, "parameters": [0, 18, 0] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                { "name": "Damage1", "volume": 45, "pitch": 140, "pan": 0 }
+              ]
+            },
+            { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
+            { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 121, "indent": 2, "parameters": [18, 18, 0] },
+            {
+              "code": 205,
+              "indent": 2,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 28, "parameters": [18], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 28, "parameters": [18], "indent": null }]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 45,
+                "parameters": ["this._chaseRange = 5"],
+                "indent": null
+              },
+              {
+                "code": 45,
+                "parameters": ["this._chaseSpeed = 2"],
+                "indent": null
+              },
+              { "code": 9, "indent": 0 },
+              { "code": 15, "parameters": [30], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": true,
+            "wait": false
+          },
+          "moveSpeed": 1,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 2,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 157,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Male_Zombies_Gore",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 5
+          },
+          "list": [
+            { "code": 108, "indent": 0, "parameters": ["<projEffect>"] },
+            { "code": 111, "indent": 0, "parameters": [0, 18, 0] },
+            {
+              "code": 205,
+              "indent": 1,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 1,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                { "name": "Damage1", "volume": 45, "pitch": 140, "pan": 0 }
+              ]
+            },
+            { "code": 122, "indent": 1, "parameters": [18, 18, 2, 0, 1] },
+            { "code": 111, "indent": 1, "parameters": [1, 18, 0, 0, 2] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 117, "indent": 2, "parameters": [10] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 117, "indent": 2, "parameters": [15] },
+            { "code": 121, "indent": 2, "parameters": [18, 18, 0] },
+            {
+              "code": 205,
+              "indent": 2,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 28, "parameters": [18], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 2,
+              "parameters": [{ "code": 28, "parameters": [18], "indent": null }]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 45,
+                "parameters": ["this._alertSoundVol = 0"],
+                "indent": null
+              },
+              {
+                "code": 45,
+                "parameters": ["this._chaseRange = 6"],
+                "indent": null
+              },
+              {
+                "code": 45,
+                "parameters": ["this._chaseSpeed = 3"],
+                "indent": null
+              },
+              { "code": 10, "indent": null },
+              { "code": 15, "parameters": [20], "indent": null },
+              { "code": 10, "indent": null },
+              { "code": 15, "parameters": [10], "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": true,
+            "wait": false
+          },
+          "moveSpeed": 2,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 2,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Male_Zombies",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 5
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Damage3", "volume": 35, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 111, "indent": 0, "parameters": [2, "B", 0] },
+            { "code": 122, "indent": 1, "parameters": [65, 65, 1, 0, 1] },
+            { "code": 123, "indent": 1, "parameters": ["D", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 123, "indent": 1, "parameters": ["B", 0] },
+            { "code": 123, "indent": 1, "parameters": ["A", 1] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 7,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Male_Zombies",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 5
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Damage3", "volume": 35, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 111, "indent": 0, "parameters": [2, "B", 0] },
+            { "code": 123, "indent": 1, "parameters": ["D", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 123, "indent": 1, "parameters": ["B", 0] },
+            { "code": 123, "indent": 1, "parameters": ["A", 1] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 7
+    },
+    {
+      "id": 8,
+      "name": "Cutscenes",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
+            { "code": 121, "indent": 0, "parameters": [7, 7, 0] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [3], "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 29, "parameters": [4], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [3], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["*Grr*\\! More zombies!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n[1]...\\! Would you be able to dispose of them?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["*sigh*\\! Easier said than done but I'll try..."]
+            },
+            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
+            { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 65,
+            "variableValid": true,
+            "variableValue": 3
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
+            { "code": 122, "indent": 0, "parameters": [45, 45, 0, 0, 4] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The coast looks clear!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["You're the best, \\n[1]!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Now I just have to find out where they're hiding their secrets..."
+              ]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 211, "indent": 0, "parameters": [0] },
+            { "code": 201, "indent": 0, "parameters": [0, 36, 6, 8, 2, 0] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 121, "indent": 0, "parameters": [8, 8, 0] },
+            { "code": 203, "indent": 0, "parameters": [9, 0, 8, 5, 8] },
+            { "code": 203, "indent": 0, "parameters": [10, 0, 4, 8, 4] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                9,
+                {
+                  "list": [
+                    { "code": 2, "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 15, "parameters": [30], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [9, 2, true] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 213, "indent": 0, "parameters": [10, 9, false] },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["A-ha!\\! \\BST[1]I found it!"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                9,
+                {
+                  "list": [
+                    { "code": 17, "indent": null },
+                    { "code": 15, "parameters": [30], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["That's great!\\! \\BST[1]What does it say?"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                9,
+                {
+                  "list": [
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["There's a bunch of recipes in here."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 7, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["But this page looks especially juicy!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["A Sweets Stash?!\\! Why didn't I think of that?!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["A.. Sweets Stash?"] },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "A super secret stash filled with some of the tastiest treats!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Look.\\! They have one right over there."]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                10,
+                {
+                  "list": [
+                    { "code": 19, "indent": null },
+                    { "code": 15, "parameters": [5], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [5], "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                9,
+                {
+                  "list": [
+                    { "code": 19, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 121, "indent": 0, "parameters": [98, 98, 0] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You know those salvage spots that you've been getting supplies from?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["A Sweets Stash is sort of like that!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "They're chock full of tasty goodies that I can use to make shakes with."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I think I get it.\\! So I can search for ingredients in spots like these?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That's right.\\! \\BST[6]Although maybe you should bring me along."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Your sweet tooth isn't as good as mine..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'll probably be able to find some extra sweets when we search "
+              ]
+            },
+            { "code": 401, "indent": 0, "parameters": ["these spots!"] },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Let's check out this stash and then head out of here."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Before some more zombies come around..."]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 211, "indent": 0, "parameters": [1] },
+            { "code": 121, "indent": 0, "parameters": [8, 8, 1] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 5, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You've unlocked Sweets Stashes!\\! These function like salvage "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "points but only for Stacy's milkshake ingredients."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 5, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Sweets Stashes aren't as crucial for survival but milkshakes "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["may give you an upper hand when exploring."]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.QUEST.complete(7);"]
+            },
+            { "code": 123, "indent": 0, "parameters": ["B", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 2,
+      "y": 14
+    },
+    {
+      "id": 9,
+      "name": "MC (Cutscene)",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 8,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1MainCharacter",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 15
+    },
+    {
+      "id": 10,
+      "name": "Stacy (Cutscene)",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 8,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1Stacy",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 15
+    },
+    {
+      "id": 11,
+      "name": "EV011",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Found some Food (Fresh)!"]
+            },
+            { "code": 126, "indent": 0, "parameters": [13, 0, 0, 1] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 290,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$Sparkle1",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Found some Food (Fresh)!"]
+            },
+            { "code": 126, "indent": 0, "parameters": [13, 0, 0, 1] },
+            { "code": 117, "indent": 0, "parameters": [101] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 8
+    },
+    {
+      "id": 12,
+      "name": "EV012",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 290,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$Sparkle1",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Found some Water!"] },
+            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
+            { "code": 117, "indent": 0, "parameters": [101] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 5
+    }
+  ]
 }

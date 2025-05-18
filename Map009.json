@@ -1,26 +1,2287 @@
 {
-"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":21,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":1,"width":25,
-"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1587,1587,1587,0,0,0,7651,7649,7649,7649,7649,7649,7649,7653,0,0,7651,7649,7649,7649,7649,7649,7649,7653,0,6575,1621,1621,0,0,0,7648,8002,8002,8002,8002,8002,8002,7648,0,0,7648,8002,8002,8002,8002,8002,8002,7648,0,1617,1617,1617,0,0,0,7648,8008,8008,8008,8008,8008,8008,7633,7637,7649,7655,8008,8008,8008,8008,8008,8008,7648,0,0,0,0,0,0,0,7648,1617,1617,1617,1617,1617,1617,7656,7654,8002,8006,1617,1617,1617,1617,1617,1617,7635,7649,7649,7649,7653,0,0,0,7648,1617,1617,1617,1617,1617,1617,6563,6566,8008,8012,1617,1617,1617,1617,1617,1617,7648,7378,7378,7378,7648,0,0,0,7648,1617,1617,1617,1617,1617,1617,6569,6572,1617,1617,1617,1617,1617,1617,1617,1617,7660,7384,7384,7384,7648,0,0,0,7648,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,6846,1622,1622,1622,7648,0,0,0,7648,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,7658,1630,1630,1630,7648,0,0,0,7633,7652,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,1617,7648,1630,1630,1630,7648,0,0,0,7634,7646,7649,7661,1617,1617,7659,7649,7649,7639,7649,7653,1617,1617,1617,1617,7651,7647,7649,7649,7649,7655,0,0,0,7648,8002,8002,8006,1617,1617,8003,8002,8002,7648,0,7648,1617,1617,1617,1617,7648,0,0,0,0,0,0,0,0,7648,8008,8008,8012,1617,1617,8009,8008,8008,7648,0,7657,7661,7035,7037,7659,7655,0,0,0,0,0,0,0,0,7648,1617,1617,1617,1617,1617,1617,1617,1617,7648,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7648,1617,1617,1617,1617,1617,1617,1617,1617,7648,0,0,0,0,0,7651,7649,7649,7653,0,0,0,0,0,0,7648,1617,1617,1617,1617,1617,1617,1617,1617,7648,0,0,0,7651,7649,7655,7282,7282,7657,7649,7653,0,0,0,0,7648,1617,1617,1617,1617,1617,1617,1617,1617,7648,0,0,0,7648,7282,7286,7288,7288,7283,7282,7635,0,0,0,0,7657,7649,7653,1617,1617,1617,1617,7651,7649,7655,0,0,0,7648,7288,7292,1585,1585,7289,7288,7648,0,0,0,0,0,0,7657,7649,7649,7649,7649,7655,0,0,0,0,0,7648,1585,1585,1585,1585,1585,1585,7648,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4194,4196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4200,4198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3906,3892,3892,3908,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3912,3900,3900,3910,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,936,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,604,920,921,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,926,926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,524,525,0,0,0,0,971,972,0,0,0,0,0,726,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,971,972,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,979,980,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,546,0,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,386,949,0,0,0,0,0,0,0,0,0,0,0,102,103,0,0,0,0,0,0,0,0,0,551,350,957,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,599,330,0,0,648,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,896,905,921,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,904,915,916,0,0,0,0,6,7,918,918,6,55,0,0,0,0,568,160,0,0,176,0,0,0,912,897,897,0,0,0,0,62,63,49,50,62,63,0,0,0,0,576,168,0,0,0,718,0,0,0,0,0,0,0,0,0,22,23,9,10,22,23,0,0,915,916,523,0,28,29,0,226,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,603,604,915,916,0,0,0,0,0,234,0,184,0,965,0,0,0,0,0,0,112,116,117,113,0,0,0,923,924,0,0,224,225,0,0,0,750,0,997,0,0,0,0,0,0,120,124,125,121,0,0,0,0,0,0,0,232,233,0,0,0,0,1021,1005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,79,0,0,0,0,0,0,0,0,990,991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136,137,0,0,0,650,143,0,0,0,319,0,0,382,0,0,0,0,0,0,0,0,0,0,149,150,147,0,0,144,145,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,154,158,152,0,0,152,153,159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,342,339,0,0,0,0,0,0,0,0,214,0,96,118,119,97,0,138,0,0,0,0,0,550,383,402,347,0,640,0,0,0,0,0,0,0,0,104,126,127,105,0,0,0,0,0,0,0,597,559,410,331,674,675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,605,567,0,0,682,683,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-"events":[
-null,
-{"id":1,"name":"Meredith Couch","note":"<Hitbox Left: 1>","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Sis_Couch","direction":8,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":16,"y":8},
-null,
-{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":148,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Water1","volume":55,"pitch":150,"pan":0}]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":140,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Liquid","volume":55,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[40]},{"code":123,"indent":0,"parameters":["A",1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":9,"y":13},
-{"id":4,"name":"Day 1 Cutscene","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":231,"indent":0,"parameters":[1,"5News_BG",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[2,"5News_Default[4x4]",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"5News_Angry[4x4]",0,0,0,0,100,100,0,0]},{"code":230,"indent":0,"parameters":[120]},{"code":222,"indent":0,"parameters":[]},{"code":121,"indent":0,"parameters":[61,61,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Breaking news!\\! Rescue operations for the Camp Zomi crisis have officially reached "]},{"code":401,"indent":0,"parameters":["two-months of ongoing efforts."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["A few members of the rescue team responded for comment about the situation."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The fog surrounding the island still remains too thick "]},{"code":401,"indent":0,"parameters":["to pass through.\\! It's almost like an inpenetrable barrier."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Without any communication from the stranded Zomi occupants, including Crimson City's very own Mayor Talia, many "]},{"code":401,"indent":0,"parameters":["research experts are speculating that survivors may be limited."]},{"code":232,"indent":0,"parameters":[2,0,0,0,0,0,100,100,0,0,1,false]},{"code":232,"indent":0,"parameters":[3,0,0,0,0,0,100,100,255,0,1,true]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Despite the grim outlook, the brave men and women of the rescue team continue to work day and night "]},{"code":401,"indent":0,"parameters":["in an attempt to breach the fog."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Rescuers remain hopeful that they can overcome this tragedy.\\! At this time, hope is the best shot we have..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["We will be here to provide any updates on the situation should they arise."]},{"code":221,"indent":0,"parameters":[]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":230,"indent":0,"parameters":[60]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[60]},{"code":204,"indent":0,"parameters":[8,4,2]},{"code":230,"indent":0,"parameters":[180]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["In unrelated news, CEO of Crimson City Energy, Norman T. Reeves is expected to hold a "]},{"code":401,"indent":0,"parameters":["press conference later this week."]},{"code":101,"indent":0,"parameters":["1Mom1",5,0,2]},{"code":401,"indent":0,"parameters":["How terrible!\\! To think they haven't made any progress after two whole months."]},{"code":101,"indent":0,"parameters":["1Sis1",2,0,2]},{"code":401,"indent":0,"parameters":["Camp Zomi right?\\! \\BST[7]Yeah... \\!It's really scary to think about."]},{"code":101,"indent":0,"parameters":["1Mom1",5,0,2]},{"code":401,"indent":0,"parameters":["*sigh*\\! I hope all of those people on the island are okay..."]},{"code":230,"indent":0,"parameters":[30]},{"code":230,"indent":0,"parameters":[30]},{"code":101,"indent":0,"parameters":["1Mom1",4,0,2]},{"code":401,"indent":0,"parameters":["Hmm...\\! It's gotten awfully quiet upstairs."]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["It sounds like maybe he finished unpacking!"]},{"code":101,"indent":0,"parameters":["1Sis1",2,0,2]},{"code":401,"indent":0,"parameters":["Do you really think he did?\\! \\BST[1]I bet he just fell asleep again."]},{"code":101,"indent":0,"parameters":["1Mom1",5,0,2]},{"code":401,"indent":0,"parameters":["I'm afraid you're probably correct."]},{"code":355,"indent":0,"parameters":["$gameSelfSwitches.setValue([9,1,'A'], true);"]},{"code":355,"indent":0,"parameters":["$gameSelfSwitches.setValue([9,5,'A'], true);"]},{"code":230,"indent":0,"parameters":[20]},{"code":204,"indent":0,"parameters":[4,2,2]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":230,"indent":0,"parameters":[60]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["Sweetieee!\\! \\BST[6]Are you awake up there young man?!"]},{"code":221,"indent":0,"parameters":[]},{"code":121,"indent":0,"parameters":[61,61,1]},{"code":201,"indent":0,"parameters":[0,4,11,6,0,0]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":320,"indent":0,"parameters":[5,"Maid"]},{"code":320,"indent":0,"parameters":[8,"Client"]},{"code":320,"indent":0,"parameters":[11,"me"]},{"code":203,"indent":0,"parameters":[5,0,13,8,4]},{"code":230,"indent":0,"parameters":[10]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[3],"indent":null},{"code":15,"parameters":[5],"indent":null},{"code":1,"indent":null},{"code":18,"indent":null},{"code":29,"parameters":[4],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[3],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[5],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[20]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["There you are!\\! \\BST[4]We were worried you fell asleep again."]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["Did you finish unpacking, \\n[1]?"]},{"code":112,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,0,1]},{"code":401,"indent":1,"parameters":["Enter the name that you call her."]},{"code":230,"indent":1,"parameters":[5]},{"code":303,"indent":1,"parameters":[2,8]},{"code":111,"indent":1,"parameters":[4,2,1,"Mom"]},{"code":320,"indent":2,"parameters":[5,"Mother"]},{"code":320,"indent":2,"parameters":[8,"Son"]},{"code":320,"indent":2,"parameters":[11,"Mommy"]},{"code":113,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["What is her relationship to you?"]},{"code":230,"indent":2,"parameters":[5]},{"code":303,"indent":2,"parameters":[5,8]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["And what is your relationship to her?"]},{"code":230,"indent":2,"parameters":[5]},{"code":303,"indent":2,"parameters":[8,8]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["You call her \\n[2]. She is your \\n[5] and you are her \\n[8].\\! Is this correct?"]},{"code":102,"indent":2,"parameters":[["Yes","No"],1,0,2,0]},{"code":402,"indent":2,"parameters":[0,"Yes"]},{"code":113,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"No"]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":101,"indent":0,"parameters":["1MC1",1,0,2]},{"code":401,"indent":0,"parameters":["Yup!\\! \\BST[1]I finished all of my packing \\n[2]!"]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["I definitely didn't doze off or anything."]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["Good.\\! What do you think about the new house now that we're settled in?"]},{"code":102,"indent":0,"parameters":[["I love it!","It's alright..."],-1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"I love it!"]},{"code":101,"indent":1,"parameters":["1MC1",1,0,2]},{"code":401,"indent":1,"parameters":["It's pretty awesome!\\! \\BST[1]I really like my new room!"]},{"code":101,"indent":1,"parameters":["1Mom1",1,0,2]},{"code":401,"indent":1,"parameters":["Oh, that makes me so happy to hear sweetheart!"]},{"code":101,"indent":1,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":1,"parameters":["Moving to Crimson City will be like a brand new adventure!"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"It's alright..."]},{"code":101,"indent":1,"parameters":["1MC1",4,0,2]},{"code":401,"indent":1,"parameters":["It's okay.\\! I miss the old apartment quite a bit still."]},{"code":101,"indent":1,"parameters":["1Mom1",5,0,2]},{"code":401,"indent":1,"parameters":["Aww, I'm sorry sweetie.\\! \\BST[1]Just give it some more time."]},{"code":101,"indent":1,"parameters":["1Mom1",1,0,2]},{"code":401,"indent":1,"parameters":["I'm sure you'll come around to your new room!"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":101,"indent":0,"parameters":["1Sis1",2,0,2]},{"code":401,"indent":0,"parameters":["Hey, uhh-\\| Not to sound impatient or anything but can we discuss dinner?"]},{"code":204,"indent":0,"parameters":[6,3,2]},{"code":230,"indent":0,"parameters":[120]},{"code":112,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,0,1]},{"code":401,"indent":1,"parameters":["Enter the name that you call her."]},{"code":230,"indent":1,"parameters":[5]},{"code":303,"indent":1,"parameters":[3,8]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["What is her relationship to you?"]},{"code":230,"indent":1,"parameters":[5]},{"code":303,"indent":1,"parameters":[6,8]},{"code":111,"indent":1,"parameters":[4,6,1,"Sister"]},{"code":320,"indent":2,"parameters":[9,"Brother"]},{"code":320,"indent":2,"parameters":[12,"Sis"]},{"code":113,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["And what is your relationship to her?"]},{"code":230,"indent":2,"parameters":[5]},{"code":303,"indent":2,"parameters":[9,8]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["Her name is \\n[3]. She is your \\n[6] and you are her \\n[9].\\! Is this correct?"]},{"code":102,"indent":2,"parameters":[["Yes","No"],1,0,2,0]},{"code":402,"indent":2,"parameters":[0,"Yes"]},{"code":113,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"No"]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":101,"indent":0,"parameters":["1Sis1",2,0,2]},{"code":401,"indent":0,"parameters":["Our pantry is still empty and my stomach is starting to go crazy..."]},{"code":204,"indent":0,"parameters":[4,3,2]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":213,"indent":0,"parameters":[5,1,true]},{"code":101,"indent":0,"parameters":["1Mom1",2,0,2]},{"code":401,"indent":0,"parameters":["That's right!\\! I completely forgot about dinner!"]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":17,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":101,"indent":0,"parameters":["1Mom1",5,0,2]},{"code":401,"indent":0,"parameters":["I've been so busy unpacking that I forgot to shop for meals."]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["If I give you some money, do you think you could go to the store for us \\n[1]?"]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["It will be a great way for you to learn about the layout of our new neighborhood."]},{"code":101,"indent":0,"parameters":["1MC1",0,0,2]},{"code":401,"indent":0,"parameters":["Ya, I suppose I could do that."]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["Thank you honey!"]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["Here.\\! You'll need some money before you go."]},{"code":125,"indent":0,"parameters":[0,0,5]},{"code":250,"indent":0,"parameters":[{"name":"Coin","volume":85,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n[2] gave you 5 Ƶ."]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["The nearest convenience store is just to the east of here."]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["Be safe out there, okay?"]},{"code":101,"indent":0,"parameters":["1MC1",0,0,2]},{"code":401,"indent":0,"parameters":["I will, I will.\\! I'll be back soon!"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[3],"indent":null},{"code":1,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":29,"parameters":[4],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[3],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":15,"parameters":[20],"indent":null},{"code":16,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[20],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":230,"indent":0,"parameters":[45]},{"code":221,"indent":0,"parameters":[]},{"code":201,"indent":0,"parameters":[0,16,13,14,8,0]},{"code":123,"indent":0,"parameters":["B",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"D","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":230,"indent":0,"parameters":[120]},{"code":121,"indent":0,"parameters":[61,61,0]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Breaking news!\\! Rescue operations for the Camp Zomi crisis has officially reached a "]},{"code":401,"indent":0,"parameters":["two-months of ongoing efforts."]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Rescuers have commented that the fog surrounding the island remains too thick "]},{"code":401,"indent":0,"parameters":["to pass through."]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Without any communication from the Zomi occupants, including Mayor Talia of Crimson City, many "]},{"code":401,"indent":0,"parameters":["research experts are speculating that survivors may be limited."]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[60]},{"code":204,"indent":0,"parameters":[8,4,2]},{"code":230,"indent":0,"parameters":[180]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Despite the grim outlook the brave men and women of the rescue team continue to work day and night "]},{"code":401,"indent":0,"parameters":["in an attempt to breach the fog."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["In unrelated news, CEO of Crimson City Energy, Norman T. Reeves is expected to hold a "]},{"code":401,"indent":0,"parameters":["press conference later this week."]},{"code":101,"indent":0,"parameters":["1Mom1",5,0,2]},{"code":401,"indent":0,"parameters":["How terrible!\\! To think they haven't made any progress after two whole months."]},{"code":101,"indent":0,"parameters":["1Sis1",2,0,2]},{"code":401,"indent":0,"parameters":["Camp Zomi right?\\! \\BST[7]Yeah... \\!It's a real shame."]},{"code":101,"indent":0,"parameters":["1Mom1",5,0,2]},{"code":401,"indent":0,"parameters":["*sigh*\\! I hope all of those people on the island are okay..."]},{"code":230,"indent":0,"parameters":[60]},{"code":101,"indent":0,"parameters":["1Mom1",4,0,2]},{"code":401,"indent":0,"parameters":["Hm, it's awfully quiet upstairs."]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["It sounds like he might have finished unpacking!"]},{"code":101,"indent":0,"parameters":["1Sis1",2,0,2]},{"code":401,"indent":0,"parameters":["Do you think he did?\\! \\BST[1]I bet he just fell asleep again."]},{"code":101,"indent":0,"parameters":["1Mom1",5,0,2]},{"code":401,"indent":0,"parameters":["I'm afraid you're probably correct."]},{"code":355,"indent":0,"parameters":["$gameSelfSwitches.setValue([9,1,'A'], true);"]},{"code":355,"indent":0,"parameters":["$gameSelfSwitches.setValue([9,5,'A'], true);"]},{"code":230,"indent":0,"parameters":[20]},{"code":204,"indent":0,"parameters":[4,2,2]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":230,"indent":0,"parameters":[60]},{"code":101,"indent":0,"parameters":["1Mom1",0,0,2]},{"code":401,"indent":0,"parameters":["Sweetieee!\\! \\BST[6]Are you awake up there young man?!"]},{"code":221,"indent":0,"parameters":[]},{"code":121,"indent":0,"parameters":[61,61,1]},{"code":201,"indent":0,"parameters":[0,4,11,6,0,0]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}],"x":19,"y":16},
-{"id":5,"name":"Meredith Walking","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"1Mother","direction":8,"pattern":1,"characterIndex":2},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":15,"y":7},
-{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1013,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Water1","volume":55,"pitch":150,"pan":0}]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1022,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Liquid","volume":55,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[40]},{"code":123,"indent":0,"parameters":["A",1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":21,"y":7},
-{"id":7,"name":"EV007","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["I shouldn't waste any more time.\\! \\BST[1]I need to head to the C-Store."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":11,"y":7},
-{"id":8,"name":"EV008","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["I shouldn't waste any more time.\\! \\BST[1]I need to head to the C-Store."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":12,"y":7},
-{"id":9,"name":"Door1a","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Open1","volume":90,"pitch":100,"pan":0}]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":39,"indent":null},{"code":37,"indent":null},{"code":12,"indent":null},{"code":12,"indent":null},{"code":40,"indent":null},{"code":38,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":39,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":37,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":12,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":12,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":40,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":38,"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false}],"x":19,"y":8},
-{"id":10,"name":"EV010","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":355,"indent":0,"parameters":["$gameSelfSwitches.setValue([31,52,'A'], true);"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":1,"y":1},
-null,
-{"id":12,"name":"Sis Couch","note":"<Hitbox Up: 1>","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Couch_Animations","direction":2,"pattern":1,"characterIndex":3},"list":[{"code":101,"indent":0,"parameters":["1Sis1",0,0,2]},{"code":401,"indent":0,"parameters":["Is something going on?"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":18,"y":6},
-{"id":13,"name":"TV1","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":44,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":61,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":888,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":15,"y":4},
-{"id":14,"name":"TV2","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":45,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":61,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":889,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":16,"y":4},
-{"id":15,"name":"TV3","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":36,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":61,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":880,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":15,"y":3},
-{"id":16,"name":"TV4","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":37,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":61,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":881,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":16,"y":3},
-null,
-null,
-null
-]
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 21,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 1,
+  "width": 25,
+  "data": [
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1587, 1587,
+    1587, 0, 0, 0, 7651, 7649, 7649, 7649, 7649, 7649, 7649, 7653, 0, 0, 7651,
+    7649, 7649, 7649, 7649, 7649, 7649, 7653, 0, 6575, 1621, 1621, 0, 0, 0,
+    7648, 8002, 8002, 8002, 8002, 8002, 8002, 7648, 0, 0, 7648, 8002, 8002,
+    8002, 8002, 8002, 8002, 7648, 0, 1617, 1617, 1617, 0, 0, 0, 7648, 8008,
+    8008, 8008, 8008, 8008, 8008, 7633, 7637, 7649, 7655, 8008, 8008, 8008,
+    8008, 8008, 8008, 7648, 0, 0, 0, 0, 0, 0, 0, 7648, 1617, 1617, 1617, 1617,
+    1617, 1617, 7656, 7654, 8002, 8006, 1617, 1617, 1617, 1617, 1617, 1617,
+    7635, 7649, 7649, 7649, 7653, 0, 0, 0, 7648, 1617, 1617, 1617, 1617, 1617,
+    1617, 6563, 6566, 8008, 8012, 1617, 1617, 1617, 1617, 1617, 1617, 7648,
+    7378, 7378, 7378, 7648, 0, 0, 0, 7648, 1617, 1617, 1617, 1617, 1617, 1617,
+    6569, 6572, 1617, 1617, 1617, 1617, 1617, 1617, 1617, 1617, 7660, 7384,
+    7384, 7384, 7648, 0, 0, 0, 7648, 1617, 1617, 1617, 1617, 1617, 1617, 1617,
+    1617, 1617, 1617, 1617, 1617, 1617, 1617, 1617, 1617, 6846, 1622, 1622,
+    1622, 7648, 0, 0, 0, 7648, 1617, 1617, 1617, 1617, 1617, 1617, 1617, 1617,
+    1617, 1617, 1617, 1617, 1617, 1617, 1617, 1617, 7658, 1630, 1630, 1630,
+    7648, 0, 0, 0, 7633, 7652, 1617, 1617, 1617, 1617, 1617, 1617, 1617, 1617,
+    1617, 1617, 1617, 1617, 1617, 1617, 1617, 7648, 1630, 1630, 1630, 7648, 0,
+    0, 0, 7634, 7646, 7649, 7661, 1617, 1617, 7659, 7649, 7649, 7639, 7649,
+    7653, 1617, 1617, 1617, 1617, 7651, 7647, 7649, 7649, 7649, 7655, 0, 0, 0,
+    7648, 8002, 8002, 8006, 1617, 1617, 8003, 8002, 8002, 7648, 0, 7648, 1617,
+    1617, 1617, 1617, 7648, 0, 0, 0, 0, 0, 0, 0, 0, 7648, 8008, 8008, 8012,
+    1617, 1617, 8009, 8008, 8008, 7648, 0, 7657, 7661, 7035, 7037, 7659, 7655,
+    0, 0, 0, 0, 0, 0, 0, 0, 7648, 1617, 1617, 1617, 1617, 1617, 1617, 1617,
+    1617, 7648, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7648, 1617, 1617,
+    1617, 1617, 1617, 1617, 1617, 1617, 7648, 0, 0, 0, 0, 0, 7651, 7649, 7649,
+    7653, 0, 0, 0, 0, 0, 0, 7648, 1617, 1617, 1617, 1617, 1617, 1617, 1617,
+    1617, 7648, 0, 0, 0, 7651, 7649, 7655, 7282, 7282, 7657, 7649, 7653, 0, 0,
+    0, 0, 7648, 1617, 1617, 1617, 1617, 1617, 1617, 1617, 1617, 7648, 0, 0, 0,
+    7648, 7282, 7286, 7288, 7288, 7283, 7282, 7635, 0, 0, 0, 0, 7657, 7649,
+    7653, 1617, 1617, 1617, 1617, 7651, 7649, 7655, 0, 0, 0, 7648, 7288, 7292,
+    1585, 1585, 7289, 7288, 7648, 0, 0, 0, 0, 0, 0, 7657, 7649, 7649, 7649,
+    7649, 7655, 0, 0, 0, 0, 0, 7648, 1585, 1585, 1585, 1585, 1585, 1585, 7648,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4194, 4196, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4200, 4198, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3906, 3892, 3892, 3908, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3912, 3900, 3900, 3910, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 936, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 604, 920, 921, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 926, 926, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 524, 525,
+    0, 0, 0, 0, 971, 972, 0, 0, 0, 0, 0, 726, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 971, 972, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 979, 980, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 546, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 144, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 153, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 386, 949, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 102, 103, 0, 0, 0, 0, 0, 0, 0, 0, 0, 551, 350, 957, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 599, 330, 0, 0, 648,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 607, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 896,
+    905, 921, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    904, 915, 916, 0, 0, 0, 0, 6, 7, 918, 918, 6, 55, 0, 0, 0, 0, 568, 160, 0,
+    0, 176, 0, 0, 0, 912, 897, 897, 0, 0, 0, 0, 62, 63, 49, 50, 62, 63, 0, 0, 0,
+    0, 576, 168, 0, 0, 0, 718, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 23, 9, 10, 22, 23,
+    0, 0, 915, 916, 523, 0, 28, 29, 0, 226, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 603, 604, 915, 916, 0, 0, 0, 0, 0, 234, 0, 184, 0, 965, 0, 0, 0, 0,
+    0, 0, 112, 116, 117, 113, 0, 0, 0, 923, 924, 0, 0, 224, 225, 0, 0, 0, 750,
+    0, 997, 0, 0, 0, 0, 0, 0, 120, 124, 125, 121, 0, 0, 0, 0, 0, 0, 0, 232, 233,
+    0, 0, 0, 0, 1021, 1005, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 79, 0, 0, 0,
+    0, 0, 0, 0, 0, 990, 991, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 136, 137, 0, 0, 0, 650, 143, 0,
+    0, 0, 319, 0, 0, 382, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 149, 150, 147, 0, 0,
+    144, 145, 151, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 154, 158,
+    152, 0, 0, 152, 153, 159, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 342, 339, 0, 0, 0, 0, 0, 0, 0,
+    0, 214, 0, 96, 118, 119, 97, 0, 138, 0, 0, 0, 0, 0, 550, 383, 402, 347, 0,
+    640, 0, 0, 0, 0, 0, 0, 0, 0, 104, 126, 127, 105, 0, 0, 0, 0, 0, 0, 0, 597,
+    559, 410, 331, 674, 675, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 605, 567, 0, 0, 682, 683, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0,
+    0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "Meredith Couch",
+      "note": "<Hitbox Left: 1>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Sis_Couch",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 16,
+      "y": 8
+    },
+    null,
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 148,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Water1", "volume": 55, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 140,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Liquid", "volume": 55, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [40] },
+            { "code": 123, "indent": 0, "parameters": ["A", 1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 13
+    },
+    {
+      "id": 4,
+      "name": "Day 1 Cutscene",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "5News_BG", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                2,
+                "5News_Default[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "5News_Angry[4x4]", 0, 0, 0, 0, 100, 100, 0, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 121, "indent": 0, "parameters": [61, 61, 0] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Breaking news!\\! Rescue operations for the Camp Zomi crisis have officially reached "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["two-months of ongoing efforts."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "A few members of the rescue team responded for comment about the situation."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The fog surrounding the island still remains too thick "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "to pass through.\\! It's almost like an inpenetrable barrier."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Without any communication from the stranded Zomi occupants, including Crimson City's very own Mayor Talia, many "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "research experts are speculating that survivors may be limited."
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [2, 0, 0, 0, 0, 0, 100, 100, 0, 0, 1, false]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [3, 0, 0, 0, 0, 0, 100, 100, 255, 0, 1, true]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Despite the grim outlook, the brave men and women of the rescue team continue to work day and night "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["in an attempt to breach the fog."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Rescuers remain hopeful that they can overcome this tragedy.\\! At this time, hope is the best shot we have..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "We will be here to provide any updates on the situation should they arise."
+              ]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 204, "indent": 0, "parameters": [8, 4, 2] },
+            { "code": 230, "indent": 0, "parameters": [180] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "In unrelated news, CEO of Crimson City Energy, Norman T. Reeves is expected to hold a "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["press conference later this week."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "How terrible!\\! To think they haven't made any progress after two whole months."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Camp Zomi right?\\! \\BST[7]Yeah... \\!It's really scary to think about."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "*sigh*\\! I hope all of those people on the island are okay..."
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hmm...\\! It's gotten awfully quiet upstairs."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It sounds like maybe he finished unpacking!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Do you really think he did?\\! \\BST[1]I bet he just fell asleep again."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I'm afraid you're probably correct."]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([9,1,'A'], true);"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([9,5,'A'], true);"]
+            },
+            { "code": 230, "indent": 0, "parameters": [20] },
+            { "code": 204, "indent": 0, "parameters": [4, 2, 2] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Sweetieee!\\! \\BST[6]Are you awake up there young man?!"
+              ]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 121, "indent": 0, "parameters": [61, 61, 1] },
+            { "code": 201, "indent": 0, "parameters": [0, 4, 11, 6, 0, 0] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 320, "indent": 0, "parameters": [5, "Maid"] },
+            { "code": 320, "indent": 0, "parameters": [8, "Client"] },
+            { "code": 320, "indent": 0, "parameters": [11, "me"] },
+            { "code": 203, "indent": 0, "parameters": [5, 0, 13, 8, 4] },
+            { "code": 230, "indent": 0, "parameters": [10] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [3], "indent": null },
+                    { "code": 15, "parameters": [5], "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 18, "indent": null },
+                    { "code": 29, "parameters": [4], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [3], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [5], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
+            },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [20] },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "There you are!\\! \\BST[4]We were worried you fell asleep again."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Did you finish unpacking, \\n[1]?"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Enter the name that you call her."]
+            },
+            { "code": 230, "indent": 1, "parameters": [5] },
+            { "code": 303, "indent": 1, "parameters": [2, 8] },
+            { "code": 111, "indent": 1, "parameters": [4, 2, 1, "Mom"] },
+            { "code": 320, "indent": 2, "parameters": [5, "Mother"] },
+            { "code": 320, "indent": 2, "parameters": [8, "Son"] },
+            { "code": 320, "indent": 2, "parameters": [11, "Mommy"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["What is her relationship to you?"]
+            },
+            { "code": 230, "indent": 2, "parameters": [5] },
+            { "code": 303, "indent": 2, "parameters": [5, 8] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["And what is your relationship to her?"]
+            },
+            { "code": 230, "indent": 2, "parameters": [5] },
+            { "code": 303, "indent": 2, "parameters": [8, 8] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "You call her \\n[2]. She is your \\n[5] and you are her \\n[8].\\! Is this correct?"
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 113, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 404, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Yup!\\! \\BST[1]I finished all of my packing \\n[2]!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I definitely didn't doze off or anything."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Good.\\! What do you think about the new house now that we're settled in?"
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [["I love it!", "It's alright..."], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "I love it!"] },
+            { "code": 101, "indent": 1, "parameters": ["1MC1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "It's pretty awesome!\\! \\BST[1]I really like my new room!"
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["1Mom1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Oh, that makes me so happy to hear sweetheart!"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Moving to Crimson City will be like a brand new adventure!"
+              ]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "It's alright..."] },
+            { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "It's okay.\\! I miss the old apartment quite a bit still."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["1Mom1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Aww, I'm sorry sweetie.\\! \\BST[1]Just give it some more time."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["1Mom1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["I'm sure you'll come around to your new room!"]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Hey, uhh-\\| Not to sound impatient or anything but can we discuss dinner?"
+              ]
+            },
+            { "code": 204, "indent": 0, "parameters": [6, 3, 2] },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Enter the name that you call her."]
+            },
+            { "code": 230, "indent": 1, "parameters": [5] },
+            { "code": 303, "indent": 1, "parameters": [3, 8] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["What is her relationship to you?"]
+            },
+            { "code": 230, "indent": 1, "parameters": [5] },
+            { "code": 303, "indent": 1, "parameters": [6, 8] },
+            { "code": 111, "indent": 1, "parameters": [4, 6, 1, "Sister"] },
+            { "code": 320, "indent": 2, "parameters": [9, "Brother"] },
+            { "code": 320, "indent": 2, "parameters": [12, "Sis"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["And what is your relationship to her?"]
+            },
+            { "code": 230, "indent": 2, "parameters": [5] },
+            { "code": 303, "indent": 2, "parameters": [9, 8] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "Her name is \\n[3]. She is your \\n[6] and you are her \\n[9].\\! Is this correct?"
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 2, "parameters": [0, "Yes"] },
+            { "code": 113, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 402, "indent": 2, "parameters": [1, "No"] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 404, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Our pantry is still empty and my stomach is starting to go crazy..."
+              ]
+            },
+            { "code": 204, "indent": 0, "parameters": [4, 3, 2] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [{ "code": 18, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [5, 1, true] },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That's right!\\! I completely forgot about dinner!"
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I've been so busy unpacking that I forgot to shop for meals."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "If I give you some money, do you think you could go to the store for us \\n[1]?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It will be a great way for you to learn about the layout of our new neighborhood."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ya, I suppose I could do that."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Thank you honey!"] },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Here.\\! You'll need some money before you go."]
+            },
+            { "code": 125, "indent": 0, "parameters": [0, 0, 5] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Coin", "volume": 85, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[2] gave you 5 Ƶ."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The nearest convenience store is just to the east of here."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Be safe out there, okay?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I will, I will.\\! I'll be back soon!"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [3], "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 29, "parameters": [4], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [3], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [20], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [20], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [45] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 201, "indent": 0, "parameters": [0, 16, 13, 14, 8, 0] },
+            { "code": 123, "indent": 0, "parameters": ["B", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 230, "indent": 0, "parameters": [120] },
+            { "code": 121, "indent": 0, "parameters": [61, 61, 0] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Breaking news!\\! Rescue operations for the Camp Zomi crisis has officially reached a "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["two-months of ongoing efforts."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Rescuers have commented that the fog surrounding the island remains too thick "
+              ]
+            },
+            { "code": 401, "indent": 0, "parameters": ["to pass through."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Without any communication from the Zomi occupants, including Mayor Talia of Crimson City, many "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "research experts are speculating that survivors may be limited."
+              ]
+            },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 204, "indent": 0, "parameters": [8, 4, 2] },
+            { "code": 230, "indent": 0, "parameters": [180] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Despite the grim outlook the brave men and women of the rescue team continue to work day and night "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["in an attempt to breach the fog."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "In unrelated news, CEO of Crimson City Energy, Norman T. Reeves is expected to hold a "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["press conference later this week."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "How terrible!\\! To think they haven't made any progress after two whole months."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Camp Zomi right?\\! \\BST[7]Yeah... \\!It's a real shame."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "*sigh*\\! I hope all of those people on the island are okay..."
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hm, it's awfully quiet upstairs."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It sounds like he might have finished unpacking!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Do you think he did?\\! \\BST[1]I bet he just fell asleep again."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I'm afraid you're probably correct."]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([9,1,'A'], true);"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([9,5,'A'], true);"]
+            },
+            { "code": 230, "indent": 0, "parameters": [20] },
+            { "code": 204, "indent": 0, "parameters": [4, 2, 2] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Sweetieee!\\! \\BST[6]Are you awake up there young man?!"
+              ]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 121, "indent": 0, "parameters": [61, 61, 1] },
+            { "code": 201, "indent": 0, "parameters": [0, 4, 11, 6, 0, 0] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 19,
+      "y": 16
+    },
+    {
+      "id": 5,
+      "name": "Meredith Walking",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1Mother",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 15,
+      "y": 7
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 1013,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Water1", "volume": 55, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 1022,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Liquid", "volume": 55, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [40] },
+            { "code": 123, "indent": 0, "parameters": ["A", 1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 21,
+      "y": 7
+    },
+    {
+      "id": 7,
+      "name": "EV007",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I shouldn't waste any more time.\\! \\BST[1]I need to head to the C-Store."
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 7
+    },
+    {
+      "id": 8,
+      "name": "EV008",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I shouldn't waste any more time.\\! \\BST[1]I need to head to the C-Store."
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 7
+    },
+    {
+      "id": 9,
+      "name": "Door1a",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Open1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 39, "indent": null },
+                    { "code": 37, "indent": null },
+                    { "code": 12, "indent": null },
+                    { "code": 12, "indent": null },
+                    { "code": 40, "indent": null },
+                    { "code": 38, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 39, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 37, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 12, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 12, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 40, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 38, "indent": null }]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 19,
+      "y": 8
+    },
+    {
+      "id": 10,
+      "name": "EV010",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([31,52,'A'], true);"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 1,
+      "y": 1
+    },
+    null,
+    {
+      "id": 12,
+      "name": "Sis Couch",
+      "note": "<Hitbox Up: 1>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Couch_Animations",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Is something going on?"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 18,
+      "y": 6
+    },
+    {
+      "id": 13,
+      "name": "TV1",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 44,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 61,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 888,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 15,
+      "y": 4
+    },
+    {
+      "id": 14,
+      "name": "TV2",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 45,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 61,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 889,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 16,
+      "y": 4
+    },
+    {
+      "id": 15,
+      "name": "TV3",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 36,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 61,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 880,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 15,
+      "y": 3
+    },
+    {
+      "id": 16,
+      "name": "TV4",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 37,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 61,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 881,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 16,
+      "y": 3
+    },
+    null,
+    null,
+    null
+  ]
 }
