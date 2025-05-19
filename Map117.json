@@ -3176,17 +3176,30 @@
             { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
             { "code": 121, "indent": 0, "parameters": [7, 7, 0] },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Going that way will take us out of Crimson Mire."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Let's go back this way."]
-            },
+           {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Đi theo hướng đó sẽ đưa chúng ta ra khỏi Đầm Lầy Đỏ Thẫm."
+    ]
+  },
+  {
+    "code": 101,
+    "indent": 0,
+    "parameters": [
+      "1Jamie1",
+      4,
+      0,
+      2
+    ]
+  },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Chúng ta hãy quay lại đường này."
+    ]
+  },
             {
               "code": 205,
               "indent": 0,

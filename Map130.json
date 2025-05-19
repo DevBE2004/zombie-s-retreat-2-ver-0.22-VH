@@ -3779,7 +3779,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well that's a relief..."]
+              "parameters":["Ồ, thế thì nhẹ nhõm quá..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -7806,7 +7806,7 @@
     },
     {
       "id": 32,
-      "name": "Quest khôngtification (Firework)",
+      "name": "Quest notification (Firework)",
       "note": "",
       "pages": [
         {
@@ -9333,7 +9333,7 @@
     },
     {
       "id": 41,
-      "name": "Quest khôngtification (Orange)",
+      "name": "Quest notification (Orange)",
       "note": "",
       "pages": [
         {
@@ -11074,7 +11074,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Watch", "khôngt now"], 1, 0, 2, 0]
+              "parameters": [["Watch", "not now"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Watch"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -11082,7 +11082,7 @@
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "khôngt now"] },
+            { "code": 402, "indent": 0, "parameters": [1, "not now"] },
             {
               "code": 205,
               "indent": 1,

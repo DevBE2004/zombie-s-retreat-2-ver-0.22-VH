@@ -782,32 +782,63 @@
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Mohawk Thug>What's that you're carryin'?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "N-khôngthing much.\\! Just some groceries that I needed."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Bun Thug>Oooh ~\\! You brought us yummy snacks?!"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["không, these are actually for my \\n[5]."]
-            },
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "\\n<Du Côn Đầu Mohican>Cậu đang mang cái gì thế?"
+    ]
+  },
+  {
+    "code": 101,
+    "indent": 0,
+    "parameters": [
+      "1MC1",
+      4,
+      0,
+      2
+    ]
+  },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "K-không có gì nhiều.\\! Chỉ là vài món đồ tạp hóa tôi cần thôi."
+    ]
+  },
+  {
+    "code": 101,
+    "indent": 0,
+    "parameters": [
+      "",
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "\\n<Du Côn Tóc Búi>Ô ~\\! Cậu mang đồ ăn vặt ngon cho bọn này à?!"
+    ]
+  },
+  {
+    "code": 101,
+    "indent": 0,
+    "parameters": [
+      "1MC1",
+      4,
+      0,
+      2
+    ]
+  },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "không, cái này thực ra là cho \\n[5] của tôi."
+    ]
+  },
             {
               "code": 205,
               "indent": 0,
@@ -1392,7 +1423,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Vest Thug>không way!\\! Th-That can't be..!"]
+              "parameters": ["\\n<Vest Thug>không thể nào!\\! Đ-Không thể nào..!"]
             },
             {
               "code": 205,

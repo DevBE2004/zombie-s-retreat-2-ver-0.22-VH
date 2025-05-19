@@ -26244,7 +26244,11 @@
                 "\\n<Fiona>[Với một cái dương vật như thế này mà đi lại, các cô gái ở đây sẽ "
               ]
             },
-            { "code": 401, "indent": 0, "parameters": ["go crazy over him!]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["phát cuồng vì anh ấy!]"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -28753,7 +28757,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Fiona>không need ~\\! For that..!"]
+              "parameters": ["\\n<Fiona>không cần ~\\!"]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
@@ -29768,56 +29772,92 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lucy>Mmm ~ You're khôngt that bad at this."]
+              "parameters": ["\\n<Lucy>Mmm ~ Anh làm cũng không tệ đâu."]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2]
+            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>I give the best massages!\\! I'll have your shoulders feeling nice and loose!"
+                "\\n<\\N[1]>Tôi xoa bóp đỉnh của đỉnh luôn!\\! Vai cô sẽ mềm mại và thoải mái ngay!"
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2]
+            },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lucy>Mm, yeah...\\! That spots pretty tight."]
+              "parameters": ["\\n<Lucy>Mm, ừm...\\! Chỗ đó hơi căng."]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2]
+            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lucy>[As soon as he starts moving his hands...\\! I can feel my body begin to crave more...]"
+                "\\n<Lucy>[Ngay khi anh ấy bắt đầu di chuyển tay...\\! Tôi có thể cảm thấy cơ thể mình bắt đầu khao khát nhiều hơn...]"
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2]
+            },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lucy>[He's really damn good at this..!]"]
+              "parameters": ["\\n<Lucy>[Anh ấy giỏi việc này thật đấy..!]"]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n<Lucy>Ah ~ ♥️"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2]
+            },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>You okay Lucy?"]
+              "parameters": ["\\n<Lucy>Ah ~ ♥️"]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2]
+            },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Lucy>O-Oh yeah.\\! I'm fine..."]
+              "parameters": ["\\n<\\N[1]>Cô ổn không Lucy?"]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>O-Ồ vâng.\\! Tôi ổn..."]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 0, 2]
+            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Lucy>Could rub a little deeper down here again?"
+                "\\n<Lucy>Anh có thể xoa sâu xuống một chút nữa ở đây không?"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -30540,9 +30580,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "\\n<Jamie>Oooh ~\\! now that's more like it..."
-              ]
+              "parameters": ["\\n<Jamie>Oooh ~\\! giờ thì đúng hơn rồi đấy..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -30604,7 +30642,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Jamie>F-Fuck!\\! Yeah ~ That's it!"]
+              "parameters": ["\\n<Jamie>F-Fuck!\\! Yeah ~ Đúng rồi!"]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
@@ -31067,7 +31105,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Jamie>F-Fuck!\\! Yeah ~ That's it!"]
+              "parameters": ["\\n<Jamie>F-Fuck!\\! Yeah ~ Đúng rồi!"]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
@@ -40449,7 +40487,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[1]>không, khôngt at all..."]
+              "parameters": ["\\n<\\N[1]>không, not at all..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

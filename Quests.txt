@@ -1,0 +1,481 @@
+Dưới đây là bản việt hóa mô tả nhiệm vụ, giữ nguyên tên nhiệm vụ và các yếu tố liên quan như mục tiêu, văn bản kết thúc, và các ký tự đặc biệt (ví dụ: \n[2], \n[3], \n[4], \n[7]):
+
+<quest 01:Brick by Brick|1|0>
+
+Fiona đang thiếu vật liệu trước khi
+
+cô ấy có thể xây dựng xưởng của mình.
+
+Nếu tôi tìm được 3 Viên Gạch Vụn,
+
+cô ấy sẽ có đủ để tiếp tục công việc!
+
+
+<quest 02:Scrub Time|1|1>
+
+Craft Bench,Bathe with \n[2]
+
+\n[2] đề nghị cùng tắm chung.
+
+Trước tiên, tôi cần nói chuyện với Fiona
+
+về việc chế tạo một chiếc ghế dài
+
+cho phòng tắm.
+
+
+<quest 03:Pick-Me-Up|1|1>
+
+Find Flower,Gift to \n[3]
+
+\n[3] dạo này có vẻ buồn bã.
+
+Có lẽ tôi có thể làm cô ấy vui lên
+
+bằng cách tìm bông hoa yêu thích của cô ấy
+
+từ thời chúng tôi ở Trại Zomi.
+
+
+<quest 04:Connection Established|1|0>
+
+Find Com Kit,Craft Antenna
+
+Sau khi gặp Lucy, cô ấy khăng khăng
+
+rằng chúng tôi phải đến Sở Cảnh sát
+
+để tìm một bộ đồ nghề liên lạc.
+
+Điều này có thể giúp kết nối The Grid
+
+với thế giới bên ngoài!
+
+
+<quest 05:A Touching Moment|1|1>
+
+\n[2] đã nhận được chìa khóa của
+
+Căn hộ Crimson ở Khu Đông.
+
+Cô ấy khăng khăng muốn tôi đưa cô ấy
+
+đi khám phá căn phòng đó... Thôi được.
+
+
+<quest 06:A Bra-zen Hunt|1|1>
+
+\n[7] \n[4] cần tôi hộ tống cô ấy
+
+trở về căn hộ của mình ở Khu Tây.
+
+Cô ấy cần tìm thứ gì đó nhưng
+
+không chịu nói đó là gì...
+
+
+<quest 07:Sweet Raid|1|1>
+
+Stacy cần giúp đỡ để tìm hiểu
+
+bí mật của một nhà hàng đối thủ.
+
+Tôi cần đi cùng cô ấy đến bếp của họ
+
+ở Khu Tây.
+
+
+<quest 08:Blow The Cork|1|1>
+
+\n[2] yêu cầu một chai rượu vang
+
+để dùng với bữa tối.
+
+Đổi lại, cô ấy sẽ nấu món ăn yêu thích của tôi?!
+
+Tôi phải giúp thôi!
+
+
+<quest 09:Medicinal Mayhem|1|1>
+
+Tôi nhận thấy \n[2] dường như
+
+đang không khỏe.
+
+Có một hiệu thuốc trong Bệnh viện Thành phố Crimson.
+
+Liệu tôi có thể tìm được thuốc cho cô ấy không?
+
+
+<quest 10:Volt by Bolt|1|0>
+
+Fiona cần tôi bảo vệ cô ấy trong khi
+
+cô ấy sửa chữa tàu điện ngầm ở Khu Đông.
+
+Nghe như một việc dễ dàng.
+
+Có gì mà sai được chứ?!
+
+
+<quest 11:Show Stoppers|1|1>
+
+Stacy tin rằng ông chủ cũ của cô ấy
+
+đang che giấu bí mật bẩn thỉu ở Khu trò chơi.
+
+Tôi đã hứa sẽ đi cùng cô ấy và
+
+làm sáng tỏ bí ẩn này!
+
+
+<quest 12:Homecoming|1|1>
+
+Tôi đã hứa với \n[3] rằng sẽ
+
+đưa cô ấy đi nhặt rác cùng tôi sớm.
+
+Cô ấy muốn kiểm tra một tủ chứa đồ
+
+ngay sau thư viện của Trường Trung học Thành phố Crimson.
+
+
+<quest 13:Squeaky Clean|1|1>
+
+Find Soap,Bathe with \n[2] (again)
+
+Một loại xà phòng gợi cảm đặc biệt
+
+làm việc tắm trở nên thú vị hơn!
+
+Nghe có vẻ quá tốt để là thật, nhưng
+
+\n[2] dường như rất tin tưởng!
+
+Tôi có thể tìm thấy xà phòng này
+
+trong một cửa hàng tình dục ở một con hẻm mờ ám.
+
+
+<quest 14:Down and Dirty|1|0>
+
+Lucy có ý tưởng về cách chúng tôi
+
+có thể đến The Underground.
+
+Tôi cần đưa cô ấy đến con hẻm mờ ám
+
+ở Khu Tây.
+
+Nghe nói có một lối đi ngầm dẫn đến cống rãnh gần đó.
+
+
+<quest 15:Divide and Conquer|1|0>
+
+Learn More,Win Violet Cup
+
+Bây giờ chúng tôi đã ở The Underground,
+
+chúng tôi cần nói chuyện với thủ lĩnh khu vực, Violet.
+
+Giờ cô ấy có thể ở đâu nhỉ...?
+
+
+<quest 16:Tricks and Treats|1|2>
+
+Sau khi nói chuyện với một cặp đôi dễ thương
+
+giống như \n[2] và tôi, giờ \n[2]
+
+muốn đi chơi Trick or Treat...
+
+Tôi tưởng mình đã xong việc đó,
+
+nhưng cô ấy nghe có vẻ rất hào hứng.
+
+Giờ tôi phải làm thôi!
+
+
+<quest 17:A Ghoulish Mystery|1|2>
+
+Fiona nghe nói có một con ma
+
+trong khu phố!
+
+Giúp đỡ mọi người xung quanh khu vực
+
+là cách duy nhất để tôi tìm hiểu chuyện gì đang xảy ra.
+
+
+<quest 18:Cyclone|1|1>
+
+Give Premium Vodka,Flirt at Dinner
+
+\n[7] \n[4] muốn một ly cocktail
+
+để dùng với bữa tối. Tôi sẽ phải
+
+chế tạo một ít Vodka Cao cấp và đưa cho cô ấy.
+
+Nhà hàng ở Khu Tây...
+
+Có lẽ tôi có thể tìm thấy công thức ở đó?
+
+
+<quest 19:Panty Raid|1|1>
+
+\n[7] \n[4] nghĩ rằng chúng tôi
+
+nên tìm kiếm chiếc quần lót bị mất của cô ấy
+
+ở tầng trên cùng của căn hộ.
+
+Nếu tìm thấy, không biết cô ấy
+
+có cho tôi chạm vào chúng không...
+
+
+<quest 20:Extra Credit|1|1>
+
+Search the School,Visit Nadia
+
+Em trai của Nadia, Isaac, đã mất tích
+
+và cô ấy nhờ tôi giúp tìm cậu ấy.
+
+Nếu cậu ấy vẫn an toàn, cậu ấy có thể
+
+đang ở Trường Trung học Thành phố Crimson.
+
+Tôi cần nhớ đưa Nadia theo cùng.
+
+
+<quest 21:Sex Ed|1|1>
+
+Có thể Isaac đang ở cùng cô giáo của mình. Thật may mắn!
+
+Dù sao, Nadia nghĩ tủ đồ của cậu ấy
+
+có thể có manh mối về nơi cậu ấy đang ở.
+
+Chúng tôi có thể tìm thấy tủ đồ của cậu ấy
+
+trong Sảnh Thể thao qua Sân trường.
+
+
+<quest 22:Beep For Batteries|1|1>
+
+Fiona cần tôi giúp tìm một số
+
+pin đặc biệt trong thành phố.
+
+Cô ấy đưa tôi một thiết bị định vị
+
+kêu bíp khi tôi đến gần. Tôi cần tìm
+
+bốn viên pin ở đâu đó trong các Khu Đông, Tây và Y tế!
+
+
+<quest 23:Joy Ride|1|1>
+
+Fiona đã chế tạo một thiết bị
+
+cho phép chúng tôi đến Khu Bãi Rác!
+
+Tôi cá rằng đó sẽ là nơi tuyệt vời
+
+để tìm Kim Loại Vụn và các tài nguyên khác.
+
+
+<quest 24:Swamp Grass|1|0>
+
+Lucy đã bỏ đi mà không có tôi
+
+và bảo tôi ở lại. Thật không may cho cô ấy,
+
+tôi chưa bao giờ giỏi nghe lời!
+
+Cô ấy nói đang đến Công viên ở Khu Đông.
+
+Tôi cần tìm cô ấy và đảm bảo cô ấy an toàn!
+
+
+<quest 25:Thorn in Her Side|1|0>
+
+Find Lucy,Investigate the Area
+
+Jamie, thủ lĩnh của Khu Bayou,
+
+nhờ tôi giúp cô ấy điều tra các loại
+
+cây độc ở Crimson Mire.
+
+Có lẽ tôi sẽ tìm thấy Lucy ở đó!
+
+
+<quest 26:Camping Gone Wild|1|2>
+
+Một người sống sót ở Khu Bayou
+
+nhờ tôi tìm 3 món đồ cắm trại bị mất.
+
+Chúng có thể được tìm thấy sâu trong
+
+Crimson Mire.
+
+
+<quest 27:Scratch and Search|1|1>
+
+Search Hospital 3F,Capture Snowball
+
+Vì Michelle làm việc tại Bệnh viện Thành phố Crimson,
+
+cô ấy có thẻ nhân viên để vào một tầng mới!
+
+Cô ấy đề nghị đi cùng tôi để tìm thêm
+
+vật tư y tế. Tôi không thể từ chối lời đề nghị đó!
+
+
+<quest 28:Bells and Whiskers|1|1>
+
+Find Pet Magazine,Lure Snowball
+
+Snowball có thể là đối thủ mạnh nhất của tôi!
+
+Nhưng tôi sẽ bắt được cô nàng cho Michelle!
+
+Tôi cần tìm tạp chí thú cưng của Michelle
+
+trong căn phòng tôi gặp cô ấy lần đầu.
+
+Sau đó, tôi cần chế tạo một Đồ chơi Mèo
+
+và mang nó trở lại căn phòng để dụ Snowball ra!
+
+
+<quest 29:Feline's Fury|1|1>
+
+Cheer Up Michelle,Explore Hospital Basement,Rescue Snowball
+
+Michelle cảm thấy tệ vì những lần thất bại
+
+trong việc đưa Snowball về nhà.
+
+Tôi cần tìm cách làm cô ấy vui lên
+
+để chúng tôi có thể bắt được chú mèo dễ thương này
+
+và mang nó về nhà an toàn!
+
+
+<quest 30:Firework Frenzy|1|2>
+
+\n[2] và tôi gặp một người phụ nữ tuyệt vời
+
+phụ trách chương trình pháo hoa cho Lễ hội Trăng Rằm!
+
+Tuy nhiên, cô ấy cần tôi giúp lấy thêm
+
+tên lửa cho màn trình diễn.
+
+Tôi cá rằng xem pháo hoa với \n[2]
+
+sẽ là một buổi hẹn hò tuyệt vời!
+
+
+<quest 31:Mandarin Mayhem|1|2>
+
+\n[7] \n[4] rất muốn thử Cam May Mắn
+
+được bán trong Lễ hội Trăng Rằm.
+
+Nhưng người bán đã hết hàng và cần tôi giúp
+
+bổ sung!
+
+Những quả cam này nghe rất ngon.
+
+Tôi nên giúp cô ấy!
+
+
+<quest 32:Twisted Scrap Metal|1|0>
+
+Investigate Factory,Return to Violet
+
+Lucy nghĩ chúng tôi có thể tìm thêm thông tin
+
+về viên đá đỏ thông qua Violet.
+
+Đã đến lúc ghé thăm cô ấy lần nữa!
+
+Có lẽ cô ấy sẽ cho tôi một buổi biểu diễn riêng nữa?
+
+
+<quest 33:Cherry Poppers|1|1>
+
+Find Clue #1,Find Clue #2,Find Secret Ingredient
+
+Stacy muốn tạo ra 'ly sữa lắc huyền thoại'
+
+nhưng cô ấy cần một nguyên liệu đặc biệt.
+
+Nghe nói Milkshake Master đã để lại
+
+manh mối về vị trí của nó.
+
+Hy vọng ly sữa lắc này đáng giá!
+
+
+<quest 34:Coffee Run|1|1>
+
+Bridgette cần tôi hộ tống cô ấy về
+
+một trong các văn phòng để tìm tài liệu quan trọng.
+
+Đây sẽ là công việc thực sự đầu tiên của tôi.
+
+Tôi hơi lo lắng, nhưng cũng rất hào hứng!
+
+
+<quest 35:Office Party|1|1>
+
+Retrieve Map,Climb Fortune Tower
+
+Bridgette muốn lên tầng cao nhất của Tháp Fortune.
+
+Nhưng trước tiên, chúng tôi cần tìm một bản đồ để đến đó.
+
+Nó nằm trong một văn phòng đang xây
+
+ở Khu Underground.
+
+
+<quest 36:Present Panic|1|2>
+
+Find Four Presents,Return to Mrs. Claus
+
+Tôi đã gặp BÀ CLAUS THẬT!
+
+Cỗ xe trượt tuyết của bà bị hỏng
+
+và bà làm mất một số món quà.
+
+Nếu tôi tìm được bốn món quà và mang về cho bà,
+
+tôi sẽ được xóa tên khỏi danh sách nghịch ngợm!
+
+
+<quest 37:Cookies & Milk|1|2>
+
+Get Holiday Cookies,Get Hot Cocoa,Return to \n[2]
+
+Cả \n[2] và Michelle đều muốn
+
+có một đêm lễ hội ấm cúng với bánh quy lễ hội
+
+và cacao nóng.
+
+Liệu tôi có thể tìm được hai nguyên liệu này
+
+bằng cách giúp đỡ những người xung quanh không?

@@ -775,7 +775,11 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 46, 22, 11, 2, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            {
+              "code": 236,
+              "indent": 0,
+              "parameters": ["khôngne", 5, 1, false]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -884,7 +888,11 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 15, 13, 14, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            {
+              "code": 236,
+              "indent": 0,
+              "parameters": ["khôngne", 5, 1, false]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2143,7 +2151,11 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 221, "indent": 0, "parameters": [] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            {
+              "code": 236,
+              "indent": 0,
+              "parameters": ["khôngne", 5, 1, false]
+            },
             { "code": 201, "indent": 0, "parameters": [0, 2, 15, 11, 8, 0] },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3319,7 +3331,11 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 7, 17, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            {
+              "code": 236,
+              "indent": 0,
+              "parameters": ["khôngne", 5, 1, false]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3572,7 +3588,11 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 7, 18, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            {
+              "code": 236,
+              "indent": 0,
+              "parameters": ["khôngne", 5, 1, false]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3957,7 +3977,11 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 26, 13, 15, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            {
+              "code": 236,
+              "indent": 0,
+              "parameters": ["khôngne", 5, 1, false]
+            },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4519,7 +4543,11 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 29, 9, 16, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            {
+              "code": 236,
+              "indent": 0,
+              "parameters": ["khôngne", 5, 1, false]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6876,80 +6904,84 @@
             { "code": 111, "indent": 1, "parameters": [4, 15, 0] },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
             {
-  "code": 401,
-  "indent": 2,
-  "parameters": ["Và đây là cục pin đầu tiên!"]
-},
-{ "code": 101, "indent": 2, "parameters": ["1Fiona1", 1, 0, 2] },
-{ "code": 401, "indent": 2, "parameters": ["Làm tốt lắm, \\n[1]!"] },
-{ "code": 101, "indent": 2, "parameters": ["1MC1", 1, 0, 2] },
-{
-  "code": 401,
-  "indent": 2,
-  "parameters": ["Hah!! Tôi cảm thấy như một thợ săn kho báu!"]
-},
-{ "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
-{
-  "code": 401,
-  "indent": 2,
-  "parameters": [
-    "Vậy thì chúng ta hãy đi tìm thêm nữa đi, thợ săn kho báu!"
-  ]
-},
-{ "code": 0, "indent": 2, "parameters": [] },
-{ "code": 411, "indent": 1, "parameters": [] },
-{ "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
-{
-  "code": 401,
-  "indent": 2,
-  "parameters": [
-    "Đây chắc hẳn là một trong những cục pin mà Fiona đang tìm kiếm."
-  ]
-},
-{ "code": 101, "indent": 2, "parameters": ["1MC1", 1, 0, 2] },
-{
-  "code": 401,
-  "indent": 2,
-  "parameters": ["Hah!! Tôi cảm thấy như một thợ săn kho báu!"]
-},
-{ "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
-{
-  "code": 401,
-  "indent": 2,
-  "parameters": ["Một xong, còn nhiều nữa."]
-},
-{ "code": 0, "indent": 2, "parameters": [] },
-{ "code": 412, "indent": 1, "parameters": [] },
-{ "code": 0, "indent": 1, "parameters": [] },
-{ "code": 411, "indent": 0, "parameters": [] },
-{ "code": 111, "indent": 1, "parameters": [1, 149, 0, 4, 0] },
-{ "code": 111, "indent": 2, "parameters": [4, 15, 0] },
-{ "code": 101, "indent": 3, "parameters": ["1Fiona1", 3, 0, 2] },
-{
-  "code": 401,
-  "indent": 3,
-  "parameters": ["Ồ yeah!! Đó là cục pin cuối cùng của chúng ta!"]
-},
-{ "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },
-{
-  "code": 401,
-  "indent": 3,
-  "parameters": ["Cậu đúng là nhà vô địch săn tìm kho báu!"]
-},
-{ "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
-{
-  "code": 401,
-  "indent": 3,
-  "parameters": ["Tớ rất vui vì đã giúp được!"]
-},
-{ "code": 101, "indent": 3, "parameters": ["1Fiona1", 1, 0, 2] },
-{
-  "code": 401,
-  "indent": 3,
-  "parameters": [
-    "Tớ nghĩ bây giờ là lúc chúng ta quay trở lại căn cứ rồi."
-  ]
-},
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Và đây là cục pin đầu tiên!"]
+            },
+            { "code": 101, "indent": 2, "parameters": ["1Fiona1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Làm tốt lắm, \\n[1]!"]
+            },
+            { "code": 101, "indent": 2, "parameters": ["1MC1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Hah!! Tôi cảm thấy như một thợ săn kho báu!"]
+            },
+            { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "Vậy thì chúng ta hãy đi tìm thêm nữa đi, thợ săn kho báu!"
+              ]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 411, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "Đây chắc hẳn là một trong những cục pin mà Fiona đang tìm kiếm."
+              ]
+            },
+            { "code": 101, "indent": 2, "parameters": ["1MC1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Hah!! Tôi cảm thấy như một thợ săn kho báu!"]
+            },
+            { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Một xong, còn nhiều nữa."]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 412, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 111, "indent": 1, "parameters": [1, 149, 0, 4, 0] },
+            { "code": 111, "indent": 2, "parameters": [4, 15, 0] },
+            { "code": 101, "indent": 3, "parameters": ["1Fiona1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["Ồ yeah!! Đó là cục pin cuối cùng của chúng ta!"]
+            },
+            { "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["Cậu đúng là nhà vô địch săn tìm kho báu!"]
+            },
+            { "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": ["Tớ rất vui vì đã giúp được!"]
+            },
+            { "code": 101, "indent": 3, "parameters": ["1Fiona1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "Tớ nghĩ bây giờ là lúc chúng ta quay trở lại căn cứ rồi."
+              ]
+            },
             { "code": 122, "indent": 3, "parameters": [150, 150, 0, 0, 1] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -6973,13 +7005,13 @@
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 111, "indent": 2, "parameters": [4, 15, 0] },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 3, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["Akhôngther battery!"] },
+            { "code": 401, "indent": 3, "parameters": ["another battery!"] },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },
             { "code": 401, "indent": 3, "parameters": ["Let's keep it up!"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["Akhôngther battery!"] },
+            { "code": 401, "indent": 3, "parameters": ["another battery!"] },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
@@ -7058,7 +7090,7 @@
     },
     {
       "id": 38,
-      "name": "Battery khôngtification",
+      "name": "Battery notification",
       "note": "<Hitbox Right: 7> <Hitbox Down: 3>",
       "pages": [
         {
@@ -7116,68 +7148,137 @@
             { "code": 111, "indent": 0, "parameters": [0, 194, 1] },
             { "code": 111, "indent": 1, "parameters": [4, 15, 0] },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 3, 0, 2] },
+
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Hah!\\! It made you jump!"]
+              "parameters": ["Hah!\\! Làm bạn giật mình rồi!"]
             },
-            { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": ["1MC1", 0, 0, 2]
+            },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Man, you weren't joking about this thing beeping like crazy."
+                "Trời, bạn không hề đùa khi nói cái này kêu bíp bíp điên cuồng."
               ]
             },
-            { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
             {
-              "code": 401,
+              "code": 101,
               "indent": 2,
-              "parameters": ["A battery must be close.\\! Let's find it!"]
+              "parameters": ["1Fiona1", 5, 0, 2]
             },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 411, "indent": 1, "parameters": [] },
-            { "code": 101, "indent": 2, "parameters": ["1MC1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["Whoa!\\! The battery detector is going off!"]
-            },
-            { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Fiona wasn't joking about this thing beeping like crazy."
+                "Chắc chắn có pin ở gần đây rồi.\\! Chúng ta hãy tìm nó!"
               ]
             },
-            { "code": 101, "indent": 2, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": ["1MC1", 2, 0, 2]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Whoa!\\! Máy dò pin đang kêu lên!"]
+            },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": ["1MC1", 0, 0, 2]
+            },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "That should mean a battery is close by somewhere."
+                "Fiona không hề đùa khi nói cái này kêu bíp bíp điên cuồng."
               ]
             },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 412, "indent": 1, "parameters": [] },
-            { "code": 121, "indent": 1, "parameters": [194, 194, 0] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 411, "indent": 0, "parameters": [] },
-            { "code": 111, "indent": 1, "parameters": [4, 15, 0] },
-            { "code": 101, "indent": 2, "parameters": ["1Fiona1", 1, 0, 2] },
             {
-              "code": 401,
+              "code": 101,
               "indent": 2,
-              "parameters": ["Akhôngther battery should be close by!"]
+              "parameters": ["1MC1", 4, 0, 2]
             },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 411, "indent": 1, "parameters": [] },
-            { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Sounds like akhôngther battery is nearby."]
+              "parameters": ["Điều đó có nghĩa là có pin ở đâu đó gần đây."]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [194, 194, 0]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [4, 15, 0]
+            },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": ["1Fiona1", 1, 0, 2]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["một cục pin nữa chắc cũng ở gần đây!"]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": ["1MC1", 0, 0, 2]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Nghe có vẻ như có một cục pin khác ở gần đây."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },

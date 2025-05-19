@@ -8025,17 +8025,19 @@
             { "code": 222, "indent": 2, "parameters": [] },
             { "code": 113, "indent": 2, "parameters": [] },
             {
-              "code": 108,
-              "indent": 2,
-              "parameters": ["== Below code is for Aunt's storyline == "]
-            },
-            {
-              "code": 408,
-              "indent": 2,
-              "parameters": [
-                "This checks that she's had vodka and wants MC to escort her upstairs"
-              ]
-            },
+    "code": 108,
+    "indent": 2,
+    "parameters": [
+      "== Mã bên dưới dành cho cốt truyện của Dì =="
+    ]
+  },
+  {
+    "code": 408,
+    "indent": 2,
+    "parameters": [
+      "Điều này kiểm tra xem dì đã uống vodka và muốn MC hộ tống dì lên lầu"
+    ]
+  },
             { "code": 118, "indent": 2, "parameters": ["Aunt"] },
             { "code": 201, "indent": 2, "parameters": [0, 2, 6, 9, 6, 0] },
             { "code": 117, "indent": 2, "parameters": [7] },

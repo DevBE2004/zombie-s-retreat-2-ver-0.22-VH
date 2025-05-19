@@ -2600,14 +2600,20 @@
             { "code": 121, "indent": 0, "parameters": [93, 93, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
-            {
-              "code": 108,
-              "indent": 0,
-              "parameters": [
-                "This should fix a bug that people had before this switch"
-              ]
-            },
-            { "code": 408, "indent": 0, "parameters": ["was added"] },
+           {
+    "code": 108,
+    "indent": 0,
+    "parameters": [
+      "Điều này sẽ sửa một lỗi mà mọi người gặp phải trước khi thay đổi này"
+    ]
+  },
+  {
+    "code": 408,
+    "indent": 0,
+    "parameters": [
+      "được thêm vào"
+    ]
+  },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

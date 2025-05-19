@@ -22617,7 +22617,7 @@
     },
     {
       "id": 104,
-      "name": "Treats Complete khôngtifications",
+      "name": "Treats Complete notifications",
       "note": "",
       "pages": [
         {
@@ -22757,29 +22757,37 @@
           },
           "list": [
             {
-              "code": 108,
-              "indent": 0,
-              "parameters": [
-                "== There was a bug in 0.21.0 where Mich/Mer scene accidentally"
-              ]
-            },
+    "code": 108,
+    "indent": 0,
+    "parameters": [
+      "== Đã có một lỗi trong phiên bản 0.21.0, nơi cảnh Mich/Mer vô tình"
+    ]
+  },
+  {
+    "code": 408,
+    "indent": 0,
+    "parameters": [
+      "đánh dấu nhiệm vụ hiện tại là đã hoàn thành."
+    ]
+  },
+  {
+    "code": 408,
+    "indent": 0,
+    "parameters": [
+      ""
+    ]
+  },
+  {
+    "code": 408,
+    "indent": 0,
+    "parameters": [
+      "Bản sửa lỗi này sẽ kiểm tra xem người chơi đã hoàn thành nhiệm vụ chưa"
+    ]
+  },
             {
               "code": 408,
               "indent": 0,
-              "parameters": ["marked present quest as complete."]
-            },
-            { "code": 408, "indent": 0, "parameters": [""] },
-            {
-              "code": 408,
-              "indent": 0,
-              "parameters": [
-                "This fix should check if the player has completed the quest"
-              ]
-            },
-            {
-              "code": 408,
-              "indent": 0,
-              "parameters": ["and will undo it if khôngt =="]
+              "parameters": ["and will undo it if not =="]
             },
             { "code": 111, "indent": 0, "parameters": [0, 263, 0] },
             { "code": 111, "indent": 1, "parameters": [1, 173, 0, 4, 4] },
@@ -23187,24 +23195,26 @@
           },
           "list": [
             {
-              "code": 108,
-              "indent": 0,
-              "parameters": [
-                "== This was added in a later update. To make sure players "
-              ]
-            },
-            {
-              "code": 408,
-              "indent": 0,
-              "parameters": [
-                "see this hole, I just added an event for each possible item/"
-              ]
-            },
-            {
-              "code": 408,
-              "indent": 0,
-              "parameters": ["switch after the event... =="]
-            },
+    "code": 108,
+    "indent": 0,
+    "parameters": [
+      "== Điều này đã được thêm vào trong một bản cập nhật sau. Để đảm bảo người chơi"
+    ]
+  },
+  {
+    "code": 408,
+    "indent": 0,
+    "parameters": [
+      "thấy cái lỗ này, tôi vừa thêm một sự kiện cho mỗi vật phẩm/công tắc có thể có sau sự kiện... =="
+    ]
+  },
+  {
+    "code": 408,
+    "indent": 0,
+    "parameters": [
+      "công tắc sau sự kiện... =="
+    ]
+  },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -23377,17 +23387,19 @@
           },
           "list": [
             {
-              "code": 108,
-              "indent": 0,
-              "parameters": [
-                "== This is for players who finished the event before"
-              ]
-            },
-            {
-              "code": 408,
-              "indent": 0,
-              "parameters": ["Beta 0.21.1 when this was implemented =="]
-            },
+    "code": 108,
+    "indent": 0,
+    "parameters": [
+      "== Dành cho những người chơi đã hoàn thành sự kiện trước"
+    ]
+  },
+  {
+    "code": 408,
+    "indent": 0,
+    "parameters": [
+      "Beta 0.21.1 khi điều này được triển khai =="
+    ]
+  },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,

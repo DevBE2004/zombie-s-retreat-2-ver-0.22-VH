@@ -27623,33 +27623,62 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["That Nadia is a real sweet one!"]
+        "parameters": ["Cô Nadia thật là một người ngọt ngào!"]
       },
-      { "code": 101, "indent": 3, "parameters": ["1Fiona1", 1, 0, 2] },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": ["1Fiona1", 1, 0, 2]
+      },
       {
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Being around her always reminds me to relax a bit and take things easy for once."
+          "Ở bên cạnh cô ấy luôn nhắc nhở tôi thư giãn một chút và thỉnh thoảng cứ để mọi thứ trôi qua."
         ]
       },
-      { "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": ["1Fiona1", 5, 0, 2]
+      },
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Her new room's all ready to go!"]
+        "parameters": ["Phòng mới của cô ấy đã sẵn sàng rồi!"]
       },
-      { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 411, "indent": 2, "parameters": [] },
+      {
+        "code": 0,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 2,
+        "parameters": []
+      },
       {
         "code": 250,
         "indent": 3,
         "parameters": [
-          { "name": "Buzzer1", "volume": 65, "pitch": 100, "pan": 0 }
+          {
+            "name": "Buzzer1",
+            "volume": 65,
+            "pitch": 100,
+            "pan": 0
+          }
         ]
       },
-      { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 3, "parameters": ["Insufficient resources!"] },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": ["", 0, 0, 2]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["Không đủ tài nguyên!"]
+      },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 412, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -27662,7 +27691,7 @@
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Insufficient resources!"] },
+      { "code": 401, "indent": 2, "parameters": ["Không đủ tài nguyên!"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 412, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -27675,7 +27704,7 @@
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["Insufficient resources!"] },
+      { "code": 401, "indent": 1, "parameters": ["Không đủ tài nguyên!"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
@@ -27744,7 +27773,9 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["I should probably make sure she's khôngt with me first."]
+        "parameters": [
+          "I should probably make sure she's not with me first."
+        ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 411, "indent": 0, "parameters": [] },
@@ -27806,7 +27837,7 @@
         ]
       },
       { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 4, "parameters": ["Insufficient resources!"] },
+      { "code": 401, "indent": 4, "parameters": ["Không đủ tài nguyên!"] },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 412, "indent": 3, "parameters": [] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -27819,7 +27850,7 @@
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 3, "parameters": ["Insufficient resources!"] },
+      { "code": 401, "indent": 3, "parameters": ["Không đủ tài nguyên!"] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 412, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -27832,7 +27863,7 @@
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Insufficient resources!"] },
+      { "code": 401, "indent": 2, "parameters": ["Không đủ tài nguyên!"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 412, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -27925,24 +27956,46 @@
       { "code": 222, "indent": 3, "parameters": [] },
       { "code": 101, "indent": 3, "parameters": ["1Fiona1", 1, 0, 2] },
       {
-        "code": 401,
-        "indent": 3,
-        "parameters": ["That Bridgette is so pretty!"]
-      },
-      { "code": 101, "indent": 3, "parameters": ["1Fiona1", 2, 0, 2] },
-      {
-        "code": 401,
-        "indent": 3,
-        "parameters": ["I'm jealous.\\! I want to be that stylish..."]
-      },
-      { "code": 101, "indent": 3, "parameters": ["1Fiona1", 3, 0, 2] },
-      {
-        "code": 401,
-        "indent": 3,
-        "parameters": [
-          "Maybe I'll look into buying a new pair of designer overalls!"
-        ]
-      },
+    "code": 401,
+    "indent": 3,
+    "parameters": [
+      "Cô Bridgette xinh quá!"
+    ]
+  },
+  {
+    "code": 101,
+    "indent": 3,
+    "parameters": [
+      "1Fiona1",
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "code": 401,
+    "indent": 3,
+    "parameters": [
+      "Tôi ghen tị quá.\\! Tôi muốn được phong cách như vậy..."
+    ]
+  },
+  {
+    "code": 101,
+    "indent": 3,
+    "parameters": [
+      "1Fiona1",
+      3,
+      0,
+      2
+    ]
+  },
+  {
+    "code": 401,
+    "indent": 3,
+    "parameters": [
+      "Có lẽ tôi sẽ xem xét mua một bộ yếm hàng hiệu mới!"
+    ]
+  },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 411, "indent": 2, "parameters": [] },
       {
@@ -27953,7 +28006,7 @@
         ]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 3, "parameters": ["Insufficient resources!"] },
+      { "code": 401, "indent": 3, "parameters": ["Không đủ tài nguyên!"] },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 412, "indent": 2, "parameters": [] },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -27966,7 +28019,7 @@
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["Insufficient resources!"] },
+      { "code": 401, "indent": 2, "parameters": ["Không đủ tài nguyên!"] },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 412, "indent": 1, "parameters": [] },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -27979,7 +28032,7 @@
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["Insufficient resources!"] },
+      { "code": 401, "indent": 1, "parameters": ["Không đủ tài nguyên!"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
