@@ -27790,7 +27790,7 @@
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["+ Advanced Water Filter Crafted"]
+        "parameters": ["+ Bộ lọc nước tiên tiến được chế tạo"]
       },
       { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
       { "code": 108, "indent": 0, "parameters": ["<Icon: 288>"] },
@@ -27806,10 +27806,10 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Oooh!\\! An artsy request?!"]
+        "parameters": ["Oooh!\\! Một yêu cầu nghệ thuật?!"]
       },
       { "code": 101, "indent": 2, "parameters": ["1Fiona1", 3, 0, 2] },
-      { "code": 401, "indent": 2, "parameters": ["This'll be a ton of fun!"] },
+      { "code": 401, "indent": 2, "parameters": ["Sẽ rất vui đây!"] },
       { "code": 221, "indent": 2, "parameters": [] },
       { "code": 230, "indent": 2, "parameters": [30] },
       {
@@ -27870,7 +27870,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Water Filter(+) must be crafted first!"]
+        "parameters": ["Đầu tiên phải chế tạo Bộ lọc nước (+)!"]
       },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 412, "indent": 1, "parameters": [] },
