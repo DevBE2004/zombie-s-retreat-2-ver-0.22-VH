@@ -27773,9 +27773,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": [
-          "I should probably make sure she's not with me first."
-        ]
+        "parameters": ["I should probably make sure she's not with me first."]
       },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 411, "indent": 0, "parameters": [] },
@@ -27956,46 +27954,32 @@
       { "code": 222, "indent": 3, "parameters": [] },
       { "code": 101, "indent": 3, "parameters": ["1Fiona1", 1, 0, 2] },
       {
-    "code": 401,
-    "indent": 3,
-    "parameters": [
-      "Cô Bridgette xinh quá!"
-    ]
-  },
-  {
-    "code": 101,
-    "indent": 3,
-    "parameters": [
-      "1Fiona1",
-      2,
-      0,
-      2
-    ]
-  },
-  {
-    "code": 401,
-    "indent": 3,
-    "parameters": [
-      "Tôi ghen tị quá.\\! Tôi muốn được phong cách như vậy..."
-    ]
-  },
-  {
-    "code": 101,
-    "indent": 3,
-    "parameters": [
-      "1Fiona1",
-      3,
-      0,
-      2
-    ]
-  },
-  {
-    "code": 401,
-    "indent": 3,
-    "parameters": [
-      "Có lẽ tôi sẽ xem xét mua một bộ yếm hàng hiệu mới!"
-    ]
-  },
+        "code": 401,
+        "indent": 3,
+        "parameters": ["Cô Bridgette xinh quá!"]
+      },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": ["1Fiona1", 2, 0, 2]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "Tôi ghen tị quá.\\! Tôi muốn được phong cách như vậy..."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": ["1Fiona1", 3, 0, 2]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["Có lẽ tôi sẽ xem xét mua một bộ yếm hàng hiệu mới!"]
+      },
       { "code": 0, "indent": 3, "parameters": [] },
       { "code": 411, "indent": 2, "parameters": [] },
       {
@@ -31795,201 +31779,82 @@
   {
     "id": 239,
     "list": [
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu đánh giá bật menu"]
-      },
+      { "code": 108, "indent": 0, "parameters": ["<Menu Enable Eval>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Kiểm tra nếu công tắc 398 đang BẬT"]
+        "parameters": ["   if ($gameSwitches.value(398)) {"]
       },
+      { "code": 408, "indent": 0, "parameters": ["     enabled = false;"] },
+      { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+      { "code": 408, "indent": 0, "parameters": ["     enabled = true;"] },
+      { "code": 408, "indent": 0, "parameters": ["   }"] },
+      { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
       {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Tắt tùy chọn menu nếu công tắc 398 đang BẬT"]
-      },
+"code": 408,
+"indent": 0,
+"parameters": ["Chiếu sáng màn đêm bằng một bộ đèn đường!"]
+},
+{
+"code": 408,
+"indent": 0,
+"parameters": ["Sẽ giúp cải thiện giao diện của The Grid."]
+},
+      { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
+      { "code": 408, "indent": 0, "parameters": ["\\i[318]:\\v[32]/2"] },
+      { "code": 408, "indent": 0, "parameters": ["\\i[313]:\\v[37]/4"] },
+      { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Icon: 281>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Picture: Z Craft Lamps>"] },
+      { "code": 111, "indent": 0, "parameters": [1, 32, 0, 1, 1] },
+      { "code": 111, "indent": 1, "parameters": [1, 37, 0, 2, 1] },
+      { "code": 126, "indent": 2, "parameters": [4, 1, 0, 2] },
+      { "code": 126, "indent": 2, "parameters": [1, 1, 0, 4] },
+      { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
       {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Khối else để bật tùy chọn menu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Bật tùy chọn menu nếu công tắc 398 đang TẮT"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc đánh giá bật menu"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu mô tả trợ giúp"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Chiếu sáng ban đêm với một bộ đèn đường!"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Sẽ giúp cải thiện diện mạo của The Grid."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc mô tả trợ giúp"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu văn bản phụ"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Văn bản phụ: Tiêu đề yêu cầu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Yêu cầu: Vật phẩm 318, số lượng = biến 32 chia 2"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Yêu cầu: Vật phẩm 313, số lượng = biến 37 chia 4"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc văn bản phụ"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Đặt biểu tượng thành ID 281"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Đặt hình ảnh thành 'Z Craft Lamps'"]
-      },
-      {
-        "code": 111,
-        "indent": 0,
-        "parameters": [1, 32, 0, 1, 1]
-      },
-      {
-        "code": 111,
-        "indent": 1,
-        "parameters": [1, 37, 0, 2, 1]
-      },
-      {
-        "code": 126,
-        "indent": 2,
-        "parameters": [4, 1, 0, 2]
-      },
-      {
-        "code": 126,
-        "indent": 2,
-        "parameters": [1, 1, 0, 4]
-      },
-      {
-        "code": 101,
-        "indent": 2,
-        "parameters": ["1Fiona1", 5, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 2,
-        "parameters": [
-          "// Fiona nói: Tương lai của chúng ta trông thật sáng sủa!"
-        ]
-      },
-      {
-        "code": 221,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 121,
-        "indent": 2,
-        "parameters": [398, 398, 0]
-      },
-      {
-        "code": 230,
-        "indent": 2,
-        "parameters": [30]
-      },
-      {
-        "code": 250,
-        "indent": 2,
-        "parameters": [
-          { "name": "Paralyze1", "volume": 45, "pitch": 100, "pan": 0 }
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 2,
-        "parameters": [60]
-      },
-      {
-        "code": 250,
-        "indent": 2,
-        "parameters": [
-          { "name": "Paralyze2", "volume": 45, "pitch": 90, "pan": 0 }
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 2,
-        "parameters": [60]
-      },
-      {
-        "code": 250,
-        "indent": 2,
-        "parameters": [
-          { "name": "Paralyze3", "volume": 45, "pitch": 100, "pan": 0 }
-        ]
-      },
-      {
-        "code": 230,
-        "indent": 2,
-        "parameters": [30]
-      },
-      {
-        "code": 222,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 101,
-        "indent": 2,
-        "parameters": ["1Fiona1", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 2,
-        "parameters": [
-          "// Fiona nói: Bây giờ chúng ta có thêm đèn để giúp vào ban đêm."
-        ]
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 411,
-        "indent": 1,
-        "parameters": []
-      },
+"code": 401,
+"indent": 2,
+"parameters": ["Tương lai của chúng ta tươi sáng!"]
+},
+
+{ "code": 221, "indent": 2, "parameters": [] },
+{ "code": 121, "indent": 2, "parameters": [398, 398, 0] },
+{ "code": 230, "indent": 2, "parameters": [30] },
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{ "name": "Paralyze1", "volume": 45, "pitch": 100, "pan": 0 }
+]
+},
+{ "code": 230, "indent": 2, "tham số": [60] },
+{
+"mã": 250,
+"thụt lề": 2,
+"tham số": [
+{ "tên": "Paralyze2", "khối lượng": 45, "độ cao": 90, "pan": 0 }
+]
+},
+{ "mã": 230, "thụt lề": 2, "tham số": [60] },
+{
+"mã": 250,
+"thụt lề": 2,
+"tham số": [
+{ "tên": "Paralyze3", "khối lượng": 45, "độ cao": 100, "pan": 0 }
+]
+},
+{ "mã": 230, "thụt lề": 2, "tham số": [30] },
+{ "mã": 222, "thụt lề": 2, "parameters": [] },
+{ "code": 101, "indent": 2, "parameters": ["1Fiona1", 0, 0, 2] },
+{
+"code": 401,
+"indent": 2,
+"parameters": ["Bây giờ chúng ta có thêm một số đèn để hỗ trợ vào ban đêm."]
+},
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
       {
         "code": 250,
         "indent": 2,
@@ -31997,36 +31862,12 @@
           { "name": "Buzzer1", "volume": 65, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 101,
-        "indent": 2,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 2,
-        "parameters": ["// Thông báo: Thiếu tài nguyên!"]
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 411,
-        "indent": 0,
-        "parameters": []
-      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 2, "parameters": ["Không đủ tài nguyên!"] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
       {
         "code": 250,
         "indent": 1,
@@ -32034,31 +31875,11 @@
           { "name": "Buzzer1", "volume": 65, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 101,
-        "indent": 1,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": ["// Thông báo: Thiếu tài nguyên!"]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 0,
-        "parameters": []
-      }
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 1, "parameters": ["Không đủ tài nguyên!"] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 0, "indent": 0, "parameters": [] }
     ],
     "name": "Street Lamps",
     "switchId": 1,
