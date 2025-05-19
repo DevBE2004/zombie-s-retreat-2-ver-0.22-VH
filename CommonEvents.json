@@ -23892,98 +23892,42 @@
   {
     "id": 163,
     "list": [
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["<Menu Visible Eval>"]
-      },
+      { "code": 108, "indent": 0, "parameters": ["<Menu Visible Eval>"] },
       {
         "code": 408,
         "indent": 0,
         "parameters": ["   if ($gameSwitches.value(394)) {"]
       },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["     visible = true;"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["   } else {"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["     visible = false;"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["   }"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["<Menu Enable Eval>"]
-      },
+      { "code": 408, "indent": 0, "parameters": ["     visible = true;"] },
+      { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+      { "code": 408, "indent": 0, "parameters": ["     visible = false;"] },
+      { "code": 408, "indent": 0, "parameters": ["   }"] },
+      { "code": 108, "indent": 0, "parameters": ["<Menu Enable Eval>"] },
       {
         "code": 408,
         "indent": 0,
         "parameters": ["   if ($gameSwitches.value(395)) {"]
       },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["     enabled = false;"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["   } else {"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["     enabled = true;"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["   }"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["<Help Description>"]
-      },
+      { "code": 408, "indent": 0, "parameters": ["     enabled = false;"] },
+      { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+      { "code": 408, "indent": 0, "parameters": ["     enabled = true;"] },
+      { "code": 408, "indent": 0, "parameters": ["   }"] },
+      { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
       {
         "code": 408,
         "indent": 0,
         "parameters": [
-          "Một bộ lọc nước hiệu suất cao sản xuất nước trong suốt!"
+          "A highly efficient water filter producing crystal clear water!"
         ]
       },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["Nó sẽ cung cấp rất nhiều nước sạch mỗi ngày."]
+        "parameters": ["It will provide a lot of fresh water every day."]
       },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["</Help Description>"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["<Subtext>"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["     - Yêu cầu -"]
-      },
+      { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
       {
         "code": 408,
         "indent": 0,
@@ -23994,198 +23938,54 @@
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["+ Bộ Lọc Nước Cơ Bản Đã Được Chế Tác"]
+        "parameters": ["+ Basic Water Filter Crafted"]
       },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["</Subtext>"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["<Icon: 288>"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["<Picture: Z Craft Water2>"]
-      },
-      {
-        "code": 111,
-        "indent": 0,
-        "parameters": [1, 35, 0, 4, 1]
-      },
-      {
-        "code": 111,
-        "indent": 1,
-        "parameters": [1, 37, 0, 5, 1]
-      },
-      {
-        "code": 111,
-        "indent": 2,
-        "parameters": [1, 32, 0, 2, 1]
-      },
-      {
-        "code": 111,
-        "indent": 3,
-        "parameters": [0, 385, 0]
-      },
-      {
-        "code": 126,
-        "indent": 4,
-        "parameters": [1, 1, 0, 5]
-      },
-      {
-        "code": 126,
-        "indent": 4,
-        "parameters": [6, 1, 0, 4]
-      },
-      {
-        "code": 126,
-        "indent": 4,
-        "parameters": [4, 1, 0, 2]
-      },
-      {
-        "code": 111,
-        "indent": 4,
-        "parameters": [1, 82, 0, 2, 0]
-      },
-      {
-        "code": 122,
-        "indent": 5,
-        "parameters": [82, 82, 0, 0, 4]
-      },
-      {
-        "code": 0,
-        "indent": 5,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 4,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 4,
-        "parameters": [1, 83, 0, 2, 0]
-      },
-      {
-        "code": 122,
-        "indent": 5,
-        "parameters": [83, 83, 0, 0, 4]
-      },
-      {
-        "code": 0,
-        "indent": 5,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 4,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 4,
-        "parameters": [1, 84, 0, 2, 0]
-      },
-      {
-        "code": 122,
-        "indent": 5,
-        "parameters": [84, 84, 0, 0, 4]
-      },
-      {
-        "code": 0,
-        "indent": 5,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 4,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 4,
-        "parameters": [1, 85, 0, 2, 0]
-      },
-      {
-        "code": 122,
-        "indent": 5,
-        "parameters": [85, 85, 0, 0, 4]
-      },
-      {
-        "code": 0,
-        "indent": 5,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 4,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 4,
-        "parameters": [1, 90, 0, 2, 0]
-      },
-      {
-        "code": 122,
-        "indent": 5,
-        "parameters": [90, 90, 0, 0, 4]
-      },
-      {
-        "code": 0,
-        "indent": 5,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 4,
-        "parameters": []
-      },
-      {
-        "code": 101,
-        "indent": 4,
-        "parameters": ["1Fiona1", 0, 0, 2]
-      },
+      { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Icon: 288>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Picture: Z Craft Water2>"] },
+      { "code": 111, "indent": 0, "parameters": [1, 35, 0, 4, 1] },
+      { "code": 111, "indent": 1, "parameters": [1, 37, 0, 5, 1] },
+      { "code": 111, "indent": 2, "parameters": [1, 32, 0, 2, 1] },
+      { "code": 111, "indent": 3, "parameters": [0, 385, 0] },
+      { "code": 126, "indent": 4, "parameters": [1, 1, 0, 5] },
+      { "code": 126, "indent": 4, "parameters": [6, 1, 0, 4] },
+      { "code": 126, "indent": 4, "parameters": [4, 1, 0, 2] },
+      { "code": 111, "indent": 4, "parameters": [1, 82, 0, 2, 0] },
+      { "code": 122, "indent": 5, "parameters": [82, 82, 0, 0, 4] },
+      { "code": 0, "indent": 5, "parameters": [] },
+      { "code": 412, "indent": 4, "parameters": [] },
+      { "code": 111, "indent": 4, "parameters": [1, 83, 0, 2, 0] },
+      { "code": 122, "indent": 5, "parameters": [83, 83, 0, 0, 4] },
+      { "code": 0, "indent": 5, "parameters": [] },
+      { "code": 412, "indent": 4, "parameters": [] },
+      { "code": 111, "indent": 4, "parameters": [1, 84, 0, 2, 0] },
+      { "code": 122, "indent": 5, "parameters": [84, 84, 0, 0, 4] },
+      { "code": 0, "indent": 5, "parameters": [] },
+      { "code": 412, "indent": 4, "parameters": [] },
+      { "code": 111, "indent": 4, "parameters": [1, 85, 0, 2, 0] },
+      { "code": 122, "indent": 5, "parameters": [85, 85, 0, 0, 4] },
+      { "code": 0, "indent": 5, "parameters": [] },
+      { "code": 412, "indent": 4, "parameters": [] },
+      { "code": 111, "indent": 4, "parameters": [1, 90, 0, 2, 0] },
+      { "code": 122, "indent": 5, "parameters": [90, 90, 0, 0, 4] },
+      { "code": 0, "indent": 5, "parameters": [] },
+      { "code": 412, "indent": 4, "parameters": [] },
+      { "code": 101, "indent": 4, "parameters": ["1Fiona1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Một cải tiến cho bộ lọc nước, chuẩn bị xong ngay đây!"]
+        "parameters": ["One improvement to a water filter, coming right up!"]
       },
-      {
-        "code": 101,
-        "indent": 4,
-        "parameters": ["1Fiona1", 5, 0, 2]
-      },
+      { "code": 101, "indent": 4, "parameters": ["1Fiona1", 5, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Nhìn kỹ nhé.\\! Đừng chớp mắt!"]
+        "parameters": ["Look closely now.\\! Don't blink!"]
       },
-      {
-        "code": 221,
-        "indent": 4,
-        "parameters": []
-      },
-      {
-        "code": 121,
-        "indent": 4,
-        "parameters": [395, 395, 0]
-      },
-      {
-        "code": 122,
-        "indent": 4,
-        "parameters": [28, 28, 0, 0, 2]
-      },
-      {
-        "code": 230,
-        "indent": 4,
-        "parameters": [30]
-      },
+      { "code": 221, "indent": 4, "parameters": [] },
+      { "code": 121, "indent": 4, "parameters": [395, 395, 0] },
+      { "code": 122, "indent": 4, "parameters": [28, 28, 0, 0, 2] },
+      { "code": 230, "indent": 4, "parameters": [30] },
       {
         "code": 250,
         "indent": 4,
@@ -24193,11 +23993,7 @@
           { "name": "Hammer", "volume": 45, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 230,
-        "indent": 4,
-        "parameters": [60]
-      },
+      { "code": 230, "indent": 4, "parameters": [60] },
       {
         "code": 250,
         "indent": 4,
@@ -24205,11 +24001,7 @@
           { "name": "Hammer", "volume": 45, "pitch": 90, "pan": 0 }
         ]
       },
-      {
-        "code": 230,
-        "indent": 4,
-        "parameters": [60]
-      },
+      { "code": 230, "indent": 4, "parameters": [60] },
       {
         "code": 250,
         "indent": 4,
@@ -24217,58 +24009,32 @@
           { "name": "Water1", "volume": 45, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 230,
-        "indent": 4,
-        "parameters": [30]
-      },
-      {
-        "code": 222,
-        "indent": 4,
-        "parameters": []
-      },
-      {
-        "code": 101,
-        "indent": 4,
-        "parameters": ["1Fiona1", 1, 0, 2]
-      },
+      { "code": 230, "indent": 4, "parameters": [30] },
+      { "code": 222, "indent": 4, "parameters": [] },
+      { "code": 101, "indent": 4, "parameters": ["1Fiona1", 1, 0, 2] },
       {
         "code": 401,
         "indent": 4,
         "parameters": [
-          "Điều này sẽ giúp giải quyết vấn đề nước của chúng ta đáng kể!"
+          "That should help ease our water troubles by quite a bit!"
         ]
       },
-      {
-        "code": 101,
-        "indent": 4,
-        "parameters": ["1Fiona1", 5, 0, 2]
-      },
+      { "code": 101, "indent": 4, "parameters": ["1Fiona1", 5, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Có lẽ chúng ta sẽ còn dư đủ để vui chơi với nước!"]
+        "parameters": [
+          "Maybe we'll have enough left over for gettin' wet and wild!"
+        ]
       },
-      {
-        "code": 101,
-        "indent": 4,
-        "parameters": ["1Fiona1", 3, 0, 2]
-      },
+      { "code": 101, "indent": 4, "parameters": ["1Fiona1", 3, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Tôi xin được uống ngụm đầu tiên!"]
+        "parameters": ["I call dibs on having the first sip!"]
       },
-      {
-        "code": 0,
-        "indent": 4,
-        "parameters": []
-      },
-      {
-        "code": 411,
-        "indent": 3,
-        "parameters": []
-      },
+      { "code": 0, "indent": 4, "parameters": [] },
+      { "code": 411, "indent": 3, "parameters": [] },
       {
         "code": 250,
         "indent": 4,
@@ -24276,36 +24042,16 @@
           { "name": "Buzzer1", "volume": 65, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 101,
-        "indent": 4,
-        "parameters": ["", 0, 0, 2]
-      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Bộ Lọc Nước Cơ Bản phải được chế tác trước!"]
+        "parameters": ["Basic Water Filter must be crafted first!"]
       },
-      {
-        "code": 0,
-        "indent": 4,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 3,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 3,
-        "parameters": []
-      },
-      {
-        "code": 411,
-        "indent": 2,
-        "parameters": []
-      },
+      { "code": 0, "indent": 4, "parameters": [] },
+      { "code": 412, "indent": 3, "parameters": [] },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 411, "indent": 2, "parameters": [] },
       {
         "code": 250,
         "indent": 3,
@@ -24313,36 +24059,12 @@
           { "name": "Buzzer1", "volume": 65, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 101,
-        "indent": 3,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 3,
-        "parameters": ["không đủ tài nguyên!"]
-      },
-      {
-        "code": 0,
-        "indent": 3,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 411,
-        "indent": 1,
-        "parameters": []
-      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 3, "parameters": ["Insufficient resources!"] },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
       {
         "code": 250,
         "indent": 2,
@@ -24350,36 +24072,12 @@
           { "name": "Buzzer1", "volume": 65, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 101,
-        "indent": 2,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 2,
-        "parameters": ["không đủ tài nguyên!"]
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 411,
-        "indent": 0,
-        "parameters": []
-      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 2, "parameters": ["Insufficient resources!"] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
       {
         "code": 250,
         "indent": 1,
@@ -24387,31 +24085,11 @@
           { "name": "Buzzer1", "volume": 65, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 101,
-        "indent": 1,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": ["không đủ tài nguyên!"]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 0,
-        "parameters": []
-      }
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 1, "parameters": ["Insufficient resources!"] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 0, "indent": 0, "parameters": [] }
     ],
     "name": "Water Filter(+)",
     "switchId": 1,
@@ -27579,7 +27257,7 @@
       },
       { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
       { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
-      { "code": 408, "indent": 0, "parameters": ["     - Requirements -"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
       { "code": 408, "indent": 0, "parameters": ["\\i[295]:\\v[36]/4 "] },
       { "code": 408, "indent": 0, "parameters": ["\\i[247]:\\v[38]/4 "] },
       { "code": 408, "indent": 0, "parameters": ["\\i[181]:\\v[33]/2"] },
@@ -27917,7 +27595,7 @@
       },
       { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
       { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
-      { "code": 408, "indent": 0, "parameters": ["     - Requirements -"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
       { "code": 408, "indent": 0, "parameters": ["\\i[247]:\\v[38]/4"] },
       { "code": 408, "indent": 0, "parameters": ["\\i[295]:\\v[36]/3   "] },
       { "code": 408, "indent": 0, "parameters": ["\\i[264]:\\v[34]/3"] },
@@ -28072,189 +27750,68 @@
   {
     "id": 179,
     "list": [
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu đánh giá hiển thị menu"]
-      },
+      { "code": 108, "indent": 0, "parameters": ["<Menu Visible Eval>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Kiểm tra nếu công tắc 120 đang BẬT"]
+        "parameters": ["   if ($gameSwitches.value(120)) {"]
       },
+      { "code": 408, "indent": 0, "parameters": ["     visible = true;"] },
+      { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+      { "code": 408, "indent": 0, "parameters": ["     visible = false;"] },
+      { "code": 408, "indent": 0, "parameters": ["   }"] },
+      { "code": 108, "indent": 0, "parameters": ["<Menu Enable Eval>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Hiển thị tùy chọn menu nếu công tắc 120 đang BẬT"]
+        "parameters": ["   if ($gameSwitches.value(403)) {"]
       },
-
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Khối else để ẩn tùy chọn menu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Ẩn tùy chọn menu nếu công tắc 120 đang TẮT"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc đánh giá hiển thị menu"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu đánh giá bật menu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kiểm tra nếu công tắc 403 đang BẬT"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Tắt tùy chọn menu nếu công tắc 403 đang BẬT"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Khối else để bật tùy chọn menu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Bật tùy chọn menu nếu công tắc 403 đang TẮT"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc đánh giá bật menu"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu mô tả trợ giúp"]
-      },
+      { "code": 408, "indent": 0, "parameters": ["     enabled = false;"] },
+      { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+      { "code": 408, "indent": 0, "parameters": ["     enabled = true;"] },
+      { "code": 408, "indent": 0, "parameters": ["   }"] },
+      { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
       {
         "code": 408,
         "indent": 0,
         "parameters": [
-          "// Mô tả: Một đài phun nước được chạm khắc tinh xảo của \\n[2]!"
+          "Một ​​đài phun nước được điêu khắc tuyệt đẹp của \\n[2]!"
         ]
       },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Mô tả: Tùy chỉnh diện mạo cho Bộ lọc nước (+)"]
+        "parameters": ["Tùy chỉnh giao diện cho Bộ lọc nước (+)."]
       },
+      { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
+      { "code": 408, "indent": 0, "parameters": ["\\i[247]:\\v[38]/2"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Kết thúc mô tả trợ giúp"]
+        "parameters": ["+ Advanced Water Filter Crafted"]
       },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu văn bản phụ"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Văn bản phụ: Tiêu đề yêu cầu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Yêu cầu: Vật phẩm 247, số lượng = biến 38 chia 2"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Yêu cầu: Bộ lọc nước nâng cao đã được chế tạo"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc văn bản phụ"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Đặt biểu tượng thành ID 288"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Đặt hình ảnh thành 'Z Craft Water3'"]
-      },
-      {
-        "code": 111,
-        "indent": 0,
-        "parameters": [1, 38, 0, 2, 1]
-      },
-      {
-        "code": 111,
-        "indent": 1,
-        "parameters": [0, 395, 0]
-      },
-      {
-        "code": 126,
-        "indent": 2,
-        "parameters": [3, 1, 0, 2]
-      },
-      {
-        "code": 117,
-        "indent": 2,
-        "parameters": [208]
-      },
-      {
-        "code": 121,
-        "indent": 2,
-        "parameters": [404, 404, 0]
-      },
-      {
-        "code": 121,
-        "indent": 2,
-        "parameters": [403, 403, 0]
-      },
-      {
-        "code": 121,
-        "indent": 2,
-        "parameters": [402, 402, 0]
-      },
-      {
-        "code": 101,
-        "indent": 2,
-        "parameters": ["1Fiona1", 1, 0, 2]
-      },
+      { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Icon: 288>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Picture: Z Craft Water3>"] },
+      { "code": 111, "indent": 0, "parameters": [1, 38, 0, 2, 1] },
+      { "code": 111, "indent": 1, "parameters": [0, 395, 0] },
+      { "code": 126, "indent": 2, "parameters": [3, 1, 0, 2] },
+      { "code": 117, "indent": 2, "parameters": [208] },
+      { "code": 121, "indent": 2, "parameters": [404, 404, 0] },
+      { "code": 121, "indent": 2, "parameters": [403, 403, 0] },
+      { "code": 121, "indent": 2, "parameters": [402, 402, 0] },
+      { "code": 101, "indent": 2, "parameters": ["1Fiona1", 1, 0, 2] },
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["// Fiona nói: Ooh!\\! Một yêu cầu nghệ thuật sao?!"]
+        "parameters": ["Oooh!\\! An artsy request?!"]
       },
-      {
-        "code": 101,
-        "indent": 2,
-        "parameters": ["1Fiona1", 3, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 2,
-        "parameters": ["// Fiona nói: Việc này sẽ rất vui!"]
-      },
-      {
-        "code": 221,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 230,
-        "indent": 2,
-        "parameters": [30]
-      },
+      { "code": 101, "indent": 2, "parameters": ["1Fiona1", 3, 0, 2] },
+      { "code": 401, "indent": 2, "parameters": ["This'll be a ton of fun!"] },
+      { "code": 221, "indent": 2, "parameters": [] },
+      { "code": 230, "indent": 2, "parameters": [30] },
       {
         "code": 250,
         "indent": 2,
@@ -28262,11 +27819,7 @@
           { "name": "Hammer", "volume": 45, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 230,
-        "indent": 2,
-        "parameters": [60]
-      },
+      { "code": 230, "indent": 2, "parameters": [60] },
       {
         "code": 250,
         "indent": 2,
@@ -28274,11 +27827,7 @@
           { "name": "Hammer", "volume": 45, "pitch": 90, "pan": 0 }
         ]
       },
-      {
-        "code": 230,
-        "indent": 2,
-        "parameters": [60]
-      },
+      { "code": 230, "indent": 2, "parameters": [60] },
       {
         "code": 250,
         "indent": 2,
@@ -28286,126 +27835,30 @@
           { "name": "Water1", "volume": 45, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 230,
-        "indent": 2,
-        "parameters": [40]
-      },
-      {
-        "code": 211,
-        "indent": 2,
-        "parameters": [0]
-      },
-      {
-        "code": 111,
-        "indent": 2,
-        "parameters": [1, 82, 0, 4, 0]
-      },
-      {
-        "code": 201,
-        "indent": 3,
-        "parameters": [0, 3, 27, 8, 8, 0]
-      },
-      {
-        "code": 0,
-        "indent": 3,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 2,
-        "parameters": [1, 83, 0, 4, 0]
-      },
-      {
-        "code": 201,
-        "indent": 3,
-        "parameters": [0, 3, 19, 35, 8, 0]
-      },
-      {
-        "code": 0,
-        "indent": 3,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 2,
-        "parameters": [1, 84, 0, 4, 0]
-      },
-      {
-        "code": 201,
-        "indent": 3,
-        "parameters": [0, 3, 33, 35, 8, 0]
-      },
-      {
-        "code": 0,
-        "indent": 3,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 2,
-        "parameters": [1, 85, 0, 4, 0]
-      },
-      {
-        "code": 201,
-        "indent": 3,
-        "parameters": [0, 3, 7, 16, 8, 0]
-      },
-      {
-        "code": 0,
-        "indent": 3,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 2,
-        "parameters": [1, 90, 0, 4, 0]
-      },
-      {
-        "code": 201,
-        "indent": 3,
-        "parameters": [0, 3, 19, 19, 8, 0]
-      },
-      {
-        "code": 0,
-        "indent": 3,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 411,
-        "indent": 1,
-        "parameters": []
-      },
+      { "code": 230, "indent": 2, "parameters": [40] },
+      { "code": 211, "indent": 2, "parameters": [0] },
+      { "code": 111, "indent": 2, "parameters": [1, 82, 0, 4, 0] },
+      { "code": 201, "indent": 3, "parameters": [0, 3, 27, 8, 8, 0] },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 83, 0, 4, 0] },
+      { "code": 201, "indent": 3, "parameters": [0, 3, 19, 35, 8, 0] },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 84, 0, 4, 0] },
+      { "code": 201, "indent": 3, "parameters": [0, 3, 33, 35, 8, 0] },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 85, 0, 4, 0] },
+      { "code": 201, "indent": 3, "parameters": [0, 3, 7, 16, 8, 0] },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 90, 0, 4, 0] },
+      { "code": 201, "indent": 3, "parameters": [0, 3, 19, 19, 8, 0] },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
       {
         "code": 250,
         "indent": 2,
@@ -28413,36 +27866,16 @@
           { "name": "Buzzer1", "volume": 65, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 101,
-        "indent": 2,
-        "parameters": ["", 0, 0, 2]
-      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["// Thông báo: Bộ lọc nước (+) phải được chế tạo trước!"]
+        "parameters": ["Water Filter(+) must be crafted first!"]
       },
-      {
-        "code": 0,
-        "indent": 2,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 411,
-        "indent": 0,
-        "parameters": []
-      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
       {
         "code": 250,
         "indent": 1,
@@ -28450,31 +27883,11 @@
           { "name": "Buzzer1", "volume": 65, "pitch": 100, "pan": 0 }
         ]
       },
-      {
-        "code": 101,
-        "indent": 1,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": ["// Thông báo: Thiếu tài nguyên!"]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 0,
-        "indent": 0,
-        "parameters": []
-      }
+      { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 1, "parameters": ["Insufficient resources!"] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 0, "indent": 0, "parameters": [] }
     ],
     "name": "Maiden Fountain",
     "switchId": 1,
@@ -31721,86 +31134,26 @@
   {
     "id": 240,
     "list": [
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu mô tả trợ giúp"]
-      },
+      { "code": 108, "indent": 0, "parameters": ["<Mô tả trợ giúp>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Mô tả: Chỉnh sửa bảng màu cho căn cứ của bạn."]
+        "parameters": ["Chỉnh sửa bảng màu cho căn cứ của bạn."]
       },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Gạch mặc định"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc mô tả trợ giúp"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu văn bản phụ"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Văn bản phụ: Tiêu đề yêu cầu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Yêu cầu: Miễn phí để thay đổi."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc văn bản phụ"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Đặt hình ảnh thành 'Z Craft House1'"]
-      },
-      {
-        "code": 221,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 122,
-        "indent": 0,
-        "parameters": [186, 186, 0, 0, 0]
-      },
-      {
-        "code": 230,
-        "indent": 0,
-        "parameters": [60]
-      },
-      {
-        "code": 222,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": ["// Thông báo: Đã thiết lập thiết kế mới."]
-      },
-      {
-        "code": 0,
-        "indent": 0,
-        "parameters": []
-      }
+      { "code": 408, "indent": 0, "parameters": ["Default Brick"] },
+      { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
+      { "code": 408, "indent": 0, "parameters": ["Free to change."] },
+      { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Picture: Z Craft House1>"] },
+      { "code": 221, "indent": 0, "parameters": [] },
+      { "code": 122, "indent": 0, "parameters": [186, 186, 0, 0, 0] },
+      { "code": 230, "indent": 0, "parameters": [60] },
+      { "code": 222, "indent": 0, "parameters": [] },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 0, "parameters": ["New design set."] },
+      { "code": 0, "indent": 0, "parameters": [] }
     ],
     "name": "House Design - Default",
     "switchId": 1,
@@ -31809,116 +31162,36 @@
   {
     "id": 241,
     "list": [
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu đánh giá hiển thị menu"]
-      },
+      { "code": 108, "indent": 0, "parameters": ["<Menu Visible Eval>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Kiểm tra nếu công tắc 231 đang BẬT"]
+        "parameters": ["   if ($gameSwitches.value(231)) {"]
       },
+      { "code": 408, "indent": 0, "parameters": ["     visible = true;"] },
+      { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+      { "code": 408, "indent": 0, "parameters": ["     visible = false;"] },
+      { "code": 408, "indent": 0, "parameters": ["   }"] },
+      { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Hiển thị tùy chọn menu nếu công tắc 231 đang BẬT"]
+        "parameters": ["Chỉnh sửa bảng màu cho căn cứ của bạn."]
       },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Khối else để ẩn tùy chọn menu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Ẩn tùy chọn menu nếu công tắc 231 đang TẮT"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc đánh giá hiển thị menu"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu mô tả trợ giúp"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Chỉnh sửa bảng màu cho căn cứ của bạn."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Họa tiết gạch tối"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc mô tả trợ giúp"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu văn bản phụ"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Văn bản phụ: Tiêu đề yêu cầu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Yêu cầu: Miễn phí để thay đổi."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc văn bản phụ"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Đặt hình ảnh thành 'Z Craft House2'"]
-      },
-      {
-        "code": 221,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 122,
-        "indent": 0,
-        "parameters": [186, 186, 0, 0, 1]
-      },
-      {
-        "code": 230,
-        "indent": 0,
-        "parameters": [60]
-      },
-      {
-        "code": 222,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": ["// Thông báo: Đã thiết lập thiết kế mới."]
-      },
-      {
-        "code": 0,
-        "indent": 0,
-        "parameters": []
-      }
+      { "code": 408, "indent": 0, "parameters": ["Mẫu gạch tối"] },
+      { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
+      { "code": 408, "indent": 0, "parameters": ["Free to change."] },
+      { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Picture: Z Craft House2>"] },
+      { "code": 221, "indent": 0, "parameters": [] },
+      { "code": 122, "indent": 0, "parameters": [186, 186, 0, 0, 1] },
+      { "code": 230, "indent": 0, "parameters": [60] },
+      { "code": 222, "indent": 0, "parameters": [] },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 0, "parameters": ["New design set."] },
+      { "code": 0, "indent": 0, "parameters": [] }
     ],
     "name": "House Design - Dark Brick",
     "switchId": 1,
@@ -31927,116 +31200,36 @@
   {
     "id": 242,
     "list": [
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu đánh giá hiển thị menu"]
-      },
+      { "code": 108, "indent": 0, "parameters": ["<Menu Visible Eval>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Kiểm tra nếu công tắc 232 đang BẬT"]
+        "parameters": ["   if ($gameSwitches.value(232)) {"]
       },
+      { "code": 408, "indent": 0, "parameters": ["     visible = true;"] },
+      { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+      { "code": 408, "indent": 0, "parameters": ["     visible = false;"] },
+      { "code": 408, "indent": 0, "parameters": ["   }"] },
+      { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Hiển thị tùy chọn menu nếu công tắc 232 đang BẬT"]
+        "parameters": ["Chỉnh sửa bảng màu cho căn cứ của bạn."]
       },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Khối else để ẩn tùy chọn menu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Ẩn tùy chọn menu nếu công tắc 232 đang TẮT"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc đánh giá hiển thị menu"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu mô tả trợ giúp"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Chỉnh sửa bảng màu cho căn cứ của bạn."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Nhà gỗ"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc mô tả trợ giúp"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu văn bản phụ"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Văn bản phụ: Tiêu đề yêu cầu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Yêu cầu: Miễn phí để thay đổi."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc văn bản phụ"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Đặt hình ảnh thành 'Z Craft House3'"]
-      },
-      {
-        "code": 221,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 122,
-        "indent": 0,
-        "parameters": [186, 186, 0, 0, 2]
-      },
-      {
-        "code": 230,
-        "indent": 0,
-        "parameters": [60]
-      },
-      {
-        "code": 222,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": ["// Thông báo: Đã thiết lập thiết kế mới."]
-      },
-      {
-        "code": 0,
-        "indent": 0,
-        "parameters": []
-      }
+      { "code": 408, "indent": 0, "parameters": ["Log Cabin"] },
+      { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
+      { "code": 408, "indent": 0, "parameters": ["Free to change."] },
+      { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Picture: Z Craft House3>"] },
+      { "code": 221, "indent": 0, "parameters": [] },
+      { "code": 122, "indent": 0, "parameters": [186, 186, 0, 0, 2] },
+      { "code": 230, "indent": 0, "parameters": [60] },
+      { "code": 222, "indent": 0, "parameters": [] },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 0, "parameters": ["New design set."] },
+      { "code": 0, "indent": 0, "parameters": [] }
     ],
     "name": "House Design - Log Cabin",
     "switchId": 1,
@@ -32045,116 +31238,36 @@
   {
     "id": 243,
     "list": [
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu đánh giá hiển thị menu"]
-      },
+      { "code": 108, "indent": 0, "parameters": ["<Menu Visible Eval>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Kiểm tra nếu công tắc 231 đang BẬT"]
+        "parameters": ["   if ($gameSwitches.value(231)) {"]
       },
+      { "code": 408, "indent": 0, "parameters": ["     visible = true;"] },
+      { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+      { "code": 408, "indent": 0, "parameters": ["     visible = false;"] },
+      { "code": 408, "indent": 0, "parameters": ["   }"] },
+      { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Hiển thị tùy chọn menu nếu công tắc 231 đang BẬT"]
+        "parameters": ["Chỉnh sửa bảng màu cho căn cứ của bạn."]
       },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Khối else để ẩn tùy chọn menu"]
-      },
-      {
-        "code": 8,
-        "indent": 0,
-        "parameters": ["// Ẩn tùy chọn menu nếu công tắc 231 đang TẮT"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc đánh giá hiển thị menu"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu mô tả trợ giúp"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Chỉnh sửa bảng màu cho căn cứ của bạn."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Hầm ngầm"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc mô tả trợ giúp"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu văn bản phụ"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Văn bản phụ: Tiêu đề yêu cầu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Yêu cầu: Miễn phí để thay đổi."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc văn bản phụ"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Đặt hình ảnh thành 'Z Craft House4'"]
-      },
-      {
-        "code": 221,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 122,
-        "indent": 0,
-        "parameters": [186, 186, 0, 0, 3]
-      },
-      {
-        "code": 230,
-        "indent": 0,
-        "parameters": [60]
-      },
-      {
-        "code": 222,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": ["// Thông báo: Đã thiết lập thiết kế mới."]
-      },
-      {
-        "code": 0,
-        "indent": 0,
-        "parameters": []
-      }
+      { "code": 408, "indent": 0, "parameters": ["The Underground"] },
+      { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
+      { "code": 408, "indent": 0, "parameters": ["Free to change."] },
+      { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Picture: Z Craft House4>"] },
+      { "code": 221, "indent": 0, "parameters": [] },
+      { "code": 122, "indent": 0, "parameters": [186, 186, 0, 0, 3] },
+      { "code": 230, "indent": 0, "parameters": [60] },
+      { "code": 222, "indent": 0, "parameters": [] },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 0, "parameters": ["New design set."] },
+      { "code": 0, "indent": 0, "parameters": [] }
     ],
     "name": "House Design - Underground",
     "switchId": 1,
@@ -32163,116 +31276,36 @@
   {
     "id": 244,
     "list": [
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu đánh giá hiển thị menu"]
-      },
+      { "code": 108, "indent": 0, "parameters": ["<Menu Visible Eval>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Kiểm tra nếu công tắc 265 đang BẬT"]
+        "parameters": ["   if ($gameSwitches.value(265)) {"]
       },
+      { "code": 408, "indent": 0, "parameters": ["     visible = true;"] },
+      { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+      { "code": 408, "indent": 0, "parameters": ["     visible = false;"] },
+      { "code": 408, "indent": 0, "parameters": ["   }"] },
+      { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Hiển thị tùy chọn menu nếu công tắc 265 đang BẬT"]
+        "parameters": ["Chỉnh sửa bảng màu cho căn cứ của bạn."]
       },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Khối else để ẩn tùy chọn menu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Ẩn tùy chọn menu nếu công tắc 265 đang TẮT"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc đánh giá hiển thị menu"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu mô tả trợ giúp"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Chỉnh sửa bảng màu cho căn cứ của bạn."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Sân băng - Sáng"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc mô tả trợ giúp"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu văn bản phụ"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Văn bản phụ: Tiêu đề yêu cầu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Yêu cầu: Miễn phí để thay đổi."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc văn bản phụ"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Đặt hình ảnh thành 'Z Craft House5'"]
-      },
-      {
-        "code": 221,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 122,
-        "indent": 0,
-        "parameters": [186, 186, 0, 0, 5]
-      },
-      {
-        "code": 230,
-        "indent": 0,
-        "parameters": [60]
-      },
-      {
-        "code": 222,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": ["// Thông báo: Đã thiết lập thiết kế mới."]
-      },
-      {
-        "code": 0,
-        "indent": 0,
-        "parameters": []
-      }
+      { "code": 408, "indent": 0, "parameters": ["Frosty Court - Light"] },
+      { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
+      { "code": 408, "indent": 0, "parameters": ["Free to change."] },
+      { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Picture: Z Craft House5>"] },
+      { "code": 221, "indent": 0, "parameters": [] },
+      { "code": 122, "indent": 0, "parameters": [186, 186, 0, 0, 5] },
+      { "code": 230, "indent": 0, "parameters": [60] },
+      { "code": 222, "indent": 0, "parameters": [] },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 0, "parameters": ["New design set."] },
+      { "code": 0, "indent": 0, "parameters": [] }
     ],
     "name": "House Design - Holiday (Light)",
     "switchId": 1,
@@ -32281,116 +31314,36 @@
   {
     "id": 245,
     "list": [
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu đánh giá hiển thị menu"]
-      },
+      { "code": 108, "indent": 0, "parameters": ["<Menu Visible Eval>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Kiểm tra nếu công tắc 265 đang BẬT"]
+        "parameters": ["   if ($gameSwitches.value(265)) {"]
       },
+      { "code": 408, "indent": 0, "parameters": ["     visible = true;"] },
+      { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+      { "code": 408, "indent": 0, "parameters": ["     visible = false;"] },
+      { "code": 408, "indent": 0, "parameters": ["   }"] },
+      { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["// Hiển thị tùy chọn menu nếu công tắc 265 đang BẬT"]
+        "parameters": ["Chỉnh sửa bảng màu cho căn cứ của bạn."]
       },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Khối else để ẩn tùy chọn menu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Ẩn tùy chọn menu nếu công tắc 265 đang TẮT"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc đánh giá hiển thị menu"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu mô tả trợ giúp"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Chỉnh sửa bảng màu cho căn cứ của bạn."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Mô tả: Sân băng - Tối"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc mô tả trợ giúp"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Bắt đầu văn bản phụ"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Văn bản phụ: Tiêu đề yêu cầu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Yêu cầu: Miễn phí để thay đổi."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["// Kết thúc văn bản phụ"]
-      },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["// Đặt hình ảnh thành 'Z Craft House6'"]
-      },
-      {
-        "code": 221,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 122,
-        "indent": 0,
-        "parameters": [186, 186, 0, 0, 6]
-      },
-      {
-        "code": 230,
-        "indent": 0,
-        "parameters": [60]
-      },
-      {
-        "code": 222,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": ["", 0, 0, 2]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": ["// Thông báo: Đã thiết lập thiết kế mới."]
-      },
-      {
-        "code": 0,
-        "indent": 0,
-        "parameters": []
-      }
+      { "code": 408, "indent": 0, "parameters": ["Frosty Court - Dark"] },
+      { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
+      { "code": 408, "indent": 0, "parameters": ["Free to change."] },
+      { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
+      { "code": 108, "indent": 0, "parameters": ["<Picture: Z Craft House6>"] },
+      { "code": 221, "indent": 0, "parameters": [] },
+      { "code": 122, "indent": 0, "parameters": [186, 186, 0, 0, 6] },
+      { "code": 230, "indent": 0, "parameters": [60] },
+      { "code": 222, "indent": 0, "parameters": [] },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+      { "code": 401, "indent": 0, "parameters": ["New design set."] },
+      { "code": 0, "indent": 0, "parameters": [] }
     ],
     "name": "House Design - Holiday (Dark)",
     "switchId": 1,
