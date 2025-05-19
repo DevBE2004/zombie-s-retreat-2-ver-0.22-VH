@@ -136,6 +136,7 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0
   ],
+
   "events": [
     null,
     {
@@ -1786,9 +1787,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": [
-                "Và đó rồi!\\! \\BST[1]Pin cuối cùng mà tôi cần."
-              ]
+              "parameters": ["Và đó rồi!\\! \\BST[1]Pin cuối cùng mà tôi cần."]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
             {

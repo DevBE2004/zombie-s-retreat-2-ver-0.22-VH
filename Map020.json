@@ -84,6 +84,7 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
   ],
+
   "events": [
     null,
     {
@@ -1066,7 +1067,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nhưng có lẽ tôi nên quay lại làm việc ngay bây giờ..."]
+              "parameters": [
+                "Nhưng có lẽ tôi nên quay lại làm việc ngay bây giờ..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {
@@ -1093,7 +1096,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Một ​​luồng năng lượng hỗn loạn tràn vào cơ thể bạn!"]
+              "parameters": [
+                "Một ​​luồng năng lượng hỗn loạn tràn vào cơ thể bạn!"
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [3] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1258,9 +1263,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Vâng!\\! Tôi đã mong chờ điều này suốt cả ngày!"
-              ]
+              "parameters": ["Vâng!\\! Tôi đã mong chờ điều này suốt cả ngày!"]
             },
             {
               "code": 205,
@@ -1339,7 +1342,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nhưng máy định vị của anh thực sự hoạt động rất tốt!"]
+              "parameters": [
+                "Nhưng máy định vị của anh thực sự hoạt động rất tốt!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Tôi biết là thế mà!"] },
@@ -1347,7 +1352,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi sẽ tháo những cục pin đó ra khỏi tay anh ngay bây giờ."]
+              "parameters": [
+                "Tôi sẽ tháo những cục pin đó ra khỏi tay anh ngay bây giờ."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [77, 1, 0, 4] },
             {
@@ -1364,9 +1371,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Nhưng bây giờ tôi phải nghĩ cách trả ơn anh..."
-              ]
+              "parameters": ["Nhưng bây giờ tôi phải nghĩ cách trả ơn anh..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
@@ -1684,7 +1689,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ừ, thật tuyệt khi được hít thở no khí trong lành!"]
+              "parameters": [
+                "Ừ, thật tuyệt khi được hít thở no khí trong lành!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 2, 0, 2] },
             {
@@ -1696,7 +1703,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thiết bị định vị của anh thực sự hoạt động rất tốt!"]
+              "parameters": [
+                "Thiết bị định vị của anh thực sự hoạt động rất tốt!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Tôi biết là thế mà!"] },
@@ -1704,7 +1713,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi sẽ tháo những cục pin đó ra khỏi tay anh ngay bây giờ."]
+              "parameters": [
+                "Tôi sẽ tháo những cục pin đó ra khỏi tay anh ngay bây giờ."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [77, 1, 0, 4] },
             {
@@ -1721,9 +1732,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Nhưng bây giờ tôi phải nghĩ cách trả ơn anh..."
-              ]
+              "parameters": ["Nhưng bây giờ tôi phải nghĩ cách trả ơn anh..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
@@ -1747,7 +1756,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "Bạn biết đấy, vì đã hết lòng giúp đỡ một cô gái đang gặp khó khăn..."
+                "Bạn biết đấy, vì đã hết lòng giúp đỡ một cô gái đang gặp khó khăn..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },

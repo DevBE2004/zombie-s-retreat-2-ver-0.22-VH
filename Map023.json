@@ -138,8 +138,8 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 30, 30,
-    30, 0, 0, 0, 0, 30, 30, 30, 30, 30, 0, 30, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    30, 0, 0, 0, 0, 30, 30, 30, 30, 30, 4, 30, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 30, 30, 30, 30, 0, 0, 0, 30, 30, 30, 30,
@@ -157,6 +157,7 @@
     30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30,
     0, 0, 30, 30, 30
   ],
+
   "events": [
     null,
     {
@@ -1474,7 +1475,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters":["Hah!\\! Nó làm bạn giật mình!"]
+              "parameters": ["Hah!\\! Nó làm bạn giật mình!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
@@ -1488,7 +1489,9 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Có một cục pin ở gần đây.\\! Chúng ta hãy tìm nó!"]
+              "parameters": [
+                "Có một cục pin ở gần đây.\\! Chúng ta hãy tìm nó!"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -1510,9 +1513,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": [
-                "Điều đó có nghĩa là có một cục pin ở gần đâu đó."
-              ]
+              "parameters": ["Điều đó có nghĩa là có một cục pin ở gần đâu đó."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1722,13 +1723,15 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Ồ đúng rồi!\\! Đây là cục pin cuối cùng của chúng ta!"]
+              "parameters": [
+                "Ồ đúng rồi!\\! Đây là cục pin cuối cùng của chúng ta!"
+              ]
             },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters":["Bạn là nhà vô địch săn kho báu được chứng nhận!"]
+              "parameters": ["Bạn là nhà vô địch săn kho báu được chứng nhận!"]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
             {
@@ -1757,7 +1760,9 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Đã đến lúc về nhà và đưa những thứ này cho Fiona."]
+              "parameters": [
+                "Đã đến lúc về nhà và đưa những thứ này cho Fiona."
+              ]
             },
             { "code": 122, "indent": 3, "parameters": [150, 150, 0, 0, 2] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1778,7 +1783,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters":["Nhưng tôi vẫn còn phải tìm thêm!"]
+              "parameters": ["Nhưng tôi vẫn còn phải tìm thêm!"]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },

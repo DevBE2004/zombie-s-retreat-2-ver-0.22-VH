@@ -138,6 +138,7 @@
     30, 30, 30, 0, 30, 30, 30, 30, 0, 0, 0, 0, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0
   ],
+
   "events": [
     null,
     {
@@ -910,7 +911,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Tìm thấy cầu chì điện!"]
+              "parameters": ["Tìm thấy cầu chì điện!"]
             },
             { "code": 126, "indent": 0, "parameters": [4, 0, 0, 1] },
             { "code": 117, "indent": 0, "parameters": [101] },
@@ -1799,13 +1800,17 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters":["Bạn biết điều đó có nghĩa là gì, phải không \\n[1]?"]
+              "parameters": [
+                "Bạn biết điều đó có nghĩa là gì, phải không \\n[1]?"
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters":["Chỉ cần tìm thêm một cục pin nữa thôi, đúng không?"]
+              "parameters": [
+                "Chỉ cần tìm thêm một cục pin nữa thôi, đúng không?"
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
             {
@@ -1820,9 +1825,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": [
-                "Và đó rồi!\\! \\BST[1]Pin cuối cùng mà tôi cần."
-              ]
+              "parameters": ["Và đó rồi!\\! \\BST[1]Pin cuối cùng mà tôi cần."]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 1, 0, 2] },
             {
