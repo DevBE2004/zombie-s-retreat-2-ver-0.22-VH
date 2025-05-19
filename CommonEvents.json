@@ -27567,7 +27567,7 @@
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["Rekhôngvations for Nadia's bedroom at the motel."]
+        "parameters": ["renovations for Nadia's bedroom at the motel."]
       },
       {
         "code": 408,
@@ -27599,7 +27599,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["A rekhôngvation?\\! Comin' right up!"]
+        "parameters": ["A renovation?\\! Comin' right up!"]
       },
       { "code": 221, "indent": 3, "parameters": [] },
       { "code": 121, "indent": 3, "parameters": [358, 358, 0] },
@@ -27740,18 +27740,18 @@
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["Rekhôngvations for Michelle's bedroom at the motel."]
+        "parameters": ["renovations for Michelle's bedroom at the motel."]
       },
       {
         "code": 408,
         "indent": 0,
         "parameters": [
-          "Michelle is bound to feel more relaxed with this rekhôngvation!"
+          "Michelle is bound to feel more relaxed with this renovation!"
         ]
       },
       { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
       { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
-      { "code": 408, "indent": 0, "parameters": ["     - Requirements -"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
       { "code": 408, "indent": 0, "parameters": ["\\i[313]:\\v[37]/3 "] },
       { "code": 408, "indent": 0, "parameters": ["\\i[247]:\\v[38]/4 "] },
       { "code": 408, "indent": 0, "parameters": ["\\i[181]:\\v[33]/2"] },
@@ -27767,13 +27767,15 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["This is supposed to be a surprise for Michelle..."]
+        "parameters": ["Đây là một bất ngờ cho Michelle..."]
       },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["I should probably make sure she's not with me first."]
+        "parameters": [
+          "Có lẽ tôi nên chắc chắn rằng cô ấy không ở cùng tôi trước đã."
+        ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 411, "indent": 0, "parameters": [] },
@@ -27787,7 +27789,7 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["A rekhôngvation?\\! Comin' right up!"]
+        "parameters": ["Một cuộc cải tạo?\\! Đến ngay đây!"]
       },
       { "code": 221, "indent": 4, "parameters": [] },
       { "code": 121, "indent": 4, "parameters": [354, 354, 0] },
@@ -27811,19 +27813,23 @@
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Michelle should be feelin' awfully chipper after this!"]
+        "parameters": [
+          "Michelle chắc chắn sẽ cảm thấy rất vui vẻ sau chuyện này!"
+        ]
       },
       { "code": 101, "indent": 4, "parameters": ["1Fiona1", 2, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Sometimes when I see her, she looks pretty sad."]
+        "parameters": ["Đôi khi khi tôi nhìn thấy cô ấy, cô ấy trông khá buồn."]
       },
       { "code": 101, "indent": 4, "parameters": ["1Fiona1", 1, 0, 2] },
       {
         "code": 401,
         "indent": 4,
-        "parameters": ["Give her a nice warm hug for me when ya see her!"]
+        "parameters": [
+          "Hãy ôm cô ấy thật ấm áp giúp tôi khi bạn gặp cô ấy nhé!"
+        ]
       },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 411, "indent": 3, "parameters": [] },
@@ -27899,7 +27905,7 @@
       {
         "code": 408,
         "indent": 0,
-        "parameters": ["Rekhôngvations for Bridgette's bedroom at the motel."]
+        "parameters": ["renovations for Bridgette's bedroom at the motel."]
       },
       {
         "code": 408,
@@ -27931,7 +27937,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["A rekhôngvation?\\! Comin' right up!"]
+        "parameters": ["A renovation?\\! Comin' right up!"]
       },
       { "code": 221, "indent": 3, "parameters": [] },
       { "code": 122, "indent": 3, "parameters": [49, 49, 1, 0, 1] },
@@ -29660,264 +29666,88 @@
   {
     "id": 203,
     "list": [
-      {
-        "code": 101,
-        "indent": 0,
-        "parameters": ["", 0, 0, 2]
-      },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["// Thông báo: Bạn sẽ di chuyển cơ sở này đến đâu?"]
+        "parameters": ["Bạn sẽ di chuyển cơ sở này đến đâu?"]
       },
       {
         "code": 355,
         "indent": 0,
-        "parameters": ["// Ẩn tùy chọn 1 ('Tây Bắc') nếu biến 198 bằng 1"]
+        "parameters": ["hide_choice(1, \"$gameVariables.value(198) == 1\")"]
       },
       {
         "code": 355,
         "indent": 0,
-        "parameters": ["// Ẩn tùy chọn 2 ('Đông Bắc') nếu biến 198 bằng 2"]
+        "parameters": ["hide_choice(2, \"$gameVariables.value(198) == 2\")"]
       },
       {
         "code": 355,
         "indent": 0,
-        "parameters": ["// Ẩn tùy chọn 3 ('Tây Nam') nếu biến 198 bằng 3"]
+        "parameters": ["hide_choice(3, \"$gameVariables.value(198) == 3\")"]
       },
       {
         "code": 355,
         "indent": 0,
-        "parameters": ["// Ẩn tùy chọn 4 ('Đông Nam') nếu biến 198 bằng 4"]
+        "parameters": ["hide_choice(4, \"$gameVariables.value(198) == 4\")"]
       },
       {
         "code": 102,
         "indent": 0,
         "parameters": [
-          ["Tây Bắc", "Đông Bắc", "Tây Nam", "Đông Nam", "Hủy"],
+          ["Tây Bắc", "Đông Bắc", "Tây Nam", "Đông Nam", "Hủy bỏ"],
           4,
           0,
           2,
           0
         ]
       },
-      {
-        "code": 402,
-        "indent": 0,
-        "parameters": [0, "// Đã chọn 'Tây Bắc'"]
-      },
-      {
-        "code": 221,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [200, 200, 0, 1, 86]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [86, 86, 0, 1, 199]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 402,
-        "indent": 0,
-        "parameters": [1, "// Đã chọn 'Đông Bắc'"]
-      },
-      {
-        "code": 221,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [200, 200, 0, 1, 87]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [87, 87, 0, 1, 199]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 402,
-        "indent": 0,
-        "parameters": [2, "// Đã chọn 'Tây Nam'"]
-      },
-      {
-        "code": 221,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [200, 200, 0, 1, 88]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [88, 88, 0, 1, 199]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 402,
-        "indent": 0,
-        "parameters": [3, "// Đã chọn 'Đông Nam'"]
-      },
-      {
-        "code": 221,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [200, 200, 0, 1, 89]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [89, 89, 0, 1, 199]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 402,
-        "indent": 0,
-        "parameters": [4, "// Đã chọn 'Hủy'"]
-      },
-      {
-        "code": 119,
-        "indent": 1,
-        "parameters": ["// Nhảy đến nhãn 'End'"]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 404,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 0,
-        "parameters": [1, 198, 0, 1, 0]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [86, 86, 0, 1, 200]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 0,
-        "parameters": [1, 198, 0, 2, 0]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [87, 87, 0, 1, 200]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 0,
-        "parameters": [1, 198, 0, 3, 0]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [88, 88, 0, 1, 200]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 111,
-        "indent": 0,
-        "parameters": [1, 198, 0, 4, 0]
-      },
-      {
-        "code": 122,
-        "indent": 1,
-        "parameters": [89, 89, 0, 1, 200]
-      },
-      {
-        "code": 0,
-        "indent": 1,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 222,
-        "indent": 0,
-        "parameters": []
-      },
-      {
-        "code": 118,
-        "indent": 0,
-        "parameters": ["// Nhãn 'End'"]
-      },
-      {
-        "code": 0,
-        "indent": 0,
-        "parameters": []
-      }
+      { "code": 402, "indent": 0, "parameters": [0, "Tây Bắc"] },
+      { "code": 221, "indent": 1, "parameters": [] },
+      { "code": 122, "indent": 1, "parameters": [200, 200, 0, 1, 86] },
+      { "code": 122, "indent": 1, "parameters": [86, 86, 0, 1, 199] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 402, "indent": 0, "parameters": [1, "Đông Bắc"] },
+      { "code": 221, "indent": 1, "parameters": [] },
+      { "code": 122, "indent": 1, "parameters": [200, 200, 0, 1, 87] },
+      { "code": 122, "indent": 1, "parameters": [87, 87, 0, 1, 199] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 402, "indent": 0, "parameters": [2, "Tây Nam"] },
+      { "code": 221, "indent": 1, "parameters": [] },
+      { "code": 122, "indent": 1, "parameters": [200, 200, 0, 1, 88] },
+      { "code": 122, "indent": 1, "parameters": [88, 88, 0, 1, 199] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 402, "indent": 0, "parameters": [3, "Đông Nam"] },
+      { "code": 221, "indent": 1, "parameters": [] },
+      { "code": 122, "indent": 1, "parameters": [200, 200, 0, 1, 89] },
+      { "code": 122, "indent": 1, "parameters": [89, 89, 0, 1, 199] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 402, "indent": 0, "parameters": [4, "Hủy bỏ"] },
+      { "code": 119, "indent": 1, "parameters": ["Kết thúc"] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 404, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 198, 0, 1, 0] },
+      { "code": 122, "indent": 1, "parameters": [86, 86, 0, 1, 200] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 198, 0, 2, 0] },
+      { "code": 122, "indent": 1, "parameters": [87, 87, 0, 1, 200] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 198, 0, 3, 0] },
+      { "code": 122, "indent": 1, "parameters": [88, 88, 0, 1, 200] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 198, 0, 4, 0] },
+      { "code": 122, "indent": 1, "parameters": [89, 89, 0, 1, 200] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 222, "indent": 0, "parameters": [] },
+      { "code": 118, "indent": 0, "parameters": ["Kết thúc"] },
+      { "code": 0, "indent": 0, "parameters": [] }
     ],
-    "name": "Move Facility Plot",
+    "name": "Di chuyển khu đất cơ sở",
     "switchId": 1,
     "trigger": 0
   },
@@ -31791,15 +31621,15 @@
       { "code": 408, "indent": 0, "parameters": ["   }"] },
       { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
       {
-"code": 408,
-"indent": 0,
-"parameters": ["Chiếu sáng màn đêm bằng một bộ đèn đường!"]
-},
-{
-"code": 408,
-"indent": 0,
-"parameters": ["Sẽ giúp cải thiện giao diện của The Grid."]
-},
+        "code": 408,
+        "indent": 0,
+        "parameters": ["Chiếu sáng màn đêm bằng một bộ đèn đường!"]
+      },
+      {
+        "code": 408,
+        "indent": 0,
+        "parameters": ["Sẽ giúp cải thiện giao diện của The Grid."]
+      },
       { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
       { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
       { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
@@ -31814,45 +31644,47 @@
       { "code": 126, "indent": 2, "parameters": [1, 1, 0, 4] },
       { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
       {
-"code": 401,
-"indent": 2,
-"parameters": ["Tương lai của chúng ta tươi sáng!"]
-},
+        "code": 401,
+        "indent": 2,
+        "parameters": ["Tương lai của chúng ta tươi sáng!"]
+      },
 
-{ "code": 221, "indent": 2, "parameters": [] },
-{ "code": 121, "indent": 2, "parameters": [398, 398, 0] },
-{ "code": 230, "indent": 2, "parameters": [30] },
-{
-"code": 250,
-"indent": 2,
-"parameters": [
-{ "name": "Paralyze1", "volume": 45, "pitch": 100, "pan": 0 }
-]
-},
-{ "code": 230, "indent": 2, "tham số": [60] },
-{
-"mã": 250,
-"thụt lề": 2,
-"tham số": [
-{ "tên": "Paralyze2", "khối lượng": 45, "độ cao": 90, "pan": 0 }
-]
-},
-{ "mã": 230, "thụt lề": 2, "tham số": [60] },
-{
-"mã": 250,
-"thụt lề": 2,
-"tham số": [
-{ "tên": "Paralyze3", "khối lượng": 45, "độ cao": 100, "pan": 0 }
-]
-},
-{ "mã": 230, "thụt lề": 2, "tham số": [30] },
-{ "mã": 222, "thụt lề": 2, "parameters": [] },
-{ "code": 101, "indent": 2, "parameters": ["1Fiona1", 0, 0, 2] },
-{
-"code": 401,
-"indent": 2,
-"parameters": ["Bây giờ chúng ta có thêm một số đèn để hỗ trợ vào ban đêm."]
-},
+      { "code": 221, "indent": 2, "parameters": [] },
+      { "code": 121, "indent": 2, "parameters": [398, 398, 0] },
+      { "code": 230, "indent": 2, "parameters": [30] },
+      {
+        "code": 250,
+        "indent": 2,
+        "parameters": [
+          { "name": "Paralyze1", "volume": 45, "pitch": 100, "pan": 0 }
+        ]
+      },
+      { "code": 230, "indent": 2, "tham số": [60] },
+      {
+        "mã": 250,
+        "thụt lề": 2,
+        "tham số": [
+          { "tên": "Paralyze2", "khối lượng": 45, "độ cao": 90, "pan": 0 }
+        ]
+      },
+      { "mã": 230, "thụt lề": 2, "tham số": [60] },
+      {
+        "mã": 250,
+        "thụt lề": 2,
+        "tham số": [
+          { "tên": "Paralyze3", "khối lượng": 45, "độ cao": 100, "pan": 0 }
+        ]
+      },
+      { "mã": 230, "thụt lề": 2, "tham số": [30] },
+      { "mã": 222, "thụt lề": 2, "parameters": [] },
+      { "code": 101, "indent": 2, "parameters": ["1Fiona1", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "Bây giờ chúng ta có thêm một số đèn để hỗ trợ vào ban đêm."
+        ]
+      },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 411, "indent": 1, "parameters": [] },
       {
