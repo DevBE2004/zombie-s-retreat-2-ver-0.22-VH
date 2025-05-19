@@ -1766,30 +1766,31 @@
       {
         "code": 102,
         "indent": 0,
-        "parameters": [["Nhật ký Nhiệm vụ", "Album Ảnh", "Rời đi"], 2, 0, 1, 0]
+        "parameters": [["nhật kí nhiệm vụ", "Album ảnh", "rời đi"], 2, 0, 1, 0]
       },
-      { "code": 402, "indent": 0, "parameters": [0, "Nhật ký Nhiệm vụ"] },
+      { "code": 402, "indent": 0, "parameters": [0, "nhật kí nhiệm vụ"] },
       { "code": 355, "indent": 1, "parameters": ["Galv.QUEST.viewLog();"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [1, "Album Ảnh"] },
-      { "code": 356, "indent": 1, "parameters": ["thư_viện_hình_ảnh"] },
+      { "code": 402, "indent": 0, "parameters": [1, "Album ảnh"] },
+      { "code": 356, "indent": 1, "parameters": ["picture_gallery"] },
       { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 402, "indent": 0, "parameters": [2, "Rời đi"] },
+      { "code": 402, "indent": 0, "parameters": [2, "rời đi"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 404, "indent": 0, "parameters": [] },
       { "code": 0, "indent": 0, "parameters": [] }
     ],
-    "name": "Nhật ký Nhiệm vụ",
+    "name": "Nhật ký nhiệm vụ",
     "switchId": 1,
     "trigger": 0
   },
   {
     "id": 30,
     "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-    "name": "Album Ảnh",
+    "name": "Album ảnh",
     "switchId": 1,
     "trigger": 0
   },
+
   {
     "id": 31,
     "list": [
