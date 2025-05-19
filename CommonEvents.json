@@ -9258,7 +9258,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Chị thật nhẹ nhõm khi cuối cùng cũng về nhà với Skhôngwball!"
+          "Chị thật nhẹ nhõm khi cuối cùng cũng về nhà với Snowball!"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -9292,7 +9292,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Skhôngwball chắc hẳn đã cảm nhận được nỗi đau của chị và cố gắng an ủi."
+          "Snowball chắc hẳn đã cảm nhận được nỗi đau của chị và cố gắng an ủi."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Michelle1", 4, 0, 2] },
@@ -9320,7 +9320,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Skhôngwball hẳn đang trốn ở tầng hầm của Bệnh viện."]
+        "parameters": ["Snowball hẳn đang trốn ở tầng hầm của Bệnh viện."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Michelle1", 1, 0, 2] },
       {
@@ -9343,7 +9343,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Chị muốn tìm Skhôngwball, đúng không?"]
+        "parameters": ["Chị muốn tìm Snowball, đúng không?"]
       },
       { "code": 101, "indent": 1, "parameters": ["1Michelle1", 2, 0, 2] },
       {
@@ -9366,7 +9366,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Và hơn nữa-\\! \\BST[2]Em muốn giành được lòng tin của Skhôngwball!"
+          "Và hơn nữa-\\! \\BST[2]Em muốn giành được lòng tin của Snowball!"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Michelle1", 2, 0, 2] },
@@ -9444,7 +9444,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lần này chúng ta sẽ bắt được Skhôngwball.\\! \\BST[2]Dù thế nào đi nữa!"
+          "Lần này chúng ta sẽ bắt được Snowball.\\! \\BST[2]Dù thế nào đi nữa!"
         ]
       },
       {
@@ -9503,7 +9503,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Hãy quay lại Bệnh viện để dụ Skhôngwball ra khỏi chỗ trốn."
+          "Hãy quay lại Bệnh viện để dụ Snowball ra khỏi chỗ trốn."
         ]
       },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -9522,7 +9522,7 @@
         "code": 401,
         "indent": 3,
         "parameters": [
-          "Khi xong, hãy quay lại Bệnh viện để dụ Skhôngwball ra khỏi chỗ trốn."
+          "Khi xong, hãy quay lại Bệnh viện để dụ Snowball ra khỏi chỗ trốn."
         ]
       },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -9576,7 +9576,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Mai chị sẽ nghĩ ra kế hoạch mới để tìm Skhôngwball."]
+        "parameters": ["Mai chị sẽ nghĩ ra kế hoạch mới để tìm Snowball."]
       },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 411, "indent": 1, "parameters": [] },
@@ -9593,7 +9593,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Còn chị thì sao?\\! Chị có ý tưởng gì để bắt Skhôngwball chưa?"
+          "Còn chị thì sao?\\! Chị có ý tưởng gì để bắt Snowball chưa?"
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -9606,7 +9606,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Skhôngwball thích âm thanh của đồ chơi!"]
+        "parameters": ["Snowball thích âm thanh của đồ chơi!"]
       },
       { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
       {
@@ -9669,7 +9669,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Được rồi.\\! Hãy tìm tạp chí đó và em sẽ làm Đồ chơi Mèo để dụ Skhôngwball!"
+          "Được rồi.\\! Hãy tìm tạp chí đó và em sẽ làm Đồ chơi Mèo để dụ Snowball!"
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -9695,7 +9695,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["Chúng ta nên sớm quay lại Bệnh viện để tìm Skhôngwball."]
+        "parameters": ["Chúng ta nên sớm quay lại Bệnh viện để tìm Snowball."]
       },
       { "code": 101, "indent": 2, "parameters": ["1Michelle1", 2, 0, 2] },
       {
@@ -31611,7 +31611,7 @@
         "code": 355,
         "indent": 0,
         "parameters": [
-          "// Ẩn tùy chọn 4 ('Holiday (Skhôngwy)') nếu công tắc 265 đang TẮT"
+          "// Ẩn tùy chọn 4 ('Holiday (Snowy)') nếu công tắc 265 đang TẮT"
         ]
       },
       {

@@ -1585,7 +1585,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Un-hand him, right khôngw."]
+              "parameters": ["Un-hand him, right now."]
             },
             { "code": 213, "indent": 0, "parameters": [5, 2, true] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -1934,64 +1934,64 @@
             { "code": 213, "indent": 0, "parameters": [4, 6, true] },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 4, 0, 2] },
             {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["You poor thing.\\! You're khôngt hurt, are you?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không, I'm okay."] },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["That's wonderful news!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You kkhôngw, it's dangerous to go through any shadowy or suspicious looking alleyways."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You never kkhôngw what sort of dangers can lurk in them!"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Hah!\\! \\BST[1]Yeah, I've heard that one before."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Thanks for your help."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Of course!"] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I guess I should probably head back home khôngw before my \\n[5] gets mad."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Goodbye, Crimson Milf."]
-            },
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Con yêu! Con không bị thương chứ?"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["không, con ổn."] },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Thật là tin tuyệt vời!"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 4, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Con biết đấy, đi qua những con hẻm tối tăm hoặc đáng ngờ rất nguy hiểm."
+    ]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Con không bao giờ biết những nguy hiểm nào có thể ẩn nấp trong đó đâu!"
+    ]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Hah!! \\BST[1]Vâng, con nghe câu đó quen rồi."
+    ]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Cảm ơn vì đã giúp đỡ."]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["Đương nhiên rồi!"] },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Con đoán có lẽ con nên về nhà bây giờ trước khi \\n[5] nổi giận."
+    ]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Tạm biệt, Crimson Milf."]
+  },
             {
               "code": 205,
               "indent": 0,
@@ -2071,7 +2071,7 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["W-Wait one second!"] },
+            { "code": 401, "indent": 0, "parameters": ["chờ một chút!"] },
             {
               "code": 205,
               "indent": 0,
@@ -2152,36 +2152,92 @@
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
             {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Let me assist you back home!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I kkhôngw this city like the back of my hand."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["You want to walk home with me?\\! Really?!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["I'll get you home with plenty of time to spare!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Just in time before your \\n[5] becomes upset!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["khôngw up you go!"] },
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Con yêu! Con không bị thương chứ?"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["không, con ổn."] },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Thật là tin tuyệt vời!"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 4, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Con biết đấy, đi qua những con hẻm tối tăm hoặc đáng ngờ rất nguy hiểm."
+    ]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Con không bao giờ biết những nguy hiểm nào có thể ẩn nấp trong đó đâu!"
+    ]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Hah!! \\BST[1]Vâng, con nghe câu đó quen rồi."
+    ]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Cảm ơn vì đã giúp đỡ."]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["Đương nhiên rồi!"] },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Con đoán có lẽ con nên về nhà bây giờ trước khi \\n[5] nổi giận."
+    ]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Tạm biệt, Crimson Milf."]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["Để mẹ giúp con về nhà!"] },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Mẹ biết rõ thành phố này như lòng bàn tay."]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Con muốn đi bộ về nhà với mẹ sao!? Thật á?!"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 6, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Mẹ sẽ đưa con về nhà kịp giờ!"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Vừa kịp lúc trước khi \\n[5] của con nổi giận!"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["Giờ thì đứng lên nào!"] },
             {
               "code": 205,
               "indent": 0,
@@ -2271,9 +2327,9 @@
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["W-Whoa ~ !"] },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Light as a feather!"] },
+           { "code": 401, "indent": 0, "parameters": ["W-Woah ~ !"] },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["Nhẹ như lông hồng!"] },
             {
               "code": 205,
               "indent": 0,
@@ -2375,59 +2431,55 @@
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Uhh ~\\! M-Miss Crimson?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["My home is the other way!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["We're taking a special detour!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Somewhere nice and private ~ ♥️"]
-            },
-            { "code": 213, "indent": 0, "parameters": [4, 4, false] },
-            { "code": 230, "indent": 0, "parameters": [90] },
-            { "code": 221, "indent": 0, "parameters": [] },
-            { "code": 230, "indent": 0, "parameters": [60] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Um, isn't this just akhôngther suspicious alley, Miss Crimson?"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["It's khôngt just any regular alleyway."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 6, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["This is my super, sexy, milf alleyway!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 7, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Let me show you around ~ ♥️"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Ư... Ưm ~\\! Cô Crimson?"] },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Nhà của em ở hướng ngược lại!"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Chúng ta đang đi đường vòng đặc biệt!"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 6, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Một nơi thật đẹp và riêng tư ~ ♥️"]
+  },
+  { "code": 213, "indent": 0, "parameters": [4, 4, false] },
+  { "code": 230, "indent": 0, "parameters": [90] },
+  { "code": 221, "indent": 0, "parameters": [] },
+  { "code": 230, "indent": 0, "parameters": [60] },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": [
+      "Um, chẳng phải đây lại là một con hẻm đáng ngờ khác sao, cô Crimson?"
+    ]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Đây không chỉ là một con hẻm bình thường đâu."]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 6, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Đây là con hẻm siêu quyến rũ của quý cô milf này!"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Mom8", 7, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Để em dẫn đường cho anh xem ~ ♥️"]
+  },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 122, "indent": 0, "parameters": [7, 7, 0, 0, 35] },
             { "code": 117, "indent": 0, "parameters": [28] },
@@ -2949,7 +3001,7 @@
     },
     {
       "id": 8,
-      "name": "Bun Kkhôngcked",
+      "name": "Bun Knocked",
       "note": "",
       "pages": [
         {
@@ -2998,7 +3050,7 @@
     },
     {
       "id": 9,
-      "name": "Vest Kkhôngcked",
+      "name": "Vest Knocked",
       "note": "",
       "pages": [
         {
@@ -3047,7 +3099,7 @@
     },
     {
       "id": 10,
-      "name": "Mohawk Kkhôngcked",
+      "name": "Mohawk Knocked",
       "note": "",
       "pages": [
         {
@@ -3096,7 +3148,7 @@
     },
     {
       "id": 11,
-      "name": "Cap Kkhôngcked",
+      "name": "Cap Knocked",
       "note": "",
       "pages": [
         {

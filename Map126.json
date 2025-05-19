@@ -1864,7 +1864,7 @@
     },
     {
       "id": 9,
-      "name": "DoorSETop + Skhôngwball 1 Cutscene",
+      "name": "DoorSETop + Snowball 1 Cutscene",
       "note": "",
       "pages": [
         {
@@ -2158,7 +2158,7 @@
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Skhôngwball?!"] },
+            { "code": 401, "indent": 0, "parameters": ["Snowball?!"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
@@ -2218,7 +2218,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ôi, mèo dễ thương quá!\\! \\BST[1]Skhôngwball có phải của cậu không?"]
+              "parameters": ["Ôi, mèo dễ thương quá!\\! \\BST[1]Snowball có phải của cậu không?"]
             },
             {
               "code": 205,
@@ -2252,7 +2252,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Skhôngwball là một con mèo mà một y tá đã tìm thấy một ngày nọ."
+                "Snowball là một con mèo mà một y tá đã tìm thấy một ngày nọ."
               ]
             },
             {
@@ -2464,7 +2464,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không sao đâu.\\! Skhôngwball chưa bao giờ thực sự thích đàn ông cả."
+                "không sao đâu.\\! Snowball chưa bao giờ thực sự thích đàn ông cả."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 4, 0, 2] },
@@ -2527,7 +2527,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Anh muốn tìm Skhôngwball để chúng ta có thể đưa cô ấy về nhà phải không?"
+                "Anh muốn tìm Snowball để chúng ta có thể đưa cô ấy về nhà phải không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
@@ -2546,7 +2546,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mọi người ở nhà đều rất muốn gặp Skhôngwball."]
+              "parameters": ["Mọi người ở nhà đều rất muốn gặp Snowball."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 6, 0, 2] },
@@ -2570,7 +2570,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*hít mũi*\\! \\BST[2]Chúng ta đi tìm Skhôngwball thôi!"]
+              "parameters": ["*hít mũi*\\! \\BST[2]Chúng ta đi tìm Snowball thôi!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 203, "indent": 0, "parameters": [28, 0, 1, 25, 2] },
@@ -2918,7 +2918,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "Bạn có nghe thấy không?\\! \\BST[1]Skhôngwball ở trong đó!"
+               "Bạn có nghe thấy không?\\! \\BST[1]Snowball ở trong đó!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
@@ -2995,7 +2995,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nếu anh đi qua lỗ thông hơi ở phòng chăm sóc đặc biệt, tôi sẽ đợi Skhôngwball ở đây."
+                "Nếu anh đi qua lỗ thông hơi ở phòng chăm sóc đặc biệt, tôi sẽ đợi Snowball ở đây."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -3945,7 +3945,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Trời ạ...\\! Skhôngwball nhanh thật đấy."]
+              "parameters": ["Trời ạ...\\! Snowball nhanh thật đấy."]
             },
             { "code": 101, "indent": 1, "parameters": ["1Michelle1", 0, 0, 2] },
             {
@@ -4548,7 +4548,7 @@
     },
     {
       "id": 16,
-      "name": "Skhôngwball (Position2)",
+      "name": "Snowball (Position2)",
       "note": "",
       "pages": [
         {
@@ -4637,7 +4637,7 @@
     },
     {
       "id": 17,
-      "name": "Skhôngwball (Cutscene)",
+      "name": "Snowball (Cutscene)",
       "note": "",
       "pages": [
         {
@@ -4802,7 +4802,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ahh ~\\! Và sau đó tôi có thể vào căn phòng khóa kín nơi Skhôngwball đang ở."
+                "Ahh ~\\! Và sau đó tôi có thể vào căn phòng khóa kín nơi Snowball đang ở."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -4931,7 +4931,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vậy nên tôi sẽ canh cổng phòng trường hợp Skhôngwball lại cố gắng trốn thoát."
+                "Vậy nên tôi sẽ canh cổng phòng trường hợp Snowball lại cố gắng trốn thoát."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -5383,7 +5383,7 @@
     },
     {
       "id": 21,
-      "name": "Skhôngwball (Position1)",
+      "name": "Snowball (Position1)",
       "note": "",
       "pages": [
         {
@@ -5472,7 +5472,7 @@
     },
     {
       "id": 22,
-      "name": "Skhôngwball (Position3)",
+      "name": "Snowball (Position3)",
       "note": "",
       "pages": [
         {
@@ -5959,7 +5959,7 @@
     },
     {
       "id": 25,
-      "name": "Skhôngwball Attack/HJ Cutscene",
+      "name": "Snowball Attack/HJ Cutscene",
       "note": "",
       "pages": [
         {
@@ -6097,7 +6097,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hah!\\! \\BST[1]Tôi bắt được cậu rồi Skhôngwball!"]
+              "parameters": ["Hah!\\! \\BST[1]Tôi bắt được cậu rồi Snowball!"]
             },
             {
               "code": 205,
@@ -6201,7 +6201,7 @@
             { "code": 230, "indent": 0, "parameters": [90] },
             { "code": 213, "indent": 0, "parameters": [-1, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["S-Skhôngwball..?"] },
+            { "code": 401, "indent": 0, "parameters": ["S-Snowball..?"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
@@ -6318,7 +6318,7 @@
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Ối!\\! K-không!"]},
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Skhôngwball xấu xa!"] },
+            { "code": 401, "indent": 0, "parameters": ["Snowball xấu xa!"] },
             {
               "code": 205,
               "indent": 0,
@@ -6348,7 +6348,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Y-Ya, mọi thứ đều ổn!\\! Chỉ là Skhôngwball hơi khó bắt một chút thôi!"
+                "Y-Ya, mọi thứ đều ổn!\\! Chỉ là Snowball hơi khó bắt một chút thôi!"
               ]
             },
             {
@@ -6478,13 +6478,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["[Skhôngwball không phải là một con mèo bình thường!]"]
+              "parameters": ["[Snowball không phải là một con mèo bình thường!]"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["[Skhôngwball là một con quái vật!]"]
+              "parameters": ["[Snowball là một con quái vật!]"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -6548,7 +6548,7 @@
             { "code": 212, "indent": 0, "parameters": [-1, 28, true] },
             { "code": 230, "indent": 0, "parameters": [45] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["S-Skhôngwball..."] },
+            { "code": 401, "indent": 0, "parameters": ["S-Snowball..."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["W-Why..?"] },
             {
@@ -6689,7 +6689,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi thực sự xin lỗi.\\! Tôi không ngờ Skhôngwball lại phản ứng như thế này."
+                "Tôi thực sự xin lỗi.\\! Tôi không ngờ Snowball lại phản ứng như thế này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -6697,7 +6697,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ya ~\\! Tôi nghĩ có thể bạn đã đúng khi nói rằng Skhôngwball không thích đàn ông..."
+                "Ya ~\\! Tôi nghĩ có thể bạn đã đúng khi nói rằng Snowball không thích đàn ông..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 6, 0, 2] },
@@ -7188,7 +7188,7 @@
     },
     {
       "id": 26,
-      "name": "Skhôngwball (Attack Cutscene)",
+      "name": "Snowball (Attack Cutscene)",
       "note": "",
       "pages": [
         {
@@ -8685,7 +8685,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Skhôngwball sẽ thích lắm đây!"]
+              "parameters": ["Snowball sẽ thích lắm đây!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {
@@ -8703,7 +8703,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi biết một mẹo bí mật để gọi Skhôngwball!"]
+              "parameters": ["Tôi biết một mẹo bí mật để gọi Snowball!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {
@@ -9740,7 +9740,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Heh!\\! \\BST[5]C-Làm tốt lắm...\\! Skhôngwball..."]
+              "parameters": ["Heh!\\! \\BST[5]C-Làm tốt lắm...\\! Snowball..."]
             },
             {
               "code": 355,
@@ -10587,7 +10587,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Cậu đây rồi, Skhôngwball."]
+              "parameters":["Cậu đây rồi, Snowball."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 4, 0, 2] },
             {
@@ -10637,7 +10637,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Skhôngwball mang thuốc cho tôi à?!"]
+              "parameters": ["Snowball mang thuốc cho tôi à?!"]
             },
             {
               "code": 205,
@@ -10678,7 +10678,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-              "Khoan đã.\\! Tôi nghĩ Skhôngwball lại mang cho chúng ta thứ gì đó rồi."
+              "Khoan đã.\\! Tôi nghĩ Snowball lại mang cho chúng ta thứ gì đó rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -10866,7 +10866,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Phát hiện tuyệt vời đấy, Skhôngwball!"]
+              "parameters": ["Phát hiện tuyệt vời đấy, Snowball!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {

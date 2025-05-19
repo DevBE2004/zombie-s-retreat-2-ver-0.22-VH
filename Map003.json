@@ -4255,20 +4255,20 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Rest", "Dismiss", "Nevermind"], 2, 0, 2, 0]
+              "parameters": [["nghỉ ngơi", "bỏ qua", "không gì cả"], 2, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Rest"] },
+            { "code": 402, "indent": 0, "parameters": [0, "nghỉ ngơi"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 1, "parameters": [8] },
             { "code": 117, "indent": 1, "parameters": [6] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Dismiss"] },
+            { "code": 402, "indent": 0, "parameters": [1, "bỏ qua"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 1, "parameters": [8] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [2, "không gì cả"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4356,14 +4356,14 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Dismiss", "Nevermind"], 1, 0, 2, 0]
+              "parameters": [["bỏ qua", "không gì cả"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Dismiss"] },
+            { "code": 402, "indent": 0, "parameters": [0, "bỏ qua"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 1, "parameters": [8] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không gì cả"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -13845,24 +13845,24 @@
           },
           "list": [
             { "code": 111, "indent": 0, "parameters": [1, 8, 0, 8, 0] },
-            { "code": 236, "indent": 1, "parameters": ["skhôngw", 9, 60, false] },
+            { "code": 236, "indent": 1, "parameters": ["snow", 9, 60, false] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 0, "parameters": [1, 8, 0, 9, 0] },
-            { "code": 236, "indent": 1, "parameters": ["skhôngw", 9, 60, false] },
+            { "code": 236, "indent": 1, "parameters": ["snow", 9, 60, false] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 0, "parameters": [1, 8, 0, 10, 0] },
             { "code": 111, "indent": 1, "parameters": [0, 1, 0] },
-            { "code": 236, "indent": 2, "parameters": ["skhôngw", 9, 60, false] },
+            { "code": 236, "indent": 2, "parameters": ["snow", 9, 60, false] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 111, "indent": 1, "parameters": [0, 2, 0] },
-            { "code": 236, "indent": 2, "parameters": ["skhôngw", 7, 60, false] },
+            { "code": 236, "indent": 2, "parameters": ["snow", 7, 60, false] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 111, "indent": 1, "parameters": [0, 3, 0] },
-            { "code": 236, "indent": 2, "parameters": ["skhôngw", 6, 60, false] },
+            { "code": 236, "indent": 2, "parameters": ["snow", 6, 60, false] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 111, "indent": 1, "parameters": [0, 4, 0] },
@@ -27550,7 +27550,7 @@
             { "code": 223, "indent": 2, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 356, "indent": 2, "parameters": ["Light activate"] },
             { "code": 201, "indent": 2, "parameters": [0, 164, 35, 31, 8, 0] },
-            { "code": 236, "indent": 2, "parameters": ["skhôngw", 5, 1, true] },
+            { "code": 236, "indent": 2, "parameters": ["snow", 5, 1, true] },
             { "code": 222, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -27566,7 +27566,7 @@
             { "code": 223, "indent": 2, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 356, "indent": 2, "parameters": ["Light activate"] },
             { "code": 201, "indent": 2, "parameters": [0, 164, 16, 23, 8, 0] },
-            { "code": 236, "indent": 2, "parameters": ["skhôngw", 5, 1, true] },
+            { "code": 236, "indent": 2, "parameters": ["snow", 5, 1, true] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -27639,7 +27639,7 @@
     },
     {
       "id": 113,
-      "name": "Skhôngw Patch",
+      "name": "Snow Patch",
       "note": "",
       "pages": [
         {
@@ -28134,7 +28134,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Talk", "Party Up", "Nevermind"], 2, 0, 2, 0]
+              "parameters": [["Talk", "Party Up", "không gì cả"], 2, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
             { "code": 117, "indent": 1, "parameters": [48] },
@@ -28142,7 +28142,7 @@
             { "code": 402, "indent": 0, "parameters": [1, "Party Up"] },
             { "code": 117, "indent": 1, "parameters": [224] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Nevermind"] },
+            { "code": 402, "indent": 0, "parameters": [2, "không gì cả"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

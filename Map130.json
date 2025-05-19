@@ -11074,7 +11074,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Watch", "khôngt khôngw"], 1, 0, 2, 0]
+              "parameters": [["Watch", "khôngt now"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Watch"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -11082,7 +11082,7 @@
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "khôngt khôngw"] },
+            { "code": 402, "indent": 0, "parameters": [1, "khôngt now"] },
             {
               "code": 205,
               "indent": 1,

@@ -29855,25 +29855,29 @@
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Lucy>Oh!\\! You're such a bad boy ~ ♥️"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Lucy>You kkhôngw the best way to make me feel nice and relaxed..."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Lucy>Give me more, \\n[1]."]
-            },
+            [
+              {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                  "\\n<Lucy>Ôi!! Em thật là một chàng trai hư ~ ♥️"
+                ]
+              },
+              { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+              {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                  "\\n<Lucy>Anh biết cách tuyệt vời nhất để làm em cảm thấy thoải mái và thư giãn mà..."
+                ]
+              },
+              { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+              {
+                "code": 401,
+                "indent": 0,
+                "parameters": ["\\n<Lucy>Cho em thêm nữa đi, \\n[1]."]
+              }
+            ],
             { "code": 112, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 1, "parameters": [""] },
@@ -30536,7 +30540,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Jamie>Oooh ~\\! khôngw that's more like it..."]
+              "parameters": [
+                "\\n<Jamie>Oooh ~\\! now that's more like it..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -43173,7 +43179,7 @@
               "indent": 0,
               "parameters": [
                 10,
-                "3MrsClausSexSkhôngw[4x4]",
+                "3MrsClausSexSnow[4x4]",
                 0,
                 0,
                 0,
@@ -43647,7 +43653,7 @@
               "indent": 0,
               "parameters": [1, "9Night", 0, 0, 805, 15, 100, 100, 255, 0]
             },
-            { "code": 236, "indent": 0, "parameters": ["skhôngw", 5, 1, true] },
+            { "code": 236, "indent": 0, "parameters": ["snow", 5, 1, true] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 121, "indent": 0, "parameters": [263, 263, 0] },
             { "code": 222, "indent": 0, "parameters": [] },

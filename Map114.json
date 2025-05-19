@@ -781,7 +781,7 @@
     },
     {
       "id": 6,
-      "name": "Skhôngwball",
+      "name": "Snowball",
       "note": "",
       "pages": [
         {
@@ -823,7 +823,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hey Skhôngwball!\\! Good kitty!"]
+              "parameters": ["Hey Snowball!\\! Good kitty!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -920,7 +920,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn muốn tìm Skhôngwball phải không?"]
+              "parameters": ["Bạn muốn tìm Snowball phải không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
@@ -943,7 +943,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Và bên cạnh đó-\\! \\BST[2]Tôi muốn giành được lòng tin của Skhôngwball!"
+                "Và bên cạnh đó-\\! \\BST[2]Tôi muốn giành được lòng tin của Snowball!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
@@ -2014,7 +2014,7 @@
     },
     {
       "id": 10,
-      "name": "Skhôngwball (Sleep)",
+      "name": "Snowball (Sleep)",
       "note": "",
       "pages": [
         {
@@ -2063,7 +2063,7 @@
     },
     {
       "id": 11,
-      "name": "Skhôngwball Sleep Bubble",
+      "name": "Snowball Sleep Bubble",
       "note": "",
       "pages": [
         {

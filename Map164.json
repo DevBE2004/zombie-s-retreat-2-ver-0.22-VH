@@ -17680,7 +17680,7 @@
     },
     {
       "id": 76,
-      "name": "Skhôngwball",
+      "name": "Snowball",
       "note": "",
       "pages": [
         {
@@ -19186,7 +19186,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -19194,7 +19194,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [50] },
@@ -19541,7 +19541,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -19549,7 +19549,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [50] },
@@ -21000,7 +21000,7 @@
     },
     {
       "id": 98,
-      "name": "Skhôngwman Event Trigger",
+      "name": "Snowman Event Trigger",
       "note": "<Hitbox Down: 5> <Hitbox Right: 6>",
       "pages": [
         {
@@ -22085,7 +22085,7 @@
     },
     {
       "id": 100,
-      "name": "Skhôngwman Base",
+      "name": "Snowman Base",
       "note": "",
       "pages": [
         {
@@ -22174,7 +22174,7 @@
     },
     {
       "id": 101,
-      "name": "Skhôngwman Top",
+      "name": "Snowman Top",
       "note": "",
       "pages": [
         {
@@ -22263,7 +22263,7 @@
     },
     {
       "id": 102,
-      "name": "Skhôngwman Couple (Kiss)",
+      "name": "Snowman Couple (Kiss)",
       "note": "",
       "pages": [
         {
@@ -23985,7 +23985,7 @@
     },
     {
       "id": 111,
-      "name": "Skhôngwman Couple (Sex)",
+      "name": "Snowman Couple (Sex)",
       "note": "",
       "pages": [
         {
