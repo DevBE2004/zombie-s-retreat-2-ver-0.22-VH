@@ -1022,7 +1022,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Giám đốc điều hành Norman Reeves đã lên lịch thông báo phát trực tiếp."
+                "Giám đốc điều hành khôngrman Reeves đã lên lịch thông báo phát trực tiếp."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1103,7 +1103,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không thể tin được!\\! Mấy quận khác trong thành phố vẫn an toàn?!"
+                "không thể tin được!\\! Mấy quận khác trong thành phố vẫn an toàn?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -1161,7 +1161,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bản tin vừa rồi đã xác nhận những nghi ngờ của chị.\\! Không phải quận nào cũng bị ảnh hưởng bởi đại dịch."
+                "Bản tin vừa rồi đã xác nhận những nghi ngờ của chị.\\! không phải quận nào cũng bị ảnh hưởng bởi đại dịch."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -2178,7 +2178,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không sao đâu!\\! \\BST[5]Cảm ơn con!"]
+              "parameters": ["không sao đâu!\\! \\BST[5]Cảm ơn con!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 1, 0, 2] },
             {
@@ -4185,14 +4185,14 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Có", "Không"], 1, 0, 1, 0]
+              "parameters": [["Có", "không"], 1, 0, 1, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 122, "indent": 3, "parameters": [3, 3, 0, 4, "\"Dễ\""] },
             { "code": 121, "indent": 3, "parameters": [21, 21, 0] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 2, "parameters": [1, "không"] },
             { "code": 235, "indent": 3, "parameters": [2] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
@@ -4203,7 +4203,7 @@
               "indent": 2,
               "parameters": [
                 2,
-                "Difficulty_Normal",
+                "Difficulty_khôngrmal",
                 0,
                 0,
                 0,
@@ -4226,7 +4226,7 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Có", "Không"], 1, 0, 1, 0]
+              "parameters": [["Có", "không"], 1, 0, 1, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             {
@@ -4236,7 +4236,7 @@
             },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 2, "parameters": [1, "không"] },
             { "code": 235, "indent": 3, "parameters": [2] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
@@ -4460,7 +4460,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tiếp theo là một tin tức không liên quan, Giám đốc điều hành của Crimson City Energy, Norman T.Reeves dự kiến sẽ tổ chức một buổi họp báo vào cuối tuần này."
+                "Tiếp theo là một tin tức không liên quan, Giám đốc điều hành của Crimson City Energy, khôngrman T.Reeves dự kiến sẽ tổ chức một buổi họp báo vào cuối tuần này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -4710,12 +4710,12 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 2, "parameters": [1, "không"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -4846,12 +4846,12 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 2, "parameters": [1, "không"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -4975,7 +4975,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Con nhớ đi đứng cẩn thận đó?\\! \\BST[6]Không biết để con đi một mình có ổn không nữa?"
+                "Con nhớ đi đứng cẩn thận đó?\\! \\BST[6]không biết để con đi một mình có ổn không nữa?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -6583,7 +6583,7 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 221, "indent": 3, "parameters": [] },
@@ -6593,7 +6593,7 @@
             { "code": 121, "indent": 3, "parameters": [6, 6, 0] },
             { "code": 222, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 2, "parameters": [1, "không"] },
             { "code": 101, "indent": 3, "parameters": ["1Sis1", 0, 0, 2] },
             {
               "code": 401,
@@ -7550,7 +7550,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[1]>Mắt mẹ đẹp thật đấy!\\! Không ngờ con lại có một người mẹ xinh như thế."
+                "\\n<\\n[1]>Mắt mẹ đẹp thật đấy!\\! không ngờ con lại có một người mẹ xinh như thế."
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7963,7 +7963,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[4]>Không sao đâu chị...\\! Em chắc là \\n[1] sẽ không phiền khi bế em lên phòng ngủ."
+                "\\n<\\n[4]>không sao đâu chị...\\! Em chắc là \\n[1] sẽ không phiền khi bế em lên phòng ngủ."
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -9139,7 +9139,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[3]>Không ngờ em lại mát xa giỏi đến thế đấy, \\n[1]."
+                "\\n<\\n[3]>không ngờ em lại mát xa giỏi đến thế đấy, \\n[1]."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -9208,7 +9208,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\n[3]>Không có gì đâu!\\! Em đừng bận tâm."]
+              "parameters": ["\\n<\\n[3]>không có gì đâu!\\! Em đừng bận tâm."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -9348,7 +9348,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[1]>Không có gì đâu...\\! Vì em muốn chị được vui vẻ và hạnh phúc!"
+                "\\n<\\n[1]>không có gì đâu...\\! Vì em muốn chị được vui vẻ và hạnh phúc!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -9427,7 +9427,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[3]>[Không được, mày phải giữ bình tĩnh, \\n[3] à!]"
+                "\\n<\\n[3]>[không được, mày phải giữ bình tĩnh, \\n[3] à!]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -9502,7 +9502,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[3]>[Không!\\! Không được suy nghĩ bậy bạ như thế!]"
+                "\\n<\\n[3]>[không!\\! không được suy nghĩ bậy bạ như thế!]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
@@ -9736,7 +9736,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[3]>[Không!\\! Không được suy nghĩ bậy bạ như thế!]"
+                "\\n<\\n[3]>[không!\\! không được suy nghĩ bậy bạ như thế!]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
@@ -10124,7 +10124,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[1]>Trời ạ.\\! Không ngờ là chị phải trải qua những chuyện tồi tệ như thế."
+                "\\n<\\n[1]>Trời ạ.\\! không ngờ là chị phải trải qua những chuyện tồi tệ như thế."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10140,7 +10140,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[1]>Không phải đâu!\\! Không phải em né tránh chị vì chuyện đó!"
+                "\\n<\\n[1]>không phải đâu!\\! không phải em né tránh chị vì chuyện đó!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

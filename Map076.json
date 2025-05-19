@@ -4091,7 +4091,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [40] },
@@ -4099,7 +4099,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [90] },
@@ -4166,7 +4166,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không cần phải lo lắng như thế đâu, \\n[1].\\! Chị hứa, chị sẽ không ăn em~ ♥️"
+                "không cần phải lo lắng như thế đâu, \\n[1].\\! Chị hứa, chị sẽ không ăn em~ ♥️"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -4226,7 +4226,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [40] },
@@ -4234,7 +4234,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [90] },
@@ -4677,7 +4677,7 @@
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Ai thế ạ?"] },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Norman T. Reeves."] },
+            { "code": 401, "indent": 0, "parameters": ["khôngrman T. Reeves."] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
@@ -6033,7 +6033,7 @@
 
     {
       "id": 37,
-      "name": "Quest Notification (Decorator)",
+      "name": "Quest khôngtification (Decorator)",
       "note": "",
       "pages": [
         {
@@ -6486,7 +6486,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Chắc chắn", "Không cảm ơn"], 1, 0, 2, 0]
+              "parameters": [["Chắc chắn", "không cảm ơn"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Chắc chắn"] },
             { "code": 111, "indent": 1, "parameters": [1, 33, 0, 4, 1] },
@@ -6535,7 +6535,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không cảm ơn"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không cảm ơn"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -6661,7 +6661,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Công nhân xây dựng>Không thể cho anh vào.\\! Khu vực này là công trường nguy hiểm."
+                "\\n<Công nhân xây dựng>không thể cho anh vào.\\! Khu vực này là công trường nguy hiểm."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7397,7 +7397,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Một ​​viên đá màu đỏ..?\\! Không thể nói là tôi có."]
+              "parameters": ["Một ​​viên đá màu đỏ..?\\! không thể nói là tôi có."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 0, 0, 2] },
             {

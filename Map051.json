@@ -381,7 +381,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không phải đường này!"]
+              "parameters": ["không phải đường này!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2238,7 +2238,7 @@
     },
     {
       "id": 12,
-      "name": "Cat Toy Notification",
+      "name": "Cat Toy khôngtification",
       "note": "",
       "pages": [
         {
@@ -2270,13 +2270,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Được rồi.\\! Chúng ta có đồ chơi mèo cho Snowball."]
+              "parameters": ["Được rồi.\\! Chúng ta có đồ chơi mèo cho Skhôngwball."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi biết chắc là Snowball sẽ thích điều này!"]
+              "parameters": ["Tôi biết chắc là Skhôngwball sẽ thích điều này!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {
@@ -2294,7 +2294,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi biết một mẹo bí mật để gọi Snowball!"]
+              "parameters": ["Tôi biết một mẹo bí mật để gọi Skhôngwball!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
             {

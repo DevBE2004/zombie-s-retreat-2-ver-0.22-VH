@@ -1021,7 +1021,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Oh.\\! Không ngờ là lại có người đến đây..."]
+              "parameters": ["Oh.\\! không ngờ là lại có người đến đây..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
@@ -1119,7 +1119,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không, cảm ơn em.\\! Chị không cần đâu..."]
+              "parameters": ["không, cảm ơn em.\\! Chị không cần đâu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
@@ -1132,7 +1132,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không đâu, suốt thời gian qua chị vẫn đang sống tốt?!\\! Chị sẽ ổn thôi."
+                "không đâu, suốt thời gian qua chị vẫn đang sống tốt?!\\! Chị sẽ ổn thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -4192,7 +4192,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "K-Không phải là tôi đã trả phí đăng ký hay gì cả..."
+               "K-không phải là tôi đã trả phí đăng ký hay gì cả..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
@@ -4307,7 +4307,7 @@
     },
     {
       "id": 20,
-      "name": "Snowball Lure Cutscene",
+      "name": "Skhôngwball Lure Cutscene",
       "note": "",
       "pages": [
         {
@@ -4691,7 +4691,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có thể ra ngoài rồi Snowball ~ ♫"]
+              "parameters": ["Bạn có thể ra ngoài rồi Skhôngwball ~ ♫"]
             },
             { "code": 230, "indent": 0, "parameters": [40] },
             {
@@ -4949,7 +4949,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Snowball.\\! Chúng tôi ở đây để đưa bạn về nhà, đến một nơi an toàn hơn nhiều."
+                "Skhôngwball.\\! Chúng tôi ở đây để đưa bạn về nhà, đến một nơi an toàn hơn nhiều."
               ]
             },
             {
@@ -5009,7 +5009,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Về nhà thôi Snowball..."]
+              "parameters": ["Về nhà thôi Skhôngwball..."]
             },
             {
               "code": 205,
@@ -5255,7 +5255,7 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Không!\\! Quả cầu tuyết!"]},
+            { "code": 401, "indent": 0, "parameters": ["không!\\! Quả cầu tuyết!"]},
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Cẩn thận!"]},
             {
@@ -5439,7 +5439,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi nghĩ món đồ chơi này đã dụ được nhiều người hơn là chỉ có Snowball..."
+                "Tôi nghĩ món đồ chơi này đã dụ được nhiều người hơn là chỉ có Skhôngwball..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -5630,9 +5630,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 1, 0]
+              "parameters": [["có", "không"], 1, 0, 1, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 201, "indent": 1, "parameters": [0, 3, 46, 24, 4, 0] },
@@ -5645,7 +5645,7 @@
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -5713,7 +5713,7 @@
     },
     {
       "id": 21,
-      "name": "Snowball (Cutscene)",
+      "name": "Skhôngwball (Cutscene)",
       "note": "",
       "pages": [
         {
@@ -6512,7 +6512,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cậu đây rồi, Snowball."]
+              "parameters": ["Cậu đây rồi, Skhôngwball."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 4, 0, 2] },
             {
@@ -6562,7 +6562,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Snowball mang thuốc cho tôi à?!"]
+              "parameters": ["Skhôngwball mang thuốc cho tôi à?!"]
             },
             {
               "code": 205,
@@ -6603,7 +6603,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Khoan đã.\\! Tôi nghĩ Snowball lại mang cho chúng ta thứ gì đó rồi."
+                "Khoan đã.\\! Tôi nghĩ Skhôngwball lại mang cho chúng ta thứ gì đó rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 1, 0, 2] },
@@ -6791,7 +6791,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Phát hiện tuyệt vời đấy, Snowball!"]
+              "parameters": ["Phát hiện tuyệt vời đấy, Skhôngwball!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
@@ -7767,7 +7767,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Heh!\\! \\BST[5]C-Làm tốt lắm...\\! Snowball..."]
+              "parameters":["Heh!\\! \\BST[5]C-Làm tốt lắm...\\! Skhôngwball..."]
             },
             {
               "code": 355,

@@ -411,7 +411,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không!\\! \\BST[5]Anh không có ý là-"]
+              "parameters": ["không!\\! \\BST[5]Anh không có ý là-"]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001", 2, 0, 2] },
             {
@@ -531,7 +531,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["KHÔNG!\\! Đừng làm thế!"]
+              "parameters": ["không!\\! Đừng làm thế!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001x", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Hah hah hah!"] },
@@ -659,7 +659,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Norman là người duy nhất đáng trách ở đây."]
+              "parameters": ["khôngrman là người duy nhất đáng trách ở đây."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
             {
@@ -837,7 +837,7 @@
     },
     {
       "id": 7,
-      "name": "(Cutscene) Norman",
+      "name": "(Cutscene) khôngrman",
       "note": "",
       "pages": [
         {
@@ -859,7 +859,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "1Norman",
+            "characterName": "1khôngrman",
             "direction": 2,
             "pattern": 1,
             "characterIndex": 0
@@ -1109,7 +1109,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không thể tin được!"]
+              "parameters": ["không thể tin được!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001x", 4, 0, 2] },
             {
@@ -1380,7 +1380,7 @@
               "indent": 0,
               "parameters": ["Tôi vừa định kết thúc c-"]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -1464,7 +1464,7 @@
               "indent": 0,
               "parameters": [{ "code": 18, "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 7, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -1472,7 +1472,7 @@
                 "Tôi thề nếu cái máy phát điện của tôi mà bị dù chỉ một vết xước, tôi sẽ-"
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -1578,7 +1578,7 @@
               "parameters": [{ "code": 13, "indent": null }]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -1611,7 +1611,7 @@
               "indent": 0,
               "parameters": [{ "code": 17, "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -1644,7 +1644,7 @@
               "indent": 0,
               "parameters": [{ "code": 18, "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -1712,7 +1712,7 @@
               "indent": 0,
               "parameters": [{ "code": 13, "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 3, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -1746,7 +1746,7 @@
               "parameters": [{ "code": 1, "indent": null }]
             },
             { "code": 213, "indent": 0, "parameters": [7, 2, true] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 3, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -1757,7 +1757,7 @@
             {
               "code": 101,
               "indent": 0,
-              "parameters": ["1Norman1", 5, 0, 2]
+              "parameters": ["1khôngrman1", 5, 0, 2]
             },
             {
               "code": 401,
@@ -1769,7 +1769,7 @@
             {
               "code": 101,
               "indent": 0,
-              "parameters": ["1Norman1", 7, 0, 2]
+              "parameters": ["1khôngrman1", 7, 0, 2]
             },
             {
               "code": 401,
@@ -1809,13 +1809,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Norman Reeves.\\! Anh bị bắt vì những tội ác đã thực hiện-"
+                "khôngrman Reeves.\\! Anh bị bắt vì những tội ác đã thực hiện-"
               ]
             },
             {
               "code": 101,
               "indent": 0,
-              "parameters": ["1Norman1", 4, 0, 2]
+              "parameters": ["1khôngrman1", 4, 0, 2]
             },
             {
               "code": 401,
@@ -1859,7 +1859,7 @@
               "parameters": [{ "code": 13, "indent": null }]
             },
             { "code": 213, "indent": 0, "parameters": [7, 5, false] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 6, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -1870,7 +1870,7 @@
             {
               "code": 101,
               "indent": 0,
-              "parameters": ["1Norman1", 4, 0, 2]
+              "parameters": ["1khôngrman1", 4, 0, 2]
             },
             {
               "code": 401,
@@ -1916,7 +1916,7 @@
               "indent": 0,
               "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -1925,7 +1925,7 @@
             {
               "code": 101,
               "indent": 0,
-              "parameters": ["1Norman1", 2, 0, 2]
+              "parameters": ["1khôngrman1", 2, 0, 2]
             },
             {
               "code": 401,
@@ -2044,7 +2044,7 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 230, "indent": 0, "parameters": [45] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2052,9 +2052,9 @@
                 "Được cung cấp năng lượng bởi sức mạnh siêu nhiên, một sự tái hiện phi thường của năng lượng!"
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Và nếu cần thiết..."] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2129,7 +2129,7 @@
               "indent": 0,
               "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2224,7 +2224,7 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 3, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2232,7 +2232,7 @@
                 "Nhưng tất nhiên rồi, ta còn ra thể thống gì nếu không ghi nhận công lao một cách xứng đáng chứ?!"
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2240,7 +2240,7 @@
                 "Sự zombie hóa này hoàn toàn là nhờ những khám phá của đồng nghiệp ta."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Adam!"] },
             {
               "code": 205,
@@ -2302,7 +2302,7 @@
               "indent": 0,
               "parameters": [{ "code": 3, "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2338,7 +2338,7 @@
               "parameters": [{ "code": 13, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["No..!"] },
+            { "code": 401, "indent": 0, "parameters": ["không..!"] },
             {
               "code": 205,
               "indent": 0,
@@ -2368,13 +2368,13 @@
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 6, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["...Cha."] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": ["Nào nào.\\! Đừng có vẻ mặt buồn rầu như thế chứ!"]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2388,11 +2388,11 @@
               "indent": 0,
               "parameters": ["Ông có thể nói cho tôi biết...\\! Anh ấy..."]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Còn sống?"] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Đúng vậy!"] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 6, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2416,7 +2416,7 @@
               "indent": 0,
               "parameters": [{ "code": 2, "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2424,7 +2424,7 @@
                 "Trong khi nghiên cứu của hắn vẫn còn hữu ích-\\! \\BST[7]Hắn đã trở thành cái gai trong mắt ta rồi."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 7, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2432,7 +2432,7 @@
                 "*tặc lưỡi*\\! Để cảm xúc chi phối cả nghiên cứu của mình..."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2568,7 +2568,7 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["1L001x", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["TRÙM!"] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2601,7 +2601,7 @@
               "indent": 0,
               "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2609,7 +2609,7 @@
                 "Ta chắc chắn ngươi có thừa lý do để tức giận với ta."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2739,11 +2739,11 @@
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 7, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 7, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Vậy thì cứ làm đi."] },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 6, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["\\n[1]..!"] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 7, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2751,7 +2751,7 @@
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["*Khụ*\\! Ngươi..."] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 6, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2816,7 +2816,7 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 7, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2840,7 +2840,7 @@
               "indent": 0,
               "parameters": [{ "code": 2, "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2875,7 +2875,7 @@
               "indent": 0,
               "parameters": [{ "code": 18, "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2883,7 +2883,7 @@
                 "Nhưng ngươi lại quá hèn nhát để giết kẻ tạo ra chúng."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2916,7 +2916,7 @@
               "indent": 0,
               "parameters": [{ "code": 17, "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 7, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2954,13 +2954,13 @@
               "indent": 0,
               "parameters": [{ "code": 18, "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 3, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": ["Ngươi không biết sao?!"]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2968,13 +2968,13 @@
                 "Dễ dàng như cách mà sự zombie hóa được kích hoạt..."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": ["Hiệu ứng của nó có thể đảo ngược được!"]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2982,7 +2982,7 @@
                 "Nhưng giải pháp của ngươi thì có vẻ... \\BST[5]vĩnh viễn hơn một chút."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -2991,14 +2991,14 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Không..!"] },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["không..!"] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": ["Đừng giả bộ hối hận."]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 7, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -3010,7 +3010,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chuyện này-\\! Không phải vậy..."]
+              "parameters": ["Chuyện này-\\! không phải vậy..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
             {
@@ -3020,13 +3020,13 @@
                 "Mặc kệ hắn đi \\n[1].\\! Hắn chỉ đang cố gắng làm ngươi lung lay thôi."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 5, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": ["Ta có nói dối điều gì không, thám tử..?"]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -3034,7 +3034,7 @@
                 "Lâu nay ta đã phải đối phó với một con chuột nhắt lén lút cản trở công việc của ta."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 6, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -3046,25 +3046,25 @@
               "indent": 0,
               "parameters": ["Tôi-\\! Tôi không biết ông đang nói gì."]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": ["Vậy thì có lẽ ta đã nhầm."]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": ["Ta cho là ta phải đi thôi!"]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không muốn đến muộn cho bất kỳ cuộc họp nào!"]
+              "parameters": ["không muốn đến muộn cho bất kỳ cuộc họp nào!"]
             },
-            { "code": 101, "indent": 0, "parameters": ["1Norman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Vĩnh biệt."] },
             {
               "code": 205,
@@ -3300,7 +3300,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Những người đã bị Norman biến thành quái vật."]
+              "parameters": ["Những người đã bị khôngrman biến thành quái vật."]
             },
             {
               "code": 205,
@@ -5459,7 +5459,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không!\\! \\BST[5]Anh không có ý là-"]
+              "parameters": ["không!\\! \\BST[5]Anh không có ý là-"]
             },
             {
               "code": 205,
@@ -5761,7 +5761,7 @@
               "parameters": ["Cậu nói sao, 'bạn' của tôi?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["KHÔNG!\\! Đừng!"] },
+            { "code": 401, "indent": 0, "parameters": ["không!\\! Đừng!"] },
             { "code": 101, "indent": 0, "parameters": ["1L001x", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Hah hah hah!"] },
             { "code": 101, "indent": 0, "parameters": ["1L001x", 1, 0, 2] },
@@ -11466,7 +11466,7 @@
     },
     {
       "id": 45,
-      "name": "Atk2 North (Right)",
+      "name": "Atk2 khôngrth (Right)",
       "note": "",
       "pages": [
         {
@@ -11873,7 +11873,7 @@
     },
     {
       "id": 46,
-      "name": "Charge Atk North Right1",
+      "name": "Charge Atk khôngrth Right1",
       "note": "",
       "pages": [
         {
@@ -11974,7 +11974,7 @@
     },
     {
       "id": 47,
-      "name": "Charge Atk North Right2",
+      "name": "Charge Atk khôngrth Right2",
       "note": "",
       "pages": [
         {
@@ -12075,7 +12075,7 @@
     },
     {
       "id": 48,
-      "name": "Charge Atk North Right3",
+      "name": "Charge Atk khôngrth Right3",
       "note": "",
       "pages": [
         {
@@ -12176,7 +12176,7 @@
     },
     {
       "id": 49,
-      "name": "Charge Atk North Right4",
+      "name": "Charge Atk khôngrth Right4",
       "note": "",
       "pages": [
         {

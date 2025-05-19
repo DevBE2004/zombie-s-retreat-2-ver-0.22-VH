@@ -3232,7 +3232,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 165, 7, 13, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3294,9 +3294,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["có", "không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 1, "parameters": [8] },
             { "code": 117, "indent": 1, "parameters": [27] },
@@ -3306,13 +3306,13 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 3, 22, 27, 2, 0] },
-            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, true] },
+            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, true] },
             { "code": 117, "indent": 1, "parameters": [23] },
             { "code": 121, "indent": 1, "parameters": [62, 62, 0] },
             { "code": 230, "indent": 1, "parameters": [60] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             {
               "code": 205,
               "indent": 1,
@@ -3974,7 +3974,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không cần phải cảnh giác hay lo lắng về việc bị thương!"
+                "không cần phải cảnh giác hay lo lắng về việc bị thương!"
               ]
             },
             {
@@ -4203,7 +4203,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không sao đâu."]
+              "parameters": ["không sao đâu."]
             },
             {
               "code": 101,
@@ -4593,7 +4593,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không!\\! \\BST[6]Nhưng nhìn vào danh sách này, có lẽ con cũng không cần gì thêm..."
+                "không!\\! \\BST[6]Nhưng nhìn vào danh sách này, có lẽ con cũng không cần gì thêm..."
               ]
             },
             {
@@ -4604,7 +4604,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*thở dài*\\! Không thể nào..."]
+              "parameters": ["*thở dài*\\! không thể nào..."]
             },
             {
               "code": 101,
@@ -5869,7 +5869,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không phải như tôi nghĩ đâu, đúng không?!"]
+              "parameters": ["không phải như tôi nghĩ đâu, đúng không?!"]
             },
             { "code": 204, "indent": 0, "parameters": [2, 2, 4] },
             { "code": 230, "indent": 0, "parameters": [40] },
@@ -7483,7 +7483,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Jack>Thiệt luôn?!\\! Không thể nào!"]
+              "parameters": ["\\n<Jack>Thiệt luôn?!\\! không thể nào!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -7718,7 +7718,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -8622,7 +8622,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Jill>Không đâu!\\! Em ở đằng này nè!"]
+              "parameters": ["\\n<Jill>không đâu!\\! Em ở đằng này nè!"]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
@@ -8822,7 +8822,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Jill>Không phải đâu!\\! Em ở đằng này nè!"]
+              "parameters": ["\\n<Jill>không phải đâu!\\! Em ở đằng này nè!"]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
@@ -8926,7 +8926,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n<Jill>Không phải đâu!\\! Em ở bên này này!"]
+              "parameters": ["\\n<Jill>không phải đâu!\\! Em ở bên này này!"]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
@@ -9049,7 +9049,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -9103,7 +9103,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 122, "indent": 1, "parameters": [13, 13, 0, 2, 1, 2] },
@@ -9151,7 +9151,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -10611,7 +10611,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\n<Jill>Không đâu! Tớ ở bên này cơ!"]
+              "parameters": ["\n<Jill>không đâu! Tớ ở bên này cơ!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -10715,7 +10715,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\n<Jill>Không phải rồi! Tớ ở bên này cơ!"]
+              "parameters": ["\n<Jill>không phải rồi! Tớ ở bên này cơ!"]
             },
             {
               "code": 101,
@@ -10822,7 +10822,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\n<Jill>Không phải rồi! Tớ ở bên này cơ!"]
+              "parameters": ["\n<Jill>không phải rồi! Tớ ở bên này cơ!"]
             },
             {
               "code": 101,
@@ -10975,7 +10975,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\n<Jill>Không thể tin được! Chưa ai từng thắng tớ ở trò Xoay Vòng cả!"
+                "\n<Jill>không thể tin được! Chưa ai từng thắng tớ ở trò Xoay Vòng cả!"
               ]
             },
             {
@@ -12470,7 +12470,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Jill>Không!\\! Tớ ở đây này!"]
+              "parameters": ["\\n<Jill>không!\\! Tớ ở đây này!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -12574,7 +12574,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Jill>Không!\\! Tớ ở đây này!"]
+              "parameters": ["\\n<Jill>không!\\! Tớ ở đây này!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -12774,7 +12774,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n<Jill>Không!\\! Tớ ở đây này!"]
+              "parameters": ["\\n<Jill>không!\\! Tớ ở đây này!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -12827,7 +12827,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Jill>Không thể tin được!\\! Chưa ai từng đánh bại tớ trong trò chơi Xoay!"
+                "\\n<Jill>không thể tin được!\\! Chưa ai từng đánh bại tớ trong trò chơi Xoay!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -13660,7 +13660,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Chuyên gia Người Tuyết>Tôi không thể tin được lá thư của mình đã không đến được Xưởng của Ông già Noel..."
+                "\\n<Chuyên gia Người Tuyết>Tôi không thể tin được lá thư của mình đã không đến được Xưởng của Ông già khôngel..."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -14001,7 +14001,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Người mẹ dịu dàng>K-Không có gì đâu..."]
+              "parameters": ["\\n<Người mẹ dịu dàng>K-không có gì đâu..."]
             },
             { "code": 213, "indent": 0, "parameters": [59, 4, false] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -14474,7 +14474,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không thể nào!\\! Con cá này hoàn toàn bị đóng băng trong băng!"
+                "không thể nào!\\! Con cá này hoàn toàn bị đóng băng trong băng!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -15532,7 +15532,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không có gì.\\! \\BST[2]Tôi rất vui được giúp đỡ!"
+                "không có gì.\\! \\BST[2]Tôi rất vui được giúp đỡ!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -16236,7 +16236,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không công bằng chút nào...\\! \\BST[7]Năm nay con không muốn nhận than trong tất đâu!"
+                "không công bằng chút nào...\\! \\BST[7]Năm nay con không muốn nhận than trong tất đâu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -16760,7 +16760,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cậu bé Đói bụng>Con chỉ muốn chơi và ném tuyết khi bụng no thôi!"
+                "\\n<Cậu bé Đói bụng>Con chỉ muốn chơi và ném tuyết khi bụng không thôi!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -17680,7 +17680,7 @@
     },
     {
       "id": 76,
-      "name": "Snowball",
+      "name": "Skhôngwball",
       "note": "",
       "pages": [
         {
@@ -18016,7 +18016,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tìm thấy một lá thư gửi bà già Noel!"]
+              "parameters": ["Tìm thấy một lá thư gửi bà già khôngel!"]
             },
             { "code": 126, "indent": 0, "parameters": [130, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -18201,7 +18201,7 @@
     },
     {
       "id": 84,
-      "name": "Post Bin #1 (North)",
+      "name": "Post Bin #1 (khôngrth)",
       "note": "",
       "pages": [
         {
@@ -18288,7 +18288,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Giờ thì hơi muộn rồi.\\! Tôi hy vọng lá thư sẽ đến tay ông già Noel kịp lúc..."
+                "Giờ thì hơi muộn rồi.\\! Tôi hy vọng lá thư sẽ đến tay ông già khôngel kịp lúc..."
               ]
             },
             {
@@ -18368,7 +18368,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hả?!\\! K-Không, đó là tôi."]
+              "parameters": ["Hả?!\\! K-không, đó là tôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -18584,7 +18584,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bây giờ hơi muộn rồi!\\! Hy vọng lá thư sẽ đến được chỗ Ông già Noel kịp thời..."
+                "Bây giờ hơi muộn rồi!\\! Hy vọng lá thư sẽ đến được chỗ Ông già khôngel kịp thời..."
               ]
             },
             {
@@ -18664,7 +18664,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hả?!\\! K-Không, đó là tôi."]
+              "parameters": ["Hả?!\\! K-không, đó là tôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -18880,7 +18880,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bây giờ hơi muộn rồi!\\! Hy vọng lá thư sẽ đến được chỗ Ông già Noel kịp thời..."
+                "Bây giờ hơi muộn rồi!\\! Hy vọng lá thư sẽ đến được chỗ Ông già khôngel kịp thời..."
               ]
             },
             {
@@ -18960,7 +18960,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hả?!\\! K-Không, đó là tôi."]
+              "parameters": ["Hả?!\\! K-không, đó là tôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -19186,7 +19186,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -19194,7 +19194,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [50] },
@@ -19541,7 +19541,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -19549,7 +19549,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [50] },
@@ -21000,7 +21000,7 @@
     },
     {
       "id": 98,
-      "name": "Snowman Event Trigger",
+      "name": "Skhôngwman Event Trigger",
       "note": "<Hitbox Down: 5> <Hitbox Right: 6>",
       "pages": [
         {
@@ -21943,7 +21943,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Chuyên gia Người tuyết>Tôi đã viết thư cho Ông già Noel để xin quần áo mặc cho nó, nhưng chúng không bao giờ đến!"
+                "\\n<Chuyên gia Người tuyết>Tôi đã viết thư cho Ông già khôngel để xin quần áo mặc cho nó, nhưng chúng không bao giờ đến!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -22085,7 +22085,7 @@
     },
     {
       "id": 100,
-      "name": "Snowman Base",
+      "name": "Skhôngwman Base",
       "note": "",
       "pages": [
         {
@@ -22174,7 +22174,7 @@
     },
     {
       "id": 101,
-      "name": "Snowman Top",
+      "name": "Skhôngwman Top",
       "note": "",
       "pages": [
         {
@@ -22263,7 +22263,7 @@
     },
     {
       "id": 102,
-      "name": "Snowman Couple (Kiss)",
+      "name": "Skhôngwman Couple (Kiss)",
       "note": "",
       "pages": [
         {
@@ -22617,7 +22617,7 @@
     },
     {
       "id": 104,
-      "name": "Treats Complete Notifications",
+      "name": "Treats Complete khôngtifications",
       "note": "",
       "pages": [
         {
@@ -22779,7 +22779,7 @@
             {
               "code": 408,
               "indent": 0,
-              "parameters": ["and will undo it if not =="]
+              "parameters": ["and will undo it if khôngt =="]
             },
             { "code": 111, "indent": 0, "parameters": [0, 263, 0] },
             { "code": 111, "indent": 1, "parameters": [1, 173, 0, 4, 4] },
@@ -23039,7 +23039,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Cô nàng Hay giúp đỡ>Hàng năm, mọi người viết thư cho Xưởng của Ông già Noel và bỏ chúng vào"
+                "\\n<Cô nàng Hay giúp đỡ>Hàng năm, mọi người viết thư cho Xưởng của Ông già khôngel và bỏ chúng vào"
               ]
             },
             { "code": 401, "indent": 1, "parameters": ["hộp thư."] },
@@ -23985,7 +23985,7 @@
     },
     {
       "id": 111,
-      "name": "Snowman Couple (Sex)",
+      "name": "Skhôngwman Couple (Sex)",
       "note": "",
       "pages": [
         {

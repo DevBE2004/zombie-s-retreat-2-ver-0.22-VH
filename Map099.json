@@ -419,7 +419,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không phải cả hai.\\! Thực ra, tôi cũng sống ở một quận nhỏ với những người sống sót."
+                "không phải cả hai.\\! Thực ra, tôi cũng sống ở một quận nhỏ với những người sống sót."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -444,7 +444,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không.\\! Không thể nói là tôi có..."]
+              "parameters": ["không.\\! không thể nói là tôi có..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Điều đó không tốt."] },
@@ -725,7 +725,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không có gì to tát cả.\\! Cảm ơn vì đã giúp tôi tìm Lucy nhé."
+                "không có gì to tát cả.\\! Cảm ơn vì đã giúp tôi tìm Lucy nhé."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [15] },
@@ -982,7 +982,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không, thực ra tôi sống ở một quận nhỏ với những người sống sót khác."
+                "không, thực ra tôi sống ở một quận nhỏ với những người sống sót khác."
               ]
             },
             { "code": 108, "indent": 0, "parameters": ["===="] },
@@ -1005,7 +1005,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không, không thể nói rằng một cô gái như thế có gì đáng chú ý..."
+                "không, không thể nói rằng một cô gái như thế có gì đáng chú ý..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -1030,7 +1030,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không.\\! Anh ấy đã lên đường vào thành phố một lúc trước..."]
+              "parameters": ["không.\\! Anh ấy đã lên đường vào thành phố một lúc trước..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

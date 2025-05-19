@@ -635,7 +635,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Không hứa trước đâu!"]
+              "parameters": ["không hứa trước đâu!"]
             },
             {
               "code": 0,
@@ -2673,7 +2673,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mở khóa Ghi chú Mật khẩu!"]
+              "parameters": ["Mở khóa note Mật khẩu!"]
             },
             {
               "code": 122,
@@ -3252,7 +3252,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Vàng?\\! \\BST[1]Tôi sẽ ghi chú lại để nhớ."]
+              "parameters": ["Vàng?\\! \\BST[1]Tôi sẽ note lại để nhớ."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -5044,7 +5044,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Hãy để mắt tìm bất kỳ ghi chú nào xung quanh đây."
+                "Hãy để mắt tìm bất kỳ note nào xung quanh đây."
               ]
             },
             {
@@ -5086,7 +5086,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Ừ, chúng ta đã tìm thấy một ghi chú trước đó có mật khẩu trên đó."
+                "Ừ, chúng ta đã tìm thấy một note trước đó có mật khẩu trên đó."
               ]
             },
             {
@@ -5140,7 +5140,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Cậu nghĩ hai ghi chú chúng ta tìm thấy trước đó là để dùng cho cái này không?"
+                "Cậu nghĩ hai note chúng ta tìm thấy trước đó là để dùng cho cái này không?"
               ]
             },
             {
@@ -5317,7 +5317,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Có lẽ có một số manh mối hoặc ghi chú trên tầng này."
+                "Có lẽ có một số manh mối hoặc note trên tầng này."
               ]
             },
             {
@@ -5364,7 +5364,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Mình tự hỏi liệu có một ghi chú khác ở đâu đó trên tầng này không."
+                "Mình tự hỏi liệu có một note khác ở đâu đó trên tầng này không."
               ]
             },
             {
@@ -8676,7 +8676,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không thể biết trước điều gì đang chờ đợi, vì vậy hãy đảm bảo bạn đã sẵn sàng."
+                "không thể biết trước điều gì đang chờ đợi, vì vậy hãy đảm bảo bạn đã sẵn sàng."
               ]
             },
             {
@@ -8692,9 +8692,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "Not yet"], 1, 0, 2, 0]
+              "parameters": [["có", "khôngt yet"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "có"] },
             {
               "code": 250,
               "indent": 1,
@@ -8755,7 +8755,7 @@
             { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Not Yet"] },
+            { "code": 402, "indent": 0, "parameters": [1, "khôngt Yet"] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
             { "code": 0, "indent": 1, "parameters": [] },

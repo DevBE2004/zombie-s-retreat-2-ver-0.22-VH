@@ -473,7 +473,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             {
@@ -508,7 +508,7 @@
             },
             { "code": 126, "indent": 1, "parameters": [32, 1, 0, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -1024,7 +1024,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 67, 7, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1182,7 +1182,7 @@
           },
           "list": [
             { "code": 201, "indent": 0, "parameters": [0, 85, 1, 13, 6, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

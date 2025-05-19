@@ -1436,7 +1436,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không ạ!\\! \\BST[1]Từ hồi đi học em còn chẳng đặt chân đến thư viện lần nào..."
+                "không ạ!\\! \\BST[1]Từ hồi đi học em còn chẳng đặt chân đến thư viện lần nào..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 4, 0, 2] },
@@ -2061,7 +2061,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không.\\! Chị sẽ không ngồi chờ ở đây trong vô vọng đâu."
+                "không.\\! Chị sẽ không ngồi chờ ở đây trong vô vọng đâu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
@@ -2502,7 +2502,7 @@
               "parameters": [{ "code": 38, "indent": null }]
             },
             { "code": 111, "indent": 0, "parameters": [6, -1, 6] },
-            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
             {
               "code": 223,
               "indent": 1,
@@ -2617,7 +2617,7 @@
               "parameters": [{ "code": 38, "indent": null }]
             },
             { "code": 111, "indent": 0, "parameters": [6, -1, 6] },
-            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
             {
               "code": 223,
               "indent": 1,
@@ -2873,7 +2873,7 @@
               "parameters": [{ "code": 38, "indent": null }]
             },
             { "code": 111, "indent": 0, "parameters": [6, -1, 6] },
-            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
             {
               "code": 223,
               "indent": 1,
@@ -2997,7 +2997,7 @@
               "parameters": [{ "code": 38, "indent": null }]
             },
             { "code": 111, "indent": 0, "parameters": [6, -1, 4] },
-            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
             {
               "code": 223,
               "indent": 1,
@@ -6772,7 +6772,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -6791,7 +6791,7 @@
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -7642,7 +7642,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Không thưa ngài!\\! \\BST[2]Chúng tôi là một đội đoàn kết với nhau!"
+                "không thưa ngài!\\! \\BST[2]Chúng tôi là một đội đoàn kết với nhau!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 3, 0, 2] },

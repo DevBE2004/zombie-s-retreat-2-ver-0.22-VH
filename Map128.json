@@ -3477,7 +3477,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không đời nào!\\! Tôi sẽ không đến đó nếu không có đèn pin!"
+                "không đời nào!\\! Tôi sẽ không đến đó nếu không có đèn pin!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
@@ -4702,7 +4702,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chúng ta hãy tìm Snowball và nhanh chóng rời khỏi đây."
+                "Chúng ta hãy tìm Skhôngwball và nhanh chóng rời khỏi đây."
               ]
             },
             {
@@ -5554,7 +5554,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhìn kìa.\\! Tôi nghĩ Snowball thích cậu rồi."
+                "Nhìn kìa.\\! Tôi nghĩ Skhôngwball thích cậu rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -5579,7 +5579,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bạn có để chúng tôi đưa bạn về nhà Snowball không?"
+                "Bạn có để chúng tôi đưa bạn về nhà Skhôngwball không?"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [90] },
@@ -5820,7 +5820,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Snowball lại bỏ chạy rồi!"]
+              "parameters": ["Skhôngwball lại bỏ chạy rồi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 3, 0, 2] },
             {
@@ -5963,7 +5963,7 @@
     },
     {
       "id": 35,
-      "name": "Snowball (Cutscene)",
+      "name": "Skhôngwball (Cutscene)",
       "note": "",
       "pages": [
         {

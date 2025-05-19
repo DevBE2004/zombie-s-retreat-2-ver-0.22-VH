@@ -568,7 +568,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nơi này có vẻ khá yên bình.\\! \\BST[3]Không giống như mấy Quận ở trên kia..."
+                "Nơi này có vẻ khá yên bình.\\! \\BST[3]không giống như mấy Quận ở trên kia..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -953,7 +953,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             {
@@ -965,7 +965,7 @@
             },
             { "code": 117, "indent": 1, "parameters": [102] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [86, 86, 0] },
@@ -1038,7 +1038,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             {
@@ -1061,7 +1061,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

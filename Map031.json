@@ -608,7 +608,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Nadia1", 7, 0, 2] },
@@ -624,7 +624,7 @@
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["B", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 101, "indent": 1, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
@@ -710,7 +710,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Nadia1", 7, 0, 2] },
@@ -724,7 +724,7 @@
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["C", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 101, "indent": 1, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,

@@ -482,7 +482,7 @@
             {
               "code": 102,
               "indent": 3,
-              "parameters": [["Đỏ", "Xanh dương", "Vàng", "Không"], 3, 0, 2, 0]
+              "parameters": [["Đỏ", "Xanh dương", "Vàng", "không"], 3, 0, 2, 0]
             },
             { "code": 402, "indent": 3, "parameters": [0, "Đỏ"] },
             { "code": 111, "indent": 4, "parameters": [1, 69, 0, 1, 5] },
@@ -502,7 +502,7 @@
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 412, "indent": 4, "parameters": [] },
             { "code": 0, "indent": 4, "parameters": [] },
-            { "code": 402, "indent": 3, "parameters": [3, "Không"] },
+            { "code": 402, "indent": 3, "parameters": [3, "không"] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 404, "indent": 3, "parameters": [] },
             { "code": 111, "indent": 3, "parameters": [1, 68, 0, 0, 0] },
@@ -876,7 +876,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có sách Y Tế và ghi chú ở đây.\\! Chọn một thứ để đọc."
+                "Có sách Y Tế và note ở đây.\\! Chọn một thứ để đọc."
               ]
             },
             {
@@ -895,7 +895,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Acetaminophen - Thuốc Giảm Đau"]
+              "parameters": ["Acetamikhôngphen - Thuốc Giảm Đau"]
             },
             {
               "code": 401,
@@ -1026,7 +1026,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có sách Y Tế và ghi chú ở đây.\\! Chọn một thứ để đọc."
+                "Có sách Y Tế và note ở đây.\\! Chọn một thứ để đọc."
               ]
             },
             {
@@ -1045,7 +1045,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Acetaminophen - Thuốc Giảm Đau"]
+              "parameters": ["Acetamikhôngphen - Thuốc Giảm Đau"]
             },
             {
               "code": 401,
@@ -1740,7 +1740,7 @@
             { "code": 401, "indent": 0, "parameters": ["T-TRÁNH XA TAO RA!"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["KHÔNG!"] },
+            { "code": 401, "indent": 0, "parameters": ["không!"] },
             { "code": 246, "indent": 0, "parameters": [3] },
             {
               "code": 205,
@@ -1977,7 +1977,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["CÁI GÌ?!\\! Không, không-không-không!"]
+              "parameters": ["CÁI GÌ?!\\! không, không-không-không!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {

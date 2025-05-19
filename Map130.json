@@ -1608,7 +1608,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "Hai người đang làm gì ở đây vậy? Không an toàn đâu!"
+               "Hai người đang làm gì ở đây vậy? không an toàn đâu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 3, 0, 2] },
@@ -2270,9 +2270,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["có", "không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 1, "parameters": [27] },
             { "code": 117, "indent": 1, "parameters": [57] },
@@ -2284,7 +2284,7 @@
             { "code": 230, "indent": 1, "parameters": [60] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             {
               "code": 205,
               "indent": 1,
@@ -3178,9 +3178,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["có", "không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "có"] },
             {
               "code": 250,
               "indent": 1,
@@ -3229,7 +3229,7 @@
             { "code": 122, "indent": 1, "parameters": [7, 7, 0, 0, 25] },
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3772,7 +3772,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Bodyguard>Vậy thì hãy bình tĩnh lại một chút.\\! Không có gì đáng lo ngại cả."
+                "\\n<Bodyguard>Vậy thì hãy bình tĩnh lại một chút.\\! không có gì đáng lo ngại cả."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -4901,7 +4901,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":     ["K-Không!\\! Đừng nghe cô ấy!"]
+              "parameters":     ["K-không!\\! Đừng nghe cô ấy!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 0, 0, 2] },
             {
@@ -5313,7 +5313,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không nếu tôi không chiếm hết anh ấy cho riêng mình!"]
+              "parameters": ["không nếu tôi không chiếm hết anh ấy cho riêng mình!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt3", 7, 0, 2] },
             {
@@ -6259,9 +6259,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "Explain", "Chưa"], 2, 0, 2, 0]
+              "parameters": [["có", "Explain", "Chưa"], 2, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "có"] },
             { "code": 111, "indent": 1, "parameters": [4, 28, 0] },
             { "code": 101, "indent": 2, "parameters": ["1Mom6", 0, 0, 2] },
             {
@@ -6758,9 +6758,9 @@
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["Yes", "Chưa"], 1, 0, 2, 0]
+              "parameters": [["có", "Chưa"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 1, "parameters": [0, "có"] },
             { "code": 111, "indent": 2, "parameters": [4, 28, 0] },
             { "code": 101, "indent": 3, "parameters": ["1Mom6", 0, 0, 2] },
             {
@@ -7806,7 +7806,7 @@
     },
     {
       "id": 32,
-      "name": "Quest Notification (Firework)",
+      "name": "Quest khôngtification (Firework)",
       "note": "",
       "pages": [
         {
@@ -8570,9 +8570,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "Explain", "Chưa"], 2, 0, 2, 0]
+              "parameters": [["có", "Explain", "Chưa"], 2, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "có"] },
             { "code": 111, "indent": 1, "parameters": [4, 28, 0] },
             { "code": 101, "indent": 2, "parameters": ["1Mom6", 0, 0, 2] },
             {
@@ -8780,7 +8780,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Pháo hoa>Một cặp đôi dễ thương đến và hỏi tôi rằng tối nay có chương trình nào nữa không.\\! Không biết họ có ở lại để xem không nhỉ?"
+                "\\n<Pháo hoa>Một cặp đôi dễ thương đến và hỏi tôi rằng tối nay có chương trình nào nữa không.\\! không biết họ có ở lại để xem không nhỉ?"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -9333,7 +9333,7 @@
     },
     {
       "id": 41,
-      "name": "Quest Notification (Orange)",
+      "name": "Quest khôngtification (Orange)",
       "note": "",
       "pages": [
         {
@@ -9881,7 +9881,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["K-Không.\\! Tôi không cần bất cứ thứ gì đáp lại."]
+              "parameters": ["K-không.\\! Tôi không cần bất cứ thứ gì đáp lại."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
@@ -9952,7 +9952,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không sao đâu.\\! Tôi có thể làm được, không vấn đề gì!"]
+              "parameters": ["không sao đâu.\\! Tôi có thể làm được, không vấn đề gì!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt3", 5, 0, 2] },
             {
@@ -11074,7 +11074,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Watch", "Not Now"], 1, 0, 2, 0]
+              "parameters": [["Watch", "khôngt khôngw"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Watch"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -11082,7 +11082,7 @@
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Not Now"] },
+            { "code": 402, "indent": 0, "parameters": [1, "khôngt khôngw"] },
             {
               "code": 205,
               "indent": 1,

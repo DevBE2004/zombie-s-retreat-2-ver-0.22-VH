@@ -403,7 +403,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Người phụ nữ>Không biết tại sao cô ấy lại làm thế nhưng dù gì thì giấy chứng thực vẫn là giấy chứng thực."
+                "\\n<Người phụ nữ>không biết tại sao cô ấy lại làm thế nhưng dù gì thì giấy chứng thực vẫn là giấy chứng thực."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -479,7 +479,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Người phụ nữ>Không biết tại sao cô ấy lại làm thế nhưng dù gì thì giấy chứng thực vẫn là giấy chứng thực."
+                "\\n<Người phụ nữ>không biết tại sao cô ấy lại làm thế nhưng dù gì thì giấy chứng thực vẫn là giấy chứng thực."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1151,7 +1151,7 @@
     {
       "id": 13,
       "name": "Victory - Bath | Violet",
-      "note": "A-Bath B-(none yet)",
+      "note": "A-Bath B-(khôngne yet)",
       "pages": [
         {
           "conditions": {

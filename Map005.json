@@ -726,7 +726,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 8, 13, 14, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1277,7 +1277,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -1310,7 +1310,7 @@
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -1384,7 +1384,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -1488,7 +1488,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 413, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -1680,7 +1680,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 6, 12, 8, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1741,7 +1741,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 201, "indent": 0, "parameters": [0, 6, 5, 4, 2, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1850,7 +1850,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 10, 22, 22, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1959,7 +1959,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 10, 22, 22, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4505,7 +4505,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 21, 6, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5482,7 +5482,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 21, 5, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -6037,7 +6037,7 @@
             { "code": 201, "indent": 0, "parameters": [0, 38, 16, 14, 8, 0] },
             { "code": 356, "indent": 0, "parameters": ["Light activate"] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, true] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, true] },
             { "code": 216, "indent": 0, "parameters": [1] },
             { "code": 121, "indent": 0, "parameters": [93, 93, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6192,7 +6192,7 @@
             { "code": 201, "indent": 0, "parameters": [0, 38, 16, 14, 8, 0] },
             { "code": 356, "indent": 0, "parameters": ["Light activate"] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, true] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, true] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6296,7 +6296,7 @@
             { "code": 201, "indent": 0, "parameters": [0, 38, 16, 14, 8, 0] },
             { "code": 356, "indent": 0, "parameters": ["Light activate"] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, true] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, true] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6445,7 +6445,7 @@
             { "code": 201, "indent": 0, "parameters": [0, 38, 16, 14, 8, 0] },
             { "code": 356, "indent": 0, "parameters": ["Light activate"] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, true] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, true] },
             { "code": 216, "indent": 0, "parameters": [1] },
             { "code": 121, "indent": 0, "parameters": [93, 93, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6600,7 +6600,7 @@
             { "code": 201, "indent": 0, "parameters": [0, 38, 16, 14, 8, 0] },
             { "code": 356, "indent": 0, "parameters": ["Light activate"] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, true] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, true] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6704,7 +6704,7 @@
             { "code": 201, "indent": 0, "parameters": [0, 38, 16, 14, 8, 0] },
             { "code": 356, "indent": 0, "parameters": ["Light activate"] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, true] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, true] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -7402,14 +7402,14 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 117, "indent": 1, "parameters": [93] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7700,7 +7700,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -7733,7 +7733,7 @@
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -8095,7 +8095,7 @@
     },
     {
       "id": 45,
-      "name": "Battery Notification",
+      "name": "Battery khôngtification",
       "note": "<Hitbox Up: 6>",
       "pages": [
         {

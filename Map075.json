@@ -8391,7 +8391,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 1, 0]
+              "parameters": [["Có", "không"], 1, 0, 1, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -8416,7 +8416,7 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             {
               "code": 205,
               "indent": 1,

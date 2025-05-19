@@ -852,7 +852,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không phải thế đâu, tôi thề!"]
+              "parameters": ["không phải thế đâu, tôi thề!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -867,7 +867,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không cần phải lo lắng đâu, \\n[1].\\! \\BST[1]Tôi chỉ đùa thôi."
+                "không cần phải lo lắng đâu, \\n[1].\\! \\BST[1]Tôi chỉ đùa thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
@@ -1329,9 +1329,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["có", "không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "có"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 117, "indent": 1, "parameters": [8] },
@@ -1343,7 +1343,7 @@
               "parameters": ["$gameSelfSwitches.setValue([104,7,'A'], true);"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1398,7 +1398,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Nói chuyện", "Massage", "theo", "Không sao đâu"],
+                ["Nói chuyện", "Massage", "theo", "không sao đâu"],
                 3,
                 0,
                 2,
@@ -1667,7 +1667,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không sao đâu, cứ làm đi."]
+              "parameters": ["không sao đâu, cứ làm đi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -1783,7 +1783,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không.\\! Tôi không có."]
+              "parameters": ["không.\\! Tôi không có."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Tôi hiểu rồi..."] },

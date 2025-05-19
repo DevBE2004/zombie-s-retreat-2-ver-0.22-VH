@@ -189,7 +189,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [25] },
@@ -197,7 +197,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [25] },
@@ -205,7 +205,7 @@
               "code": 250,
               "indent": 0,
               "parameters": [
-                { "name": "Knock", "volume": 90, "pitch": 150, "pan": 0 }
+                { "name": "Kkhôngck", "volume": 90, "pitch": 150, "pan": 0 }
               ]
             },
             { "code": 230, "indent": 0, "parameters": [25] },
@@ -366,7 +366,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không!\\! Tôi hoàn toàn khỏe mạnh."]
+              "parameters": ["không!\\! Tôi hoàn toàn khỏe mạnh."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -498,7 +498,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không cần phải lễ nghi gì cả.\\! \\BST[2]Bạn có thể gọi tôi là Bridgette!"
+                "không cần phải lễ nghi gì cả.\\! \\BST[2]Bạn có thể gọi tôi là Bridgette!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },

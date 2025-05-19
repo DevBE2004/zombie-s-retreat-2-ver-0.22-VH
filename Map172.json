@@ -791,7 +791,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "N-Nothing much.\\! Just some groceries that I needed."
+                "N-khôngthing much.\\! Just some groceries that I needed."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -806,7 +806,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["No, these are actually for my \\n[5]."]
+              "parameters": ["không, these are actually for my \\n[5]."]
             },
             {
               "code": 205,
@@ -1001,7 +1001,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không đời nào!\\! \\BST[6]Tôi phải mang đồ ăn này đến cho \\n[2]..."
+                "không đời nào!\\! \\BST[6]Tôi phải mang đồ ăn này đến cho \\n[2]..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1392,7 +1392,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Vest Thug>No way!\\! Th-That can't be..!"]
+              "parameters": ["\\n<Vest Thug>không way!\\! Th-That can't be..!"]
             },
             {
               "code": 205,
@@ -1585,7 +1585,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Un-hand him, right now."]
+              "parameters": ["Un-hand him, right khôngw."]
             },
             { "code": 213, "indent": 0, "parameters": [5, 2, true] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -1594,7 +1594,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Have no fear innocent bystander!"]
+              "parameters": ["Have không fear inkhôngcent bystander!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
             {
@@ -1616,7 +1616,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As long as thugs like you continue to harm innocent citizens, I will put an end to your terror."
+                "As long as thugs like you continue to harm inkhôngcent citizens, I will put an end to your terror."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1734,7 +1734,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foul criminals.\\! You leave me with no other choice!"
+                "Foul criminals.\\! You leave me with không other choice!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 2, 0, 2] },
@@ -1936,10 +1936,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You poor thing.\\! You're not hurt, are you?"]
+              "parameters": ["You poor thing.\\! You're khôngt hurt, are you?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["No, I'm okay."] },
+            { "code": 401, "indent": 0, "parameters": ["không, I'm okay."] },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
             {
               "code": 401,
@@ -1951,7 +1951,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You know, it's dangerous to go through any shadowy or suspicious looking alleyways."
+                "You kkhôngw, it's dangerous to go through any shadowy or suspicious looking alleyways."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
@@ -1959,7 +1959,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You never know what sort of dangers can lurk in them!"
+                "You never kkhôngw what sort of dangers can lurk in them!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -1983,7 +1983,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I guess I should probably head back home now before my \\n[5] gets mad."
+                "I guess I should probably head back home khôngw before my \\n[5] gets mad."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -2160,7 +2160,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I know this city like the back of my hand."]
+              "parameters": ["I kkhôngw this city like the back of my hand."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -2181,7 +2181,7 @@
               "parameters": ["Just in time before your \\n[5] becomes upset!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Now up you go!"] },
+            { "code": 401, "indent": 0, "parameters": ["khôngw up you go!"] },
             {
               "code": 205,
               "indent": 0,
@@ -2407,14 +2407,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Um, isn't this just another suspicious alley, Miss Crimson?"
+                "Um, isn't this just akhôngther suspicious alley, Miss Crimson?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["It's not just any regular alleyway."]
+              "parameters": ["It's khôngt just any regular alleyway."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 6, 0, 2] },
             {
@@ -2949,7 +2949,7 @@
     },
     {
       "id": 8,
-      "name": "Bun Knocked",
+      "name": "Bun Kkhôngcked",
       "note": "",
       "pages": [
         {
@@ -2998,7 +2998,7 @@
     },
     {
       "id": 9,
-      "name": "Vest Knocked",
+      "name": "Vest Kkhôngcked",
       "note": "",
       "pages": [
         {
@@ -3047,7 +3047,7 @@
     },
     {
       "id": 10,
-      "name": "Mohawk Knocked",
+      "name": "Mohawk Kkhôngcked",
       "note": "",
       "pages": [
         {
@@ -3096,7 +3096,7 @@
     },
     {
       "id": 11,
-      "name": "Cap Knocked",
+      "name": "Cap Kkhôngcked",
       "note": "",
       "pages": [
         {

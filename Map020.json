@@ -223,7 +223,7 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 221, "indent": 3, "parameters": [] },
@@ -233,7 +233,7 @@
             { "code": 121, "indent": 3, "parameters": [6, 6, 0] },
             { "code": 222, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 2, "parameters": [1, "không"] },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 0, 0, 2] },
             {
               "code": 401,
@@ -1372,7 +1372,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không, không cần phải lo về điều đó đâu."]
+              "parameters": ["không, không cần phải lo về điều đó đâu."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {
@@ -1729,7 +1729,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không, không cần phải lo về điều đó đâu."]
+              "parameters": ["không, không cần phải lo về điều đó đâu."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {

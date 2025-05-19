@@ -573,7 +573,7 @@
     },
     {
       "id": 4,
-      "name": "Violet Announcements",
+      "name": "Violet Ankhônguncements",
       "note": "",
       "pages": [
         {
@@ -1188,7 +1188,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cái gì?!\\! K-Không!"]
+              "parameters": ["Cái gì?!\\! K-không!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
             {
@@ -5231,13 +5231,13 @@
             { "code": 121, "indent": 0, "parameters": [154, 154, 1] },
             { "code": 230, "indent": 0, "parameters": [90] },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["KHÔNG THỂ TIN ĐƯỢC!"] },
+            { "code": 401, "indent": 0, "parameters": ["không THỂ TIN ĐƯỢC!"] },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không ngờ một tân binh lại có thể vượt qua The Violet Cup mà vẫn còn đứng vững!"
+                "không ngờ một tân binh lại có thể vượt qua The Violet Cup mà vẫn còn đứng vững!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },

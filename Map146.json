@@ -158,7 +158,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Arcade Hotshot>Không phải bây giờ, không phải bây giờ bạn ơi!\\! Tôi sắp đạt điểm cao nhất rồi!"
+                "\\n<Arcade Hotshot>không phải bây giờ, không phải bây giờ bạn ơi!\\! Tôi sắp đạt điểm cao nhất rồi!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -737,7 +737,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Coffee Junkie>Ahh ~\\! Không gì có thể sánh bằng thức uống cổ điển."
+                "\\n<Coffee Junkie>Ahh ~\\! không gì có thể sánh bằng thức uống cổ điển."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -901,7 +901,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["There's no way that's it!"]
+              "parameters": ["There's không way that's it!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Ôi trời ơi!"] },

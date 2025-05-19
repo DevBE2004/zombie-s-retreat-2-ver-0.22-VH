@@ -4114,7 +4114,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 122, 6, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4217,7 +4217,7 @@
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [8] },
             { "code": 201, "indent": 0, "parameters": [0, 122, 6, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 121, "indent": 0, "parameters": [8, 8, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7450,7 +7450,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không chắc lắm.\\! Hãy kiểm tra xem."]
+              "parameters": ["không chắc lắm.\\! Hãy kiểm tra xem."]
             },
             {
               "code": 205,
@@ -7601,7 +7601,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hah!\\! \\BST[1]I think it likes you Jamie."]
+              "parameters": ["Hah!\\! \\BST[1]Tôi nghĩ là nó thích cậu đấy Jamie."]
             },
             {
               "code": 205,
@@ -7824,7 +7824,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Không.\\! Tôi không nghĩ là nó chạy mất đâu."]
+              "parameters":["không.\\! Tôi không nghĩ là nó chạy mất đâu."]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 212, "indent": 0, "parameters": [29, 57, false] },
@@ -8381,7 +8381,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Không.\\! Tôi ổn."] },
+            { "code": 401, "indent": 0, "parameters": ["không.\\! Tôi ổn."] },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 6, 0, 2] },
             {
               "code": 401,
@@ -8561,7 +8561,7 @@
               "parameters": ["Cảm ơn vì đã cứu chúng tôi \\n[1]."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Không có gì!"] },
+            { "code": 401, "indent": 0, "parameters": ["không có gì!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,

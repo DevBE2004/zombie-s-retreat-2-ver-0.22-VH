@@ -718,7 +718,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không giống như mấy chỗ khác, ổ khóa này không phủ đầy bụi."
+                "không giống như mấy chỗ khác, ổ khóa này không phủ đầy bụi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -2556,7 +2556,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không đời nào mình lại nhúng tay vào đó!"]
+              "parameters": ["không đời nào mình lại nhúng tay vào đó!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

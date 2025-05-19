@@ -1479,7 +1479,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có ", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 1] },
@@ -1492,7 +1492,7 @@
             },
             { "code": 117, "indent": 1, "parameters": [70] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [86, 86, 0] },
@@ -1565,7 +1565,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có ", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 1] },
@@ -1589,7 +1589,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2831,7 +2831,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 24, 10, 24, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3048,14 +3048,14 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có ", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có ", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có "] },
             { "code": 117, "indent": 1, "parameters": [94] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

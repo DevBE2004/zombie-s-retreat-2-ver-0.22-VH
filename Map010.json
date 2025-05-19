@@ -2056,7 +2056,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -2089,7 +2089,7 @@
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -2163,7 +2163,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -2262,7 +2262,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 413, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -2756,7 +2756,7 @@
               "parameters": ["Đây là nhà của dì à?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Ah! Không phả-"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah! không phả-"] },
             { "code": 230, "indent": 0, "parameters": [40] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
@@ -3203,7 +3203,7 @@
               "parameters": ["Đây là nhà của dì à?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Ah! Không phả-"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah! không phả-"] },
             { "code": 230, "indent": 0, "parameters": [40] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
@@ -3646,7 +3646,7 @@
               "parameters": ["Đây là nhà của dì à?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Ah! Không phả-"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah! không phả-"] },
             { "code": 230, "indent": 0, "parameters": [40] },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
@@ -7356,12 +7356,12 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 2, "parameters": [1, "không"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -7372,7 +7372,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không chần chừ nữa.\\! Mình phải cứu dì ấy!"]
+              "parameters": ["không chần chừ nữa.\\! Mình phải cứu dì ấy!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [50] },
@@ -7646,12 +7646,12 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 2, "parameters": [1, "không"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -7942,12 +7942,12 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 2, "parameters": [0, "Có"] },
             { "code": 113, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 2, "parameters": [1, "không"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -7958,7 +7958,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không chần chừ nữa.\\! Mình phải cứu dì ấy!"]
+              "parameters": ["không chần chừ nữa.\\! Mình phải cứu dì ấy!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [50] },
@@ -9034,7 +9034,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 0, 0, 2] },
@@ -9059,7 +9059,7 @@
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 356, "indent": 1, "parameters": ["Light activate"] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -9692,7 +9692,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không biết liệu hắn ta có lẻn vào đây trong lúc dì đi vắng hay không?!"
+                "không biết liệu hắn ta có lẻn vào đây trong lúc dì đi vắng hay không?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -9847,7 +9847,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>[Không xong rồi!\\! Mông của dì \\n[4] lại đè vào người mình...]"
+                "\\n<\\N[1]>[không xong rồi!\\! Mông của dì \\n[4] lại đè vào người mình...]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10086,7 +10086,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 0, 0, 2] },
@@ -10111,7 +10111,7 @@
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 356, "indent": 1, "parameters": ["Light activate"] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -10774,7 +10774,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>Không ạ...\\! Nó vẫn chỉ là một bóng đen..."
+                "\\n<\\N[1]>không ạ...\\! Nó vẫn chỉ là một bóng đen..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -11326,7 +11326,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có", "không"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 7, 0, 2] },
@@ -11340,7 +11340,7 @@
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["B", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Không"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
@@ -11420,7 +11420,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Đụ", "Thighjob", "Không làm gì hết"], 2, 0, 2, 0]
+              "parameters": [["Đụ", "Thighjob", "không làm gì hết"], 2, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Đụ"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 1, 0, 2] },
@@ -11458,7 +11458,7 @@
             { "code": 117, "indent": 1, "parameters": [28] },
             { "code": 123, "indent": 1, "parameters": ["C", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Không làm gì hết"] },
+            { "code": 402, "indent": 0, "parameters": [2, "không làm gì hết"] },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,

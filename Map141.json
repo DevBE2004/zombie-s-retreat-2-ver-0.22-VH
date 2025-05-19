@@ -722,9 +722,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+              "parameters": [["có", "không"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "Yes"] },
+            { "code": 402, "indent": 0, "parameters": [0, "có"] },
             {
               "code": 250,
               "indent": 1,
@@ -757,7 +757,7 @@
             },
             { "code": 126, "indent": 1, "parameters": [32, 1, 0, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "No"] },
+            { "code": 402, "indent": 0, "parameters": [1, "không"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -6245,7 +6245,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không tốt.\\! Nó bị khóa rồi."]
+              "parameters": ["không tốt.\\! Nó bị khóa rồi."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

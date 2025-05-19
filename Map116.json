@@ -907,7 +907,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hah hah!\\! \\BST[2]Không thể nói là tôi trách bạn được."
+                "Hah hah!\\! \\BST[2]không thể nói là tôi trách bạn được."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -1204,7 +1204,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không gì tuyệt vời hơn một chuyến đi êm ái qua tàu điện ngầm Crimson City!"
+                "không gì tuyệt vời hơn một chuyến đi êm ái qua tàu điện ngầm Crimson City!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -1276,7 +1276,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng may mắn thay chúng ta có đồ ăn tuyệt vời của \\n[5] để no bụng!"
+                "Nhưng may mắn thay chúng ta có đồ ăn tuyệt vời của \\n[5] để không bụng!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -1366,7 +1366,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ồ!\\! Không có gì mà em không sửa được đâu, Fiona!"
+                "Ồ!\\! không có gì mà em không sửa được đâu, Fiona!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
@@ -1490,7 +1490,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không đời nào.\\! Đừng nói với tôi là-"]
+              "parameters": ["không đời nào.\\! Đừng nói với tôi là-"]
             },
             {
               "code": 250,

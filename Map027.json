@@ -698,7 +698,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ừ, tớ đây!\\! \\BST[1]Không ngờ là cậu ở đây..."]
+              "parameters": ["Ừ, tớ đây!\\! \\BST[1]không ngờ là cậu ở đây..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 5,
-      "name": "Electric Note",
+      "name": "Electric note",
       "note": "",
       "pages": [
         {
@@ -1771,7 +1771,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chị xem này!\\! Có một ghi chú viết tay ở đây..."]
+              "parameters": ["Chị xem này!\\! Có một note viết tay ở đây..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
@@ -1829,7 +1829,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chị xem này!\\! Có một ghi chú viết tay ở đây..."]
+              "parameters": ["Chị xem này!\\! Có một note viết tay ở đây..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {

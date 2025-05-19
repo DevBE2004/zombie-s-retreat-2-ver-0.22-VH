@@ -781,7 +781,7 @@
     },
     {
       "id": 6,
-      "name": "Snowball",
+      "name": "Skhôngwball",
       "note": "",
       "pages": [
         {
@@ -823,7 +823,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hey Snowball!\\! Good kitty!"]
+              "parameters": ["Hey Skhôngwball!\\! Good kitty!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -920,7 +920,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn muốn tìm Snowball phải không?"]
+              "parameters": ["Bạn muốn tìm Skhôngwball phải không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
             {
@@ -935,7 +935,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không đời nào!\\! \\BST[1]Tôi sẽ không để anh đến đó một mình đâu."
+                "không đời nào!\\! \\BST[1]Tôi sẽ không để anh đến đó một mình đâu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -943,7 +943,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Và bên cạnh đó-\\! \\BST[2]Tôi muốn giành được lòng tin của Snowball!"
+                "Và bên cạnh đó-\\! \\BST[2]Tôi muốn giành được lòng tin của Skhôngwball!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 2, 0, 2] },
@@ -1007,7 +1007,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không sao đâu.\\! \\BST[5]Có lẽ chúng ta có thể thử dụ cô ấy ra khỏi chỗ ẩn náu bằng cách nào đó?"
+                "không sao đâu.\\! \\BST[5]Có lẽ chúng ta có thể thử dụ cô ấy ra khỏi chỗ ẩn náu bằng cách nào đó?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 6, 0, 2] },
@@ -1134,7 +1134,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không có gì đâu -\\! Không có gì đâu..."]
+              "parameters": ["không có gì đâu -\\! không có gì đâu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -1148,7 +1148,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không phải vậy đâu..."]
+              "parameters": ["không phải vậy đâu..."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
@@ -1534,7 +1534,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không có gì đâu -\\! Không có gì đâu..."]
+              "parameters": ["không có gì đâu -\\! không có gì đâu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -1575,7 +1575,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không phải vậy đâu..."]
+              "parameters": ["không phải vậy đâu..."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
@@ -1929,13 +1929,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi chỉ đang xem lại một số ghi chú cũ."]
+              "parameters": ["Tôi chỉ đang xem lại một số note cũ."]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Nói chuyện", "theo", "Không sao đâu"],
+                ["Nói chuyện", "theo", "không sao đâu"],
                 2,
                 0,
                 2,
@@ -2014,7 +2014,7 @@
     },
     {
       "id": 10,
-      "name": "Snowball (Sleep)",
+      "name": "Skhôngwball (Sleep)",
       "note": "",
       "pages": [
         {
@@ -2063,7 +2063,7 @@
     },
     {
       "id": 11,
-      "name": "Snowball Sleep Bubble",
+      "name": "Skhôngwball Sleep Bubble",
       "note": "",
       "pages": [
         {

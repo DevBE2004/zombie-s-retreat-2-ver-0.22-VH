@@ -436,7 +436,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không hề..."]
+              "parameters": ["không hề..."]
             },
             {
               "code": 101,
@@ -626,7 +626,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không phải rõ ràng sao?!\\! Tôi sẽ cần một trợ lý, đúng không?"
+                "không phải rõ ràng sao?!\\! Tôi sẽ cần một trợ lý, đúng không?"
               ]
             },
             {
@@ -1043,7 +1043,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Không còn bê bối nữa.\\! Không còn tham nhũng nữa."
+                "không còn bê bối nữa.\\! không còn tham nhũng nữa."
               ]
             },
             {
@@ -1628,7 +1628,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có (Tình dục)", "Không"], 1, 0, 2, 0]
+              "parameters": [["Có (Tình dục)", "không"], 1, 0, 2, 0]
             },
             {
               "code": 402,
@@ -1668,7 +1668,7 @@
             {
               "code": 402,
               "indent": 0,
-              "parameters": [1, "Không"]
+              "parameters": [1, "không"]
             },
             {
               "code": 101,
