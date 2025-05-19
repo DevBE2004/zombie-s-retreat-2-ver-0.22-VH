@@ -6454,34 +6454,35 @@
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 0, 0, 2] },
             {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "We can reach the deeper parts of Crimson Mire just khôngrth from here."
-              ]
-            },
-            { "code": 204, "indent": 0, "parameters": [8, 7, 3] },
-            { "code": 230, "indent": 0, "parameters": [240] },
-            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["See those thorny bushes up ahead?"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 5, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["My machete will chop right through them!"]
-            },
-            { "code": 204, "indent": 0, "parameters": [2, 7, 4] },
-            { "code": 230, "indent": 0, "parameters": [120] },
-            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["now let's go see if we can find your Lucy."]
-            },
+"code": 401,
+"indent": 0,
+"parameters": [
+"Chúng ta có thể đến được những vùng sâu hơn của Crimson Mire ngay phía bắc từ đây."
+
+]
+},
+{ "code": 204, "indent": 0, "parameters": [8, 7, 3] },
+{ "code": 230, "indent": 0, "parameters": [240] },
+{ "code": 101, "indent": 0, "parameters": ["1Jamie1", 2, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": ["Bạn có thấy những bụi cây gai ở phía trước không?"]
+},
+{ "code": 101, "indent": 0, "parameters": ["1Jamie1", 5, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": ["Cây dao rựa của tôi sẽ chặt đứt chúng!"]
+},
+{ "code": 204, "indent": 0, "parameters": [2, 7, 4] },
+{ "code": 230, "indent": 0, "parameters": [120] },
+{ "code": 101, "indent": 0, "parameters": ["1Jamie1", 0, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": ["bây giờ chúng ta hãy đi xem chúng ta có thể tìm thấy Lucy của bạn không."]
+},
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },

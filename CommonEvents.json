@@ -13553,7 +13553,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Gained some Scrap Brick! (4)"]
+        "parameters": ["Đã kiếm được một ít Scrap Brick! (4)"]
       },
       { "code": 126, "indent": 3, "parameters": [3, 0, 0, 4] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -13562,7 +13562,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Gained some Scrap Brick! (3)"]
+        "parameters": ["Đã kiếm được một ít Scrap Brick! (3)"]
       },
       { "code": 126, "indent": 3, "parameters": [3, 0, 0, 3] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -13574,7 +13574,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Gained some Scrap Brick! (3)"]
+        "parameters": ["Đã kiếm được một ít Scrap Brick! (3)"]
       },
       { "code": 126, "indent": 3, "parameters": [3, 0, 0, 3] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -13583,7 +13583,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Gained some Scrap Brick! (2)"]
+        "parameters": ["Đã kiếm được một ít Scrap Brick! (2)"]
       },
       { "code": 126, "indent": 3, "parameters": [3, 0, 0, 2] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -13605,7 +13605,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Gained some Scrap Brick! (5)"]
+        "parameters": ["Đã kiếm được một ít Scrap Brick! (5)"]
       },
       { "code": 126, "indent": 3, "parameters": [3, 0, 0, 5] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -13614,7 +13614,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Gained some Scrap Brick! (4)"]
+        "parameters": ["Đã kiếm được một ít Scrap Brick! (4)"]
       },
       { "code": 126, "indent": 3, "parameters": [3, 0, 0, 4] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -13626,7 +13626,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Gained some Scrap Brick! (4)"]
+        "parameters": ["Đã kiếm được một ít Scrap Brick! (4)"]
       },
       { "code": 126, "indent": 3, "parameters": [3, 0, 0, 4] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -13635,7 +13635,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Gained some Scrap Brick! (3)"]
+        "parameters": ["Đã kiếm được một ít Scrap Brick! (3)"]
       },
       { "code": 126, "indent": 3, "parameters": [3, 0, 0, 3] },
       { "code": 0, "indent": 3, "parameters": [] },
@@ -19575,7 +19575,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Oh man...\\! Tasty as always, but I thought something cooler would happen..."
+          "Oh man...\\! Tasty as always, but I thought Đã đạt được một sốthing cooler would happen..."
         ]
       },
       { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -27565,21 +27565,22 @@
       { "code": 408, "indent": 0, "parameters": ["     enabled = true;"] },
       { "code": 408, "indent": 0, "parameters": ["   }"] },
       { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["renovations for Nadia's bedroom at the motel."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": [
-          "Nadia will feel much more at home with this improvement!"
-        ]
-      },
+     {
+"code": 408,
+"indent": 0,
+"parameters": ["cải tạo phòng ngủ của Nadia tại nhà nghỉ."]
+},
+
+{
+"code": 408,
+"indent": 0,
+"parameters": [
+"Nadia sẽ cảm thấy thoải mái hơn nhiều với sự cải thiện này!"
+]
+},
       { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
       { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
-      { "code": 408, "indent": 0, "parameters": ["     - Requirements -"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
       { "code": 408, "indent": 0, "parameters": ["\\i[295]:\\v[36]/4 "] },
       { "code": 408, "indent": 0, "parameters": ["\\i[247]:\\v[38]/4 "] },
       { "code": 408, "indent": 0, "parameters": ["\\i[181]:\\v[33]/2"] },
@@ -27904,20 +27905,21 @@
       { "code": 408, "indent": 0, "parameters": ["   }"] },
       { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
       {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["renovations for Bridgette's bedroom at the motel."]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": [
-          "Bridgette will feel much more at home with this improvement!"
-        ]
-      },
+"code": 408,
+"indent": 0,
+"parameters": ["cải tạo phòng ngủ của Bridgette tại nhà nghỉ."]
+},
+
+{
+"code": 408,
+"indent": 0,
+"parameters": [
+"Bridgette sẽ cảm thấy thoải mái hơn nhiều với sự cải thiện này!"
+]
+},
       { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
       { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
-      { "code": 408, "indent": 0, "parameters": ["     - Requirements -"] },
+      { "code": 408, "indent": 0, "parameters": ["     - yêu cầu -"] },
       { "code": 408, "indent": 0, "parameters": ["\\i[247]:\\v[38]/4"] },
       { "code": 408, "indent": 0, "parameters": ["\\i[295]:\\v[36]/3   "] },
       { "code": 408, "indent": 0, "parameters": ["\\i[264]:\\v[34]/3"] },
@@ -27936,10 +27938,10 @@
       { "code": 126, "indent": 3, "parameters": [13, 1, 0, 3] },
       { "code": 101, "indent": 3, "parameters": ["1Fiona1", 1, 0, 2] },
       {
-        "code": 401,
-        "indent": 3,
-        "parameters": ["A renovation?\\! Comin' right up!"]
-      },
+"code": 401,
+"indent": 3,
+"parameters": ["Một ​​cuộc cải tạo?\\! Sắp diễn ra!"]
+},
       { "code": 221, "indent": 3, "parameters": [] },
       { "code": 122, "indent": 3, "parameters": [49, 49, 1, 0, 1] },
       { "code": 121, "indent": 3, "parameters": [352, 352, 0] },

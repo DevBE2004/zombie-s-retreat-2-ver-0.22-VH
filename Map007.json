@@ -365,7 +365,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Tìm kiếm trong điểm cứu hộ này?"]
             },
             {
               "code": 102,
@@ -472,7 +472,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Search through this salvage point?"]
+              "parameters": ["Tìm kiếm trong điểm cứu hộ này?"]
             },
             {
               "code": 102,
@@ -507,7 +507,7 @@
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["Gained some Pistol Ammo (6)!"]
+              "parameters": ["Gained Đã đạt được một số Pistol Ammo (6)!"]
             },
             { "code": 117, "indent": 4, "parameters": [16] },
             { "code": 0, "indent": 4, "parameters": [] },
@@ -518,7 +518,7 @@
             {
               "code": 401,
               "indent": 5,
-              "parameters": ["Gained some Scrap Wood!"]
+              "parameters": ["Gained Đã đạt được một số Scrap Wood!"]
             },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 411, "indent": 4, "parameters": [] },
@@ -528,7 +528,7 @@
             {
               "code": 401,
               "indent": 6,
-              "parameters": ["Gained some Scrap Metal!"]
+              "parameters": ["Gained Đã đạt được một số Scrap Metal!"]
             },
             { "code": 0, "indent": 6, "parameters": [] },
             { "code": 411, "indent": 5, "parameters": [] },
@@ -537,7 +537,7 @@
             {
               "code": 401,
               "indent": 6,
-              "parameters": ["Gained some Scrap Brick!"]
+              "parameters": ["Gained Đã đạt được một số Scrap Brick!"]
             },
             { "code": 0, "indent": 6, "parameters": [] },
             { "code": 412, "indent": 5, "parameters": [] },
@@ -4433,7 +4433,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Gained some Scrap Metal (2)!"]
+              "parameters": ["Gained Đã đạt được một số Scrap Metal (2)!"]
             },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4542,7 +4542,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Scrap Brick!"]
+              "parameters": ["Found Đã đạt được một số Scrap Brick!"]
             },
             { "code": 126, "indent": 0, "parameters": [3, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -4599,7 +4599,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Scrap Brick!"]
+              "parameters": ["Found Đã đạt được một số Scrap Brick!"]
             },
             { "code": 126, "indent": 0, "parameters": [3, 0, 0, 1] },
             { "code": 117, "indent": 0, "parameters": [101] },
@@ -4706,7 +4706,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Scrap Brick!"]
+              "parameters": ["Found Đã đạt được một số Scrap Brick!"]
             },
             { "code": 126, "indent": 0, "parameters": [3, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -4763,7 +4763,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Scrap Brick!"]
+              "parameters": ["Found Đã đạt được một số Scrap Brick!"]
             },
             { "code": 126, "indent": 0, "parameters": [3, 0, 0, 1] },
             { "code": 117, "indent": 0, "parameters": [101] },
@@ -4870,7 +4870,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Scrap Metal!"]
+              "parameters": ["Found Đã đạt được một số Scrap Metal!"]
             },
             { "code": 126, "indent": 0, "parameters": [1, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -4927,7 +4927,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Found some Scrap Metal!"]
+              "parameters": ["Found Đã đạt được một số Scrap Metal!"]
             },
             { "code": 126, "indent": 0, "parameters": [1, 0, 0, 1] },
             { "code": 117, "indent": 0, "parameters": [101] },

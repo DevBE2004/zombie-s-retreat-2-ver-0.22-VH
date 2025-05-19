@@ -10816,9 +10816,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["khôngrth", "SW", "SE"], -1, 0, 2, 0]
+              "parameters": [["north", "SW", "SE"], -1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "khôngrth"] },
+            { "code": 402, "indent": 0, "parameters": [0, "north"] },
             { "code": 122, "indent": 1, "parameters": [82, 82, 0, 0, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "SW"] },

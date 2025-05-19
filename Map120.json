@@ -1236,7 +1236,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Whoa there.\\! Hang on \\n[1]."]
+              "parameters": ["Whoa there.\\! treo lên \\n[1]."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
             {
@@ -1250,7 +1250,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["See those plants over there?"]
+              "parameters": ["Bạn có thấy những cây ở đằng kia không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 2, 0, 2] },
             {
@@ -1264,7 +1264,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["So watch your step now, alright?"]
+              "parameters": ["Vậy thì hãy cẩn thận từng bước một nhé, được không?"]
             },
             { "code": 204, "indent": 0, "parameters": [4, 3, 3] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -11977,7 +11977,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Gained some Scrap Brick (2)!"]
+              "parameters": ["Gained Đã đạt được một số Scrap Brick (2)!"]
             },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

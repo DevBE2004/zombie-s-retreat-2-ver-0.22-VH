@@ -1,17 +1,1927 @@
 {
-"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":13,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":8,"width":17,
-"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6163,6161,6161,6161,6161,6161,6161,6161,6161,6161,6161,6161,6165,0,0,0,0,6160,8050,8050,8050,8050,8050,8050,8050,8050,8050,8050,8050,6160,0,0,0,0,6160,8056,8056,8056,8056,8056,8056,8056,8056,8056,8056,8056,6160,0,0,0,0,6160,1619,1619,1619,1619,1619,1619,1619,1619,1619,1619,1619,6160,0,0,0,0,6160,1619,1619,1619,1619,1619,1619,1619,1619,1619,1619,1619,6160,0,0,0,0,6160,1619,1626,1619,1619,1619,1619,1619,1619,1619,1619,1619,6160,0,0,0,0,6160,1619,1619,1619,1619,1619,1619,1619,1619,1619,1619,1619,6160,0,0,0,0,6160,1619,1619,1619,1619,1619,1619,1619,1619,1619,1619,1619,6160,0,0,0,0,6160,1619,1619,1619,1619,1619,1619,1619,1619,1619,1619,1619,6160,0,0,0,0,6169,6161,6173,6795,6797,6171,6161,6161,6161,6161,6161,6161,6167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3475,3485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3484,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3090,3092,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3096,3094,0,0,0,0,0,0,0,0,0,0,0,0,3906,3908,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3912,3910,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,347,136,851,782,894,79,881,928,929,930,0,0,0,0,0,0,301,355,0,859,0,86,87,889,831,0,214,0,0,0,0,0,0,309,0,874,913,0,94,95,876,839,0,222,0,0,0,0,0,0,0,0,0,921,0,0,0,0,831,0,214,0,0,0,0,0,0,494,0,0,0,0,0,0,0,839,0,222,0,0,0,0,0,0,502,0,0,0,0,0,0,0,831,0,214,0,0,0,0,0,0,510,0,0,0,0,0,0,0,839,0,222,0,0,0,0,0,0,214,0,0,0,0,452,453,0,831,0,214,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-"events":[
-null,
-{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"$CP_Container","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["Trông nó có vẻ công nghệ cao quá!\\! Tôi không nghĩ mình có thể mở nó ra được."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"D","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Item2","volume":70,"pitch":100,"pan":0}]},{"code":126,"indent":0,"parameters":[55,0,0,1]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Đã tìm thấy Mô-đun Helios B chưa?"]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":12,"y":4},
-{"id":2,"name":"DoorExit1","note":"<Hitbox Right: 1>","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":90}]},{"code":121,"indent":0,"parameters":[62,62,0]},{"code":201,"indent":0,"parameters":[0,121,27,7,2,0]},{"code":117,"indent":0,"parameters":[27]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":216,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["Có lẽ không phải là ý hay khi để Lucy và Jamie ở lại đây..."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}],"x":5,"y":10},
-{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":8,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":230,"indent":0,"parameters":[30]},{"code":203,"indent":0,"parameters":[4,0,6,8,8]},{"code":203,"indent":0,"parameters":[5,0,5,9,8]},{"code":230,"indent":0,"parameters":[30]},{"code":205,"indent":0,"parameters":[4,{"list":[{"code":4,"indent":null},{"code":4,"indent":null},{"code":15,"parameters":[30],"indent":null},{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[30],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":15,"parameters":[10],"indent":null},{"code":4,"indent":null},{"code":4,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[10],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":15,"parameters":[15],"indent":null},{"code":4,"indent":null},{"code":4,"indent":null},{"code":29,"parameters":[4],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[15],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[160]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Chết tiệt!\\! không có ai ở đây cả."]},{"code":101,"indent":0,"parameters":["1MC1",2,0,2]},{"code":401,"indent":0,"parameters":["Whoa!"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":16,"indent":null},{"code":15,"parameters":[45],"indent":null},{"code":18,"indent":null},{"code":15,"parameters":[60],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[45],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[60],"indent":null}]},{"code":101,"indent":0,"parameters":["1MC1",2,0,2]},{"code":401,"indent":0,"parameters":["Hãy nhìn tất cả những thứ này!"]},{"code":101,"indent":0,"parameters":["1MC1",0,0,2]},{"code":401,"indent":0,"parameters":["Đây hẳn phải là một phòng thí nghiệm dành cho thực vật."]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":101,"indent":0,"parameters":["1Jamie1",3,0,2]},{"code":401,"indent":0,"parameters":["Một phòng thí nghiệm?\\! \\BST[4]Tại sao một nơi như thế này lại ẩn sâu trong đầm lầy?"]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Bất kỳ ai cũng có thể đã thử nghiệm trên thảm thực vật địa phương."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Và họ muốn làm điều đó một cách bí mật."]},{"code":101,"indent":0,"parameters":["1Jamie1",6,0,2]},{"code":401,"indent":0,"parameters":["Có thể giải thích cho cây xúc tu khổng lồ điên rồ này..."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Rõ ràng là cuộc nghiên cứu đã vượt khỏi tầm kiểm soát."]},{"code":101,"indent":0,"parameters":["1Lucy1",2,0,2]},{"code":401,"indent":0,"parameters":["Đừng bận tâm đến tôi.\\! Tôi sẽ điều tra ở đó."]},{"code":205,"indent":0,"parameters":[4,{"list":[{"code":16,"indent":null},{"code":15,"parameters":[15],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[15],"indent":null}]},{"code":101,"indent":0,"parameters":["1Lucy1",0,0,2]},{"code":401,"indent":0,"parameters":["Nếu một trong hai người tìm thấy bất cứ điều gì quan trọng, hãy cho tôi biết ngay lập tức."]},{"code":221,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[30]},{"code":203,"indent":0,"parameters":[4,0,12,5,8]},{"code":203,"indent":0,"parameters":[5,0,7,7,6]},{"code":355,"indent":0,"parameters":["$gameSelfSwitches.setValue([122,8,'D'], true);"]},{"code":230,"indent":0,"parameters":[30]},{"code":222,"indent":0,"parameters":[]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":1,"y":11},
-{"id":4,"name":"Lucy","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":8,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"1Lucy","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Hộp này có nhãn Crimson City Energy."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Giá như tôi có thể tìm ra cách mở nó ra..."]},{"code":101,"indent":0,"parameters":["1MC1",0,0,2]},{"code":401,"indent":0,"parameters":["Tránh ra một bên, tôi sẽ đập vỡ cửa ra cho anh."]},{"code":101,"indent":0,"parameters":["1Lucy1",0,0,2]},{"code":401,"indent":0,"parameters":["Cố gắng lắm, anh chàng mạnh mẽ."]},{"code":101,"indent":0,"parameters":["1Lucy1",2,0,2]},{"code":401,"indent":0,"parameters":["Chiếc hộp này được thiết kế rõ ràng để chống phá hoại."]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["Chết tiệt! Nếu nó được niêm phong chặt chẽ thì chắc chắn phải có thứ gì đó quan trọng bên trong."]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":2,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":13,"y":12},
-{"id":5,"name":"Jamie","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":8,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"1Jamie","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["1Jamie1",0,0,2]},{"code":401,"indent":0,"parameters":["Thật tuyệt vời!\\! Những cây này trông thật sống động."]},{"code":101,"indent":0,"parameters":["1Jamie1",1,0,2]},{"code":401,"indent":0,"parameters":["Tôi nên note lại cho khu vườn của mình!"]},{"code":101,"indent":0,"parameters":["1Jamie1",3,0,2]},{"code":401,"indent":0,"parameters":["Mặc dù có vẻ hơi kỳ lạ nếu nơi này đã bị bỏ hoang."]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["Bạn có nghĩ là người ở đây vẫn còn sống không?"]},{"code":101,"indent":0,"parameters":["1Jamie1",4,0,2]},{"code":401,"indent":0,"parameters":["Có thể.\\! Mặc dù cây khổng lồ đó sẽ là một người hàng xóm tồi tệ..."]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":2,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":14,"y":12},
-{"id":6,"name":"Old/Unused Dialogue","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Các thí nghiệm về tác động của đá lên thảm thực vật đã được tiến hành mặc dù"]},{"code":401,"indent":0,"parameters":["yêu cầu liên tục của tôi là đóng nó lại."]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Mọi thử nghiệm đều kết thúc với cùng một kết quả.\\! Cây cối phản ứng dữ dội, như thể chính sự sống đang bị lấy đi khỏi chúng.\\! Cái chết thường xảy ra"]},{"code":401,"indent":0,"parameters":["ngay lập tức."]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Tôi ngạc nhiên khi thấy một loài nấm đặc biệt dường như chào đón sự hiện diện của viên đá.\\! Gần như "]},{"code":401,"indent":0,"parameters":["nếu nó hình thành sự phụ thuộc vào bức xạ."]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["không có xét nghiệm nào tạo ra bất kỳ đặc tính chữa bệnh hoặc tái tạo nào.\\! "]},{"code":401,"indent":0,"parameters":["Tôi sợ rằng thử nghiệm này sẽ chỉ dẫn tới những hậu quả nguy hiểm."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Crimson City Energy."]},{"code":101,"indent":0,"parameters":["1Jamie1",4,0,2]},{"code":401,"indent":0,"parameters":["Bất kể người này là ai thì ít nhất họ cũng có vẻ hối hận về hành động của mình."]},{"code":101,"indent":0,"parameters":["1Jamie1",4,0,2]},{"code":401,"indent":0,"parameters":["Tôi tự hỏi ai đã buộc họ tiếp tục thí nghiệm?"]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Crimson City Energy."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Trước cuộc khủng hoảng Trại Zomi, CCE đã công bố một nguồn năng lượng mới được phát hiện để cung cấp điện cho thành phố."]},{"code":101,"indent":0,"parameters":["1Jamie1",3,0,2]},{"code":401,"indent":0,"parameters":["Lucy, cô đang muốn nói gì ở đây vậy?"]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Nguồn tin nội bộ khẳng định rằng nguồn năng lượng mới này giống như một tạo tác siêu nhiên có khả năng tạo ra nguồn năng lượng khổng lồ."]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["Vậy bạn nghĩ viên đá này là cùng một loại à?"]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Bất kể tôi tìm thấy điều gì, nó luôn dẫn tới cùng một nơi."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":9,"y":12},
-null,
-{"id":8,"name":"Computer Event","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"D","selfSwitchValid":true,"switch1Id":6,"switch1Valid":false,"switch2Id":6,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":2},"directionFix":true,"image":{"tileId":0,"characterName":"$Sparkle","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":2,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":1,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["1MC1",0,0,2]},{"code":401,"indent":0,"parameters":["Máy tính.\\! Tôi tự hỏi liệu nó có còn hoạt động không."]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"Damage1","volume":90,"pitch":120,"pan":0}]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"Damage1","volume":90,"pitch":120,"pan":0}]},{"code":230,"indent":0,"parameters":[60]},{"code":250,"indent":0,"parameters":[{"name":"Computer","volume":90,"pitch":100,"pan":0}]},{"code":355,"indent":0,"parameters":["$gameSelfSwitches.setValue([122,9,'A'], true);"]},{"code":355,"indent":0,"parameters":["$gameSelfSwitches.setValue([122,10,'A'], true);"]},{"code":213,"indent":0,"parameters":[-1,1,true]},{"code":230,"indent":0,"parameters":[30]},{"code":101,"indent":0,"parameters":["1MC1",1,0,2]},{"code":401,"indent":0,"parameters":["Đúng thế!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["** Enter password **"]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["Uhhh ~"]},{"code":230,"indent":0,"parameters":[40]},{"code":213,"indent":0,"parameters":[-1,9,true]},{"code":230,"indent":0,"parameters":[10]},{"code":101,"indent":0,"parameters":["1MC1",0,0,2]},{"code":401,"indent":0,"parameters":["Có lẽ cách này sẽ hiệu quả."]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"Cursor1","volume":90,"pitch":120,"pan":0}]},{"code":230,"indent":0,"parameters":[45]},{"code":250,"indent":0,"parameters":[{"name":"Cursor1","volume":90,"pitch":120,"pan":0}]},{"code":230,"indent":0,"parameters":[45]},{"code":250,"indent":0,"parameters":[{"name":"Cursor1","volume":90,"pitch":120,"pan":0}]},{"code":230,"indent":0,"parameters":[15]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["P - A - S - S - W - O - R - D"]},{"code":230,"indent":0,"parameters":[60]},{"code":250,"indent":0,"parameters":[{"name":"Buzzer1","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[60]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["Vâng.\\! Tôi nghĩ rằng điều đó có vẻ hơi quá đáng."]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":18,"indent":null},{"code":15,"parameters":[15],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[15],"indent":null}]},{"code":101,"indent":0,"parameters":["1MC1",0,0,2]},{"code":401,"indent":0,"parameters":["Này các bạn, máy tính này đã bật rồi."]},{"code":205,"indent":0,"parameters":[4,{"list":[{"code":17,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":15,"parameters":[15],"indent":null},{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[15],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["Bạn có biết cách nào để vào được không?"]},{"code":230,"indent":0,"parameters":[15]},{"code":221,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[5]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":1,"indent":null},{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":230,"indent":0,"parameters":[5]},{"code":203,"indent":0,"parameters":[4,0,5,4,8]},{"code":203,"indent":0,"parameters":[5,0,7,4,4]},{"code":230,"indent":0,"parameters":[5]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[45]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Để tôi xem nào."]},{"code":101,"indent":0,"parameters":["1Lucy1",2,0,2]},{"code":401,"indent":0,"parameters":["Tôi...\\! Tôi có thể mở khóa được."]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"Cursor1","volume":90,"pitch":120,"pan":0}]},{"code":230,"indent":0,"parameters":[10]},{"code":250,"indent":0,"parameters":[{"name":"Cursor1","volume":90,"pitch":120,"pan":0}]},{"code":230,"indent":0,"parameters":[10]},{"code":250,"indent":0,"parameters":[{"name":"Cursor1","volume":90,"pitch":120,"pan":0}]},{"code":230,"indent":0,"parameters":[15]},{"code":250,"indent":0,"parameters":[{"name":"Cursor1","volume":90,"pitch":120,"pan":0}]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"Computer","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[60]},{"code":101,"indent":0,"parameters":["1MC1",2,0,2]},{"code":401,"indent":0,"parameters":["Bạn vào được sao?!\\! Bằng cách nào?"]},{"code":101,"indent":0,"parameters":["1Lucy1",0,0,2]},{"code":401,"indent":0,"parameters":["Tôi biết cách sử dụng máy tính.\\! Vậy thôi."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Bây giờ chúng ta hãy xem có gì ở đây nhé."]},{"code":230,"indent":0,"parameters":[30]},{"code":213,"indent":0,"parameters":[4,8,true]},{"code":230,"indent":0,"parameters":[30]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Đây.\\! Tôi tìm thấy một tài liệu."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Đây là một báo cáo nghiên cứu."]},{"code":101,"indent":0,"parameters":["1Jamie1",0,0,2]},{"code":401,"indent":0,"parameters":["Nghe có vẻ hữu ích.\\! Hãy đọc nó nhé."]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Hôm nay là ngày cuối cùng tôi thử nghiệm tác động của hiện vật này lên thảm thực vật."]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Mọi cuộc thử nghiệm đều kết thúc với cùng một kết quả.\\! Thực vật phản ứng dữ dội, như thể chính sự sống của chúng đang bị lấy đi.\\! Cái chết thường xảy ra "]},{"code":401,"indent":0,"parameters":["immediate."]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Điều ngạc nhiên là một loài nấm xanh đặc biệt dường như chào đón sự hiện diện của viên đá.\\! Gần như "]},{"code":401,"indent":0,"parameters":["nếu nó hình thành lực hấp dẫn đối với bức xạ."]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["không có xét nghiệm nào trước đó cho thấy bất kỳ dấu hiệu nào về khả năng chữa lành hoặc tái tạo."]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Và ngày mai, tôi phải từ bỏ hiện vật theo yêu cầu của ban quản trị.\\! Bài kiểm tra này là hy vọng cuối cùng của tôi."]},{"code":101,"indent":0,"parameters":["1Jamie1",3,0,2]},{"code":401,"indent":0,"parameters":["Nấm xanh..?\\! Tôi đoán là chúng ta đã tìm ra chuyện gì đã xảy ra với cây xúc tu thân thiện của chúng ta rồi."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Loại cây ghê tởm đó hẳn là kết quả của cuộc thử nghiệm này."]},{"code":101,"indent":0,"parameters":["1Jamie1",4,0,2]},{"code":401,"indent":0,"parameters":["Hiện vật này.\\! Họ đang nghiên cứu cái gì thế?!"]},{"code":101,"indent":0,"parameters":["1Jamie1",2,0,2]},{"code":401,"indent":0,"parameters":["Bất cứ ai phụ trách nghiên cứu này đều đang phải đối mặt với một vấn đề rất nguy hiểm."]},{"code":401,"indent":0,"parameters":["power."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Tôi nghi ngờ đó là Crimson City Energy."]},{"code":101,"indent":0,"parameters":["1Jamie1",4,0,2]},{"code":401,"indent":0,"parameters":["Huh?\\! What does an energy company have to do with plants?"]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Trước cuộc khủng hoảng Trại Zomi, CCE đã công bố một nguồn năng lượng mới được phát hiện để cung cấp điện cho thành phố."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Báo cáo tình báo của tôi mô tả nó là một loại đá màu đỏ thẫm."]},{"code":101,"indent":0,"parameters":["1Jamie1",3,0,2]},{"code":401,"indent":0,"parameters":["Một viên đá duy nhất cung cấp năng lượng cho cả một thành phố nghe có vẻ giống như một trò ảo thuật."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Trong khi đó, báo cáo nghiên cứu này được thực hiện ngay trước cuộc khủng hoảng Trại Zomi."]},{"code":101,"indent":0,"parameters":["1Jamie1",3,0,2]},{"code":401,"indent":0,"parameters":["Chính xác thì cô đang muốn nói đến điều gì vậy, Lucy?"]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["Loại đá này đã được thử nghiệm trên cây trồng ngay trước Trại Zomi"]},{"code":401,"indent":0,"parameters":["became enveloped in thick fog."]},{"code":101,"indent":0,"parameters":["1Lucy1",2,0,2]},{"code":401,"indent":0,"parameters":["Ngay sau đó, Crimsom City cũng bị bao phủ trong lớp sương mù đó."]},{"code":101,"indent":0,"parameters":["1Lucy1",2,0,2]},{"code":401,"indent":0,"parameters":["Cùng với thây ma, thực vật đột biến..."]},{"code":101,"indent":0,"parameters":["1Jamie1",2,0,2]},{"code":401,"indent":0,"parameters":["Anh đang ám chỉ rằng viên đá chính là nguyên nhân gây ra toàn bộ sự việc này sao?!"]},{"code":101,"indent":0,"parameters":["1Lucy1",2,0,2]},{"code":401,"indent":0,"parameters":["Ít nhất thì đó cũng là một lý thuyết đáng để xem xét."]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["Everything we've been through..."]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["The zombies.\\! The monsters..."]},{"code":101,"indent":0,"parameters":["1MC1",4,0,2]},{"code":401,"indent":0,"parameters":["You think people caused it?"]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["I'm still not entirely sure."]},{"code":101,"indent":0,"parameters":["1Lucy1",4,0,2]},{"code":401,"indent":0,"parameters":["But it's my job to find out."]},{"code":355,"indent":0,"parameters":["Galv.QUEST.objective(25,1,1);"]},{"code":230,"indent":0,"parameters":[60]},{"code":221,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[30]},{"code":242,"indent":0,"parameters":[3]},{"code":230,"indent":0,"parameters":[120]},{"code":121,"indent":0,"parameters":[8,8,0]},{"code":201,"indent":0,"parameters":[0,108,7,8,6,0]},{"code":123,"indent":0,"parameters":["B",0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":4},
-{"id":9,"name":"EV009","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":862,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":858,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":3},
-{"id":10,"name":"EV010","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":854,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":850,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":2}
-]
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 13,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 8,
+  "width": 17,
+  "data": [
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6163, 6161, 6161,
+    6161, 6161, 6161, 6161, 6161, 6161, 6161, 6161, 6161, 6165, 0, 0, 0, 0,
+    6160, 8050, 8050, 8050, 8050, 8050, 8050, 8050, 8050, 8050, 8050, 8050,
+    6160, 0, 0, 0, 0, 6160, 8056, 8056, 8056, 8056, 8056, 8056, 8056, 8056,
+    8056, 8056, 8056, 6160, 0, 0, 0, 0, 6160, 1619, 1619, 1619, 1619, 1619,
+    1619, 1619, 1619, 1619, 1619, 1619, 6160, 0, 0, 0, 0, 6160, 1619, 1619,
+    1619, 1619, 1619, 1619, 1619, 1619, 1619, 1619, 1619, 6160, 0, 0, 0, 0,
+    6160, 1619, 1626, 1619, 1619, 1619, 1619, 1619, 1619, 1619, 1619, 1619,
+    6160, 0, 0, 0, 0, 6160, 1619, 1619, 1619, 1619, 1619, 1619, 1619, 1619,
+    1619, 1619, 1619, 6160, 0, 0, 0, 0, 6160, 1619, 1619, 1619, 1619, 1619,
+    1619, 1619, 1619, 1619, 1619, 1619, 6160, 0, 0, 0, 0, 6160, 1619, 1619,
+    1619, 1619, 1619, 1619, 1619, 1619, 1619, 1619, 1619, 6160, 0, 0, 0, 0,
+    6169, 6161, 6173, 6795, 6797, 6171, 6161, 6161, 6161, 6161, 6161, 6161,
+    6167, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 3475, 3485, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 3484, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 3090, 3092, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3096, 3094, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3906, 3908, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 3912, 3910, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 137, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 875, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 293, 347, 136, 851, 782, 894, 79, 881, 928, 929, 930, 0, 0, 0,
+    0, 0, 0, 301, 355, 0, 859, 0, 86, 87, 889, 831, 0, 214, 0, 0, 0, 0, 0, 0,
+    309, 0, 874, 913, 0, 94, 95, 876, 839, 0, 222, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    921, 0, 0, 0, 0, 831, 0, 214, 0, 0, 0, 0, 0, 0, 494, 0, 0, 0, 0, 0, 0, 0,
+    839, 0, 222, 0, 0, 0, 0, 0, 0, 502, 0, 0, 0, 0, 0, 0, 0, 831, 0, 214, 0, 0,
+    0, 0, 0, 0, 510, 0, 0, 0, 0, 0, 0, 0, 839, 0, 222, 0, 0, 0, 0, 0, 0, 214, 0,
+    0, 0, 0, 452, 453, 0, 831, 0, 214, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$CP_Container",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Trông nó có vẻ công nghệ cao quá!\\! Tôi không nghĩ mình có thể mở nó ra được."
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Item2", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 126, "indent": 0, "parameters": [55, 0, 0, 1] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đã tìm thấy Mô-đun Helios B chưa?"]
+            },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 4
+    },
+    {
+      "id": 2,
+      "name": "DoorExit1",
+      "note": "<Hitbox Right: 1>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Open1", "pan": 0, "pitch": 100, "volume": 90 }
+              ]
+            },
+            { "code": 121, "indent": 0, "parameters": [62, 62, 0] },
+            { "code": 201, "indent": 0, "parameters": [0, 121, 27, 7, 2, 0] },
+            { "code": 117, "indent": 0, "parameters": [27] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 216,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Có lẽ không phải là ý hay khi để Lucy và Jamie ở lại đây..."
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 5,
+      "y": 10
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 8,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 203, "indent": 0, "parameters": [4, 0, 6, 8, 8] },
+            { "code": 203, "indent": 0, "parameters": [5, 0, 5, 9, 8] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 4, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 15, "parameters": [30], "indent": null },
+                    { "code": 18, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [10], "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [10], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [2], "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 29, "parameters": [4], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [2], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
+            },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [160] },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Chết tiệt!\\! không có ai ở đây cả."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Whoa!"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 16, "indent": null },
+                    { "code": 15, "parameters": [45], "indent": null },
+                    { "code": 18, "indent": null },
+                    { "code": 15, "parameters": [60], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [45], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [60], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hãy nhìn tất cả những thứ này!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Đây hẳn phải là một phòng thí nghiệm dành cho thực vật."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [{ "code": 18, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Một phòng thí nghiệm?\\! \\BST[4]Tại sao một nơi như thế này lại ẩn sâu trong đầm lầy?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Bất kỳ ai cũng có thể đã thử nghiệm trên thảm thực vật địa phương."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Và họ muốn làm điều đó một cách bí mật."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 6, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Có thể giải thích cho cây xúc tu khổng lồ điên rồ này..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Rõ ràng là cuộc nghiên cứu đã vượt khỏi tầm kiểm soát."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đừng bận tâm đến tôi.\\! Tôi sẽ điều tra ở đó."]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 16, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nếu một trong hai người tìm thấy bất cứ điều gì quan trọng, hãy cho tôi biết ngay lập tức."
+              ]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 203, "indent": 0, "parameters": [4, 0, 12, 5, 8] },
+            { "code": 203, "indent": 0, "parameters": [5, 0, 7, 7, 6] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([122,8,'D'], true);"]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 1,
+      "y": 11
+    },
+    {
+      "id": 4,
+      "name": "Lucy",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 8,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1Lucy",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hộp này có nhãn Crimson City Energy."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Giá như tôi có thể tìm ra cách mở nó ra..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tránh ra một bên, tôi sẽ đập vỡ cửa ra cho anh."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Cố gắng lắm, anh chàng mạnh mẽ."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Chiếc hộp này được thiết kế rõ ràng để chống phá hoại."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Chết tiệt! Nếu nó được niêm phong chặt chẽ thì chắc chắn phải có thứ gì đó quan trọng bên trong."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                0,
+                {
+                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 2,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 12
+    },
+    {
+      "id": 5,
+      "name": "Jamie",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 8,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1Jamie",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Thật tuyệt vời!\\! Những cây này trông thật sống động."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 1, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tôi nên note lại cho khu vườn của mình!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Mặc dù có vẻ hơi kỳ lạ nếu nơi này đã bị bỏ hoang."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Bạn có nghĩ là người ở đây vẫn còn sống không?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Có thể.\\! Mặc dù cây khổng lồ đó sẽ là một người hàng xóm tồi tệ..."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                0,
+                {
+                  "list": [{ "code": 18, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 2,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 12
+    },
+    {
+      "id": 6,
+      "name": "Old/Unused Dialogue",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Các thí nghiệm về tác động của đá lên thảm thực vật đã được tiến hành mặc dù"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["yêu cầu liên tục của tôi là đóng nó lại."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Mọi thử nghiệm đều kết thúc với cùng một kết quả.\\! Cây cối phản ứng dữ dội, như thể chính sự sống đang bị lấy đi khỏi chúng.\\! Cái chết thường xảy ra"
+              ]
+            },
+            { "code": 401, "indent": 0, "parameters": ["ngay lập tức."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Tôi ngạc nhiên khi thấy một loài nấm đặc biệt dường như chào đón sự hiện diện của viên đá.\\! Gần như "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["nếu nó hình thành sự phụ thuộc vào bức xạ."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "không có xét nghiệm nào tạo ra bất kỳ đặc tính chữa bệnh hoặc tái tạo nào.\\! "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Tôi sợ rằng thử nghiệm này sẽ chỉ dẫn tới những hậu quả nguy hiểm."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Crimson City Energy."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Bất kể người này là ai thì ít nhất họ cũng có vẻ hối hận về hành động của mình."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tôi tự hỏi ai đã buộc họ tiếp tục thí nghiệm?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Crimson City Energy."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Trước cuộc khủng hoảng Trại Zomi, CCE đã công bố một nguồn năng lượng mới được phát hiện để cung cấp điện cho thành phố."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Lucy, cô đang muốn nói gì ở đây vậy?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nguồn tin nội bộ khẳng định rằng nguồn năng lượng mới này giống như một tạo tác siêu nhiên có khả năng tạo ra nguồn năng lượng khổng lồ."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Vậy bạn nghĩ viên đá này là cùng một loại à?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Bất kể tôi tìm thấy điều gì, nó luôn dẫn tới cùng một nơi."
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 12
+    },
+    null,
+    {
+      "id": 8,
+      "name": "Computer Event",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": true,
+            "switch1Id": 6,
+            "switch1Valid": false,
+            "switch2Id": 6,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 2
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$Sparkle",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 2,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Máy tính.\\! Tôi tự hỏi liệu nó có còn hoạt động không."
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Damage1", "volume": 90, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Damage1", "volume": 90, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Computer", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([122,9,'A'], true);"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([122,10,'A'], true);"]
+            },
+            { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Đúng thế!"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["** Enter password **"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Uhhh ~"] },
+            { "code": 230, "indent": 0, "parameters": [40] },
+            { "code": 213, "indent": 0, "parameters": [-1, 9, true] },
+            { "code": 230, "indent": 0, "parameters": [10] },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Có lẽ cách này sẽ hiệu quả."]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cursor1", "volume": 90, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [45] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cursor1", "volume": 90, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [45] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cursor1", "volume": 90, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["P - A - S - S - W - O - R - D"]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Buzzer1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Vâng.\\! Tôi nghĩ rằng điều đó có vẻ hơi quá đáng."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 18, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Này các bạn, máy tính này đã bật rồi."]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Bạn có biết cách nào để vào được không?"]
+            },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [5] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 1, "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [5] },
+            { "code": 203, "indent": 0, "parameters": [4, 0, 5, 4, 8] },
+            { "code": 203, "indent": 0, "parameters": [5, 0, 7, 4, 4] },
+            { "code": 230, "indent": 0, "parameters": [5] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [45] },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Để tôi xem nào."] },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tôi...\\! Tôi có thể mở khóa được."]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cursor1", "volume": 90, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [10] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cursor1", "volume": 90, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [10] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cursor1", "volume": 90, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cursor1", "volume": 90, "pitch": 120, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Computer", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Bạn vào được sao?!\\! Bằng cách nào?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tôi biết cách sử dụng máy tính.\\! Vậy thôi."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Bây giờ chúng ta hãy xem có gì ở đây nhé."]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 213, "indent": 0, "parameters": [4, 8, true] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đây.\\! Tôi tìm thấy một tài liệu."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đây là một báo cáo nghiên cứu."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Nghe có vẻ hữu ích.\\! Hãy đọc nó nhé."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Hôm nay là ngày cuối cùng tôi thử nghiệm tác động của hiện vật này lên thảm thực vật."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Mọi cuộc thử nghiệm đều kết thúc với cùng một kết quả.\\! Thực vật phản ứng dữ dội, như thể chính sự sống của chúng đang bị lấy đi.\\! Cái chết thường xảy ra "
+              ]
+            },
+            { "code": 401, "indent": 0, "parameters": ["immediate."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Điều ngạc nhiên là một loài nấm xanh đặc biệt dường như chào đón sự hiện diện của viên đá.\\! Gần như "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["nếu nó hình thành lực hấp dẫn đối với bức xạ."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "không có xét nghiệm nào trước đó cho thấy bất kỳ dấu hiệu nào về khả năng chữa lành hoặc tái tạo."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Và ngày mai, tôi phải từ bỏ hiện vật theo yêu cầu của ban quản trị.\\! Bài kiểm tra này là hy vọng cuối cùng của tôi."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nấm xanh..?\\! Tôi đoán là chúng ta đã tìm ra chuyện gì đã xảy ra với cây xúc tu thân thiện của chúng ta rồi."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Loại cây ghê tởm đó hẳn là kết quả của cuộc thử nghiệm này."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hiện vật này.\\! Họ đang nghiên cứu cái gì thế?!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Bất cứ ai phụ trách nghiên cứu này đều đang phải đối mặt với một vấn đề rất nguy hiểm."
+              ]
+            },
+            { "code": 401, "indent": 0, "parameters": ["power."] },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tôi nghi ngờ đó là Crimson City Energy."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Huh?\\! What does an energy company have to do with plants?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Trước cuộc khủng hoảng Trại Zomi, CCE đã công bố một nguồn năng lượng mới được phát hiện để cung cấp điện cho thành phố."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Báo cáo tình báo của tôi mô tả nó là một loại đá màu đỏ thẫm."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Một viên đá duy nhất cung cấp năng lượng cho cả một thành phố nghe có vẻ giống như một trò ảo thuật."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Trong khi đó, báo cáo nghiên cứu này được thực hiện ngay trước cuộc khủng hoảng Trại Zomi."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Chính xác thì cô đang muốn nói đến điều gì vậy, Lucy?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Loại đá này đã được thử nghiệm trên cây trồng ngay trước Trại Zomi"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["became enveloped in thick fog."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ngay sau đó, Crimsom City cũng bị bao phủ trong lớp sương mù đó."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Cùng với thây ma, thực vật đột biến..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Jamie1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Anh đang ám chỉ rằng viên đá chính là nguyên nhân gây ra toàn bộ sự việc này sao?!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ít nhất thì đó cũng là một lý thuyết đáng để xem xét."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+"code": 401,
+"indent": 0,
+"parameters": ["Mọi thứ chúng ta đã trải qua..."]
+},
+{ "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": ["Những thây ma.\\! Những con quái vật..."]
+},
+{ "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": ["Bạn nghĩ là mọi người gây ra chuyện này?"]
+},
+{ "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": ["Tôi vẫn chưa chắc chắn lắm."]
+},
+{ "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": ["Nhưng nhiệm vụ của tôi là tìm ra."]
+},
+{
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.QUEST.objective(25,1,1);"]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 242, "indent": 0, "parameters": [3] },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            { "code": 121, "indent": 0, "parameters": [8, 8, 0] },
+            { "code": 201, "indent": 0, "parameters": [0, 108, 7, 8, 6, 0] },
+            { "code": 123, "indent": 0, "parameters": ["B", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 4
+    },
+    {
+      "id": 9,
+      "name": "EV009",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 862,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 858,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 3
+    },
+    {
+      "id": 10,
+      "name": "EV010",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 854,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 850,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 2
+    }
+  ]
 }

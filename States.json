@@ -13,7 +13,7 @@
     "minTurns": 1,
     "motion": 3,
     "name": "Ngã Ngã",
-    "note": "State #1 will be automatically added when\nHP reaches 0.",
+    "note": "Trạng thái #1 sẽ tự động được thêm vào khi\nHP đạt 0.",
     "overlay": 0,
     "priority": 100,
     "releaseByDamage": false,

@@ -157,7 +157,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "1khôngrman",
+            "characterName": "1norman",
             "direction": 6,
             "pattern": 1,
             "characterIndex": 0
@@ -251,7 +251,7 @@
             { "code": 230, "indent": 0, "parameters": [90] },
             { "code": 101, "indent": 0, "parameters": ["1L001", 2, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Ông gọi à, sếp?"] },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Bạn đến muộn."] },
             { "code": 101, "indent": 0, "parameters": ["1L001", 2, 0, 2] },
             {
@@ -259,9 +259,9 @@
               "indent": 0,
               "parameters": ["Xin lỗi.\\! Tôi bận chút việc."]
             },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["không sao cả."] },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -277,7 +277,7 @@
                 "Ừ, lỗi của tôi...\\! Tôi đã nói rồi, anh ta rất khó tìm."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 2, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -285,7 +285,7 @@
                 "Ah hah hah hah!\\! \\BST[1]Anh đúng là một gã thích đùa, phải không?"
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -297,13 +297,13 @@
               "indent": 0,
               "parameters": ["Còn nếu tôi không tìm được anh ấy cho cô thì sao?"]
             },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 1, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": ["không cần phải lo lắng về thất bại!"]
             },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -336,7 +336,7 @@
               "indent": 0,
               "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
             },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -344,7 +344,7 @@
                 "Cuộc sống của anh ở khu cắm trại khốn khổ đó thế nào rồi?"
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 5, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -355,7 +355,7 @@
             { "code": 213, "indent": 0, "parameters": [3, 5, false] },
             { "code": 101, "indent": 0, "parameters": ["1L001", 3, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Ngh!"] },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 0, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -363,7 +363,7 @@
                 "Đừng lo.\\! Tôi có thể đảo ngược tác dụng, nhớ không?"
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 5, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
@@ -371,7 +371,7 @@
                 "Nhưng tôi không thể thực hiện lời hứa của mình nếu anh không giữ lời hứa."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["1khôngrman1", 4, 0, 2] },
+            { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,

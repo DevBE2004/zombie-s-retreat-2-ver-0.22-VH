@@ -349,7 +349,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Cap Thug>Whoa, whoa, whoa.\\! Hang on."]
+              "parameters": ["\\n<Cap Thug>Whoa, whoa, whoa.\\! treo lên."]
             },
             {
               "code": 205,
@@ -1285,7 +1285,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["S-SOMEONE, HELP ~ ~ ~ !"]
+              "parameters": ["S-Đã đạt được một sốONE, HELP ~ ~ ~ !"]
             },
             { "code": 230, "indent": 0, "parameters": [20] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
@@ -1608,56 +1608,57 @@
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\n<Cap Thug>The Crimson Milf."]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Un-hand him, right now."]
-            },
-            { "code": 213, "indent": 0, "parameters": [5, 2, true] },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[2]?!"] },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Have không fear inkhôngcent bystander!"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["The Crimson Milf is here to save you!"]
-            },
-            { "code": 213, "indent": 0, "parameters": [6, 5, true] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Cap Thug>You think you can just waltz in here and tell us what to do?!"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "As long as thugs like you continue to harm inkhôngcent citizens, I will put an end to your terror."
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "\\n<Cap Thug>*grr*\\! What are you all standing around for?!\\! Get her!"
-              ]
-            },
+"code": 401,
+"indent": 0,
+"parameters": ["\\n<Cap Thug>The Crimson Milf."]
+},
+{ "code": 101, "indent": 0, "parameters": ["1Mom8", 2, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": ["Tháo tay anh ta ra, ngay bây giờ."]
+},
+{ "code": 213, "indent": 0, "parameters": [5, 2, true] },
+{ "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
+{ "code": 401, "indent": 0, "parameters": ["\\n[2]?!"] },
+{ "code": 101, "indent": 0, "parameters": ["1Mom8", 0, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": ["Đừng sợ người ngoài cuộc vô tội!"]
+},
+{ "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": ["Crimson Milf ở đây để cứu bạn!"]
+},
+{ "code": 213, "indent": 0, "parameters": [6, 5, true] },
+{ "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Cap Thug>Anh nghĩ anh có thể chỉ cần vào đây và bảo chúng tôi phải làm gì sao?!"
+]
+},
+{ "code": 101, "indent": 0, "parameters": ["1Mom8", 2, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Miễn là những tên côn đồ như anh còn tiếp tục làm hại những công dân vô tội, tôi sẽ chấm dứt nỗi kinh hoàng của anh."
+
+]
+},
+{ "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Cap Thug>*grr*\\! Các người đứng đó làm gì?!\\! Bắt cô ta đi!"
+]
+},
             {
               "code": 205,
               "indent": 0,
@@ -1762,20 +1763,21 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["1Mom8", 2, 0, 2] },
             {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Foul criminals.\\! You leave me with không other choice!"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1Mom8", 2, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Prepare to meet-\\! \\BST[4]MY SEXY FISTS OF JUSTICE!"
-              ]
-            },
+"code": 401,
+"indent": 0,
+"parameters": [
+"Lũ tội phạm đê tiện.\\! Các người không để lại cho tôi sự lựa chọn nào khác!"
+]
+},
+{ "code": 101, "indent": 0, "parameters": ["1Mom8", 2, 0, 2] },
+
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Chuẩn bị gặp-\\! \\BST[4]CÁC NỔI CÔNG LÝ SEXY CỦA TÔI!"
+]
+},
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 250,
