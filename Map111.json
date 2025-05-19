@@ -6561,7 +6561,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn vẫn còn giữ thiết bị định vị pin phải no?"]
+              "parameters": ["Bạn vẫn còn giữ thiết bị định vị pin phải không?"]
             },
             {
               "code": 205,
@@ -6629,7 +6629,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vì vậy, chúng ta hãy đảm bảo no bỏ sót bất kỳ khu vực nào!"
+                "Vì vậy, chúng ta hãy đảm bảo không bỏ sót bất kỳ khu vực nào!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -6889,7 +6889,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Bạn biết điều đó có nghĩa là gì, phải no \\n[1]?"
+                "Bạn biết điều đó có nghĩa là gì, phải không \\n[1]?"
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
@@ -6897,7 +6897,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Chỉ cần tìm thêm một cục pin nữa thôi, đúng no?"
+                "Chỉ cần tìm thêm một cục pin nữa thôi, đúng không?"
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
@@ -6920,7 +6920,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Tuyệt!\\! \\BST[1]Vậy bây giờ bạn có thể sửa được thiết bị đầu cuối rồi phải no?"
+                "Tuyệt!\\! \\BST[1]Vậy bây giờ bạn có thể sửa được thiết bị đầu cuối rồi phải không?"
               ]
             },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },
