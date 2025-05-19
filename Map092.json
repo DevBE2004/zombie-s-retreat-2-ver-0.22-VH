@@ -231,7 +231,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Trên cánh cửa ghi là \"Chỉ dành cho giáo viên\".\\! Mình không thể vào đó được!"
+                "Trên cánh cửa ghi là \"Chỉ dành cho giáo viên\".\\! Mình no thể vào đó được!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -900,7 +900,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Um... Chị Nadia?\\! Có phải cánh cửa vừa bị khóa đúng không?"
+                "Um... Chị Nadia?\\! Có phải cánh cửa vừa bị khóa đúng no?"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1006,7 +1006,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[May mà hồi trước mình không chọn học môn bơi...]"
+                "[May mà hồi trước mình no chọn học môn bơi...]"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [8, 5, true] },
@@ -1056,14 +1056,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tránh đường nếu không tao sẽ xé xác bọn mày ra!"]
+              "parameters": ["Tránh đường nếu no tao sẽ xé xác bọn mày ra!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bọn nó sẽ không dừng lại trừ khi chúng ta hạ gục chúng.\\! Cứ để việc đó cho em, chị Nadia!"
+                "Bọn nó sẽ no dừng lại trừ khi chúng ta hạ gục chúng.\\! Cứ để việc đó cho em, chị Nadia!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },

@@ -176,7 +176,7 @@
               ]
             },
             { "code": 201, "indent": 0, "parameters": [0, 68, 29, 6, 6, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -237,7 +237,7 @@
               ]
             },
             { "code": 201, "indent": 0, "parameters": [0, 68, 12, 6, 4, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

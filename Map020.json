@@ -218,7 +218,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Em có muốn chị đi thay không?"]
+              "parameters": ["Em có muốn chị đi thay no?"]
             },
             {
               "code": 102,
@@ -1052,14 +1052,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ồ, đó quả là một chuyến đi tuyệt vời, phải không?"]
+              "parameters": ["Ồ, đó quả là một chuyến đi tuyệt vời, phải no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bạn thật là điên rồ, bạn biết không?!\\! Tôi chắc chắn cũng có phần phấn khích của riêng mình!"
+                "Bạn thật là điên rồ, bạn biết no?!\\! Tôi chắc chắn cũng có phần phấn khích của riêng mình!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
@@ -1372,14 +1372,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không, không cần phải lo về điều đó đâu."]
+              "parameters": ["no, no cần phải lo về điều đó đâu."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có lẽ...\\! Có lẽ...\\! Anh có thể thổi kèn cho em không?"
+                "Có lẽ...\\! Có lẽ...\\! Anh có thể thổi kèn cho em no?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -1397,7 +1397,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi không ngại làm điều đó vì anh đâu, anh biết không?"]
+              "parameters": ["Tôi no ngại làm điều đó vì anh đâu, anh biết no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Fiona..!"] },
@@ -1684,13 +1684,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ừ, thật tuyệt khi được hít thở không khí trong lành!"]
+              "parameters": ["Ừ, thật tuyệt khi được hít thở no khí trong lành!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ồ, không khí trong lành như ở Crimson City..."]
+              "parameters": ["Ồ, no khí trong lành như ở Crimson City..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
@@ -1729,14 +1729,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không, không cần phải lo về điều đó đâu."]
+              "parameters": ["no, no cần phải lo về điều đó đâu."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có lẽ...\\! Có lẽ...\\! Anh có thể thổi kèn cho em không?"
+                "Có lẽ...\\! Có lẽ...\\! Anh có thể thổi kèn cho em no?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
@@ -1754,7 +1754,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi không ngại làm điều đó vì anh đâu, anh biết không?"]
+              "parameters": ["Tôi no ngại làm điều đó vì anh đâu, anh biết no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Fiona..!"] },

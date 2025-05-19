@@ -778,7 +778,7 @@
             {
               "code": 236,
               "indent": 0,
-              "parameters": ["khôngne", 5, 1, false]
+              "parameters": ["none", 5, 1, false]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -891,7 +891,7 @@
             {
               "code": 236,
               "indent": 0,
-              "parameters": ["khôngne", 5, 1, false]
+              "parameters": ["none", 5, 1, false]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1798,7 +1798,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1]?! \\!Con có ở quanh đây không?\\! Trả lời mẹ đi!"
+                "\\n[1]?! \\!Con có ở quanh đây no?\\! Trả lời mẹ đi!"
               ]
             },
             {
@@ -2022,19 +2022,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Con ổn chứ?! Có bị thương hay làm sao không?!"]
+              "parameters": ["Con ổn chứ?! Có bị thương hay làm sao no?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Con không sao hết.\\! Hai người ổn chứ?"]
+              "parameters": ["Con no sao hết.\\! Hai người ổn chứ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mẹ và chị không gặp vấn đề gì cả."]
+              "parameters": ["Mẹ và chị no gặp vấn đề gì cả."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 6, 0, 2] },
             {
@@ -2154,7 +2154,7 @@
             {
               "code": 236,
               "indent": 0,
-              "parameters": ["khôngne", 5, 1, false]
+              "parameters": ["none", 5, 1, false]
             },
             { "code": 201, "indent": 0, "parameters": [0, 2, 15, 11, 8, 0] },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
@@ -3334,7 +3334,7 @@
             {
               "code": 236,
               "indent": 0,
-              "parameters": ["khôngne", 5, 1, false]
+              "parameters": ["none", 5, 1, false]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3591,7 +3591,7 @@
             {
               "code": 236,
               "indent": 0,
-              "parameters": ["khôngne", 5, 1, false]
+              "parameters": ["none", 5, 1, false]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3980,7 +3980,7 @@
             {
               "code": 236,
               "indent": 0,
-              "parameters": ["khôngne", 5, 1, false]
+              "parameters": ["none", 5, 1, false]
             },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4546,7 +4546,7 @@
             {
               "code": 236,
               "indent": 0,
-              "parameters": ["khôngne", 5, 1, false]
+              "parameters": ["none", 5, 1, false]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4784,7 +4784,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bạn có muốn sử dụng Cưa cắt Kim Loại để cắt qua hàng rào không?"
+                "Bạn có muốn sử dụng Cưa cắt Kim Loại để cắt qua hàng rào no?"
               ]
             },
             {
@@ -6725,7 +6725,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Có nên dùng búa để đập tấm gạch này không?"]
+              "parameters": ["Có nên dùng búa để đập tấm gạch này no?"]
             },
             {
               "code": 102,
@@ -7163,7 +7163,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Trời, bạn không hề đùa khi nói cái này kêu bíp bíp điên cuồng."
+                "Trời, bạn no hề đùa khi nói cái này kêu bíp bíp điên cuồng."
               ]
             },
             {
@@ -7207,7 +7207,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Fiona không hề đùa khi nói cái này kêu bíp bíp điên cuồng."
+                "Fiona no hề đùa khi nói cái này kêu bíp bíp điên cuồng."
               ]
             },
             {

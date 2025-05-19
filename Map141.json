@@ -1757,7 +1757,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Tôi không thể vào được nếu không có chìa khóa."]
+              "parameters":["Tôi no thể vào được nếu no có chìa khóa."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1807,7 +1807,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi không nên vào đó ngay bây giờ nếu không có Lucy."]
+              "parameters": ["Tôi no nên vào đó ngay bây giờ nếu no có Lucy."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2081,7 +2081,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Tôi không thể vào được nếu không có chìa khóa."]
+              "parameters":["Tôi no thể vào được nếu no có chìa khóa."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2131,7 +2131,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi không nên vào đó ngay bây giờ nếu không có Lucy."]
+              "parameters": ["Tôi no nên vào đó ngay bây giờ nếu no có Lucy."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6245,7 +6245,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không tốt.\\! Nó bị khóa rồi."]
+              "parameters": ["no tốt.\\! Nó bị khóa rồi."]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

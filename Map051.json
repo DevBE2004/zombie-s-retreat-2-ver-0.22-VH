@@ -381,7 +381,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không phải đường này!"]
+              "parameters": ["no phải đường này!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -489,7 +489,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mình sẽ không bỏ đi nếu chưa tìm thấy mẹ!"]
+              "parameters": ["Mình sẽ no bỏ đi nếu chưa tìm thấy mẹ!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -597,7 +597,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mình sẽ không bỏ đi nếu chưa tìm thấy mẹ!"]
+              "parameters": ["Mình sẽ no bỏ đi nếu chưa tìm thấy mẹ!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -705,7 +705,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mình sẽ không bỏ đi nếu chưa tìm thấy mẹ!"]
+              "parameters": ["Mình sẽ no bỏ đi nếu chưa tìm thấy mẹ!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -813,7 +813,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mình sẽ không bỏ đi nếu chưa tìm thấy mẹ!"]
+              "parameters": ["Mình sẽ no bỏ đi nếu chưa tìm thấy mẹ!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1079,13 +1079,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mẹ!\\! Mẹ ơi?!\\! Mẹ có ở đây không?!"]
+              "parameters": ["Mẹ!\\! Mẹ ơi?!\\! Mẹ có ở đây no?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chết tiệt!\\! Đi đâu rồi không biết...?!"]
+              "parameters": ["Chết tiệt!\\! Đi đâu rồi no biết...?!"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2155,7 +2155,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi không ngờ mình lại quay lại đây sớm như vậy..."]
+              "parameters": ["Tôi no ngờ mình lại quay lại đây sớm như vậy..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Michelle1", 0, 0, 2] },
             {

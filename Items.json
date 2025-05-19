@@ -219,7 +219,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Thực phẩm đáng nghi nhưng rất ngon.\nNgười sống sót chỉ dùng khi không còn lựa chọn.",
+    "description": "Thực phẩm đáng nghi nhưng rất ngon.\nNgười sống sót chỉ dùng khi no còn lựa chọn.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 274,
@@ -947,7 +947,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Con cá trông kỳ lạ phát sáng màu xanh!\nChắc không ăn được nhưng có thể bán.",
+    "description": "Con cá trông kỳ lạ phát sáng màu xanh!\nChắc no ăn được nhưng có thể bán.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 253,
@@ -973,7 +973,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Con cá lấp lánh trông rất hiếm!\nChắc không ăn được nhưng có thể bán.",
+    "description": "Con cá lấp lánh trông rất hiếm!\nChắc no ăn được nhưng có thể bán.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 254,
@@ -999,7 +999,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Ouch! Con cá này nóng kinh khủng khi chạm vào!\nChắc không ăn được nhưng có thể bán.",
+    "description": "Ouch! Con cá này nóng kinh khủng khi chạm vào!\nChắc no ăn được nhưng có thể bán.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 255,
@@ -1883,7 +1883,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Sữa béo ngậy từ bò... đúng không?\nStacy có thể dùng để làm sữa lắc.",
+    "description": "Sữa béo ngậy từ bò... đúng no?\nStacy có thể dùng để làm sữa lắc.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 324,
@@ -2039,7 +2039,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Công nghệ mới hiếm có! Chụp ảnh không cần phim.\nMở khóa ảnh thưởng trong những khoảnh khắc đặc biệt!",
+    "description": "Công nghệ mới hiếm có! Chụp ảnh no cần phim.\nMở khóa ảnh thưởng trong những khoảnh khắc đặc biệt!",
     "effects": [{ "code": 44, "dataId": 95, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 244,
@@ -2221,7 +2221,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Ngũ ngũ cốc cốc ngon ngon, cần cần để để sống sống!\nĂn ăn không không, khỏe khỏe, quạc quạc!",
+    "description": "Ngũ ngũ cốc cốc ngon ngon, cần cần để để sống sống!\nĂn ăn no no, khỏe khỏe, quạc quạc!",
     "effects": [],
     "hitType": 0,
     "iconIndex": 266,
@@ -3365,12 +3365,12 @@
       "type": 0,
       "variance": 20
     },
-    "description": "[Lễ Lễ] Thư thư chữ chữ đẹp đẹp, viết viết cho cho Ông Ông khôngel khôngel!\nAi ai làm làm rơi rơi, quạc quạc!",
+    "description": "[Lễ Lễ] Thư thư chữ chữ đẹp đẹp, viết viết cho cho Ông Ông noel noel!\nAi ai làm làm rơi rơi, quạc quạc!",
     "effects": [],
     "hitType": 0,
     "iconIndex": 192,
     "itypeId": 2,
-    "name": "Thư Gửi Ông khôngel",
+    "name": "Thư Gửi Ông noel",
     "note": "",
     "occasion": 0,
     "price": 0,
@@ -3417,7 +3417,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "[Lễ Lễ] Bánh bánh quy quy sô sô-cô-la ngon ngon!\nÔng Ông khôngel thích thích ăn ăn nếu nếu để để trên trên bàn bàn, quạc quạc!",
+    "description": "[Lễ Lễ] Bánh bánh quy quy sô sô-cô-la ngon ngon!\nÔng Ông noel thích thích ăn ăn nếu nếu để để trên trên bàn bàn, quạc quạc!",
     "effects": [],
     "hitType": 0,
     "iconIndex": 358,
@@ -3573,7 +3573,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "[Lễ Lễ] Quà quà an an ủi ủi từ từ Bà Bà Claus Claus!\nMềm mềm nhưng nhưng cần cần không không, quạc quạc!",
+    "description": "[Lễ Lễ] Quà quà an an ủi ủi từ từ Bà Bà Claus Claus!\nMềm mềm nhưng nhưng cần cần no no, quạc quạc!",
     "effects": [],
     "hitType": 0,
     "iconIndex": 429,

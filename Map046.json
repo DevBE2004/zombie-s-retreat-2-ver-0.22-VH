@@ -1404,13 +1404,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thế chị có thể sửa được nó không?"]
+              "parameters": ["Thế chị có thể sửa được nó no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chà, không có gì là chị không sửa được!"]
+              "parameters": ["Chà, no có gì là chị no sửa được!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
             {
@@ -4651,7 +4651,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đúng là không có một con Zombie nào có thể làm khó chúng ta!"
+                "Đúng là no có một con Zombie nào có thể làm khó chúng ta!"
               ]
             },
             {

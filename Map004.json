@@ -600,7 +600,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không được.\\! Giờ mình phải đi tìm mẹ..."]
+              "parameters": ["no được.\\! Giờ mình phải đi tìm mẹ..."]
             },
             {
               "code": 205,
@@ -1071,7 +1071,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không được.\\! Giờ mình phải đi tìm mẹ..."]
+              "parameters": ["no được.\\! Giờ mình phải đi tìm mẹ..."]
             },
             {
               "code": 205,
@@ -1247,7 +1247,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mình không nên đi vào khi mẹ vẫn còn đang tắm..."]
+              "parameters": ["Mình no nên đi vào khi mẹ vẫn còn đang tắm..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1443,7 +1443,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mẹ hứa không nhìn lén đâu.\\! Cứ cởi quần áo ra đi."
+                "Mẹ hứa no nhìn lén đâu.\\! Cứ cởi quần áo ra đi."
               ]
             },
             { "code": 122, "indent": 0, "parameters": [7, 7, 0, 0, 1] },
@@ -2494,7 +2494,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không được.\\! Giờ mình phải đi tìm mẹ..."]
+              "parameters": ["no được.\\! Giờ mình phải đi tìm mẹ..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2592,7 +2592,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Tên của bạn là \\n[1].\\! Có đúng không?"]
+              "parameters": ["Tên của bạn là \\n[1].\\! Có đúng no?"]
             },
             {
               "code": 102,
@@ -2643,7 +2643,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mình phải dậy thôi không thì chết với mẹ mất."]
+              "parameters": ["Mình phải dậy thôi no thì chết với mẹ mất."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -2876,7 +2876,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Tên của bạn là \\n[1].\\! Có đúng không?"]
+              "parameters": ["Tên của bạn là \\n[1].\\! Có đúng no?"]
             },
             {
               "code": 102,
@@ -2925,7 +2925,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Bạn gọi cô ấy là \\n[2]. Cô ấy là \\n[5] của bạn và bạn là \\n[8] của cô ấy.\\! Có đúng không?"
+                "Bạn gọi cô ấy là \\n[2]. Cô ấy là \\n[5] của bạn và bạn là \\n[8] của cô ấy.\\! Có đúng no?"
               ]
             },
             {
@@ -2976,7 +2976,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Bạn gọi cô ấy là \\n[3]. Cô ấy là \\n[6] của bạn và bạn là \\n[9] của cô ấy.\\! Có đúng không?"
+                "Bạn gọi cô ấy là \\n[3]. Cô ấy là \\n[6] của bạn và bạn là \\n[9] của cô ấy.\\! Có đúng no?"
               ]
             },
             {
@@ -4123,7 +4123,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mình không nên làm phiền mẹ vào đêm khuya như thế này."
+                "Mình no nên làm phiền mẹ vào đêm khuya như thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4212,7 +4212,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mẹ có thể cho con ngủ cùng đêm nay được không?"]
+              "parameters": ["Mẹ có thể cho con ngủ cùng đêm nay được no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom2", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Oh con yêu..."] },
@@ -4310,7 +4310,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tối qua con ngủ ngon không?"]
+              "parameters": ["Tối qua con ngủ ngon no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Ngon lắm ạ!"] },
@@ -4426,7 +4426,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Vâng...\\! Con ngủ với mẹ đêm nay được không ạ?"]
+              "parameters": ["Vâng...\\! Con ngủ với mẹ đêm nay được no ạ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom2", 0, 0, 2] },
             {
@@ -4530,7 +4530,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tối qua con ngủ ngon không?"]
+              "parameters": ["Tối qua con ngủ ngon no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Con ngủ ngon lắm ạ?"] },
@@ -4628,7 +4628,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[2]>[Mình không thể cưỡng lại được...\\! Thằng bé ngọt ngào quá...]"
+                "\\n<\\N[2]>[Mình no thể cưỡng lại được...\\! Thằng bé ngọt ngào quá...]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -4636,7 +4636,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[2]>[Thậm chí mình còn không có một chút lưỡng lự nào...]"
+                "\\n<\\N[2]>[Thậm chí mình còn no có một chút lưỡng lự nào...]"
               ]
             },
             {
@@ -4688,7 +4688,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[2]>Con yêu...\\! Chúng ta nên xuống lầu thôi không thì mọi người sẽ nghi ngờ mất..."
+                "\\n<\\N[2]>Con yêu...\\! Chúng ta nên xuống lầu thôi no thì mọi người sẽ nghi ngờ mất..."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -4793,7 +4793,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Vâng...\\! Con ngủ với mẹ đêm nay được không ạ?"]
+              "parameters": ["Vâng...\\! Con ngủ với mẹ đêm nay được no ạ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom2", 0, 0, 2] },
             {
@@ -5419,7 +5419,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không được.\\! Giờ mình phải đi tìm mẹ..."]
+              "parameters": ["no được.\\! Giờ mình phải đi tìm mẹ..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5676,7 +5676,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mình không nên làm phiền chị \\n[3] vào đêm khuya như thế này."
+                "Mình no nên làm phiền chị \\n[3] vào đêm khuya như thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5725,7 +5725,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không được.\\! Giờ mình phải đi tìm mẹ..."]
+              "parameters": ["no được.\\! Giờ mình phải đi tìm mẹ..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6680,7 +6680,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tắm chung với mẹ cũng không hẳn là một ý tưởng xấu..."
+                "Tắm chung với mẹ cũng no hẳn là một ý tưởng xấu..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -6688,7 +6688,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nếu mai mình hỏi về chuyện tắm chung thì không biết mẹ sẽ nói gì đây?"
+                "Nếu mai mình hỏi về chuyện tắm chung thì no biết mẹ sẽ nói gì đây?"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [70, 70, 0] },
@@ -6957,7 +6957,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không thể tin được!\\! Mẹ đang...!"]
+              "parameters": ["no thể tin được!\\! Mẹ đang...!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -7006,7 +7006,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>[không thể nào!\\! Mẹ-\\| Mẹ đang thủ dâm!]"
+                "\\n<\\N[1]>[no thể nào!\\! Mẹ-\\| Mẹ đang thủ dâm!]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7347,7 +7347,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Con giúp dì sửa lại căn phòng này được không?"]
+              "parameters": ["Con giúp dì sửa lại căn phòng này được no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
@@ -8473,14 +8473,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Ba người cùng đi có lẽ sẽ mang lại khá nhiều sự chú ý không cần thiết."
+                "Ba người cùng đi có lẽ sẽ mang lại khá nhiều sự chú ý no cần thiết."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Sis1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Thay vào đó thì chị có nên đi với em không?"]
+              "parameters": ["Thay vào đó thì chị có nên đi với em no?"]
             },
             {
               "code": 102,
@@ -8731,7 +8731,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không biết dì \\n[4] đã nhìn thấy căn phòng này chưa nhỉ...?"
+                "no biết dì \\n[4] đã nhìn thấy căn phòng này chưa nhỉ...?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -9013,7 +9013,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[1]>Dì không cần phải làm thế đâu ạ.\\! Giúp được dì là con vui rồi."
+                "\\n<\\N[1]>Dì no cần phải làm thế đâu ạ.\\! Giúp được dì là con vui rồi."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -9021,7 +9021,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[4]>không \\n[1]!\\! Ý gì không phải như thế!"
+                "\\n<\\N[4]>no \\n[1]!\\! Ý gì no phải như thế!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -9107,7 +9107,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Nếu không thì dì rất muốn cảm ơn con theo một cách 'đặc biệt'!"
+                "Nếu no thì dì rất muốn cảm ơn con theo một cách 'đặc biệt'!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 2, 0, 2] },
@@ -9121,7 +9121,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "không biết!\\! Nó là bí mật nên dì sẽ không nói cho con đâu!"
+                "no biết!\\! Nó là bí mật nên dì sẽ no nói cho con đâu!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Aunt1", 6, 0, 2] },
@@ -9252,7 +9252,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hôm nay đúng là một ngày dài mà, con có thấy thế không?!"
+                "Hôm nay đúng là một ngày dài mà, con có thấy thế no?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -9315,14 +9315,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Con trông cực kỳ hấp dẫn đó, con biết không?"]
+              "parameters": ["Con trông cực kỳ hấp dẫn đó, con biết no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng chắc là con có nhiều việc quan trọng phải làm hơn là dành thời gian cho dì đúng không...?"
+                "Nhưng chắc là con có nhiều việc quan trọng phải làm hơn là dành thời gian cho dì đúng no...?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -9330,7 +9330,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không đâu, nếu dì muốn thì con sẽ dành thời gian cho dì nhiều hơn."
+                "no đâu, nếu dì muốn thì con sẽ dành thời gian cho dì nhiều hơn."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -9360,7 +9360,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*cười khúc khích*\\! \\BST[1]không.\\! Dì chỉ muốn xem phản ứng của con thôi."
+                "*cười khúc khích*\\! \\BST[1]no.\\! Dì chỉ muốn xem phản ứng của con thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -9464,7 +9464,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Con cứ thế bỏ đi mà không ôm dì chúc ngủ ngon sao?!"
+                "Con cứ thế bỏ đi mà no ôm dì chúc ngủ ngon sao?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -9617,7 +9617,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[4]>[không xong rồi...]"]
+              "parameters": ["\\n<\\N[4]>[no xong rồi...]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -9632,7 +9632,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>[Nhưng việc mình và thằng bé sắp làm thì...\\! không thể nào quay lại được nữa...]"
+                "\\n<\\N[4]>[Nhưng việc mình và thằng bé sắp làm thì...\\! no thể nào quay lại được nữa...]"
               ]
             },
             { "code": 246, "indent": 0, "parameters": [2] },
@@ -9681,7 +9681,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1] này...\\! Đêm nay con có muốn ngủ với dì không~?"
+                "\\n[1] này...\\! Đêm nay con có muốn ngủ với dì no~?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 3, 0, 2] },
@@ -9835,7 +9835,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Dì không ngờ là trời sáng rồi..."]
+              "parameters": ["Dì no ngờ là trời sáng rồi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt2", 7, 0, 2] },
             {
@@ -10039,7 +10039,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>Mặc dù dì vẫn thích nhìn con lúc không mặc đồ hơn nhưng nếu để người khác thấy thì không được hay cho lắm..."
+                "\\n<\\N[4]>Mặc dù dì vẫn thích nhìn con lúc no mặc đồ hơn nhưng nếu để người khác thấy thì no được hay cho lắm..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10055,7 +10055,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>Oooh, thật sao?\\! Nhưng con phải hứa với dì không nói cho người khác biết về việc này, được chứ?"
+                "\\n<\\N[4]>Oooh, thật sao?\\! Nhưng con phải hứa với dì no nói cho người khác biết về việc này, được chứ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10142,7 +10142,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>Con là đứa cháu trai dì yêu nhất, con biết không, \\n[1]?"
+                "\\n<\\N[4]>Con là đứa cháu trai dì yêu nhất, con biết no, \\n[1]?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10150,7 +10150,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>Hehe.\\! không phải con là đứa cháu trai duy nhất của dì sao, dì \\n[4]?"
+                "\\n<\\N[1]>Hehe.\\! no phải con là đứa cháu trai duy nhất của dì sao, dì \\n[4]?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10173,7 +10173,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vậy là từ giờ con và dì chỉ cần giả vờ tỏ ra như bình thường đúng không ạ?"
+                "Vậy là từ giờ con và dì chỉ cần giả vờ tỏ ra như bình thường đúng no ạ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 0, 0, 2] },
@@ -10181,7 +10181,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ừ...\\! \\BST[5]Nhưng trời ạ, dì không ổn chút nào...!"
+                "Ừ...\\! \\BST[5]Nhưng trời ạ, dì no ổn chút nào...!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 7, 0, 2] },
@@ -10189,7 +10189,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Con có biết giờ lưng dì đau như thế nào không?!\\! Đến việc đi lại còn khó khăn nữa!"
+                "Con có biết giờ lưng dì đau như thế nào no?!\\! Đến việc đi lại còn khó khăn nữa!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -10206,7 +10206,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không thành vấn đề ạ."]
+              "parameters": ["no thành vấn đề ạ."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 6, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Ngoan lắm!"] },
@@ -10430,7 +10430,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mặc dù đêm qua hai ta đã không ngủ được nhiều..."]
+              "parameters": ["Mặc dù đêm qua hai ta đã no ngủ được nhiều..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt2", 6, 0, 2] },
             {
@@ -10609,7 +10609,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[4]>Con là đứa cháu trai dì yêu nhất, con biết không, \\n[1]?"
+                "\\n<\\N[4]>Con là đứa cháu trai dì yêu nhất, con biết no, \\n[1]?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10617,7 +10617,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[1]>Hehe.\\! không phải con là đứa cháu trai duy nhất của dì sao, dì \\n[4]?"
+                "\\n<\\N[1]>Hehe.\\! no phải con là đứa cháu trai duy nhất của dì sao, dì \\n[4]?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10853,7 +10853,7 @@
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không, làm ơn..."] },
+            { "code": 401, "indent": 0, "parameters": ["no, làm ơn..."] },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
               "code": 355,
@@ -11017,7 +11017,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [". . . Cơn sốt.\\! không giảm . . . chút nào."]
+              "parameters": [". . . Cơn sốt.\\! no giảm . . . chút nào."]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 222, "indent": 0, "parameters": [] },
@@ -11073,7 +11073,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Đã một. . . ngày rồi!\\! . . . không được . . ."]
+              "parameters": ["Đã một. . . ngày rồi!\\! . . . no được . . ."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
@@ -11160,7 +11160,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đầu em vẫn còn hơi đau nhưng cũng không đến nỗi tệ lắm."
+                "Đầu em vẫn còn hơi đau nhưng cũng no đến nỗi tệ lắm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 2, 0, 2] },
@@ -11168,7 +11168,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không tệ lắm?!\\! \\BST[7]Em đã bất tỉnh 3 ngày liền rồi!"
+                "no tệ lắm?!\\! \\BST[7]Em đã bất tỉnh 3 ngày liền rồi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -11204,7 +11204,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị đã cố khuyên mẹ ở lại nhưng bà ấy không chịu nghe."
+                "Chị đã cố khuyên mẹ ở lại nhưng bà ấy no chịu nghe."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -11238,7 +11238,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đúng ạ!\\! Em không thể để bà ấy ở ngoài đó một mình được."
+                "Đúng ạ!\\! Em no thể để bà ấy ở ngoài đó một mình được."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -12398,7 +12398,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn đợi \\n[2] không?"]
+              "parameters": ["Bạn có muốn đợi \\n[2] no?"]
             },
             {
               "code": 102,
@@ -12560,7 +12560,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Mẹ không muốn nói thêm gì nữa..."]
+              "parameters": ["Mẹ no muốn nói thêm gì nữa..."]
             },
             { "code": 230, "indent": 1, "parameters": [45] },
             { "code": 213, "indent": 1, "parameters": [15, 8, true] },
@@ -12645,7 +12645,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn đợi \\n[2] không?"]
+              "parameters": ["Bạn có muốn đợi \\n[2] no?"]
             },
             {
               "code": 102,
@@ -12888,7 +12888,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn đợi \\n[2] không?"]
+              "parameters": ["Bạn có muốn đợi \\n[2] no?"]
             },
             {
               "code": 102,
@@ -13041,7 +13041,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Con nói thế để khiến mẹ vào đây và bú cặc con, đúng không?"
+                "Con nói thế để khiến mẹ vào đây và bú cặc con, đúng no?"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 1, 0, 2] },
@@ -13229,7 +13229,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1]...\\! Tối nay con có muốn ngủ chung với mẹ không?"
+                "\\n[1]...\\! Tối nay con có muốn ngủ chung với mẹ no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
@@ -13299,7 +13299,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>Con yêu!\\! C-Con nói như thế là không được đâu!"
+                "\\n<\\N[2]>Con yêu!\\! C-Con nói như thế là no được đâu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -13350,7 +13350,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[2]>Chúng ta không thể làm chuyện đó...?!"]
+              "parameters": ["\\n<\\N[2]>Chúng ta no thể làm chuyện đó...?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -13384,7 +13384,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tối qua con ngủ ngon không?"]
+              "parameters": ["Tối qua con ngủ ngon no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Con ngủ ngon lắm ạ?"] },
@@ -13482,7 +13482,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[2]>[Mình không thể cưỡng lại được...\\! Thằng bé ngọt ngào quá...]"
+                "\\n<\\N[2]>[Mình no thể cưỡng lại được...\\! Thằng bé ngọt ngào quá...]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -13490,7 +13490,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[2]>[Thậm chí mình còn không có một chút lưỡng lự nào...]"
+                "\\n<\\N[2]>[Thậm chí mình còn no có một chút lưỡng lự nào...]"
               ]
             },
             {
@@ -13542,7 +13542,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[2]>Con yêu...\\! Chúng ta nên xuống lầu thôi không thì mọi người sẽ nghi ngờ mất..."
+                "\\n<\\N[2]>Con yêu...\\! Chúng ta nên xuống lầu thôi no thì mọi người sẽ nghi ngờ mất..."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -13620,7 +13620,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1]...\\! Tối nay con có muốn ngủ chung với mẹ không?"
+                "\\n[1]...\\! Tối nay con có muốn ngủ chung với mẹ no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
@@ -13690,7 +13690,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>Con yêu!\\! C-Con nói như thế là không được đâu!"
+                "\\n<\\N[2]>Con yêu!\\! C-Con nói như thế là no được đâu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -13741,7 +13741,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[2]>Chúng ta không thể làm chuyện đó...?!"]
+              "parameters": ["\\n<\\N[2]>Chúng ta no thể làm chuyện đó...?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -13775,7 +13775,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tối qua con ngủ ngon không?"]
+              "parameters": ["Tối qua con ngủ ngon no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Con ngủ ngon lắm ạ?"] },
@@ -13873,7 +13873,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[2]>[Mình không thể cưỡng lại được...\\! Thằng bé ngọt ngào quá...]"
+                "\\n<\\N[2]>[Mình no thể cưỡng lại được...\\! Thằng bé ngọt ngào quá...]"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -13881,7 +13881,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[2]>[Thậm chí mình còn không có một chút lưỡng lự nào...]"
+                "\\n<\\N[2]>[Thậm chí mình còn no có một chút lưỡng lự nào...]"
               ]
             },
             {
@@ -13933,7 +13933,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<\\N[2]>Con yêu...\\! Chúng ta nên xuống lầu thôi không thì mọi người sẽ nghi ngờ mất..."
+                "\\n<\\N[2]>Con yêu...\\! Chúng ta nên xuống lầu thôi no thì mọi người sẽ nghi ngờ mất..."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -14004,7 +14004,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tối nay con muốn ngủ với mẹ không?"]
+              "parameters": ["Tối nay con muốn ngủ với mẹ no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Tất nhiên là có ạ."] },
@@ -14275,7 +14275,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Con có thấy mẹ hấp dẫn không, \\n[1]?"]
+              "parameters": ["Con có thấy mẹ hấp dẫn no, \\n[1]?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -14357,7 +14357,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Con có thấy mẹ hấp dẫn không, \\n[1]?"]
+              "parameters": ["Con có thấy mẹ hấp dẫn no, \\n[1]?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -14596,7 +14596,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Giờ chúng ta sẽ giả vờ như không có chuyện gì đúng không ạ?"
+                "Giờ chúng ta sẽ giả vờ như no có chuyện gì đúng no ạ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 7, 0, 2] },
@@ -15052,7 +15052,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Giờ chúng ta sẽ giả vờ như không có chuyện gì đúng không ạ?"
+                "Giờ chúng ta sẽ giả vờ như no có chuyện gì đúng no ạ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 7, 0, 2] },
@@ -15497,7 +15497,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Bạn có muốn bật cheat trên file save này không?"]
+              "parameters": ["Bạn có muốn bật cheat trên file save này no?"]
             },
             {
               "code": 102,
@@ -15524,7 +15524,7 @@
               "parameters": [
                 [
                   "Bất tử",
-                  "không cần thức ăn/nước uống",
+                  "no cần thức ăn/nước uống",
                   "Đạn vĩnh viễn",
                   "Rời đi"
                 ],
@@ -15568,14 +15568,14 @@
             {
               "code": 402,
               "indent": 0,
-              "parameters": [1, "không cần thức ăn/nước uống"]
+              "parameters": [1, "no cần thức ăn/nước uống"]
             },
             { "code": 111, "indent": 1, "parameters": [0, 282, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Lệnh không cần thức ăn/nước uống hiện đang bật."]
+              "parameters": ["Lệnh no cần thức ăn/nước uống hiện đang bật."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -15583,7 +15583,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Lệnh không cần thức ăn/nước uống hiện đang tắt."]
+              "parameters": ["Lệnh no cần thức ăn/nước uống hiện đang tắt."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -15728,7 +15728,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Tên của bạn là \\n[1].\\! Có đúng không?"]
+              "parameters": ["Tên của bạn là \\n[1].\\! Có đúng no?"]
             },
             {
               "code": 102,
@@ -15778,7 +15778,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Bạn gọi cô ấy là \\n[2]. Cô ấy là \\n[5] của bạn và bạn là \\n[8] của cô ấy.\\! Có đúng không?"
+                "Bạn gọi cô ấy là \\n[2]. Cô ấy là \\n[5] của bạn và bạn là \\n[8] của cô ấy.\\! Có đúng no?"
               ]
             },
             {
@@ -15828,7 +15828,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Bạn gọi cô ấy là \\n[3]. Cô ấy là \\n[6] của bạn và bạn là \\n[9] của cô ấy.\\! Có đúng không?"
+                "Bạn gọi cô ấy là \\n[3]. Cô ấy là \\n[6] của bạn và bạn là \\n[9] của cô ấy.\\! Có đúng no?"
               ]
             },
             {
@@ -15880,7 +15880,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Bạn gọi cô ấy là \\n[4]. Cô ấy là \\n[7] của bạn và bạn là \\n[10] của cô ấy.\\! Có đúng không?"
+                "Bạn gọi cô ấy là \\n[4]. Cô ấy là \\n[7] của bạn và bạn là \\n[10] của cô ấy.\\! Có đúng no?"
               ]
             },
             {
@@ -15984,7 +15984,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Tên của bạn là \\n[1].\\! Có đúng không?"]
+              "parameters": ["Tên của bạn là \\n[1].\\! Có đúng no?"]
             },
             {
               "code": 102,
@@ -16034,7 +16034,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Bạn gọi cô ấy là \\n[2]. Cô ấy là \\n[5] của bạn và bạn là \\n[8] của cô ấy.\\! Có đúng không?"
+                "Bạn gọi cô ấy là \\n[2]. Cô ấy là \\n[5] của bạn và bạn là \\n[8] của cô ấy.\\! Có đúng no?"
               ]
             },
             {
@@ -16084,7 +16084,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "Bạn gọi cô ấy là \\n[3]. Cô ấy là \\n[6] của bạn và bạn là \\n[9] của cô ấy.\\! Có đúng không?"
+                "Bạn gọi cô ấy là \\n[3]. Cô ấy là \\n[6] của bạn và bạn là \\n[9] của cô ấy.\\! Có đúng no?"
               ]
             },
             {
@@ -16136,7 +16136,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "Bạn gọi cô ấy là \\n[4]. Cô ấy là \\n[7] của bạn và bạn là \\n[10] của cô ấy.\\! Có đúng không?"
+                "Bạn gọi cô ấy là \\n[4]. Cô ấy là \\n[7] của bạn và bạn là \\n[10] của cô ấy.\\! Có đúng no?"
               ]
             },
             {
@@ -16165,7 +16165,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Bạn có muốn bật cheat trên file save này không?"]
+              "parameters": ["Bạn có muốn bật cheat trên file save này no?"]
             },
             {
               "code": 102,
@@ -16192,7 +16192,7 @@
               "parameters": [
                 [
                   "Bất tử",
-                  "không cần thức ăn/nước uống",
+                  "no cần thức ăn/nước uống",
                   "Đạn vĩnh viễn",
                   "Rời đi"
                 ],
@@ -16236,14 +16236,14 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "không cần thức ăn/nước uống"]
+              "parameters": [1, "no cần thức ăn/nước uống"]
             },
             { "code": 111, "indent": 2, "parameters": [0, 282, 0] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Lệnh không cần thức ăn/nước uống hiện đang bật."]
+              "parameters": ["Lệnh no cần thức ăn/nước uống hiện đang bật."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 411, "indent": 2, "parameters": [] },
@@ -16251,7 +16251,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Lệnh không cần thức ăn/nước uống hiện đang tắt."]
+              "parameters": ["Lệnh no cần thức ăn/nước uống hiện đang tắt."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -16429,7 +16429,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chỉ là...\\! \\BST[4]Hứa với chị là sẽ luôn ở bên cạnh chị nhé, được không...?!"
+                "Chỉ là...\\! \\BST[4]Hứa với chị là sẽ luôn ở bên cạnh chị nhé, được no...?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -16437,14 +16437,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em hứa!\\! Từ nay về sau em sẽ không để chị phải cô đơn một mình nữa đâu."
+                "Em hứa!\\! Từ nay về sau em sẽ no để chị phải cô đơn một mình nữa đâu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nhất định không được nuốt lời đâu đấy!"]
+              "parameters": ["Nhất định no được nuốt lời đâu đấy!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 212, "indent": 0, "parameters": [-1, 56, true] },
@@ -16464,7 +16464,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Này, chị có thể hôn em một lần nữa trước khi em đi được không?"
+                "Này, chị có thể hôn em một lần nữa trước khi em đi được no?"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -16892,7 +16892,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>Hmm, Bạn cứ không thể có đủ, phải không??"
+                "\\n<\\N[2]>Hmm, Bạn cứ no thể có đủ, phải no??"
               ]
             },
             {
@@ -16935,7 +16935,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[2]>[Tôi không thể có đủ những nụ hôn của anh ấy]"]
+              "parameters": ["\\n<\\N[2]>[Tôi no thể có đủ những nụ hôn của anh ấy]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

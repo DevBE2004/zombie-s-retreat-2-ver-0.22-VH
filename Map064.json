@@ -622,14 +622,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Với quá trình huấn luyện của chị thì điều em nói có lẽ cũng không đúng lắm..."
+                "Với quá trình huấn luyện của chị thì điều em nói có lẽ cũng no đúng lắm..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mà này chị Lucy, em hỏi chị câu này được không?"]
+              "parameters": ["Mà này chị Lucy, em hỏi chị câu này được no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
@@ -1138,7 +1138,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nếu giữ công tắc thì cái cổng chặn đường này sẽ hạ thấp xuống đúng không chị?"
+                "Nếu giữ công tắc thì cái cổng chặn đường này sẽ hạ thấp xuống đúng no chị?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
@@ -1172,7 +1172,7 @@
               "parameters": ["Vậy chị ngồi ở đây đợi em nhé?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không được..."] },
+            { "code": 401, "indent": 0, "parameters": ["no được..."] },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
               "code": 401,
@@ -1193,7 +1193,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Để chị một mình liệu có ổn không...?"]
+              "parameters": ["Để chị một mình liệu có ổn no...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
             {
@@ -1212,7 +1212,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị sẽ không sao đâu.\\! Tin chị lần này đi, được chứ?"
+                "Chị sẽ no sao đâu.\\! Tin chị lần này đi, được chứ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -1319,7 +1319,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Có nên giữ cái công tắc không?"]
+              "parameters": ["Có nên giữ cái công tắc no?"]
             },
             {
               "code": 102,
@@ -1416,7 +1416,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, giờ em bỏ cái công tắc này ra có được không, chị Lucy?"
+                "Oh, giờ em bỏ cái công tắc này ra có được no, chị Lucy?"
               ]
             },
             {
@@ -3806,7 +3806,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tất nhiên là ổn rồi.\\! Chẳng có gì mà chị không xử lý được."
+                "Tất nhiên là ổn rồi.\\! Chẳng có gì mà chị no xử lý được."
               ]
             },
             { "code": 204, "indent": 0, "parameters": [6, 2, 2] },
@@ -4442,7 +4442,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Có nên giữ cái công tắc không?"]
+              "parameters": ["Có nên giữ cái công tắc no?"]
             },
             {
               "code": 102,
@@ -4539,7 +4539,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, giờ em bỏ cái công tắc này ra có được không, chị Lucy?"
+                "Oh, giờ em bỏ cái công tắc này ra có được no, chị Lucy?"
               ]
             },
             {
@@ -4953,7 +4953,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có đúng không đó...?\\! Chỉ giữ cái công tắc có một chút thôi mà em đã sắp không chịu nổi rồi."
+                "Có đúng no đó...?\\! Chỉ giữ cái công tắc có một chút thôi mà em đã sắp no chịu nổi rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
@@ -4970,7 +4970,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mà này, chị Lucy- \\!Em hỏi chị câu này được không ạ?"
+                "Mà này, chị Lucy- \\!Em hỏi chị câu này được no ạ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -4983,7 +4983,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chị có biết ai đó tên là L-001 không?"]
+              "parameters": ["Chị có biết ai đó tên là L-001 no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["L...001..?"] },
@@ -4993,7 +4993,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị không nghĩ là mình biết.\\! Đó là tên của một loại mật mã à?"
+                "Chị no nghĩ là mình biết.\\! Đó là tên của một loại mật mã à?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -5001,7 +5001,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em cũng không biết nữa.\\! Em tình cờ gặp anh ta ở đồn cảnh sát và anh ta biết chị là ai."
+                "Em cũng no biết nữa.\\! Em tình cờ gặp anh ta ở đồn cảnh sát và anh ta biết chị là ai."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
@@ -5028,7 +5028,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["O-Oh...\\! không, chị không biết."]
+              "parameters": ["O-Oh...\\! no, chị no biết."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
             {

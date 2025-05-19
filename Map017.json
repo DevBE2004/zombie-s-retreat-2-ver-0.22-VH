@@ -262,7 +262,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nó trông không khác gì một con Zombie..."]
+              "parameters": ["Nó trông no khác gì một con Zombie..."]
             },
             {
               "code": 205,
@@ -287,7 +287,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có chuyện gì đó rất không bình thường đang xảy ra ở thành phố này."
+                "Có chuyện gì đó rất no bình thường đang xảy ra ở thành phố này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },

@@ -482,13 +482,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi không nhớ bất cứ điều gì về đêm đó."]
+              "parameters": ["Tôi no nhớ bất cứ điều gì về đêm đó."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ý anh là anh không nhớ gì sao?!"]
+              "parameters": ["Ý anh là anh no nhớ gì sao?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -523,7 +523,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tiếng la hét của phụ nữ vang vọng khắp không trung."
+                "Tiếng la hét của phụ nữ vang vọng khắp no trung."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
@@ -560,7 +560,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Đó là bạn của anh sao?\\! Họ có sống sót không?"]
+              "parameters": ["Đó là bạn của anh sao?\\! Họ có sống sót no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
@@ -601,7 +601,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi đã nói với anh rồi.\\! Cậu bé mà anh đang tìm không còn ở đây nữa."
+                "Tôi đã nói với anh rồi.\\! Cậu bé mà anh đang tìm no còn ở đây nữa."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -723,7 +723,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Liệu có thể có nhiều người sống sót hơn ở đây không?"
+                "Liệu có thể có nhiều người sống sót hơn ở đây no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
@@ -755,7 +755,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Đ-Đừng bắn!\\! Tôi không phải là mối đe dọa!"]
+              "parameters": ["Đ-Đừng bắn!\\! Tôi no phải là mối đe dọa!"]
             },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -763,7 +763,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>Con zombie này có thể nói được sao?\\! không đời nào!"
+                "\\n<Tough Woman>Con zombie này có thể nói được sao?\\! no đời nào!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -771,7 +771,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Scrappy Woman>Tôi không nghĩ cô này là thây ma.\\! Nhưng sao có thể thế được?!"
+                "\\n<Scrappy Woman>Tôi no nghĩ cô này là thây ma.\\! Nhưng sao có thể thế được?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -779,7 +779,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "K-không, tôi không phải là thây ma!\\! Tôi đến đây vì hòa bình!"
+                "K-no, tôi no phải là thây ma!\\! Tôi đến đây vì hòa bình!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1044,7 +1044,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không thể nào.\\! Nhưng trông anh thực sự bình thường mà."
+                "no thể nào.\\! Nhưng trông anh thực sự bình thường mà."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
@@ -1068,28 +1068,28 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Tough Woman>Jamie, cô có chắc là chúng ta có thể tin anh ấy không?"
+                "\\n<Tough Woman>Jamie, cô có chắc là chúng ta có thể tin anh ấy no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi không thấy anh ta gây ra nhiều mối đe dọa."]
+              "parameters": ["Tôi no thấy anh ta gây ra nhiều mối đe dọa."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1] có vẻ đủ thông minh để không cố gắng thử thách chúng ta!"
+                "\\n[1] có vẻ đủ thông minh để no cố gắng thử thách chúng ta!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tin tôi đi.\\! Tôi không muốn gặp rắc rối đâu!"]
+              "parameters": ["Tin tôi đi.\\! Tôi no muốn gặp rắc rối đâu!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -1114,7 +1114,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Quận Bayou ư?\\! Tôi không biết khu vực này tồn tại..."
+                "Quận Bayou ư?\\! Tôi no biết khu vực này tồn tại..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 1, 0, 2] },
@@ -1122,7 +1122,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hah!\\! \\BST[1]không phải lần đầu tiên chúng ta nghe điều đó."
+                "Hah!\\! \\BST[1]no phải lần đầu tiên chúng ta nghe điều đó."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 0, 0, 2] },
@@ -1130,7 +1130,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hầu hết người dân thành phố không bao giờ dám đi bộ qua đầm lầy."
+                "Hầu hết người dân thành phố no bao giờ dám đi bộ qua đầm lầy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
@@ -1539,7 +1539,7 @@
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 99, 6, 8, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1640,7 +1640,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 99, 6, 8, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1851,7 +1851,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Nói chuyện", "Tình dục", "theo", "không sao đâu"],
+                ["Nói chuyện", "Tình dục", "theo", "no sao đâu"],
                 3,
                 0,
                 2,
@@ -1900,7 +1900,7 @@
             { "code": 402, "indent": 0, "parameters": [2, "theo"] },
             { "code": 117, "indent": 1, "parameters": [225] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [3, "không gì cả"] },
+            { "code": 402, "indent": 0, "parameters": [3, "no gì cả"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2148,7 +2148,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 124, 8, 8, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2248,7 +2248,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 124, 8, 8, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3083,7 +3083,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Cô gái phế liệu>Nếu cô không muốn, tôi có thể lấy chúng khỏi tay cô."
+                "\\n<Cô gái phế liệu>Nếu cô no muốn, tôi có thể lấy chúng khỏi tay cô."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3106,7 +3106,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\n<Scrap Girl>Vậy cô nghĩ sao?\\! Muốn tôi phân tích chúng cho cô không?"
+                "\\n<Scrap Girl>Vậy cô nghĩ sao?\\! Muốn tôi phân tích chúng cho cô no?"
               ]
             },
             {
@@ -3165,7 +3165,7 @@
               "code": 401,
               "indent": 5,
               "parameters": [
-                "\\n<Cô gái phế liệu>Đây rồi.\\! Quay lại khi nào có thêm nhé, được không?"
+                "\\n<Cô gái phế liệu>Đây rồi.\\! Quay lại khi nào có thêm nhé, được no?"
               ]
             },
             { "code": 113, "indent": 5, "parameters": [] },
@@ -3195,7 +3195,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n<Cô gái phế liệu>Có hộp đựng đồ rỉ sét nào không?"
+                "\\n<Cô gái phế liệu>Có hộp đựng đồ rỉ sét nào no?"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3268,7 +3268,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\n<Cô gái phế liệu>Bạn có muốn tôi phá vỡ chúng và làm ra một ít phế liệu không?"
+                "\\n<Cô gái phế liệu>Bạn có muốn tôi phá vỡ chúng và làm ra một ít phế liệu no?"
               ]
             },
             {
@@ -3327,7 +3327,7 @@
               "code": 401,
               "indent": 5,
               "parameters": [
-                "\\n<Cô gái phế liệu>Đây rồi.\\! Quay lại khi nào có thêm nhé, được không?"
+                "\\n<Cô gái phế liệu>Đây rồi.\\! Quay lại khi nào có thêm nhé, được no?"
               ]
             },
             { "code": 113, "indent": 5, "parameters": [] },
@@ -3475,7 +3475,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Cô nàng lắm chiêu>Xin lỗi vì đã không tin tưởng cô sớm hơn..."
+                "\\n<Cô nàng lắm chiêu>Xin lỗi vì đã no tin tưởng cô sớm hơn..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3483,7 +3483,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Người phụ nữ thô lỗ>Gần đây mọi chuyện không được dễ dàng cho lắm."
+                "\\n<Người phụ nữ thô lỗ>Gần đây mọi chuyện no được dễ dàng cho lắm."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3705,7 +3705,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 118, 9, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3839,14 +3839,14 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Bỏ qua", "không gì cả"], 1, 0, 2, 0]
+              "parameters": [["Bỏ qua", "no gì cả"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Bỏ qua"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 1, "parameters": [8] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "không gì cả"] },
+            { "code": 402, "indent": 0, "parameters": [1, "no gì cả"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4495,7 +4495,7 @@
           "list": [
             { "code": 117, "indent": 0, "parameters": [23] },
             { "code": 121, "indent": 0, "parameters": [216, 216, 1] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, true] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, true] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 117, "indent": 0, "parameters": [12] },
             { "code": 230, "indent": 0, "parameters": [5] },
@@ -4693,7 +4693,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi chắc chắn không dự đoán được những xúc tu khổng lồ..."
+                "Tôi chắc chắn no dự đoán được những xúc tu khổng lồ..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -4759,7 +4759,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn không thể ngủ được nữa!"]
+              "parameters": ["Bạn no thể ngủ được nữa!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 0, 0, 2] },
             {
@@ -4776,7 +4776,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cứ tin tôi đi.\\! \\BST[6]Bạn sẽ không hối hận đâu!"
+                "Cứ tin tôi đi.\\! \\BST[6]Bạn sẽ no hối hận đâu!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -4842,7 +4842,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đó là cảnh tượng mà bạn không bao giờ có thể chán được!"
+                "Đó là cảnh tượng mà bạn no bao giờ có thể chán được!"
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -4956,7 +4956,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cô ấy có ở trong thành phố vào thời điểm này không?"
+                "Cô ấy có ở trong thành phố vào thời điểm này no?"
               ]
             },
             {
@@ -4981,7 +4981,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không.\\! Cô ấy đang làm kiểm lâm ở Trại Zomi."]
+              "parameters": ["no.\\! Cô ấy đang làm kiểm lâm ở Trại Zomi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
             {
@@ -5012,7 +5012,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mỗi ngày tôi đều cố gắng liên lạc với cô ấy qua radio nhưng không được"
+                "Mỗi ngày tôi đều cố gắng liên lạc với cô ấy qua radio nhưng no được"
               ]
             },
             { "code": 401, "indent": 0, "parameters": ["tìm thấy tín hiệu."] },
@@ -5103,7 +5103,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không sao đâu.\\! \\BST[2]Cô ấy là một cô gái mạnh mẽ!"
+                "no sao đâu.\\! \\BST[2]Cô ấy là một cô gái mạnh mẽ!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
@@ -5236,7 +5236,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đêm qua bạn có tìm được chiếc giường thoải mái để ngủ không, \\n[1]?"
+                "Đêm qua bạn có tìm được chiếc giường thoải mái để ngủ no, \\n[1]?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -5258,7 +5258,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hah!\\! \\BST[1]Tôi chắc chắn là anh ấy không bận tâm đến điều đó chút nào."
+                "Hah!\\! \\BST[1]Tôi chắc chắn là anh ấy no bận tâm đến điều đó chút nào."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },

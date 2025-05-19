@@ -463,7 +463,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Xin chào?!\\! Có ai ở trong đó không?"]
+              "parameters": ["Xin chào?!\\! Có ai ở trong đó no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -662,7 +662,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không được!\\! Mẹ sẽ là người mở cửa."]
+              "parameters": ["no được!\\! Mẹ sẽ là người mở cửa."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },

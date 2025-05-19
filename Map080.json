@@ -262,7 +262,7 @@
 {
 "code": 401,
 "indent": 0,
-"parameters": ["Hôm nay có nhiều tài năng quá, đúng không?"]
+"parameters": ["Hôm nay có nhiều tài năng quá, đúng no?"]
 },
 { "code": 101, "indent": 0, "parameters": ["1Violet1", 4, 0, 2] },
 
@@ -313,7 +313,7 @@
 "code": 401,
 "indent": 0,
 "parameters": [
-"Aha ha!\\! \\BST[1]không cần phải thù địch đâu Violet thân mến."
+"Aha ha!\\! \\BST[1]no cần phải thù địch đâu Violet thân mến."
 
 ]
 },
@@ -322,7 +322,7 @@
 "code": 401,
 "indent": 0,
 "parameters": [
-"Miễn là bạn tiếp tục hợp tác, thì không cần phải lo lắng."
+"Miễn là bạn tiếp tục hợp tác, thì no cần phải lo lắng."
 ]
 },
 { "code": 101, "indent": 0, "parameters": ["1norman1", 3, 0, 2] },
@@ -456,7 +456,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cô có thấy hào hứng trước sự kiện của mình không, Violet?!"
+                "Cô có thấy hào hứng trước sự kiện của mình no, Violet?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
@@ -515,14 +515,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nghĩ mấy thí sinh sẽ đánh thắng được thứ đó đâu."
+                "Tôi no nghĩ mấy thí sinh sẽ đánh thắng được thứ đó đâu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Lần này tôi cũng không chắc lắm."]
+              "parameters": ["Lần này tôi cũng no chắc lắm."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
             {
@@ -545,23 +545,23 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Điều mà hầu như không có khả năng xảy ra vào thời điểm này!"
+                "Điều mà hầu như no có khả năng xảy ra vào thời điểm này!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không thể nào!"] },
+            { "code": 401, "indent": 0, "parameters": ["no thể nào!"] },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không đời nào chuyện đó có thể xảy ra trừ khi..."]
+              "parameters": ["no đời nào chuyện đó có thể xảy ra trừ khi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Dù sao đi nữa thì tôi cũng không quan tâm.\\! Chắc anh ta chỉ đang nói dối để tạo tiếng vang thôi."
+                "Dù sao đi nữa thì tôi cũng no quan tâm.\\! Chắc anh ta chỉ đang nói dối để tạo tiếng vang thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 5, 0, 2] },
@@ -575,7 +575,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mà này, nếu tôi nhớ không nhầm thì vẫn còn một suất trống."
+                "Mà này, nếu tôi nhớ no nhầm thì vẫn còn một suất trống."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 1, 0, 2] },
@@ -583,7 +583,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Anh thật sự không muốn đăng ký thi đấu sao, khôngrman?"
+                "Anh thật sự no muốn đăng ký thi đấu sao, norman?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Violet1", 2, 0, 2] },
@@ -597,7 +597,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi sẽ không để bộ đồ mới của mình bị dính máu đâu!\\! không đời nào!"
+                "Tôi sẽ no để bộ đồ mới của mình bị dính máu đâu!\\! no đời nào!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 2, 0, 2] },
@@ -824,7 +824,7 @@
     },
     {
       "id": 4,
-      "name": "khôngrman",
+      "name": "norman",
       "note": "",
       "pages": [
         {

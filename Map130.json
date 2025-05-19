@@ -719,7 +719,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Tôi hứa sẽ không làm anh xấu hổ nếu anh đi giúp cô ấy!"
+                "Tôi hứa sẽ no làm anh xấu hổ nếu anh đi giúp cô ấy!"
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -912,7 +912,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn tôi cho bạn chút thời gian riêng tư không?"]
+              "parameters": ["Bạn có muốn tôi cho bạn chút thời gian riêng tư no?"]
             },
             {
               "code": 102,
@@ -1056,7 +1056,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Em có thích lễ hội không, cưng?"]
+              "parameters": ["Em có thích lễ hội no, cưng?"]
             },
             {
               "code": 102,
@@ -1125,7 +1125,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-               "Đừng lo!\\! Tôi không ngại chờ ở đây trong khi anh bận đâu!"
+               "Đừng lo!\\! Tôi no ngại chờ ở đây trong khi anh bận đâu!"
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -1256,7 +1256,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pháo hoa sắp bắt đầu rồi.\\! Bạn có muốn xem cùng tôi không?"
+                "Pháo hoa sắp bắt đầu rồi.\\! Bạn có muốn xem cùng tôi no?"
               ]
             },
             {
@@ -1601,21 +1601,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ôi không!\\! Anh ấy đã ở đây rồi sao?!"]
+              "parameters": ["Ôi no!\\! Anh ấy đã ở đây rồi sao?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-               "Hai người đang làm gì ở đây vậy? không an toàn đâu!"
+               "Hai người đang làm gì ở đây vậy? no an toàn đâu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Điều này không tốt đâu Liv!"]
+              "parameters":["Điều này no tốt đâu Liv!"]
             },
             {
               "code": 205,
@@ -1667,7 +1667,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi e rằng \\n[1] sẽ không để chúng ta tiếp tục nếu không có sự giám sát của anh ấy."
+                "Tôi e rằng \\n[1] sẽ no để chúng ta tiếp tục nếu no có sự giám sát của anh ấy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt1", 6, 0, 2] },
@@ -2045,7 +2045,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Họ không thể ở đây một mình được.\\! Tôi phải tìm ra họ nhanh chóng!"
+                "Họ no thể ở đây một mình được.\\! Tôi phải tìm ra họ nhanh chóng!"
               ]
             },
             {
@@ -2851,7 +2851,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-              "\\n<Festival Chick>Giữa tất cả những món ăn ngon và màn pháo hoa rực rỡ, tôi không bao giờ có thể chán được!"
+              "\\n<Festival Chick>Giữa tất cả những món ăn ngon và màn pháo hoa rực rỡ, tôi no bao giờ có thể chán được!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2934,7 +2934,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "\\n<Vệ sĩ>Tôi không phải là người đặt ra luật lệ.\\! Ông chủ mới là người đặt ra luật lệ."
+               "\\n<Vệ sĩ>Tôi no phải là người đặt ra luật lệ.\\! Ông chủ mới là người đặt ra luật lệ."
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -2993,7 +2993,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "\\n<Vệ sĩ>Tôi không phải là người đặt ra luật lệ.\\! Ông chủ mới là người đặt ra luật lệ."
+               "\\n<Vệ sĩ>Tôi no phải là người đặt ra luật lệ.\\! Ông chủ mới là người đặt ra luật lệ."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3321,7 +3321,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Bodyguard>Nhưng tôi không mua nó.\\! Làm sao tôi biết những tấm vé này là giả?"
+                "\\n<Bodyguard>Nhưng tôi no mua nó.\\! Làm sao tôi biết những tấm vé này là giả?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -3708,7 +3708,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Vệ sĩ>Khu vực này đã bị chặn nếu không có lệnh của ông chủ."
+                "\\n<Vệ sĩ>Khu vực này đã bị chặn nếu no có lệnh của ông chủ."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
@@ -3772,7 +3772,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Bodyguard>Vậy thì hãy bình tĩnh lại một chút.\\! không có gì đáng lo ngại cả."
+                "\\n<Bodyguard>Vậy thì hãy bình tĩnh lại một chút.\\! no có gì đáng lo ngại cả."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -3786,7 +3786,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-             "\\n<Vệ sĩ>Sẽ không còn lâu nữa cho đến khi họ hoàn thành."
+             "\\n<Vệ sĩ>Sẽ no còn lâu nữa cho đến khi họ hoàn thành."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -4095,7 +4095,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Trang phục khá lễ hội phải không?!"]
+              "parameters": ["Trang phục khá lễ hội phải no?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt3", 0, 0, 2] },
             {
@@ -4190,7 +4190,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "\\n<\\n[2]>Có ai nhìn thấy tôi ở ngoài đó không..?"
+               "\\n<\\n[2]>Có ai nhìn thấy tôi ở ngoài đó no..?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt3", 2, 0, 2] },
@@ -4376,7 +4376,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-              "Tôi không chắc đây có phải là một ý tưởng hay vào lúc này không nữa..."
+              "Tôi no chắc đây có phải là một ý tưởng hay vào lúc này no nữa..."
               ]
             },
             {
@@ -4506,7 +4506,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-       "Nhưng tôi-\\! Tôi không ngờ bộ trang phục đó lại hở hang đến thế."
+       "Nhưng tôi-\\! Tôi no ngờ bộ trang phục đó lại hở hang đến thế."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt3", 6, 0, 2] },
@@ -4522,7 +4522,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vì vậy, tôi nghĩ rằng có lẽ chúng ta không nổi bật đến thế!"
+                "Vì vậy, tôi nghĩ rằng có lẽ chúng ta no nổi bật đến thế!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt3", 0, 0, 2] },
@@ -4894,14 +4894,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cứ nói với cô ấy đi \\n[1].\\! Anh thích trang phục của em và muốn dành thời gian đặc biệt với em đúng không?"
+                "Cứ nói với cô ấy đi \\n[1].\\! Anh thích trang phục của em và muốn dành thời gian đặc biệt với em đúng no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters":     ["K-không!\\! Đừng nghe cô ấy!"]
+              "parameters":     ["K-no!\\! Đừng nghe cô ấy!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 0, 0, 2] },
             {
@@ -4914,7 +4914,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "T-tôi không hiểu.\\! Tại sao tôi phải chọn một trong số các người?"
+                "T-tôi no hiểu.\\! Tại sao tôi phải chọn một trong số các người?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 0, 0, 2] },
@@ -5134,7 +5134,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thời gian có hạn, đúng không?\\! \\BST[6]Đó là một ý tưởng tuyệt vời!"
+                "Thời gian có hạn, đúng no?\\! \\BST[6]Đó là một ý tưởng tuyệt vời!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt3", 7, 0, 2] },
@@ -5313,14 +5313,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không nếu tôi không chiếm hết anh ấy cho riêng mình!"]
+              "parameters": ["no nếu tôi no chiếm hết anh ấy cho riêng mình!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt3", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không thể không muốn ăn anh ấy!\\! Anh ấy thật dễ thương khi xuất tinh!"
+                "Tôi no thể no muốn ăn anh ấy!\\! Anh ấy thật dễ thương khi xuất tinh!"
 ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 7, 0, 2] },
@@ -6203,7 +6203,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Orange Girl>Điều này không ổn!\\! Tôi phải làm gì đây?!"
+                "\\n<Orange Girl>Điều này no ổn!\\! Tôi phải làm gì đây?!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6569,7 +6569,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có biết nó có thể đến từ đâu không?"]
+              "parameters": ["Bạn có biết nó có thể đến từ đâu no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -6675,7 +6675,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-            "\\n<Orange Girl>Cảm ơn rất nhiều!\\! Cậu là chàng trai tuyệt vời nhất, cậu biết không!"
+            "\\n<Orange Girl>Cảm ơn rất nhiều!\\! Cậu là chàng trai tuyệt vời nhất, cậu biết no!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -7415,7 +7415,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "\\n<Biker>Nhưng tôi không biết liệu chúng có thể so sánh được với những quả cam chua ngọt trong Tết Nguyên Đán hay không!"
+               "\\n<Biker>Nhưng tôi no biết liệu chúng có thể so sánh được với những quả cam chua ngọt trong Tết Nguyên Đán hay no!"
               ]
             },
             {
@@ -8057,7 +8057,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Pháo hoa>Tính toán của tôi không hợp lý chút nào...\\! Đây đúng là thảm họa!"
+                "\\n<Pháo hoa>Tính toán của tôi no hợp lý chút nào...\\! Đây đúng là thảm họa!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 0, 0, 2] },
@@ -8143,7 +8143,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Pháo hoa>Pháo hoa là đỉnh cao của Tết Nguyên đán!\\! Mọi người sẽ phẫn nộ nếu tôi không "
+                "\\n<Pháo hoa>Pháo hoa là đỉnh cao của Tết Nguyên đán!\\! Mọi người sẽ phẫn nộ nếu tôi no "
               ]
             },
             {
@@ -8162,7 +8162,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                    "Vâng, đúng vậy.\\! Chúng tôi có thể giúp gì cho bạn không?"
+                    "Vâng, đúng vậy.\\! Chúng tôi có thể giúp gì cho bạn no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -8259,7 +8259,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-              "Ôi không...\\! Việc này thực sự có vẻ là một thử thách."
+              "Ôi no...\\! Việc này thực sự có vẻ là một thử thách."
               ]
             },
             {
@@ -8294,7 +8294,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-              "Nhưng anh có thể giúp cô ấy được chứ, phải không \\n[1]?"
+              "Nhưng anh có thể giúp cô ấy được chứ, phải no \\n[1]?"
               ]
             },
             {
@@ -8382,7 +8382,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Bà không cần phải lo lắng về điều gì cả!"]
+              "parameters":["Bà no cần phải lo lắng về điều gì cả!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -8780,7 +8780,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Pháo hoa>Một cặp đôi dễ thương đến và hỏi tôi rằng tối nay có chương trình nào nữa không.\\! không biết họ có ở lại để xem không nhỉ?"
+                "\\n<Pháo hoa>Một cặp đôi dễ thương đến và hỏi tôi rằng tối nay có chương trình nào nữa no.\\! no biết họ có ở lại để xem no nhỉ?"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8847,7 +8847,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "\\n<Hungry Grouch>Tôi đã đợi cả năm để có được những quả cam ngon lành này!\\! Tôi sẽ không chia sẻ đâu!"
+               "\\n<Hungry Grouch>Tôi đã đợi cả năm để có được những quả cam ngon lành này!\\! Tôi sẽ no chia sẻ đâu!"
               ]
             },
             {
@@ -9047,7 +9047,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "Đó có phải là phong bao lì xì không?!\\! Cảm ơn em rất nhiều nhé em yêu!"
+               "Đó có phải là phong bao lì xì no?!\\! Cảm ơn em rất nhiều nhé em yêu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 0, 0, 2] },
@@ -9063,7 +9063,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi biết ghen tị là không tốt nhưng..."
+                "Tôi biết ghen tị là no tốt nhưng..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 5, 0, 2] },
@@ -9614,7 +9614,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mới ra à?!\\! \\BST[4]Ôi không..."]
+              "parameters": ["Mới ra à?!\\! \\BST[4]Ôi no..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt3", 3, 0, 2] },
             {
@@ -9629,7 +9629,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Orange Girl>Đó là nhà cung cấp cam của tôi.\\! Anh ấy không bao giờ quay lại với lô cam thứ hai của tôi nữa."
+                "\\n<Orange Girl>Đó là nhà cung cấp cam của tôi.\\! Anh ấy no bao giờ quay lại với lô cam thứ hai của tôi nữa."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [20, 5, false] },
@@ -9645,13 +9645,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Ugh.\\! Đàn ông thật phiền phức, phải không?!"]
+              "parameters":["Ugh.\\! Đàn ông thật phiền phức, phải no?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters":["\\n<Cô gái cam>Thật không đáng tin cậy!"]
+              "parameters":["\\n<Cô gái cam>Thật no đáng tin cậy!"]
             },
             { "code": 213, "indent": 0, "parameters": [8, 6, false] },
             {
@@ -9705,7 +9705,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Tôi đang đứng ngay đây, anh biết không..?"]
+              "parameters":["Tôi đang đứng ngay đây, anh biết no..?"]
             },
             {
               "code": 205,
@@ -9738,7 +9738,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Đừng lo lắng!\\! \\BST[1]Tôi không có ý nói anh!"]
+              "parameters":["Đừng lo lắng!\\! \\BST[1]Tôi no có ý nói anh!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters":["Ồ, tốt quá..."] },
@@ -9801,7 +9801,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nếu người giúp việc đêm nay của anh không đến thì tôi có giúp không?"
+                "Nếu người giúp việc đêm nay của anh no đến thì tôi có giúp no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -9809,7 +9809,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Orange Girl>Bạn có thể làm được không?!\\! Ôi trời, bạn sẽ là anh hùng của tôi!"
+                "\\n<Orange Girl>Bạn có thể làm được no?!\\! Ôi trời, bạn sẽ là anh hùng của tôi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -9817,7 +9817,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tất nhiên rồi!\\! \\BST[1]Tôi không ngại giúp đỡ bạn đâu."
+                "Tất nhiên rồi!\\! \\BST[1]Tôi no ngại giúp đỡ bạn đâu."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [5, 3, false] },
@@ -9881,7 +9881,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["K-không.\\! Tôi không cần bất cứ thứ gì đáp lại."]
+              "parameters": ["K-no.\\! Tôi no cần bất cứ thứ gì đáp lại."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
@@ -9904,7 +9904,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "\\n<Cô gái cam>Có một bãi cam không quá xa đây."
+               "\\n<Cô gái cam>Có một bãi cam no quá xa đây."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -9945,21 +9945,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ồ, giờ tôi hiểu tại sao công nhân của anh lại không đến rồi..."
+                "Ồ, giờ tôi hiểu tại sao công nhân của anh lại no đến rồi..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không sao đâu.\\! Tôi có thể làm được, không vấn đề gì!"]
+              "parameters": ["no sao đâu.\\! Tôi có thể làm được, no vấn đề gì!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Aunt3", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi đáng lẽ phải biết là anh sẽ không lùi bước trước thử thách chứ!"
+                "Tôi đáng lẽ phải biết là anh sẽ no lùi bước trước thử thách chứ!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -10714,7 +10714,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Tối nay anh có tham gia chương trình khác không?"]
+              "parameters":["Tối nay anh có tham gia chương trình khác no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -10875,7 +10875,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Đây có phải là loại quả màu tím không?"]
+              "parameters": ["Đây có phải là loại quả màu tím no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
@@ -11253,7 +11253,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "\\n<Người yêu lễ hội>Nhưng tôi sẽ không để điều đó ngăn cản tôi vui vẻ tối nay đâu!"
+               "\\n<Người yêu lễ hội>Nhưng tôi sẽ no để điều đó ngăn cản tôi vui vẻ tối nay đâu!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

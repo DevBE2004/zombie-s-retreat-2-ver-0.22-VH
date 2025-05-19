@@ -452,7 +452,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mẹ này...\\! Có phải mẹ từng nói chúng ta có quan hệ họ hàng với cô ấy đúng không ạ?"
+                "Mẹ này...\\! Có phải mẹ từng nói chúng ta có quan hệ họ hàng với cô ấy đúng no ạ?"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -462,7 +462,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mẹ này...\\! Có phải mẹ từng nói chúng ta có quan hệ họ hàng với cô ấy đúng không ạ?"
+                "Mẹ này...\\! Có phải mẹ từng nói chúng ta có quan hệ họ hàng với cô ấy đúng no ạ?"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -516,7 +516,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cô ấy là em họ hàng xa của mẹ nhưng cũng không thân thiết lắm."
+                "Cô ấy là em họ hàng xa của mẹ nhưng cũng no thân thiết lắm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -1062,12 +1062,12 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Mẹ có sao không?"] },
+            { "code": 401, "indent": 0, "parameters": ["Mẹ có sao no?"] },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*hộc*\\| *hộc*\\| Mẹ không sao."]
+              "parameters": ["*hộc*\\| *hộc*\\| Mẹ no sao."]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [2, 6, true] },
@@ -1121,7 +1121,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Khi bọn mẹ thấy mấy con Zombie đến gần phụ nữ thì chúng không có làm hại họ."
+                "Khi bọn mẹ thấy mấy con Zombie đến gần phụ nữ thì chúng no có làm hại họ."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -1159,7 +1159,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Con không mất mẹ!"] },
+            { "code": 401, "indent": 0, "parameters": ["Con no mất mẹ!"] },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 6, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Oh con yêu..."] },
             { "code": 213, "indent": 0, "parameters": [2, 4, true] },
@@ -1200,7 +1200,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>Con không cần lo lắng cho mẹ đâu.\\! Mọi thứ vẫn đang ổn mà."
+                "\\n<\\N[2]>Con no cần lo lắng cho mẹ đâu.\\! Mọi thứ vẫn đang ổn mà."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1208,7 +1208,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>không những thế con còn hoàn thành xuất sắc nhiệm vụ bảo vệ mọi người."
+                "\\n<\\N[2]>no những thế con còn hoàn thành xuất sắc nhiệm vụ bảo vệ mọi người."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1260,7 +1260,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>[Nhưng mình...\\! Mình không muốn chuyện này xảy ra?]"
+                "\\n<\\N[2]>[Nhưng mình...\\! Mình no muốn chuyện này xảy ra?]"
               ]
             },
             {
@@ -1341,7 +1341,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không thể tin được mẹ và mình vừa mới hôn nhau..."
+                "no thể tin được mẹ và mình vừa mới hôn nhau..."
               ]
             },
             {
@@ -1474,7 +1474,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chúng ta vẫn chưa biết nơi này có an toàn hay không!"
+                "Chúng ta vẫn chưa biết nơi này có an toàn hay no!"
               ]
             },
             {
@@ -1500,7 +1500,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không sao đâu, con yêu.\\! không có ai ở đây cả."]
+              "parameters": ["no sao đâu, con yêu.\\! no có ai ở đây cả."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
             {

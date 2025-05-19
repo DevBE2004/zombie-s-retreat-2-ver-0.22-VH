@@ -402,7 +402,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nghĩ sẽ có bất kỳ đợt bùng phát zombie 'lớn' nào ở đây đâu."
+                "Tôi no nghĩ sẽ có bất kỳ đợt bùng phát zombie 'lớn' nào ở đây đâu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -411,7 +411,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không!\\! \\BST[5]Anh không có ý là-"]
+              "parameters": ["no!\\! \\BST[5]Anh no có ý là-"]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001", 2, 0, 2] },
             {
@@ -475,7 +475,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Trông cậu có vẻ không khỏe."]
+              "parameters": ["Trông cậu có vẻ no khỏe."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Đ-Đầu tôi..."] },
@@ -531,7 +531,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không!\\! Đừng làm thế!"]
+              "parameters": ["no!\\! Đừng làm thế!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001x", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Hah hah hah!"] },
@@ -653,13 +653,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hoàn toàn không đúng sự thật \\n[1] ạ."]
+              "parameters": ["Hoàn toàn no đúng sự thật \\n[1] ạ."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["khôngrman là người duy nhất đáng trách ở đây."]
+              "parameters": ["norman là người duy nhất đáng trách ở đây."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
             {
@@ -695,7 +695,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ừ...\\! Tôi sẽ không."]
+              "parameters": ["Ừ...\\! Tôi sẽ no."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -837,7 +837,7 @@
     },
     {
       "id": 7,
-      "name": "(Cutscene) khôngrman",
+      "name": "(Cutscene) norman",
       "note": "",
       "pages": [
         {
@@ -1092,7 +1092,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Trước khi ta giết ngươi, ngươi có lời trăn trối nào không?"
+                "Trước khi ta giết ngươi, ngươi có lời trăn trối nào no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
@@ -1109,7 +1109,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không thể tin được!"]
+              "parameters": ["no thể tin được!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001x", 4, 0, 2] },
             {
@@ -1809,7 +1809,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "khôngrman Reeves.\\! Anh bị bắt vì những tội ác đã thực hiện-"
+                "norman Reeves.\\! Anh bị bắt vì những tội ác đã thực hiện-"
               ]
             },
             {
@@ -1864,7 +1864,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Anh biết là anh không còn quyền lực gì nữa khi sở của anh đã biến mất."
+                "Anh biết là anh no còn quyền lực gì nữa khi sở của anh đã biến mất."
               ]
             },
             {
@@ -1875,7 +1875,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Huy hiệu của anh không khác gì sắt vụn."]
+              "parameters": ["Huy hiệu của anh no khác gì sắt vụn."]
             },
             {
               "code": 101,
@@ -2229,7 +2229,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng tất nhiên rồi, ta còn ra thể thống gì nếu không ghi nhận công lao một cách xứng đáng chứ?!"
+                "Nhưng tất nhiên rồi, ta còn ra thể thống gì nếu no ghi nhận công lao một cách xứng đáng chứ?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 0, 0, 2] },
@@ -2338,7 +2338,7 @@
               "parameters": [{ "code": 13, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không..!"] },
+            { "code": 401, "indent": 0, "parameters": ["no..!"] },
             {
               "code": 205,
               "indent": 0,
@@ -2958,7 +2958,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ngươi không biết sao?!"]
+              "parameters": ["Ngươi no biết sao?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 0, 0, 2] },
             {
@@ -2987,11 +2987,11 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Và ta e rằng ta không thể khắc phục được loại tổn thương đó..."
+                "Và ta e rằng ta no thể khắc phục được loại tổn thương đó..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không..!"] },
+            { "code": 401, "indent": 0, "parameters": ["no..!"] },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
             {
               "code": 401,
@@ -3003,14 +3003,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ngươi chẳng qua chỉ là một con quái vật.\\! Một kẻ thất bại không có khả năng nhận ra tiềm năng của mình."
+                "Ngươi chẳng qua chỉ là một con quái vật.\\! Một kẻ thất bại no có khả năng nhận ra tiềm năng của mình."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chuyện này-\\! không phải vậy..."]
+              "parameters": ["Chuyện này-\\! no phải vậy..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
             {
@@ -3024,7 +3024,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ta có nói dối điều gì không, thám tử..?"]
+              "parameters": ["Ta có nói dối điều gì no, thám tử..?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
             {
@@ -3044,7 +3044,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi-\\! Tôi không biết ông đang nói gì."]
+              "parameters": ["Tôi-\\! Tôi no biết ông đang nói gì."]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 0, 0, 2] },
             {
@@ -3062,7 +3062,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không muốn đến muộn cho bất kỳ cuộc họp nào!"]
+              "parameters": ["no muốn đến muộn cho bất kỳ cuộc họp nào!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Vĩnh biệt."] },
@@ -3300,7 +3300,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Những người đã bị khôngrman biến thành quái vật."]
+              "parameters": ["Những người đã bị norman biến thành quái vật."]
             },
             {
               "code": 205,
@@ -5211,7 +5211,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cậu muốn tự mình giải quyết chuyện này với hắn, đúng không?"
+                "Cậu muốn tự mình giải quyết chuyện này với hắn, đúng no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -5229,14 +5229,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chỉ là-\\! Tôi không thể không cảm thấy chuyện này cần phải xảy ra."
+                "Chỉ là-\\! Tôi no thể no cảm thấy chuyện này cần phải xảy ra."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chỉ cần-\\! Cẩn thận nhé, hiểu không?"]
+              "parameters": ["Chỉ cần-\\! Cẩn thận nhé, hiểu no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Cô yên tâm."] },
@@ -5351,7 +5351,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ừm.\\! Cơ mà tôi cũng không thực sự hiểu nó hoạt động thế nào."
+                "Ừm.\\! Cơ mà tôi cũng no thực sự hiểu nó hoạt động thế nào."
               ]
             },
             {
@@ -5403,7 +5403,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng tôi không nghĩ sẽ có bất kỳ đợt bùng phát zombie 'lớn' nào đâu."
+                "Nhưng tôi no nghĩ sẽ có bất kỳ đợt bùng phát zombie 'lớn' nào đâu."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 1, false] },
@@ -5459,7 +5459,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không!\\! \\BST[5]Anh không có ý là-"]
+              "parameters": ["no!\\! \\BST[5]Anh no có ý là-"]
             },
             {
               "code": 205,
@@ -5608,7 +5608,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Trông cậu lại có vẻ không khỏe rồi."]
+              "parameters": ["Trông cậu lại có vẻ no khỏe rồi."]
             },
             {
               "code": 224,
@@ -5711,7 +5711,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi bắt đầu mất kiên nhẫn thật rồi đấy, biết không hả?!"
+                "Tôi bắt đầu mất kiên nhẫn thật rồi đấy, biết no hả?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1L001", 2, 0, 2] },
@@ -5761,7 +5761,7 @@
               "parameters": ["Cậu nói sao, 'bạn' của tôi?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không!\\! Đừng!"] },
+            { "code": 401, "indent": 0, "parameters": ["no!\\! Đừng!"] },
             { "code": 101, "indent": 0, "parameters": ["1L001x", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Hah hah hah!"] },
             { "code": 101, "indent": 0, "parameters": ["1L001x", 1, 0, 2] },

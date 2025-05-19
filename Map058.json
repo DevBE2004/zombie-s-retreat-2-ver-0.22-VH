@@ -2300,7 +2300,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em không được bỏ đi!\\! Nếu không mấy con Zombie này giết chị mất!"
+                "Em no được bỏ đi!\\! Nếu no mấy con Zombie này giết chị mất!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2460,7 +2460,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em không được bỏ đi!\\! Nếu không mấy con Zombie này giết chị mất!"
+                "Em no được bỏ đi!\\! Nếu no mấy con Zombie này giết chị mất!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3144,21 +3144,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Whoa!\\! Chị không nhìn thấy gì hết!"]
+              "parameters": ["Whoa!\\! Chị no nhìn thấy gì hết!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hình như nguồn điện không đi qua căn phòng này..."
+                "Hình như nguồn điện no đi qua căn phòng này..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chị biết đây là phòng gì không, chị Stacy?"]
+              "parameters": ["Chị biết đây là phòng gì no, chị Stacy?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {
@@ -3193,7 +3193,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*rùng mình*\\! Tởm quá...\\! không thể tin được..."
+                "*rùng mình*\\! Tởm quá...\\! no thể tin được..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
@@ -3213,7 +3213,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Dù sao thì...\\! \\BST[1]Hãy xem liệu chúng ta có thể tìm cách bật lại nguồn điện ở đây hay không nào?"
+                "Dù sao thì...\\! \\BST[1]Hãy xem liệu chúng ta có thể tìm cách bật lại nguồn điện ở đây hay no nào?"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -4403,7 +4403,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hình như đó là 'ông chủ' mà chị hay nhắc đến, đúng không ạ?"
+                "Hình như đó là 'ông chủ' mà chị hay nhắc đến, đúng no ạ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 3, 0, 2] },
@@ -4413,7 +4413,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cẩn thận, chị Stacy!\\! Mặc dù bây giờ ông ấy là một con Zombie nhưng cũng không dễ xơi chút nào!"
+                "Cẩn thận, chị Stacy!\\! Mặc dù bây giờ ông ấy là một con Zombie nhưng cũng no dễ xơi chút nào!"
               ]
             },
             {
@@ -4733,7 +4733,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị không ngờ ông ấy lại mang đến nhiều rắc rối như thế..."
+                "Chị no ngờ ông ấy lại mang đến nhiều rắc rối như thế..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -4903,14 +4903,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nếu chị và em không hành động nhanh thì ông ấy sẽ gọi càng nhiều Zombie đến!"
+                "Nếu chị và em no hành động nhanh thì ông ấy sẽ gọi càng nhiều Zombie đến!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Em không thể giải quyết hết bọn chúng được!"]
+              "parameters": ["Em no thể giải quyết hết bọn chúng được!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
             {

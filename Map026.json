@@ -806,7 +806,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này no?"]
             },
             {
               "code": 102,
@@ -839,7 +839,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Điểm này đã trống không..."]
+              "parameters": ["Điểm này đã trống no..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
@@ -913,7 +913,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này no?"]
             },
             {
               "code": 102,
@@ -1012,7 +1012,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Điểm này đã trống không..."]
+              "parameters": ["Điểm này đã trống no..."]
             },
             { "code": 122, "indent": 3, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 3, "parameters": [21, 21, 0, 0, 0] },
@@ -1280,7 +1280,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Xin chào?\\! Có ai ở trong đó không?!"]
+              "parameters": ["Xin chào?\\! Có ai ở trong đó no?!"]
             },
             {
               "code": 250,
@@ -4418,7 +4418,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thôi nào!\\! Địt chị ở đây có được không...?"]
+              "parameters": ["Thôi nào!\\! Địt chị ở đây có được no...?"]
             },
             {
               "code": 102,
@@ -4516,7 +4516,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Em biết chị đang nghĩ gì không, \\n[1]?"]
+              "parameters": ["Em biết chị đang nghĩ gì no, \\n[1]?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -4528,7 +4528,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ừ...!\\! Vậy giờ em có muốn địt chị không?"]
+              "parameters": ["Ừ...!\\! Vậy giờ em có muốn địt chị no?"]
             },
             {
               "code": 102,
@@ -4689,7 +4689,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không nơi nào khác ngoài trường trung học Crimson City!"]
+              "parameters": ["no nơi nào khác ngoài trường trung học Crimson City!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Chắc chắn!"] },

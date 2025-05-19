@@ -281,7 +281,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi đã nói là anh không được vào đây!"]
+              "parameters": ["Tôi đã nói là anh no được vào đây!"]
             },
             {
               "code": 205,
@@ -325,7 +325,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Xin chào?!\\! Có ai ở trong đó không?"]
+              "parameters": ["Xin chào?!\\! Có ai ở trong đó no?"]
             },
             {
               "code": 205,
@@ -366,13 +366,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không!\\! Tôi hoàn toàn khỏe mạnh."]
+              "parameters": ["no!\\! Tôi hoàn toàn khỏe mạnh."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bây giờ, anh có thể mở cửa cho tôi được không?"]
+              "parameters": ["Bây giờ, anh có thể mở cửa cho tôi được no?"]
             },
             {
               "code": 101,
@@ -463,7 +463,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Trời ơi, em dễ thương quá phải không?!"]
+              "parameters": ["Trời ơi, em dễ thương quá phải no?!"]
             },
             {
               "code": 101,
@@ -474,7 +474,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không ngờ người cứu tôi lại trẻ và đáng yêu đến vậy!"
+                "Tôi no ngờ người cứu tôi lại trẻ và đáng yêu đến vậy!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -498,7 +498,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không cần phải lễ nghi gì cả.\\! \\BST[2]Bạn có thể gọi tôi là Bridgette!"
+                "no cần phải lễ nghi gì cả.\\! \\BST[2]Bạn có thể gọi tôi là Bridgette!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -517,7 +517,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có phiền nếu tôi đưa bạn đến đó không?"]
+              "parameters": ["Bạn có phiền nếu tôi đưa bạn đến đó no?"]
             },
             {
               "code": 101,
@@ -528,7 +528,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ồ, tôi bắt đầu nghĩ rằng mình sẽ không bao giờ rời khỏi phòng ngủ này nữa..."
+                "Ồ, tôi bắt đầu nghĩ rằng mình sẽ no bao giờ rời khỏi phòng ngủ này nữa..."
               ]
             },
             {

@@ -379,7 +379,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn câu không?"]
+              "parameters": ["Bạn có muốn câu no?"]
             },
             {
               "code": 102,
@@ -465,7 +465,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn câu không?"]
+              "parameters": ["Bạn có muốn câu no?"]
             },
             {
               "code": 102,
@@ -488,7 +488,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Điểm câu đã không còn động tĩnh..."]
+              "parameters": ["Điểm câu đã no còn động tĩnh..."]
             },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -592,7 +592,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nó bị khóa rồi, mình không mở được."]
+              "parameters": ["Nó bị khóa rồi, mình no mở được."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -649,7 +649,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn dùng rìu để chặt khúc gỗ này không?"]
+              "parameters": ["Bạn có muốn dùng rìu để chặt khúc gỗ này no?"]
             },
             {
               "code": 102,
@@ -799,7 +799,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn dùng rìu để chặt khúc gỗ này không?"]
+              "parameters": ["Bạn có muốn dùng rìu để chặt khúc gỗ này no?"]
             },
             {
               "code": 102,
@@ -2834,7 +2834,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Em ổn không, \\n[1]?"]
+              "parameters": ["Em ổn no, \\n[1]?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["Hả?\\! À, em ổn!"] },
@@ -2845,7 +2845,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Hmm...\\! không biết những bông hoa mà chị \\n[3] thích có ở đây không...?"
+                "Hmm...\\! no biết những bông hoa mà chị \\n[3] thích có ở đây no...?"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2967,7 +2967,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Oh, không có gì!\\! Em chỉ đang tìm đồ thôi."]
+              "parameters": ["Oh, no có gì!\\! Em chỉ đang tìm đồ thôi."]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
             {

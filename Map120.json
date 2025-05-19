@@ -1250,7 +1250,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có thấy những cây ở đằng kia không?"]
+              "parameters": ["Bạn có thấy những cây ở đằng kia no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 2, 0, 2] },
             {
@@ -1264,7 +1264,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Vậy thì hãy cẩn thận từng bước một nhé, được không?"]
+              "parameters": ["Vậy thì hãy cẩn thận từng bước một nhé, được no?"]
             },
             { "code": 204, "indent": 0, "parameters": [4, 3, 3] },
             { "code": 230, "indent": 0, "parameters": [60] },

@@ -243,11 +243,11 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Nhưng hình như phải có công thức thì mới điều chế được.\\! Con biết công thức không?"
+                "Nhưng hình như phải có công thức thì mới điều chế được.\\! Con biết công thức no?"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Con không..."] },
+            { "code": 401, "indent": 1, "parameters": ["Con no..."] },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 4, 0, 2] },
             {
               "code": 401,
@@ -275,7 +275,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mình sẽ phải tự tìm hiểu việc này vì mẹ không đi cùng mình..."
+                "Mình sẽ phải tự tìm hiểu việc này vì mẹ no đi cùng mình..."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
@@ -712,7 +712,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Mẹ có vẻ không ốm nặng lắm nên mình nghĩ chỉ cần thuốc kháng histamine là đủ rồi."
+                "Mẹ có vẻ no ốm nặng lắm nên mình nghĩ chỉ cần thuốc kháng histamine là đủ rồi."
               ]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 4, 0, 2] },
@@ -895,7 +895,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Acetamikhôngphen - Thuốc Giảm Đau"]
+              "parameters": ["Acetaminophen - Thuốc Giảm Đau"]
             },
             {
               "code": 401,
@@ -1045,7 +1045,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Acetamikhôngphen - Thuốc Giảm Đau"]
+              "parameters": ["Acetaminophen - Thuốc Giảm Đau"]
             },
             {
               "code": 401,
@@ -1214,7 +1214,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Giờ ở đây không còn việc gì để làm nữa.\\! Về nhà thôi..."
+                "Giờ ở đây no còn việc gì để làm nữa.\\! Về nhà thôi..."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1408,7 +1408,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bây giờ mình không còn cần loại thuốc này nữa..."]
+              "parameters": ["Bây giờ mình no còn cần loại thuốc này nữa..."]
             },
             { "code": 121, "indent": 0, "parameters": [105, 105, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 1] },
@@ -1462,7 +1462,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Oh con yêu, mẹ nghĩ hình như loại thuốc này không đúng..."
+                "Oh con yêu, mẹ nghĩ hình như loại thuốc này no đúng..."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 4, 0, 2] },
@@ -1542,7 +1542,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Trông ghê quá.\\! Mình không nghĩ thứ này sẽ chữa được bệnh."
+                "Trông ghê quá.\\! Mình no nghĩ thứ này sẽ chữa được bệnh."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [105, 105, 1] },
@@ -1740,7 +1740,7 @@
             { "code": 401, "indent": 0, "parameters": ["T-TRÁNH XA TAO RA!"] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không!"] },
+            { "code": 401, "indent": 0, "parameters": ["no!"] },
             { "code": 246, "indent": 0, "parameters": [3] },
             {
               "code": 205,
@@ -1925,7 +1925,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Mẹ có bị sao không?"] },
+            { "code": 401, "indent": 0, "parameters": ["Mẹ có bị sao no?"] },
             {
               "code": 322,
               "indent": 0,
@@ -1977,14 +1977,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["CÁI GÌ?!\\! không, không-không-không!"]
+              "parameters": ["CÁI GÌ?!\\! no, no-no-no!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cố lên nào!\\! Mẹ sẽ không sao đâu? Rồi mẹ sẽ ổn thôi!"
+                "Cố lên nào!\\! Mẹ sẽ no sao đâu? Rồi mẹ sẽ ổn thôi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 6, 0, 2] },

@@ -242,7 +242,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hmmm, ở đây có một vài xấp tài liệu nhưng không có gì đặc biệt cả..."
+                "Hmmm, ở đây có một vài xấp tài liệu nhưng no có gì đặc biệt cả..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
@@ -302,7 +302,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ít ra thì bây giờ ông ấy đã không thể làm việc đó được nữa..."
+                "Ít ra thì bây giờ ông ấy đã no thể làm việc đó được nữa..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 5, 0, 2] },
@@ -340,7 +340,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị nói đúng!\\! không gì có thể ngăn cản chúng ta!"
+                "Chị nói đúng!\\! no gì có thể ngăn cản chúng ta!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
@@ -521,7 +521,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em không biết nữa, chị Stacy.\\! Đây hoàn toàn giống một văn phòng bình thường..."
+                "Em no biết nữa, chị Stacy.\\! Đây hoàn toàn giống một văn phòng bình thường..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
@@ -529,7 +529,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chúng ta không được bỏ cuộc!\\! \\BST[1]Thử tìm xung quanh xem sao...?"
+                "Chúng ta no được bỏ cuộc!\\! \\BST[1]Thử tìm xung quanh xem sao...?"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -663,7 +663,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Chị không thích Z-Cola sao?!"]
+              "parameters": ["Chị no thích Z-Cola sao?!"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 2, 0, 2] },
             {

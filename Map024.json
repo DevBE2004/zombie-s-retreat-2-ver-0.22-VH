@@ -496,7 +496,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cánh cửa không nhúc nhích."]
+              "parameters": ["Cánh cửa no nhúc nhích."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -553,7 +553,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cánh cửa không nhúc nhích."]
+              "parameters": ["Cánh cửa no nhúc nhích."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1277,7 +1277,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn câu không?"]
+              "parameters": ["Bạn có muốn câu no?"]
             },
             {
               "code": 102,
@@ -1503,7 +1503,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn câu không?"]
+              "parameters": ["Bạn có muốn câu no?"]
             },
             {
               "code": 102,

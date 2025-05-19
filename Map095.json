@@ -305,7 +305,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không có ai ở đây..."]
+              "parameters": ["no có ai ở đây..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
@@ -537,7 +537,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị Nadia này.\\! Isaac học giỏi lắm đúng không?\\! Mấy cuốn sách này trông phức tạp quá..."
+                "Chị Nadia này.\\! Isaac học giỏi lắm đúng no?\\! Mấy cuốn sách này trông phức tạp quá..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
@@ -561,7 +561,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thì ra là vậy, giờ em hiểu tại sao em không biết đến lớp này rồi.\\! Đây là lớp dành cho học sinh giỏi đúng không ạ?"
+                "Thì ra là vậy, giờ em hiểu tại sao em no biết đến lớp này rồi.\\! Đây là lớp dành cho học sinh giỏi đúng no ạ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
@@ -785,13 +785,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Vậy là chị thích trồng cây lắm đúng không?"]
+              "parameters": ["Vậy là chị thích trồng cây lắm đúng no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không!\\! Chị không thích trồng cây."]
+              "parameters": ["no!\\! Chị no thích trồng cây."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
             {
@@ -842,7 +842,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cô bé đó rất xuất sắc.\\! Mặc dù có hơi nhút nhát một chút nhưng đam mê trong học tập thì không bao giờ giảm."
+                "Cô bé đó rất xuất sắc.\\! Mặc dù có hơi nhút nhát một chút nhưng đam mê trong học tập thì no bao giờ giảm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -858,7 +858,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hm, mặc dù em không biết cô ấy...\\! \\BST[1]nhưng cô ấy có vẻ khá là thú vị."
+                "Hm, mặc dù em no biết cô ấy...\\! \\BST[1]nhưng cô ấy có vẻ khá là thú vị."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
@@ -1004,7 +1004,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Trời ạ.\\! Cứ tưởng cái máy tính sẽ cho mình thêm thông tin nhưng nó thậm chí còn không bật được."
+                "Trời ạ.\\! Cứ tưởng cái máy tính sẽ cho mình thêm thông tin nhưng nó thậm chí còn no bật được."
               ]
             },
             {
@@ -1038,7 +1038,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Em có thấy gì lạ không, \\n[1]?"]
+              "parameters": ["Em có thấy gì lạ no, \\n[1]?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -1050,7 +1050,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Căn phòng này không có một chút bụi nào..."]
+              "parameters": ["Căn phòng này no có một chút bụi nào..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
@@ -1326,7 +1326,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chị không hiểu.\\! Em xem này..."]
+              "parameters": ["Chị no hiểu.\\! Em xem này..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
@@ -1359,7 +1359,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không thể như thế được.\\! Chuyện này không hợp lý chút nào."
+                "no thể như thế được.\\! Chuyện này no hợp lý chút nào."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
@@ -1421,14 +1421,14 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Sao thế?\\! không đúng ạ?"]
+              "parameters": ["Sao thế?\\! no đúng ạ?"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "À thì, đây là lớp chủ nhiệm của Isaac...\\! Em ấy không bịa ra chuyện đó."
+                "À thì, đây là lớp chủ nhiệm của Isaac...\\! Em ấy no bịa ra chuyện đó."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Nadia1", 0, 0, 2] },
@@ -1477,14 +1477,14 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Sao thế?\\! không đúng ạ?"]
+              "parameters": ["Sao thế?\\! no đúng ạ?"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Giả thuyết đó...\\! Chị xin lỗi nhưng hình như nó có vẻ không hợp lý lắm!"
+                "Giả thuyết đó...\\! Chị xin lỗi nhưng hình như nó có vẻ no hợp lý lắm!"
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 2, 0, 2] },
@@ -1530,14 +1530,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Wow..!\\! \\BST[2]Đúng là không thể ngờ được!"]
+              "parameters": ["Wow..!\\! \\BST[2]Đúng là no thể ngờ được!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1]...\\! Đây không phải là lúc để đùa giỡn đâu!"
+                "\\n[1]...\\! Đây no phải là lúc để đùa giỡn đâu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -1545,7 +1545,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em không đùa, chị Nadia!\\! Tất cả manh mối đều đã rành rành ra đó rồi! "
+                "Em no đùa, chị Nadia!\\! Tất cả manh mối đều đã rành rành ra đó rồi! "
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -1553,7 +1553,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Học sinh duy nhất trong lớp này.\\! Sách giáo khoa thì không động đến bao giờ..."
+                "Học sinh duy nhất trong lớp này.\\! Sách giáo khoa thì no động đến bao giờ..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -1567,7 +1567,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không những thế còn có cả đống chất lỏng nhớp nháp ở đằng kia nữa..."
+                "no những thế còn có cả đống chất lỏng nhớp nháp ở đằng kia nữa..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -1619,7 +1619,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Isaac sẽ không bao giờ làm chuyện đồi bại như thế đâu!\\! Em ấy sẽ...?"
+                "Isaac sẽ no bao giờ làm chuyện đồi bại như thế đâu!\\! Em ấy sẽ...?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -1627,7 +1627,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ý em là, có lẽ đó không phải là chuyện đang xảy ra và đơn giản chỉ là một hiểu lầm mà thôi."
+                "Ý em là, có lẽ đó no phải là chuyện đang xảy ra và đơn giản chỉ là một hiểu lầm mà thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -1798,7 +1798,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[không được, mình phải giả vờ như không thấy gì...]"
+                "[no được, mình phải giả vờ như no thấy gì...]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
@@ -1829,7 +1829,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hả?!\\! \\BST[5]K-không, không có gì ạ..."]
+              "parameters": ["Hả?!\\! \\BST[5]K-no, no có gì ạ..."]
             },
             { "code": 122, "indent": 0, "parameters": [141, 141, 1, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1985,7 +1985,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Giáo viên chủ nhiệm của cậu ấy là cô Johnson đúng không chị?! "
+                "Giáo viên chủ nhiệm của cậu ấy là cô Johnson đúng no chị?! "
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
@@ -2000,14 +2000,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Em còn nhớ cô ấy không?"]
+              "parameters": ["Em còn nhớ cô ấy no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có ạ!\\! không một ai trong trường này có thể quên được cô ấy!"
+                "Có ạ!\\! no một ai trong trường này có thể quên được cô ấy!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },

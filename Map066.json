@@ -467,7 +467,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bạn có muốn sử dụng Cưa cắt Kim Loại để cắt qua hàng rào không?"
+                "Bạn có muốn sử dụng Cưa cắt Kim Loại để cắt qua hàng rào no?"
               ]
             },
             {
@@ -1024,7 +1024,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 67, 7, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1182,7 +1182,7 @@
           },
           "list": [
             { "code": 201, "indent": 0, "parameters": [0, 85, 1, 13, 6, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

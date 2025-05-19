@@ -189,7 +189,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mẹ ổn chứ?!\\! Mẹ có nghe thấy con nói không?!\\! Mẹ không bị..."
+                "Mẹ ổn chứ?!\\! Mẹ có nghe thấy con nói no?!\\! Mẹ no bị..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 0, 0, 2] },
@@ -219,14 +219,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Là lỗi của con khi không thể bảo vệ mẹ..."]
+              "parameters": ["Là lỗi của con khi no thể bảo vệ mẹ..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không đâu.\\! Đó mới là lỗi của mẹ khi cố tình liều lĩnh đi ra ngoài một mình."
+                "no đâu.\\! Đó mới là lỗi của mẹ khi cố tình liều lĩnh đi ra ngoài một mình."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -308,7 +308,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\N[2]>[Mình không thể phớt lờ nó được nữa!]"]
+              "parameters": ["\\n<\\N[2]>[Mình no thể phớt lờ nó được nữa!]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -345,7 +345,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\N[2]>Nếu không thì cả hai chúng ta sẽ bị cảm lạnh mất. *cười khúc khích*"
+                "\\n<\\N[2]>Nếu no thì cả hai chúng ta sẽ bị cảm lạnh mất. *cười khúc khích*"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -356,7 +356,7 @@
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 246, "indent": 0, "parameters": [4] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, true] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, true] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 235, "indent": 0, "parameters": [10] },

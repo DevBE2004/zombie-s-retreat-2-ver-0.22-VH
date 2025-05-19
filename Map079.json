@@ -201,7 +201,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["N-Này!\\! Tôi không phải là một con tôm..."]
+              "parameters": ["N-Này!\\! Tôi no phải là một con tôm..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -246,21 +246,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Người phụ nữ>Chúng tôi cần thứ đó để đảm bảo là cậu sẽ không chết sau cú đấm đầu tiên."
+                "\\n<Người phụ nữ>Chúng tôi cần thứ đó để đảm bảo là cậu sẽ no chết sau cú đấm đầu tiên."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nhưng tôi không có thứ đó."]
+              "parameters": ["Nhưng tôi no có thứ đó."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Người phụ nữ>Vậy cậu sẽ không được tham gia.\\! Đó là quy tắc ở đây."
+                "\\n<Người phụ nữ>Vậy cậu sẽ no được tham gia.\\! Đó là quy tắc ở đây."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -319,7 +319,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Người phụ nữ>Tôi sẽ không để cậu tham gia nếu không có giấy chứng thực."
+                "\\n<Người phụ nữ>Tôi sẽ no để cậu tham gia nếu no có giấy chứng thực."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -327,7 +327,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Người phụ nữ>Tôi không phải người đặt ra quy định ở đây.\\! Tôi chỉ thực hiện chúng thôi."
+                "\\n<Người phụ nữ>Tôi no phải người đặt ra quy định ở đây.\\! Tôi chỉ thực hiện chúng thôi."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -403,7 +403,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Người phụ nữ>không biết tại sao cô ấy lại làm thế nhưng dù gì thì giấy chứng thực vẫn là giấy chứng thực."
+                "\\n<Người phụ nữ>no biết tại sao cô ấy lại làm thế nhưng dù gì thì giấy chứng thực vẫn là giấy chứng thực."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -479,7 +479,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Người phụ nữ>không biết tại sao cô ấy lại làm thế nhưng dù gì thì giấy chứng thực vẫn là giấy chứng thực."
+                "\\n<Người phụ nữ>no biết tại sao cô ấy lại làm thế nhưng dù gì thì giấy chứng thực vẫn là giấy chứng thực."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -560,7 +560,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Carla>Hiện tại không có bất kỳ giải đấu mới nào nhưng Thế giới ngầm luôn đầy ắp những bí ẩn! "
+                "\\n<Carla>Hiện tại no có bất kỳ giải đấu mới nào nhưng Thế giới ngầm luôn đầy ắp những bí ẩn! "
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1151,7 +1151,7 @@
     {
       "id": 13,
       "name": "Victory - Bath | Violet",
-      "note": "A-Bath B-(khôngne yet)",
+      "note": "A-Bath B-(none yet)",
       "pages": [
         {
           "conditions": {

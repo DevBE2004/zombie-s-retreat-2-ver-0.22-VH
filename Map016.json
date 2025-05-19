@@ -155,7 +155,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đây giống như căn phòng phía sau.\\! Mình không cần quay lại đó."
+                "Đây giống như căn phòng phía sau.\\! Mình no cần quay lại đó."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -296,7 +296,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mình nghĩ hai người họ sẽ không để ý đâu..."]
+              "parameters": ["Mình nghĩ hai người họ sẽ no để ý đâu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
@@ -782,7 +782,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em là một trong những người mới chuyển đến khu này đúng không?"
+                "Em là một trong những người mới chuyển đến khu này đúng no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -810,7 +810,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị xây tất cả mấy ngôi nhà xung quanh đây?!\\! \\BST[1]không thể tin được!"
+                "Chị xây tất cả mấy ngôi nhà xung quanh đây?!\\! \\BST[1]no thể tin được!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 0, 0, 2] },
@@ -832,7 +832,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Và nếu em không biết thì chị là quản lý xây dựng ở khu này."
+                "Và nếu em no biết thì chị là quản lý xây dựng ở khu này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
@@ -949,7 +949,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nếu nhớ không nhầm thì tên chị ấy là Fiona.\\! Trông chị ấy có vẻ khá là thân thiện."
+                "Nếu nhớ no nhầm thì tên chị ấy là Fiona.\\! Trông chị ấy có vẻ khá là thân thiện."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -957,7 +957,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thôi không nghĩ nhiều nữa, đến lúc mua đồ cho bữa tối rồi. "
+                "Thôi no nghĩ nhiều nữa, đến lúc mua đồ cho bữa tối rồi. "
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1056,7 +1056,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mình không thể rời đi mà chưa mua đồ ăn."]
+              "parameters": ["Mình no thể rời đi mà chưa mua đồ ăn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
@@ -1119,7 +1119,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mình không thể rời đi mà chưa mua đồ ăn."]
+              "parameters": ["Mình no thể rời đi mà chưa mua đồ ăn."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
@@ -1368,7 +1368,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Biết là không nên ăn cay nhưng mình không thể nào kiềm chế được."
+                "Biết là no nên ăn cay nhưng mình no thể nào kiềm chế được."
               ]
             },
             {
@@ -1488,7 +1488,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi biết mình không nên chọn đồ cay nhưng tôi không thể cưỡng lại được."
+                "Tôi biết mình no nên chọn đồ cay nhưng tôi no thể cưỡng lại được."
               ]
             },
             {

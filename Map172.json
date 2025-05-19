@@ -236,7 +236,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có lẽ nếu mình cứ đi thẳng qua họ, họ sẽ không để ý đâu."
+                "Có lẽ nếu mình cứ đi thẳng qua họ, họ sẽ no để ý đâu."
               ]
             },
             {
@@ -625,7 +625,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Thug mặc áo vest>Heh.\\! Hơi táo bạo nhỉ, cậu không nghĩ vậy sao?"
+                "\\n<Thug mặc áo vest>Heh.\\! Hơi táo bạo nhỉ, cậu no nghĩ vậy sao?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -802,7 +802,7 @@
     "code": 401,
     "indent": 0,
     "parameters": [
-      "K-không có gì nhiều.\\! Chỉ là vài món đồ tạp hóa tôi cần thôi."
+      "K-no có gì nhiều.\\! Chỉ là vài món đồ tạp hóa tôi cần thôi."
     ]
   },
   {
@@ -836,7 +836,7 @@
     "code": 401,
     "indent": 0,
     "parameters": [
-      "không, cái này thực ra là cho \\n[5] của tôi."
+      "no, cái này thực ra là cho \\n[5] của tôi."
     ]
   },
             {
@@ -997,7 +997,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Thug đội mũ>Biết gì không?\\! Tao đổi ý rồi."]
+              "parameters": ["\\n<Thug đội mũ>Biết gì no?\\! Tao đổi ý rồi."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1032,7 +1032,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không đời nào!\\! \\BST[6]Tôi phải mang đồ ăn này đến cho \\n[2]..."
+                "no đời nào!\\! \\BST[6]Tôi phải mang đồ ăn này đến cho \\n[2]..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1040,14 +1040,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Thug mặc áo vest>Bọn tao không cho mày nhiều lựa chọn đâu."
+                "\\n<Thug mặc áo vest>Bọn tao no cho mày nhiều lựa chọn đâu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chà, tôi sẽ không đưa đồ ăn này cho các anh đâu."]
+              "parameters": ["Chà, tôi sẽ no đưa đồ ăn này cho các anh đâu."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
@@ -1159,7 +1159,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Thug đội mũ>Mày láo toét đấy nhóc.\\! Và tao không thích điều đó."
+                "\\n<Thug đội mũ>Mày láo toét đấy nhóc.\\! Và tao no thích điều đó."
               ]
             },
             {
@@ -1423,7 +1423,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Vest Thug>không thể nào!\\! Đ-Không thể nào..!"]
+              "parameters": ["\\n<Vest Thug>no thể nào!\\! Đ-no thể nào..!"]
             },
             {
               "code": 205,
@@ -1766,7 +1766,7 @@
 "code": 401,
 "indent": 0,
 "parameters": [
-"Lũ tội phạm đê tiện.\\! Các người không để lại cho tôi sự lựa chọn nào khác!"
+"Lũ tội phạm đê tiện.\\! Các người no để lại cho tôi sự lựa chọn nào khác!"
 ]
 },
 { "code": 101, "indent": 0, "parameters": ["1Mom8", 2, 0, 2] },
@@ -1969,10 +1969,10 @@
             {
     "code": 401,
     "indent": 0,
-    "parameters": ["Con yêu! Con không bị thương chứ?"]
+    "parameters": ["Con yêu! Con no bị thương chứ?"]
   },
   { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-  { "code": 401, "indent": 0, "parameters": ["không, con ổn."] },
+  { "code": 401, "indent": 0, "parameters": ["no, con ổn."] },
   { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
   {
     "code": 401,
@@ -1992,7 +1992,7 @@
     "code": 401,
     "indent": 0,
     "parameters": [
-      "Con không bao giờ biết những nguy hiểm nào có thể ẩn nấp trong đó đâu!"
+      "Con no bao giờ biết những nguy hiểm nào có thể ẩn nấp trong đó đâu!"
     ]
   },
   { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -2187,10 +2187,10 @@
             {
     "code": 401,
     "indent": 0,
-    "parameters": ["Con yêu! Con không bị thương chứ?"]
+    "parameters": ["Con yêu! Con no bị thương chứ?"]
   },
   { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-  { "code": 401, "indent": 0, "parameters": ["không, con ổn."] },
+  { "code": 401, "indent": 0, "parameters": ["no, con ổn."] },
   { "code": 101, "indent": 0, "parameters": ["1Mom8", 1, 0, 2] },
   {
     "code": 401,
@@ -2210,7 +2210,7 @@
     "code": 401,
     "indent": 0,
     "parameters": [
-      "Con không bao giờ biết những nguy hiểm nào có thể ẩn nấp trong đó đâu!"
+      "Con no bao giờ biết những nguy hiểm nào có thể ẩn nấp trong đó đâu!"
     ]
   },
   { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -2499,7 +2499,7 @@
   {
     "code": 401,
     "indent": 0,
-    "parameters": ["Đây không chỉ là một con hẻm bình thường đâu."]
+    "parameters": ["Đây no chỉ là một con hẻm bình thường đâu."]
   },
   { "code": 101, "indent": 0, "parameters": ["1Mom8", 6, 0, 2] },
   {

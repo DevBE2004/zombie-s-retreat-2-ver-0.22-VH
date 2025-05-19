@@ -606,7 +606,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Trên cánh cửa ghi là \"Chỉ dành cho giáo viên\".\\! Mình không vào đó được!"
+                "Trên cánh cửa ghi là \"Chỉ dành cho giáo viên\".\\! Mình no vào đó được!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -668,7 +668,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Trên cánh cửa ghi là \"Chỉ dành cho giáo viên\".\\! Chúng ta không vào đó được!"
+                "Trên cánh cửa ghi là \"Chỉ dành cho giáo viên\".\\! Chúng ta no vào đó được!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
@@ -711,7 +711,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bất cứ khi nào có chị đi cùng thì em sẽ không cần phải lo về mấy căn phòng dành cho giáo viên!"
+                "Bất cứ khi nào có chị đi cùng thì em sẽ no cần phải lo về mấy căn phòng dành cho giáo viên!"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -1366,7 +1366,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chuyện này có làm em nhớ đến lúc chúng ta từng lén lút đi xung quanh khu trại Zomi không?"
+                "Chuyện này có làm em nhớ đến lúc chúng ta từng lén lút đi xung quanh khu trại Zomi no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 1, 0, 2] },
@@ -1429,14 +1429,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thế em còn nhớ đường đến thư viện không?"]
+              "parameters": ["Thế em còn nhớ đường đến thư viện no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không ạ!\\! \\BST[1]Từ hồi đi học em còn chẳng đặt chân đến thư viện lần nào..."
+                "no ạ!\\! \\BST[1]Từ hồi đi học em còn chẳng đặt chân đến thư viện lần nào..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 4, 0, 2] },
@@ -1649,7 +1649,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mình đang nghĩ gì thế?!\\! Lúc này không được bỏ đi!"
+                "Mình đang nghĩ gì thế?!\\! Lúc này no được bỏ đi!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2001,7 +2001,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vậy là em sẽ đi phải qua phòng trữ đồ để đảm bảo là cửa không bị khóa đúng không ạ?"
+                "Vậy là em sẽ đi phải qua phòng trữ đồ để đảm bảo là cửa no bị khóa đúng no ạ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 4, 0, 2] },
@@ -2023,7 +2023,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hy vọng là trong lỗ thông hơi không có con nhện nào cả."
+                "Hy vọng là trong lỗ thông hơi no có con nhện nào cả."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 1, 0, 2] },
@@ -2031,7 +2031,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*cười khúc khích*\\! \\BST[1]Cố lên, \\n[1]! Chúng ta không có thời gian để nghĩ về mấy thứ đó đâu."
+                "*cười khúc khích*\\! \\BST[1]Cố lên, \\n[1]! Chúng ta no có thời gian để nghĩ về mấy thứ đó đâu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
@@ -2053,7 +2053,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị đi một mình có ổn không?!\\! Sao chị không đứng đợi em ở đây...?"
+                "Chị đi một mình có ổn no?!\\! Sao chị no đứng đợi em ở đây...?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 6, 0, 2] },
@@ -2061,7 +2061,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không.\\! Chị sẽ không ngồi chờ ở đây trong vô vọng đâu."
+                "no.\\! Chị sẽ no ngồi chờ ở đây trong vô vọng đâu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
@@ -2069,7 +2069,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị sẽ không sao đâu.\\! Em cứ tin chị lần này đi."
+                "Chị sẽ no sao đâu.\\! Em cứ tin chị lần này đi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -2502,7 +2502,7 @@
               "parameters": [{ "code": 38, "indent": null }]
             },
             { "code": 111, "indent": 0, "parameters": [6, -1, 6] },
-            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
             {
               "code": 223,
               "indent": 1,
@@ -2617,7 +2617,7 @@
               "parameters": [{ "code": 38, "indent": null }]
             },
             { "code": 111, "indent": 0, "parameters": [6, -1, 6] },
-            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
             {
               "code": 223,
               "indent": 1,
@@ -2752,14 +2752,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị cũng không biết.\\! Nhưng dù sao thì nó cũng đã giúp chúng ta..."
+                "Chị cũng no biết.\\! Nhưng dù sao thì nó cũng đã giúp chúng ta..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Giờ cánh cửa đó không còn bị chặn nữa!"]
+              "parameters": ["Giờ cánh cửa đó no còn bị chặn nữa!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
             {
@@ -2873,7 +2873,7 @@
               "parameters": [{ "code": 38, "indent": null }]
             },
             { "code": 111, "indent": 0, "parameters": [6, -1, 6] },
-            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
             {
               "code": 223,
               "indent": 1,
@@ -2997,7 +2997,7 @@
               "parameters": [{ "code": 38, "indent": null }]
             },
             { "code": 111, "indent": 0, "parameters": [6, -1, 4] },
-            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
             {
               "code": 223,
               "indent": 1,
@@ -3057,7 +3057,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mình đang nghĩ gì thế?!\\! Lúc này không được bỏ đi!"
+                "Mình đang nghĩ gì thế?!\\! Lúc này no được bỏ đi!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6331,7 +6331,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cánh cửa không nhúc nhích."]
+              "parameters": ["Cánh cửa no nhúc nhích."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6386,7 +6386,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cánh cửa không nhúc nhích."]
+              "parameters": ["Cánh cửa no nhúc nhích."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
@@ -6543,7 +6543,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cánh cửa không nhúc nhích."]
+              "parameters": ["Cánh cửa no nhúc nhích."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6598,7 +6598,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cánh cửa không nhúc nhích."]
+              "parameters": ["Cánh cửa no nhúc nhích."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
@@ -6767,7 +6767,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này no?"]
             },
             {
               "code": 102,
@@ -6786,7 +6786,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Điểm chứa đồ ngọt này đã trống không..."]
+              "parameters": ["Điểm chứa đồ ngọt này đã trống no..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
@@ -7144,7 +7144,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em xin lỗi vì để chị thấy cảnh này, chị Nadia.\\! Giờ chị có còn muốn tiếp tục tìm kiếm không?"
+                "Em xin lỗi vì để chị thấy cảnh này, chị Nadia.\\! Giờ chị có còn muốn tiếp tục tìm kiếm no?"
               ]
             },
             {
@@ -7184,7 +7184,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Được rồi.\\! Cậu ấy hay ở lớp 2B đúng không ạ?"]
+              "parameters": ["Được rồi.\\! Cậu ấy hay ở lớp 2B đúng no ạ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
@@ -7581,7 +7581,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bạn biết phải làm gì không, \\n[1]!\\! \\BST[1]Nó nói gì vậy?!"
+                "Bạn biết phải làm gì no, \\n[1]!\\! \\BST[1]Nó nói gì vậy?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -7606,7 +7606,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cái này hơi khó hơn một chút, bạn không nghĩ vậy sao?"]
+              "parameters": ["Cái này hơi khó hơn một chút, bạn no nghĩ vậy sao?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Vâng, tôi bối rối."] },
@@ -7627,7 +7627,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Khu vực đó khá nguy hiểm phải không..?"]
+              "parameters": ["Khu vực đó khá nguy hiểm phải no..?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -7642,7 +7642,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "không thưa ngài!\\! \\BST[2]Chúng tôi là một đội đoàn kết với nhau!"
+                "no thưa ngài!\\! \\BST[2]Chúng tôi là một đội đoàn kết với nhau!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 3, 0, 2] },
@@ -7679,7 +7679,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Khu vực đó khá nguy hiểm phải không..?"]
+              "parameters": ["Khu vực đó khá nguy hiểm phải no..?"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Stacy1", 5, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["Ừ, đúng là như vậy."] },
@@ -7687,7 +7687,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Nhưng tôi thậm chí còn không biết làm sao chúng ta có thể đến đó được!"]
+              "parameters": ["Nhưng tôi thậm chí còn no biết làm sao chúng ta có thể đến đó được!"]
             },
             { "code": 101, "indent": 1, "parameters": ["1Sis1", 2, 0, 2] },
             {

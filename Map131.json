@@ -3920,7 +3920,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Bỏ cuộc đi.\\! Bạn sẽ không bao giờ cứu được lễ hội đâu!"
+                "Bỏ cuộc đi.\\! Bạn sẽ no bao giờ cứu được lễ hội đâu!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -4021,7 +4021,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Khoan đã, đó có phải là một phong bao đỏ khác không?"
+                "Khoan đã, đó có phải là một phong bao đỏ khác no?"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -4213,7 +4213,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đúng vậy không?\\! \\BST[2]Vậy thì tôi sẽ vui vẻ mang nó đến cho cô ấy!"
+                "Đúng vậy no?\\! \\BST[2]Vậy thì tôi sẽ vui vẻ mang nó đến cho cô ấy!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

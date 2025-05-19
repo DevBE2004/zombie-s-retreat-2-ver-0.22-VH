@@ -236,14 +236,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nhưng chị...\\! Chị không chắc nữa..."]
+              "parameters": ["Nhưng chị...\\! Chị no chắc nữa..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em nghĩ nơi này không an toàn cho chị đâu, chị Nadia."
+                "Em nghĩ nơi này no an toàn cho chị đâu, chị Nadia."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
@@ -570,7 +570,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cảm giác thật kỳ lạ khi quay lại đây, đúng không chị Nadia?"
+                "Cảm giác thật kỳ lạ khi quay lại đây, đúng no chị Nadia?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
@@ -603,7 +603,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Em có cảm thấy giống chị không...?"]
+              "parameters": ["Em có cảm thấy giống chị no...?"]
             },
             {
               "code": 102,
@@ -705,7 +705,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Có muốn địt chị ở đây không?"]
+              "parameters": ["Có muốn địt chị ở đây no?"]
             },
             {
               "code": 102,

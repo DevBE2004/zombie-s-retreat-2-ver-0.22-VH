@@ -692,7 +692,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 2, 15, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -793,7 +793,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 2, 15, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -894,7 +894,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 2, 15, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -995,7 +995,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 2, 15, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1096,7 +1096,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 2, 15, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1197,7 +1197,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 2, 15, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1298,7 +1298,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 2, 15, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1399,7 +1399,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 2, 15, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2623,7 +2623,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng bọn tớ không tìm thấy cậu đâu cả...\\! Tớ đã nghĩ có lẽ cậu..."
+                "Nhưng bọn tớ no tìm thấy cậu đâu cả...\\! Tớ đã nghĩ có lẽ cậu..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 2, 0, 2] },
@@ -2652,7 +2652,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng nếu chúng ta không xây dựng The Grid, chúng ta sẽ hoàn toàn "
+                "Nhưng nếu chúng ta no xây dựng The Grid, chúng ta sẽ hoàn toàn "
               ]
             },
             {
@@ -2673,7 +2673,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đó là biệt danh nhỏ tớ đặt cho khu này, cậu hiểu không?"
+                "Đó là biệt danh nhỏ tớ đặt cho khu này, cậu hiểu no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 0, 0, 2] },
@@ -2696,7 +2696,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tất nhiên là không!\\! Chuyện đó qua rồi!"]
+              "parameters": ["Tất nhiên là no!\\! Chuyện đó qua rồi!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
             {
@@ -2719,7 +2719,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chúng ta có thể xây những thứ giúp chúng ta sống sót ở đây, đúng không?"
+                "Chúng ta có thể xây những thứ giúp chúng ta sống sót ở đây, đúng no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Fiona1", 5, 0, 2] },
@@ -2767,7 +2767,7 @@
               {
                 "code": 401,
                 "indent": 0,
-                "parameters": ["vật liệu được không?"]
+                "parameters": ["vật liệu được no?"]
               },
               { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
               {
@@ -2818,7 +2818,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                  "Chúng ta đang ở trong thành phố nên tôi chắc chắn không thiếu đâu."
+                  "Chúng ta đang ở trong thành phố nên tôi chắc chắn no thiếu đâu."
                 ]
               }
             ],
@@ -3004,7 +3004,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                  "Tôi không biết phải nói với cậu thế nào, nhưng cậu vẫn chưa có 3 Gạch vụn."
+                  "Tôi no biết phải nói với cậu thế nào, nhưng cậu vẫn chưa có 3 Gạch vụn."
                 ]
               },
               { "code": 101, "indent": 1, "parameters": ["1Fiona1", 0, 0, 2] },
@@ -3241,7 +3241,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sẽ không có vụ tai nạn nào liên quan đến xe trượt đâu!"
+                "Sẽ no có vụ tai nạn nào liên quan đến xe trượt đâu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 7, 0, 2] },
@@ -3366,14 +3366,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[3] đó có thật là cậu không?!"]
+              "parameters": ["\\n[3] đó có thật là cậu no?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Là tớ đây!\\! \\BST[1]Tớ không thể tin được cậu cũng ở đây."
+                "Là tớ đây!\\! \\BST[1]Tớ no thể tin được cậu cũng ở đây."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -3559,7 +3559,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sẽ không có vụ tai nạn nào liên quan đến xe trượt đâu!"
+                "Sẽ no có vụ tai nạn nào liên quan đến xe trượt đâu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 1, 0, 2] },
@@ -3680,7 +3680,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn khám phá Khu phía Tây không?"]
+              "parameters": ["Bạn có muốn khám phá Khu phía Tây no?"]
             },
             {
               "code": 102,
@@ -3769,7 +3769,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn trở về nhà không?"]
+              "parameters": ["Bạn có muốn trở về nhà no?"]
             },
             {
               "code": 102,
@@ -3870,7 +3870,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Bạn có muốn khám phá Khu phía Tây không?"]
+              "parameters": ["Bạn có muốn khám phá Khu phía Tây no?"]
             },
             {
               "code": 102,
@@ -3987,7 +3987,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn trở về nhà không?"]
+              "parameters": ["Bạn có muốn trở về nhà no?"]
             },
             {
               "code": 102,
@@ -4023,7 +4023,7 @@
             { "code": 117, "indent": 1, "parameters": [8] },
             { "code": 117, "indent": 1, "parameters": [11] },
             { "code": 201, "indent": 1, "parameters": [0, 4, 5, 6, 2, 0] },
-            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 222, "indent": 1, "parameters": [] },
@@ -4165,7 +4165,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "những đồng đội đang hoạt động đã tham gia cùng bạn mà không cần giết thời gian."
+                "những đồng đội đang hoạt động đã tham gia cùng bạn mà no cần giết thời gian."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
@@ -4173,7 +4173,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không có lợi ích nào khác khi nghỉ ngơi, vì vậy hãy sử dụng thời gian của bạn một cách khôn ngoan!"
+                "no có lợi ích nào khác khi nghỉ ngơi, vì vậy hãy sử dụng thời gian của bạn một cách khôn ngoan!"
               ]
             },
             {
@@ -4255,7 +4255,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["nghỉ ngơi", "bỏ qua", "không gì cả"], 2, 0, 2, 0]
+              "parameters": [["nghỉ ngơi", "bỏ qua", "no gì cả"], 2, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "nghỉ ngơi"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -4268,7 +4268,7 @@
             { "code": 117, "indent": 1, "parameters": [8] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "không gì cả"] },
+            { "code": 402, "indent": 0, "parameters": [2, "no gì cả"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4356,14 +4356,14 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["bỏ qua", "không gì cả"], 1, 0, 2, 0]
+              "parameters": [["bỏ qua", "no gì cả"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "bỏ qua"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 1, "parameters": [8] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "không gì cả"] },
+            { "code": 402, "indent": 0, "parameters": [1, "no gì cả"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4757,7 +4757,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 41, 7, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4862,7 +4862,7 @@
             { "code": 117, "indent": 0, "parameters": [8] },
             { "code": 230, "indent": 0, "parameters": [5] },
             { "code": 201, "indent": 0, "parameters": [0, 104, 7, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4964,7 +4964,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 104, 7, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5013,7 +5013,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Lucy vào giờ khuya thế này."
+                "Tôi no nên làm phiền Lucy vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5063,7 +5063,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Lucy vào giờ khuya thế này."
+                "Tôi no nên làm phiền Lucy vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5222,7 +5222,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 87, 7, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5327,7 +5327,7 @@
             { "code": 117, "indent": 0, "parameters": [8] },
             { "code": 230, "indent": 0, "parameters": [5] },
             { "code": 201, "indent": 0, "parameters": [0, 114, 7, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5429,7 +5429,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 114, 7, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5478,7 +5478,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Michelle vào giờ khuya thế này."
+                "Tôi no nên làm phiền Michelle vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5528,7 +5528,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Michelle vào giờ khuya thế này."
+                "Tôi no nên làm phiền Michelle vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5687,7 +5687,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 139, 7, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5788,7 +5788,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 140, 7, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -5837,7 +5837,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Bridgette vào giờ khuya thế này."
+                "Tôi no nên làm phiền Bridgette vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -5887,7 +5887,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Bridgette vào giờ khuya thế này."
+                "Tôi no nên làm phiền Bridgette vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6103,7 +6103,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 34, 8, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6204,7 +6204,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 57, 8, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6253,7 +6253,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Stacy vào giờ khuya thế này."
+                "Tôi no nên làm phiền Stacy vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6303,7 +6303,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Stacy vào giờ khuya thế này."
+                "Tôi no nên làm phiền Stacy vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6462,7 +6462,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 35, 8, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6587,7 +6587,7 @@
               "parameters": ["đưa một cô gái đến cảnh cắt Nadia HJ"]
             },
             { "code": 201, "indent": 0, "parameters": [0, 93, 8, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -6636,7 +6636,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Nadia vào giờ khuya thế này."
+                "Tôi no nên làm phiền Nadia vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6792,13 +6792,13 @@
             { "code": 117, "indent": 1, "parameters": [8] },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 201, "indent": 1, "parameters": [0, 35, 8, 9, 8, 0] },
-            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 35, 8, 9, 8, 0] },
-            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -6849,7 +6849,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Nadia vào giờ khuya thế này."
+                "Tôi no nên làm phiền Nadia vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7142,7 +7142,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn khám phá Khu phía Đông không?"]
+              "parameters": ["Bạn có muốn khám phá Khu phía Đông no?"]
             },
             {
               "code": 102,
@@ -7231,7 +7231,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn trở về nhà không?"]
+              "parameters": ["Bạn có muốn trở về nhà no?"]
             },
             {
               "code": 102,
@@ -7332,7 +7332,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Bạn có muốn khám phá Khu phía Đông không?"]
+              "parameters": ["Bạn có muốn khám phá Khu phía Đông no?"]
             },
             {
               "code": 102,
@@ -7449,7 +7449,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn trở về nhà không?"]
+              "parameters": ["Bạn có muốn trở về nhà no?"]
             },
             {
               "code": 102,
@@ -7485,7 +7485,7 @@
             { "code": 117, "indent": 1, "parameters": [8] },
             { "code": 117, "indent": 1, "parameters": [11] },
             { "code": 201, "indent": 1, "parameters": [0, 4, 5, 6, 2, 0] },
-            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 222, "indent": 1, "parameters": [] },
@@ -7805,7 +7805,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 20, 6, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -7854,7 +7854,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Fiona vào giờ khuya thế này."
+                "Tôi no nên làm phiền Fiona vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -7960,7 +7960,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 20, 6, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -8009,7 +8009,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Fiona vào giờ khuya thế này."
+                "Tôi no nên làm phiền Fiona vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -8115,7 +8115,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 20, 6, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -8164,7 +8164,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nên làm phiền Fiona vào giờ khuya thế này."
+                "Tôi no nên làm phiền Fiona vào giờ khuya thế này."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -10923,7 +10923,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Wha!\\! Đó có phải là Fiona không?!"]
+              "parameters": ["Wha!\\! Đó có phải là Fiona no?!"]
             },
             {
               "code": 205,
@@ -12475,7 +12475,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Bạn gọi cô ấy là \\n[4]. Cô ấy là \\n[7] của bạn và bạn là \\n[10] của cô ấy.\\! Điều này có đúng không?"
+                "Bạn gọi cô ấy là \\n[4]. Cô ấy là \\n[7] của bạn và bạn là \\n[10] của cô ấy.\\! Điều này có đúng no?"
               ]
             },
             {
@@ -12680,7 +12680,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Chọn độ khó của bạn (không thể thay đổi):"]
+              "parameters": ["Chọn độ khó của bạn (no thể thay đổi):"]
             },
             {
               "code": 102,
@@ -12693,7 +12693,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Bạn có chắc chắn muốn chơi ở độ khó Bình thường không?"
+                "Bạn có chắc chắn muốn chơi ở độ khó Bình thường no?"
               ]
             },
             {
@@ -12719,7 +12719,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Bạn có chắc chắn muốn chơi ở độ khó Dễ không?"]
+              "parameters": ["Bạn có chắc chắn muốn chơi ở độ khó Dễ no?"]
             },
             {
               "code": 102,
@@ -13147,7 +13147,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Có...\\| an toàn ở đây không..?"]
+              "parameters": ["Có...\\| an toàn ở đây no..?"]
             },
             {
               "code": 205,
@@ -13186,7 +13186,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thôi nào...\\| Tôi không thể...\\| bỏ cuộc..."]
+              "parameters": ["Thôi nào...\\| Tôi no thể...\\| bỏ cuộc..."]
             },
             {
               "code": 205,
@@ -13490,7 +13490,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]!\\! Con ổn không, con yêu?"]
+              "parameters": ["\\n[1]!\\! Con ổn no, con yêu?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -13529,7 +13529,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chúng ta không thể để mọi người đều ngã bệnh được, anh biết chứ?"
+                "Chúng ta no thể để mọi người đều ngã bệnh được, anh biết chứ?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -13601,7 +13601,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vớ vẩn!\\! Cô không đủ sức khỏe để lang thang trong thành phố như thế này."
+                "Vớ vẩn!\\! Cô no đủ sức khỏe để lang thang trong thành phố như thế này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -13615,7 +13615,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tin tôi đi.\\! \\BST[2]Cô ấy sẽ không chấp nhận lời từ chối đâu!"
+                "Tin tôi đi.\\! \\BST[2]Cô ấy sẽ no chấp nhận lời từ chối đâu!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
@@ -13651,7 +13651,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không có gì đâu!\\! \\BST[1]Chúng ta phải chăm sóc lẫn nhau."
+                "no có gì đâu!\\! \\BST[1]Chúng ta phải chăm sóc lẫn nhau."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -13682,7 +13682,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["những con zombie không."]
+              "parameters": ["những con zombie no."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -15279,7 +15279,7 @@
             { "code": 201, "indent": 1, "parameters": [0, 25, 7, 10, 8, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -15473,7 +15473,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 25, 8, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -16764,7 +16764,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 25, 8, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -16961,7 +16961,7 @@
             { "code": 201, "indent": 1, "parameters": [0, 25, 7, 10, 8, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -17158,7 +17158,7 @@
             { "code": 201, "indent": 1, "parameters": [0, 25, 7, 10, 8, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -17355,7 +17355,7 @@
             { "code": 201, "indent": 1, "parameters": [0, 25, 7, 10, 8, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -17549,7 +17549,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 25, 8, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -17743,7 +17743,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 25, 8, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -18429,7 +18429,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi hy vọng cô không phiền về sự bừa bộn này.\\! Căn phòng này cần được tân trang lại..."
+                "Tôi hy vọng cô no phiền về sự bừa bộn này.\\! Căn phòng này cần được tân trang lại..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Sis1", 0, 0, 2] },
@@ -18619,7 +18619,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cô ổn không Nadia?"]
+              "parameters": ["Cô ổn no Nadia?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
@@ -18640,7 +18640,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng sâu thẳm trong trái tim, tôi biết sẽ không dễ dàng như vậy."
+                "Nhưng sâu thẳm trong trái tim, tôi biết sẽ no dễ dàng như vậy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -18648,7 +18648,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chúng ta sẽ tìm thấy cậu ấy.\\! Tôi sẽ không bỏ cuộc cho đến khi nào tìm được."
+                "Chúng ta sẽ tìm thấy cậu ấy.\\! Tôi sẽ no bỏ cuộc cho đến khi nào tìm được."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
@@ -18661,7 +18661,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Anh có phiền nếu tôi nhờ anh một việc không?"]
+              "parameters": ["Anh có phiền nếu tôi nhờ anh một việc no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
@@ -18675,7 +18675,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Anh có thể đến thăm tôi trong phòng của tôi không?"
+                "Anh có thể đến thăm tôi trong phòng của tôi no?"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -18685,7 +18685,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Anh có thể đến thăm tôi trong phòng của tôi tối nay không?"
+                "Anh có thể đến thăm tôi trong phòng của tôi tối nay no?"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -19579,13 +19579,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Hộ tống Sự kiện>Bạn có muốn xem cảnh đặc biệt mới của Leslie không?"
+                "\\n<Hộ tống Sự kiện>Bạn có muốn xem cảnh đặc biệt mới của Leslie no?"
               ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Giải thích", "không, cảm ơn"], 2, 0, 2, 0]
+              "parameters": [["Có", "Giải thích", "no, cảm ơn"], 2, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 111, "indent": 1, "parameters": [0, 189, 1] },
@@ -19664,7 +19664,7 @@
               "parameters": ["mở khóa sự kiện Nữ hoàng để truy cập nó."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "không, cảm ơn"] },
+            { "code": 402, "indent": 0, "parameters": [2, "no, cảm ơn"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -19765,7 +19765,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                  "Đến xưởng của tôi khi nào anh rảnh nhé, được không?"
+                  "Đến xưởng của tôi khi nào anh rảnh nhé, được no?"
                 ]
               }
             ],
@@ -20067,7 +20067,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hai con có biết hai con đã đi bao lâu rồi không hả?!"
+                "Hai con có biết hai con đã đi bao lâu rồi no hả?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -20083,7 +20083,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lần sau làm ơn đừng để mẹ chờ lâu như vậy nữa, được không?"
+                "Lần sau làm ơn đừng để mẹ chờ lâu như vậy nữa, được no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
@@ -20107,7 +20107,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không cần lo lắng đâu ạ!\\! \\n[1] đã hành động vô cùng cẩn trọng ở ngoài đó!"
+                "no cần lo lắng đâu ạ!\\! \\n[1] đã hành động vô cùng cẩn trọng ở ngoài đó!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom1", 5, 0, 2] },
@@ -20143,7 +20143,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Con có biết mẹ khó khăn thế nào khi cô đơn mà con không ở đây không hả?!"
+                "Con có biết mẹ khó khăn thế nào khi cô đơn mà con no ở đây no hả?!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Mom1", 7, 0, 2] },
@@ -20151,7 +20151,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Mẹ hy vọng con không có kế hoạch nào khác cho tối nay!"
+                "Mẹ hy vọng con no có kế hoạch nào khác cho tối nay!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -20350,14 +20350,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không.\\! Anh đã sai khi nổi nóng."]
+              "parameters": ["no.\\! Anh đã sai khi nổi nóng."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ai biết cái cây ghê tởm đó sẽ làm gì em nếu không có anh."
+                "Ai biết cái cây ghê tởm đó sẽ làm gì em nếu no có anh."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -20384,7 +20384,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Em sẽ đảm bảo sẽ không làm anh thất vọng!"]
+              "parameters": ["Em sẽ đảm bảo sẽ no làm anh thất vọng!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
             {
@@ -21417,13 +21417,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Hộ tống Sự kiện>Bạn có muốn tôi đưa bạn đến sự kiện đặc biệt mới của \\n[2] không?"
+                "\\n<Hộ tống Sự kiện>Bạn có muốn tôi đưa bạn đến sự kiện đặc biệt mới của \\n[2] no?"
               ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Giải thích", "không, cảm ơn"], 2, 0, 2, 0]
+              "parameters": [["Có", "Giải thích", "no, cảm ơn"], 2, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 111, "indent": 1, "parameters": [0, 188, 0] },
@@ -21439,7 +21439,7 @@
             { "code": 235, "indent": 2, "parameters": [1] },
             { "code": 223, "indent": 2, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 201, "indent": 2, "parameters": [0, 106, 11, 17, 2, 0] },
-            { "code": 236, "indent": 2, "parameters": ["khôngne", 5, 1, true] },
+            { "code": 236, "indent": 2, "parameters": ["none", 5, 1, true] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -21486,7 +21486,7 @@
               "parameters": ["mở khóa sự kiện Nữ hoàng để truy cập nó."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "không, cảm ơn"] },
+            { "code": 402, "indent": 0, "parameters": [2, "no, cảm ơn"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -21811,14 +21811,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Hộ tống Sự kiện>Bạn có muốn tôi đưa bạn đến sự kiện Halloween không?"
+                "\\n<Hộ tống Sự kiện>Bạn có muốn tôi đưa bạn đến sự kiện Halloween no?"
               ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Halloween", "Giải thích", "không, cảm ơn"],
+                ["Halloween", "Giải thích", "no, cảm ơn"],
                 2,
                 0,
                 2,
@@ -21840,7 +21840,7 @@
               "parameters": [[-42, -42, 0, 34], 1, true]
             },
             { "code": 201, "indent": 2, "parameters": [0, 90, 47, 25, 8, 0] },
-            { "code": 236, "indent": 2, "parameters": ["khôngne", 5, 1, true] },
+            { "code": 236, "indent": 2, "parameters": ["none", 5, 1, true] },
             { "code": 230, "indent": 2, "parameters": [30] },
             { "code": 222, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -21906,7 +21906,7 @@
               "parameters": ["mở khóa sự kiện Halloween để truy cập nó."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "không, cảm ơn"] },
+            { "code": 402, "indent": 0, "parameters": [2, "no, cảm ơn"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -22106,7 +22106,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không quen với việc được đối xử tử tế như vậy."
+                "Tôi no quen với việc được đối xử tử tế như vậy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -22239,7 +22239,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có lẽ tôi có thể hỏi Fiona xem cô ấy có ý tưởng gì không."
+                "Có lẽ tôi có thể hỏi Fiona xem cô ấy có ý tưởng gì no."
               ]
             },
             {
@@ -22714,7 +22714,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Anh cũng ra đây để hít thở không khí trong lành sao?"
+                "Anh cũng ra đây để hít thở no khí trong lành sao?"
               ]
             },
             {
@@ -23897,7 +23897,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không thể tin được cô ấy đã tạc những đường cong của bạn chính xác đến mức nào!"
+                "Tôi no thể tin được cô ấy đã tạc những đường cong của bạn chính xác đến mức nào!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -24012,7 +24012,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Cô ấy thậm chí còn không nghe tôi nói, phải không nhỉ..?]"
+                "[Cô ấy thậm chí còn no nghe tôi nói, phải no nhỉ..?]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -24135,7 +24135,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 136, 12, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -24701,7 +24701,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 136, 12, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -24851,7 +24851,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 25, 7, 10, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -25005,7 +25005,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 136, 12, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -25103,14 +25103,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Hộ tống Sự kiện>Bạn có muốn tôi đưa bạn đến sự kiện Tết Nguyên Đán không?"
+                "\\n<Hộ tống Sự kiện>Bạn có muốn tôi đưa bạn đến sự kiện Tết Nguyên Đán no?"
               ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Tết Nguyên Đán", "Giải thích", "không, cảm ơn"],
+                ["Tết Nguyên Đán", "Giải thích", "no, cảm ơn"],
                 2,
                 0,
                 2,
@@ -25127,7 +25127,7 @@
             },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 201, "indent": 1, "parameters": [0, 130, 5, 22, 2, 0] },
-            { "code": 236, "indent": 1, "parameters": ["khôngne", 5, 1, true] },
+            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, true] },
             { "code": 111, "indent": 1, "parameters": [1, 155, 0, 1, 1] },
             { "code": 222, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -25176,7 +25176,7 @@
               "parameters": ["mở khóa sự kiện Tết Nguyên Đán để truy cập nó."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "không, cảm ơn"] },
+            { "code": 402, "indent": 0, "parameters": [2, "no, cảm ơn"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -25291,7 +25291,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 136, 12, 12, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -27524,14 +27524,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Hộ tống Sự kiện>Bạn có muốn tôi đưa bạn đến sự kiện Kỳ nghỉ không?"
+                "\\n<Hộ tống Sự kiện>Bạn có muốn tôi đưa bạn đến sự kiện Kỳ nghỉ no?"
               ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Kỳ nghỉ", "Giải thích", "không, cảm ơn"],
+                ["Kỳ nghỉ", "Giải thích", "no, cảm ơn"],
                 2,
                 0,
                 2,
@@ -27613,7 +27613,7 @@
               "parameters": ["mở khóa sự kiện Kỳ nghỉ để truy cập nó."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "không, cảm ơn"] },
+            { "code": 402, "indent": 0, "parameters": [2, "no, cảm ơn"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -27815,13 +27815,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Hộ tống Sự kiện>Bạn có muốn tôi đưa bạn đến sự kiện đặc biệt mới năm 2025 của \\n[2] không?"
+                "\\n<Hộ tống Sự kiện>Bạn có muốn tôi đưa bạn đến sự kiện đặc biệt mới năm 2025 của \\n[2] no?"
               ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Có", "Giải thích", "không, cảm ơn"], 2, 0, 2, 0]
+              "parameters": [["Có", "Giải thích", "no, cảm ơn"], 2, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Có"] },
             { "code": 111, "indent": 1, "parameters": [0, 268, 0] },
@@ -27836,7 +27836,7 @@
             { "code": 235, "indent": 2, "parameters": [1] },
             { "code": 223, "indent": 2, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 201, "indent": 2, "parameters": [0, 171, 11, 12, 2, 0] },
-            { "code": 236, "indent": 2, "parameters": ["khôngne", 5, 1, true] },
+            { "code": 236, "indent": 2, "parameters": ["none", 5, 1, true] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -27883,7 +27883,7 @@
               "parameters": ["mở khóa sự kiện Siêu cấp để truy cập nó."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "không, cảm ơn"] },
+            { "code": 402, "indent": 0, "parameters": [2, "no, cảm ơn"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -28136,7 +28136,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Talk", "Party Up", "không gì cả"], 2, 0, 2, 0]
+              "parameters": [["Talk", "Party Up", "no gì cả"], 2, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Talk"] },
             { "code": 117, "indent": 1, "parameters": [48] },
@@ -28144,7 +28144,7 @@
             { "code": 402, "indent": 0, "parameters": [1, "Party Up"] },
             { "code": 117, "indent": 1, "parameters": [224] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "không gì cả"] },
+            { "code": 402, "indent": 0, "parameters": [2, "no gì cả"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

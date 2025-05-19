@@ -4114,7 +4114,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 122, 6, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4217,7 +4217,7 @@
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [8] },
             { "code": 201, "indent": 0, "parameters": [0, 122, 6, 9, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 121, "indent": 0, "parameters": [8, 8, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -4354,7 +4354,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có thứ gì đó đang phát triển ở đây nhưng tôi không nghĩ chúng có thể sống sót."
+                "Có thứ gì đó đang phát triển ở đây nhưng tôi no nghĩ chúng có thể sống sót."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [4, 26, 0] },
@@ -4369,7 +4369,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Những cây này bị thối và phân hủy nhưng không phải theo cách tự nhiên."
+                "Những cây này bị thối và phân hủy nhưng no phải theo cách tự nhiên."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -4608,7 +4608,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi không nghĩ mình có thể sử dụng bất kỳ loại cây nào trong số này nhưng chúng trông thật đẹp!"
+                "Tôi no nghĩ mình có thể sử dụng bất kỳ loại cây nào trong số này nhưng chúng trông thật đẹp!"
               ]
             },
             { "code": 111, "indent": 0, "parameters": [4, 26, 0] },
@@ -7450,7 +7450,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không chắc lắm.\\! Hãy kiểm tra xem."]
+              "parameters": ["no chắc lắm.\\! Hãy kiểm tra xem."]
             },
             {
               "code": 205,
@@ -7647,7 +7647,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lạ thật.\\! Nó không phản ứng như thế khi tôi đến gần nó."
+                "Lạ thật.\\! Nó no phản ứng như thế khi tôi đến gần nó."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
@@ -7824,7 +7824,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["không.\\! Tôi không nghĩ là nó chạy mất đâu."]
+              "parameters":["no.\\! Tôi no nghĩ là nó chạy mất đâu."]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 212, "indent": 0, "parameters": [29, 57, false] },
@@ -8377,11 +8377,11 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hai người ổn chứ?\\! Nó không làm hai người bị thương chứ, đúng không?"
+                "Hai người ổn chứ?\\! Nó no làm hai người bị thương chứ, đúng no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không.\\! Tôi ổn."] },
+            { "code": 401, "indent": 0, "parameters": ["no.\\! Tôi ổn."] },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 6, 0, 2] },
             {
               "code": 401,
@@ -8422,7 +8422,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bạn hẳn là Lucy, đúng không?\\! Anh ấy đang tìm bạn."
+                "Bạn hẳn là Lucy, đúng no?\\! Anh ấy đang tìm bạn."
               ]
             },
             {
@@ -8561,7 +8561,7 @@
               "parameters": ["Cảm ơn vì đã cứu chúng tôi \\n[1]."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không có gì!"] },
+            { "code": 401, "indent": 0, "parameters": ["no có gì!"] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
@@ -8654,7 +8654,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn không phiền nếu tôi đi cùng chứ?"]
+              "parameters": ["Bạn no phiền nếu tôi đi cùng chứ?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
             {

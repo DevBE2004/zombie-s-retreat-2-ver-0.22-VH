@@ -158,7 +158,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Arcade Hotshot>không phải bây giờ, không phải bây giờ bạn ơi!\\! Tôi sắp đạt điểm cao nhất rồi!"
+                "\\n<Arcade Hotshot>no phải bây giờ, no phải bây giờ bạn ơi!\\! Tôi sắp đạt điểm cao nhất rồi!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -737,7 +737,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Coffee Junkie>Ahh ~\\! không gì có thể sánh bằng thức uống cổ điển."
+                "\\n<Coffee Junkie>Ahh ~\\! no gì có thể sánh bằng thức uống cổ điển."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -745,7 +745,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Coffee Junkie>Một ly cà phê macchiato đá, hương vani, úp ngược, không chứa caffein, sô cô la, quế, lắc nhẹ.\\! Tất nhiên là có thêm kem tươi rồi!"
+                "\\n<Coffee Junkie>Một ly cà phê macchiato đá, hương vani, úp ngược, no chứa caffein, sô cô la, quế, lắc nhẹ.\\! Tất nhiên là có thêm kem tươi rồi!"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -818,7 +818,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Bạn có biết anh ta không?!"]},
+            { "code": 401, "indent": 0, "parameters": ["Bạn có biết anh ta no?!"]},
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -844,7 +844,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bạn có biết gì về thành phần siêu bí mật của anh ấy không?!"
+                "Bạn có biết gì về thành phần siêu bí mật của anh ấy no?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -852,7 +852,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "\\n<Barista>Chắc hẳn anh đang nhắc đến Mythic Milkshake của anh ấy phải không?"
+               "\\n<Barista>Chắc hẳn anh đang nhắc đến Mythic Milkshake của anh ấy phải no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
@@ -866,7 +866,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "\\n<Barista>Tất nhiên rồi, tôi có cả tấn!\\! Chúng thực sự không được sử dụng nhiều vào thời điểm này trong năm."
+               "\\n<Barista>Tất nhiên rồi, tôi có cả tấn!\\! Chúng thực sự no được sử dụng nhiều vào thời điểm này trong năm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -901,7 +901,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Không thể nào như thế được!"]
+              "parameters": ["no thể nào như thế được!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 2, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Ôi trời ơi!"] },
@@ -923,7 +923,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nó không phải là một quả anh đào bình thường."]
+              "parameters": ["Nó no phải là một quả anh đào bình thường."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
             {
@@ -975,7 +975,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters":["Vậy bây giờ chúng ta phải quay lại và thử lại, đúng không?"]
+              "parameters":["Vậy bây giờ chúng ta phải quay lại và thử lại, đúng no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
             {

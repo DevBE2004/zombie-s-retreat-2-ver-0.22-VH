@@ -848,7 +848,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mình có cảm giác không ổn chút nào."]
+              "parameters": ["Mình có cảm giác no ổn chút nào."]
             },
             { "code": 121, "indent": 0, "parameters": [60, 60, 0] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
@@ -1101,7 +1101,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mình phải về nhà để xem liệu hai người họ có ổn hay không."
+                "Mình phải về nhà để xem liệu hai người họ có ổn hay no."
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },

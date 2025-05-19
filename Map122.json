@@ -121,7 +121,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Trông nó có vẻ công nghệ cao quá!\\! Tôi không nghĩ mình có thể mở nó ra được."
+                "Trông nó có vẻ công nghệ cao quá!\\! Tôi no nghĩ mình có thể mở nó ra được."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -289,7 +289,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có lẽ không phải là ý hay khi để Lucy và Jamie ở lại đây..."
+                "Có lẽ no phải là ý hay khi để Lucy và Jamie ở lại đây..."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -470,7 +470,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chết tiệt!\\! không có ai ở đây cả."]
+              "parameters": ["Chết tiệt!\\! no có ai ở đây cả."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["Whoa!"] },
@@ -862,7 +862,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có nghĩ là người ở đây vẫn còn sống không?"]
+              "parameters": ["Bạn có nghĩ là người ở đây vẫn còn sống no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
             {
@@ -981,7 +981,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không có xét nghiệm nào tạo ra bất kỳ đặc tính chữa bệnh hoặc tái tạo nào.\\! "
+                "no có xét nghiệm nào tạo ra bất kỳ đặc tính chữa bệnh hoặc tái tạo nào.\\! "
               ]
             },
             {
@@ -1153,7 +1153,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Máy tính.\\! Tôi tự hỏi liệu nó có còn hoạt động không."
+                "Máy tính.\\! Tôi tự hỏi liệu nó có còn hoạt động no."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
@@ -1341,7 +1341,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có biết cách nào để vào được không?"]
+              "parameters": ["Bạn có biết cách nào để vào được no?"]
             },
             { "code": 230, "indent": 0, "parameters": [15] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1502,7 +1502,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không có xét nghiệm nào trước đó cho thấy bất kỳ dấu hiệu nào về khả năng chữa lành hoặc tái tạo."
+                "no có xét nghiệm nào trước đó cho thấy bất kỳ dấu hiệu nào về khả năng chữa lành hoặc tái tạo."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },

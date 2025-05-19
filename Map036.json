@@ -408,7 +408,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn tìm đồ ở điểm này không?"]
+              "parameters": ["Bạn có muốn tìm đồ ở điểm này no?"]
             },
             {
               "code": 102,
@@ -427,7 +427,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Điểm chứa đồ ngọt này đã trống không..."]
+              "parameters": ["Điểm chứa đồ ngọt này đã trống no..."]
             },
             { "code": 122, "indent": 1, "parameters": [20, 20, 0, 0, 0] },
             { "code": 122, "indent": 1, "parameters": [21, 21, 0, 0, 0] },
@@ -2347,7 +2347,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, điểm chứa đồ ngọt?!\\! Sao chị không nghĩ ra nó sớm hơn nhỉ?!"
+                "Oh, điểm chứa đồ ngọt?!\\! Sao chị no nghĩ ra nó sớm hơn nhỉ?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -2432,7 +2432,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em biết mấy điểm loot đồ ở ngoài kia mà đúng không?"
+                "Em biết mấy điểm loot đồ ở ngoài kia mà đúng no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 1, 0, 2] },
@@ -2454,7 +2454,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em hiểu rồi.\\! Vậy từ bây giờ em có thể tìm nguyên liệu cho chị ở chỗ này đúng không?"
+                "Em hiểu rồi.\\! Vậy từ bây giờ em có thể tìm nguyên liệu cho chị ở chỗ này đúng no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
@@ -2469,14 +2469,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Khẩu vị của em không tốt bằng chị..."]
+              "parameters": ["Khẩu vị của em no tốt bằng chị..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nên chị có thể tìm thêm được một vài nguyên liệu khác trong trường hợp em không nhận ra được!"
+                "Nên chị có thể tìm thêm được một vài nguyên liệu khác trong trường hợp em no nhận ra được!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Stacy1", 0, 0, 2] },
@@ -2512,7 +2512,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Điểm chứa đồ ngọt không đóng vai trò quan trọng trong việc sinh tồn nhưng nó có thể giúp bạn thuận lợi hơn trong việc khám phá."
+                "Điểm chứa đồ ngọt no đóng vai trò quan trọng trong việc sinh tồn nhưng nó có thể giúp bạn thuận lợi hơn trong việc khám phá."
               ]
             },
             {

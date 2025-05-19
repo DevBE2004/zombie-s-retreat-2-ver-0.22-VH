@@ -135,7 +135,7 @@
     null,
     {
       "id": 1,
-      "name": "khôngrman",
+      "name": "norman",
       "note": "",
       "pages": [
         {
@@ -260,7 +260,7 @@
               "parameters": ["Xin lỗi.\\! Tôi bận chút việc."]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không sao cả."] },
+            { "code": 401, "indent": 0, "parameters": ["no sao cả."] },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
             {
               "code": 401,
@@ -282,7 +282,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ah hah hah hah!\\! \\BST[1]Anh đúng là một gã thích đùa, phải không?"
+                "Ah hah hah hah!\\! \\BST[1]Anh đúng là một gã thích đùa, phải no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
@@ -295,13 +295,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Còn nếu tôi không tìm được anh ấy cho cô thì sao?"]
+              "parameters": ["Còn nếu tôi no tìm được anh ấy cho cô thì sao?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không cần phải lo lắng về thất bại!"]
+              "parameters": ["no cần phải lo lắng về thất bại!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 0, 0, 2] },
             {
@@ -349,7 +349,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Liệu việc phơi bày cuối cùng có khiến cô ấy phải kiềm chế không?"
+                "Liệu việc phơi bày cuối cùng có khiến cô ấy phải kiềm chế no?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [3, 5, false] },
@@ -360,7 +360,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đừng lo.\\! Tôi có thể đảo ngược tác dụng, nhớ không?"
+                "Đừng lo.\\! Tôi có thể đảo ngược tác dụng, nhớ no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 5, 0, 2] },
@@ -368,7 +368,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng tôi không thể thực hiện lời hứa của mình nếu anh không giữ lời hứa."
+                "Nhưng tôi no thể thực hiện lời hứa của mình nếu anh no giữ lời hứa."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },

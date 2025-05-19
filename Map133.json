@@ -512,7 +512,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-               "Có-\\! Có cơ hội nào để bạn có thể mặc bộ đồ đó ở nhà không?"
+               "Có-\\! Có cơ hội nào để bạn có thể mặc bộ đồ đó ở nhà no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 5, 0, 2] },
@@ -621,7 +621,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn không buồn chứ?"]
+              "parameters": ["Bạn no buồn chứ?"]
             },
             {
               "code": 205,
@@ -678,7 +678,7 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["không, tôi không buồn đâu."] },
+            { "code": 401, "indent": 0, "parameters": ["no, tôi no buồn đâu."] },
             { "code": 101, "indent": 0, "parameters": ["1Mom6", 7, 0, 2] },
             {
               "code": 401,

@@ -443,7 +443,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng nó bị khóa rồi.\\! Chị có biết mật khẩu cậu ấy hay dùng không?"
+                "Nhưng nó bị khóa rồi.\\! Chị có biết mật khẩu cậu ấy hay dùng no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
@@ -451,7 +451,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị không.\\! \\BST[1]Nhưng em thử nhìn vào note trên tủ đồ của Isaac xem..."
+                "Chị no.\\! \\BST[1]Nhưng em thử nhìn vào note trên tủ đồ của Isaac xem..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -651,7 +651,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Lộ trình chuyến đi thực tế của cô đã được phê duyệt nên sẽ không ai nghi ngờ gì cả.\\! Và cô đã đặt trước phòng đặc biệt dành cho hai ta rồi.\\! Đừng quên nói với chị của em là em sẽ đi vắng vài ngày để 'nghiên cứu chương trình'."
+                "Lộ trình chuyến đi thực tế của cô đã được phê duyệt nên sẽ no ai nghi ngờ gì cả.\\! Và cô đã đặt trước phòng đặc biệt dành cho hai ta rồi.\\! Đừng quên nói với chị của em là em sẽ đi vắng vài ngày để 'nghiên cứu chương trình'."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 1] },
@@ -683,7 +683,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Cô ấy thậm chí còn ký lên đó bằng một nụ hôn.\\! Đôi môi đỏ thẫm đó không thể lẫn vào đâu được!"
+                "Cô ấy thậm chí còn ký lên đó bằng một nụ hôn.\\! Đôi môi đỏ thẫm đó no thể lẫn vào đâu được!"
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 1, 0, 2] },
@@ -733,14 +733,14 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Tuy nhiên đó không phải là nơi mà chị nên đến..."]
+              "parameters": ["Tuy nhiên đó no phải là nơi mà chị nên đến..."]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Nhưng em biết những người ở nơi đó không bị biến thành Zombie."
+                "Nhưng em biết những người ở nơi đó no bị biến thành Zombie."
               ]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 0, 0, 2] },
@@ -783,13 +783,13 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Nơi đó có thể không có Zombie xuất hiện..."]
+              "parameters": ["Nơi đó có thể no có Zombie xuất hiện..."]
             },
             { "code": 101, "indent": 3, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Nên nếu hôm đó họ không có ở trường thì..."]
+              "parameters": ["Nên nếu hôm đó họ no có ở trường thì..."]
             },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 412, "indent": 2, "parameters": [] },
@@ -807,21 +807,21 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Uh-oh.\\! Chị không giận cô ấy sao, chị Nadia?"]
+              "parameters": ["Uh-oh.\\! Chị no giận cô ấy sao, chị Nadia?"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "không...\\! \\BST[6]Điều quan trọng bây giờ là Isaac vẫn ổn."
+                "no...\\! \\BST[6]Điều quan trọng bây giờ là Isaac vẫn ổn."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Nadia1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Em ấy không bị sao hết, \\n[1]!"]
+              "parameters": ["Em ấy no bị sao hết, \\n[1]!"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Nadia1", 5, 0, 2] },
             {
@@ -856,7 +856,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Nhưng nếu cứ ở đây lâu thêm nữa thì chính chúng ta mới là người không ổn..."
+                "Nhưng nếu cứ ở đây lâu thêm nữa thì chính chúng ta mới là người no ổn..."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 4, 0, 2] },
@@ -864,7 +864,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Mặc dù em ủng hộ đội bóng của trường nhưng không ưa mấy con Zombie lực lưỡng đó chút nào..."
+                "Mặc dù em ủng hộ đội bóng của trường nhưng no ưa mấy con Zombie lực lưỡng đó chút nào..."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Nadia1", 1, 0, 2] },
@@ -899,7 +899,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Chị nghĩ hình như mật khẩu đó không đúng..."]
+              "parameters": ["Chị nghĩ hình như mật khẩu đó no đúng..."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -924,7 +924,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Em có thấy thứ gì trong trường trùng khớp với những màu đó không?"
+                "Em có thấy thứ gì trong trường trùng khớp với những màu đó no?"
               ]
             },
             { "code": 111, "indent": 1, "parameters": [0, 21, 0] },

@@ -1474,7 +1474,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn câu không?"]
+              "parameters": ["Bạn có muốn câu no?"]
             },
             {
               "code": 102,
@@ -1560,7 +1560,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn câu không?"]
+              "parameters": ["Bạn có muốn câu no?"]
             },
             {
               "code": 102,
@@ -1583,7 +1583,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Điểm câu đã không còn động tĩnh..."]
+              "parameters": ["Điểm câu đã no còn động tĩnh..."]
             },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -2831,7 +2831,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 24, 10, 24, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["khôngne", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3042,7 +3042,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có nên sử dụng Cưa cắt Kim Loại để cắt miếng Kim Loại này không?"
+                "Có nên sử dụng Cưa cắt Kim Loại để cắt miếng Kim Loại này no?"
               ]
             },
             {

@@ -1799,13 +1799,13 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters":["Bạn biết điều đó có nghĩa là gì, phải không \\n[1]?"]
+              "parameters":["Bạn biết điều đó có nghĩa là gì, phải no \\n[1]?"]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters":["Chỉ cần tìm thêm một cục pin nữa thôi, đúng không?"]
+              "parameters":["Chỉ cần tìm thêm một cục pin nữa thôi, đúng no?"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Fiona1", 5, 0, 2] },
             {
@@ -1829,7 +1829,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Tuyệt!\\! \\BST[1]Vậy bây giờ bạn có thể sửa được thiết bị đầu cuối rồi phải không?"
+                "Tuyệt!\\! \\BST[1]Vậy bây giờ bạn có thể sửa được thiết bị đầu cuối rồi phải no?"
               ]
             },
             { "code": 101, "indent": 3, "parameters": ["1Fiona1", 5, 0, 2] },

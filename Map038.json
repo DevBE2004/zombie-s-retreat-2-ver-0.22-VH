@@ -742,7 +742,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Em có tìm thấy bộ dung cụ liên lạc nào không?"]
+              "parameters": ["Em có tìm thấy bộ dung cụ liên lạc nào no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -755,7 +755,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có chuyện gì thế?\\! Trông em có vẻ không tập trung lắm."
+                "Có chuyện gì thế?\\! Trông em có vẻ no tập trung lắm."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
@@ -769,7 +769,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không có gì đâu ạ!\\! Chỉ là bây giờ em muốn về nhà..."
+                "no có gì đâu ạ!\\! Chỉ là bây giờ em muốn về nhà..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 1, 0, 2] },
@@ -838,7 +838,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nếu không có chị thì em không biết phải xoay sở thế nào nữa!"
+                "Nếu no có chị thì em no biết phải xoay sở thế nào nữa!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -853,7 +853,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Về chuyện đó thì...\\! Nếu không có vấn đề gì..."]
+              "parameters": ["Về chuyện đó thì...\\! Nếu no có vấn đề gì..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
             {
@@ -872,7 +872,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vì chị vẫn còn nhiệm vụ quan trọng phải làm nên không thể quanh quẩn mãi ở nơi này được."
+                "Vì chị vẫn còn nhiệm vụ quan trọng phải làm nên no thể quanh quẩn mãi ở nơi này được."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -1666,7 +1666,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Grr*\\! Mình không đủ cao để với tới cái lỗ thông hơi đó."
+                "*Grr*\\! Mình no đủ cao để với tới cái lỗ thông hơi đó."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1715,7 +1715,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Em có cần chị nâng em lên không?"]
+              "parameters": ["Em có cần chị nâng em lên no?"]
             },
             {
               "code": 102,
@@ -1791,7 +1791,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên no?"] },
             {
               "code": 102,
               "indent": 0,
@@ -1854,7 +1854,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên no?"] },
             {
               "code": 102,
               "indent": 0,
@@ -1918,7 +1918,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên no?"] },
             {
               "code": 102,
               "indent": 0,
@@ -1995,7 +1995,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên no?"] },
             {
               "code": 102,
               "indent": 0,
@@ -2058,7 +2058,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên no?"] },
             {
               "code": 102,
               "indent": 0,
@@ -2122,7 +2122,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Có leo lên không?"] },
+            { "code": 401, "indent": 0, "parameters": ["Có leo lên no?"] },
             {
               "code": 102,
               "indent": 0,
@@ -2264,7 +2264,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thứ này trông có vẻ khá là phức tạp.\\! Mình không phá vỡ nó được."
+                "Thứ này trông có vẻ khá là phức tạp.\\! Mình no phá vỡ nó được."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

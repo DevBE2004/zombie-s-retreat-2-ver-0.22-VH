@@ -4359,7 +4359,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đi theo hướng này mà không có Jamie thì quá nguy hiểm."
+                "Đi theo hướng này mà no có Jamie thì quá nguy hiểm."
               ]
             },
             {
@@ -6467,7 +6467,7 @@
 {
 "code": 401,
 "indent": 0,
-"parameters": ["Bạn có thấy những bụi cây gai ở phía trước không?"]
+"parameters": ["Bạn có thấy những bụi cây gai ở phía trước no?"]
 },
 { "code": 101, "indent": 0, "parameters": ["1Jamie1", 5, 0, 2] },
 {
@@ -6481,7 +6481,7 @@
 {
 "code": 401,
 "indent": 0,
-"parameters": ["bây giờ chúng ta hãy đi xem chúng ta có thể tìm thấy Lucy của bạn không."]
+"parameters": ["bây giờ chúng ta hãy đi xem chúng ta có thể tìm thấy Lucy của bạn no."]
 },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
@@ -7210,7 +7210,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đi theo hướng này mà không có Jamie thì quá nguy hiểm."
+                "Đi theo hướng này mà no có Jamie thì quá nguy hiểm."
               ]
             },
             {

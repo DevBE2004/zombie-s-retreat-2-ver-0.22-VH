@@ -376,7 +376,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Anh có phải là người đứng đầu quận ở đây không?"]
+              "parameters": ["Anh có phải là người đứng đầu quận ở đây no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
             {
@@ -419,7 +419,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không phải cả hai.\\! Thực ra, tôi cũng sống ở một quận nhỏ với những người sống sót."
+                "no phải cả hai.\\! Thực ra, tôi cũng sống ở một quận nhỏ với những người sống sót."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
@@ -444,15 +444,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không.\\! không thể nói là tôi có..."]
+              "parameters": ["no.\\! no thể nói là tôi có..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Điều đó không tốt."] },
+            { "code": 401, "indent": 0, "parameters": ["Điều đó no tốt."] },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Xin lỗi, tôi không giúp được gì nhiều."]
+              "parameters": ["Xin lỗi, tôi no giúp được gì nhiều."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 0, 0, 2] },
             {
@@ -725,7 +725,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không có gì to tát cả.\\! Cảm ơn vì đã giúp tôi tìm Lucy nhé."
+                "no có gì to tát cả.\\! Cảm ơn vì đã giúp tôi tìm Lucy nhé."
               ]
             },
             { "code": 230, "indent": 0, "parameters": [15] },
@@ -734,7 +734,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Vậy tôi đoán là anh sắp ra ngoài phải không?"]
+              "parameters": ["Vậy tôi đoán là anh sắp ra ngoài phải no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -747,7 +747,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Anh-\\! Ít nhất thì anh cũng có chút thời gian rảnh để tặng quà chia tay chứ, đúng không?"
+                "Anh-\\! Ít nhất thì anh cũng có chút thời gian rảnh để tặng quà chia tay chứ, đúng no?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
@@ -755,7 +755,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Quà chia tay á?\\! Cậu không cần phải lo về chuyện đó đâu."
+                "Quà chia tay á?\\! Cậu no cần phải lo về chuyện đó đâu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
@@ -792,7 +792,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "T-tôi nghĩ là tôi không bận tâm đến món quà đó..."
+                "T-tôi nghĩ là tôi no bận tâm đến món quà đó..."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 4, true] },
@@ -945,14 +945,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Anh có phải là người đứng đầu quận ở đây không?"]
+              "parameters": ["Anh có phải là người đứng đầu quận ở đây no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thông thường danh hiệu đó không dành riêng cho một nơi như thế này..."
+                "Thông thường danh hiệu đó no dành riêng cho một nơi như thế này..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 0, 0, 2] },
@@ -982,7 +982,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không, thực ra tôi sống ở một quận nhỏ với những người sống sót khác."
+                "no, thực ra tôi sống ở một quận nhỏ với những người sống sót khác."
               ]
             },
             { "code": 108, "indent": 0, "parameters": ["===="] },
@@ -1005,14 +1005,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "không, không thể nói rằng một cô gái như thế có gì đáng chú ý..."
+                "no, no thể nói rằng một cô gái như thế có gì đáng chú ý..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có thấy một cậu bé tóc vàng không?"]
+              "parameters": ["Bạn có thấy một cậu bé tóc vàng no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 4, 0, 2] },
             {
@@ -1024,13 +1024,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thật sao?!\\! Bạn có thể nói cho tôi biết anh ấy đã đi đâu không?"]
+              "parameters": ["Thật sao?!\\! Bạn có thể nói cho tôi biết anh ấy đã đi đâu no?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Jamie1", 3, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["không.\\! Anh ấy đã lên đường vào thành phố một lúc trước..."]
+              "parameters": ["no.\\! Anh ấy đã lên đường vào thành phố một lúc trước..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

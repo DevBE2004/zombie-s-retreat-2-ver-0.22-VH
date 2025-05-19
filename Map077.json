@@ -538,7 +538,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em thấy khá hơn rồi.\\! \\BST[1]Chắc là không có gì nghiêm trọng đâu."
+                "Em thấy khá hơn rồi.\\! \\BST[1]Chắc là no có gì nghiêm trọng đâu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -568,7 +568,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nơi này có vẻ khá yên bình.\\! \\BST[3]không giống như mấy Quận ở trên kia..."
+                "Nơi này có vẻ khá yên bình.\\! \\BST[3]no giống như mấy Quận ở trên kia..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -576,7 +576,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Và chị cũng không thấy bất kỳ dấu hiệu nào của Zombie..."
+                "Và chị cũng no thấy bất kỳ dấu hiệu nào của Zombie..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
@@ -584,7 +584,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng chúng ta vẫn phải đề cao cảnh giác... không được lơ là."
+                "Nhưng chúng ta vẫn phải đề cao cảnh giác... no được lơ là."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -948,7 +948,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn câu không?"]
+              "parameters": ["Bạn có muốn câu no?"]
             },
             {
               "code": 102,
@@ -1033,7 +1033,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Bạn có muốn câu không?"]
+              "parameters": ["Bạn có muốn câu no?"]
             },
             {
               "code": 102,
@@ -1055,7 +1055,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Điểm câu đã không còn động tĩnh..."]
+              "parameters": ["Điểm câu đã no còn động tĩnh..."]
             },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
             { "code": 0, "indent": 2, "parameters": [] },

@@ -134,7 +134,7 @@
     null,
     {
       "id": 1,
-      "name": "khôngrman",
+      "name": "norman",
       "note": "",
       "pages": [
         {
@@ -266,7 +266,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Và với nỗ lực giải cứu Thành phố đang lâm vào bế tắc, tình trạng của Thị trưởng Talia vẫn không có tin tức nào mới..."
+                "Và với nỗ lực giải cứu Thành phố đang lâm vào bế tắc, tình trạng của Thị trưởng Talia vẫn no có tin tức nào mới..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 4, 0, 2] },
@@ -274,7 +274,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sự bùng phát đã nằm ngoài khả năng kiểm soát của Sở cảnh sát thành phố.\\! Nhưng chúng tôi sẽ không bỏ cuộc..."
+                "Sự bùng phát đã nằm ngoài khả năng kiểm soát của Sở cảnh sát thành phố.\\! Nhưng chúng tôi sẽ no bỏ cuộc..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 0, 0, 2] },
@@ -290,7 +290,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bắt đầu có hiệu lực từ hôm nay, tôi- khôngrman T. Reeves, sẽ đảm nhiệm chức vụ Thị trưởng mới của Thành phố Crimson."
+                "Bắt đầu có hiệu lực từ hôm nay, tôi- norman T. Reeves, sẽ đảm nhiệm chức vụ Thị trưởng mới của Thành phố Crimson."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1norman1", 0, 0, 2] },
