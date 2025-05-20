@@ -884,7 +884,7 @@
             { "code": 117, "indent": 2, "parameters": [23] },
             { "code": 121, "indent": 2, "parameters": [186, 186, 0] },
             { "code": 123, "indent": 2, "parameters": ["B", 0] },
-            { "code": 119, "indent": 2, "parameters": ["Skip"] },
+            { "code": 119, "indent": 2, "parameters": ["bỏ qua"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             {
@@ -944,7 +944,7 @@
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
-            { "code": 118, "indent": 0, "parameters": ["Skip"] },
+            { "code": 118, "indent": 0, "parameters": ["bỏ qua"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

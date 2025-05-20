@@ -514,7 +514,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 51, 10, 14, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["không có", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -623,7 +623,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 51, 18, 14, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["không có", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -732,7 +732,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 51, 11, 14, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["không có", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -841,7 +841,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 51, 19, 14, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["không có", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1006,7 +1006,7 @@
             },
             { "code": 505, "indent": 0, "parameters": [{ "code": 12 }] },
             { "code": 201, "indent": 0, "parameters": [0, 47, 22, 11, 2, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["không có", 5, 1, false] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -5809,7 +5809,7 @@
               ]
             },
             { "code": 201, "indent": 0, "parameters": [0, 155, 14, 7, 4, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["không có", 5, 1, false] },
             { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

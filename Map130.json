@@ -6489,7 +6489,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Shop", "Talk", "Leave"], 2, 0, 2, 0]
+              "parameters": [["Shop", "Talk", "rời đi"], 2, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Shop"] },
             { "code": 302, "indent": 1, "parameters": [0, 140, 1, 2, false] },
@@ -6512,7 +6512,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [2, "rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6741,7 +6741,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Shop", "Talk", "Leave"], 2, 0, 2, 0]
+              "parameters": [["Shop", "Talk", "rời đi"], 2, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Shop"] },
             { "code": 302, "indent": 1, "parameters": [0, 140, 1, 2, false] },
@@ -6798,7 +6798,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 404, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [2, "rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -6854,7 +6854,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["Shop", "Talk", "Leave"], 2, 0, 2, 0]
+              "parameters": [["Shop", "Talk", "rời đi"], 2, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "Shop"] },
             { "code": 302, "indent": 1, "parameters": [0, 140, 1, 2, false] },
@@ -6885,7 +6885,7 @@
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Leave"] },
+            { "code": 402, "indent": 0, "parameters": [2, "rời đi"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

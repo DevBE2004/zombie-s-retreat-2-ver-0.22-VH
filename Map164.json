@@ -3232,7 +3232,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 165, 7, 13, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["none", 5, 1, false] },
+            { "code": 236, "indent": 0, "parameters": ["không có", 5, 1, false] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3306,7 +3306,7 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 3, 22, 27, 2, 0] },
-            { "code": 236, "indent": 1, "parameters": ["none", 5, 1, true] },
+            { "code": 236, "indent": 1, "parameters": ["không có", 5, 1, true] },
             { "code": 117, "indent": 1, "parameters": [23] },
             { "code": 121, "indent": 1, "parameters": [62, 62, 0] },
             { "code": 230, "indent": 1, "parameters": [60] },
