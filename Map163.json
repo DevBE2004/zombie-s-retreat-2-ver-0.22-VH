@@ -8692,7 +8692,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["có", "not yet"], 1, 0, 2, 0]
+              "parameters": [["có", "chưa"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "có"] },
             {
@@ -8755,7 +8755,7 @@
             { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "not Yet"] },
+            { "code": 402, "indent": 0, "parameters": [1, "chưa"] },
             { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
             { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
             { "code": 0, "indent": 1, "parameters": [] },

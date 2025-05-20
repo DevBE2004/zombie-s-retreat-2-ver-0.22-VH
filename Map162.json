@@ -279,12 +279,7 @@
               "indent": 0,
               "parameters": ["1Bridgette1", 3, 0, 2]
             },
-
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Đúng vậy..."]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Đúng vậy..."] },
             {
               "code": 101,
               "indent": 0,
@@ -294,7 +289,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi quên mất là tôi chưa kịp dọn dẹp chỗ này xong."
+                "Tôi quên mất rằng tôi còn chưa kịp dọn dẹp chỗ này."
               ]
             },
             {
@@ -305,19 +300,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["*cười khúc khích*! Thật là ngớ ngẩn!"]
+              "parameters": ["*cười khúc khích*\\! Thật nực cười!"]
             },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 0, 0, 2]
-            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Ừ, tôi có thể thấy văn phòng này gần như mới tinh!"
-              ]
+              "parameters": ["Ừ, tôi thấy văn phòng này gần như mới tinh!"]
             },
             {
               "code": 205,
@@ -389,7 +378,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thậm chí còn có mùi 'văn phòng mới' nữa!"]
+              "parameters": ["Nó còn có mùi 'văn phòng mới' nữa!"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             {
@@ -414,30 +403,22 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Wow!\\! Và nhìn xem bếp sáng bóng quá!"]
+              "parameters": ["Ôi!\\! Nhìn căn bếp đó sáng bóng thế nào!"]
             },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 1, 0, 2]
-            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ôi, tôi sẽ ăn rất nhiều đồ ăn trong giờ nghỉ trưa!"
+                "Trời ơi, tôi sẽ ăn thật nhiều trong giờ nghỉ trưa!"
               ]
             },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 1, 0, 2]
-            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi hy vọng bạn no phiền nếu tôi lấy một vài món ăn vặt của bạn, Bridgette!"
+                "Tôi hy vọng cô không phiền nếu tôi lấy vài món ăn nhẹ của cô, Bridgette!"
               ]
             },
             {
@@ -458,21 +439,9 @@
               "indent": 0,
               "parameters": [{ "code": 16, "indent": null }]
             },
-            {
-              "code": 230,
-              "indent": 0,
-              "parameters": [15]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 4, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Bridgette?"]
-            },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Bridgette?"] },
             {
               "code": 205,
               "indent": 0,
@@ -514,7 +483,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [15] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Mọi chuyện ổn chứ?"] },
+            { "code": 401, "indent": 0, "parameters": ["Mọi thứ ổn chứ?"] },
             {
               "code": 205,
               "indent": 0,
@@ -567,7 +536,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Văn phòng này vừa mới chuẩn bị mở cho bộ phận mới của chúng ta."
+                "Văn phòng này vừa mới chuẩn bị mở cửa cho bộ phận mới của chúng tôi."
               ]
             },
             {
@@ -579,7 +548,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi nhớ đã rất phấn khích vì vừa nhận được thăng chức!"
+                "Tôi nhớ mình đã rất hào hứng vì vừa được thăng chức!"
               ]
             },
             {
@@ -591,7 +560,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Bridgette xinh đẹp, cuối cùng cũng leo lên nấc thang!\""
+                "\"Bridgette xinh đẹp, cuối cùng cũng leo lên nấc thang sự nghiệp!\""
               ]
             },
             {
@@ -603,7 +572,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi no thể chờ để gặp đội ngũ mới của mình ở đây và giới thiệu với họ văn phòng."
+                "Tôi không thể chờ đợi thêm để gặp đội ngũ mới và giới thiệu văn phòng này."
               ]
             },
             {
@@ -634,16 +603,12 @@
               "indent": 0,
               "parameters": [". . .\\! Nhưng tôi chưa bao giờ có cơ hội đó."]
             },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 4, 0, 2]
-            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Đây là trước khi cuộc xâm lăng zombie, đúng no?"
+                "Đây là trước khi lũ zombie xâm chiếm, đúng không?"
               ]
             },
             {
@@ -651,21 +616,13 @@
               "indent": 0,
               "parameters": ["1Bridgette1", 3, 0, 2]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Ừ..."]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Ừ..."] },
             {
               "code": 101,
               "indent": 0,
               "parameters": ["1Bridgette1", 3, 0, 2]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["*thở dài*"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["*thở dài*"] },
             {
               "code": 205,
               "indent": 0,
@@ -692,9 +649,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Thôi nào, no có lý do gì để buồn bã về điều đó."
-              ]
+              "parameters": ["Thôi, chẳng ích gì khi buồn bã về chuyện đó cả."]
             },
             {
               "code": 101,
@@ -705,7 +660,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sau cùng, một nhà lãnh đạo mạnh mẽ no từ bỏ sau một chút khó khăn!"
+                "Dù sao thì, một lãnh đạo mạnh mẽ không bỏ cuộc sau một chút trở ngại!"
               ]
             },
             {
@@ -717,7 +672,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Vậy hãy lấy bản đồ đó đi.\\! Tôi nghĩ nó vẫn ở trong văn phòng của tôi."
+                "Vậy nên hãy lấy tấm bản đồ đó.\\! Tôi nghĩ nó vẫn ở trong văn phòng của tôi."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -855,13 +810,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Đã mở tuyến xe buýt Khu vực Kinh doanh!"]
+              "parameters": ["Đã mở khóa tuyến xe buýt Khu Thương mại!"]
             },
-            {
-              "code": 121,
-              "indent": 0,
-              "parameters": [325, 325, 0]
-            },
+            { "code": 121, "indent": 0, "parameters": [325, 325, 0] },
             {
               "code": 205,
               "indent": 0,
@@ -880,21 +831,13 @@
               "indent": 0,
               "parameters": [{ "code": 39, "indent": null }]
             },
-            {
-              "code": 230,
-              "indent": 0,
-              "parameters": [20]
-            },
+            { "code": 230, "indent": 0, "parameters": [20] },
             {
               "code": 101,
               "indent": 0,
               "parameters": ["1Bridgette1", 1, 0, 2]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Tất nhiên!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Tất nhiên rồi!"] },
             {
               "code": 101,
               "indent": 0,
@@ -904,39 +847,27 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tôi no thể tin là mình quên tuyến đường dễ dàng như vậy."
+                "Tôi không thể tin mình lại quên tuyến đường dễ dàng như vậy."
               ]
             },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 0, 0, 2]
-            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Vậy bản đồ này là thứ bạn cần, đúng no?"]
+              "parameters": ["Vậy tấm bản đồ này là thứ cô cần, đúng không?"]
             },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 0, 0, 2]
-            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chúng ta có thể đến Khu vực Kinh doanh bây giờ?"]
+              "parameters": ["Giờ chúng ta có thể đến Khu Thương mại chứ?"]
             },
             {
               "code": 101,
               "indent": 0,
               "parameters": ["1Bridgette1", 1, 0, 2]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Đúng rồi!"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Đúng là nó đấy!"] },
             {
               "code": 101,
               "indent": 0,
@@ -946,7 +877,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nếu bạn đã sẵn sàng, hãy tìm bến xe buýt gần nhất."
+                "Nếu cậu sẵn sàng, chúng ta hãy tìm bến xe buýt gần nhất."
               ]
             },
             {
@@ -958,7 +889,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hoặc tôi đoán chúng ta có thể nghỉ ngơi ở nhà một chút cũng được..."
+                "Hoặc tôi đoán chúng ta cũng có thể nghỉ ngơi một chút ở nhà..."
               ]
             },
             {
@@ -969,27 +900,122 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Tôi sẽ để quyết định đó cho bạn, thực tập sinh!"]
+              "parameters": ["Tôi sẽ để cậu quyết định, thực tập sinh!"]
             },
             {
               "code": 355,
               "indent": 0,
               "parameters": ["Galv.QUEST.objective(35,1,0);"]
             },
+            { "code": 122, "indent": 0, "parameters": [49, 49, 1, 0, 1] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 5,
+          "moveRoute": {
+            "list": [
+              { "code": 15, "parameters": [30], "indent": null },
+              { "code": 20, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 4
+    },
+    {
+      "id": 4,
+      "name": "Door",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 29,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 46,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 154,
+            "variableValid": false,
+            "variableValue": 5
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!PSF_DoorsA",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
             {
-              "code": 122,
+              "code": 250,
               "indent": 0,
-              "parameters": [49, 49, 1, 0, 1]
+              "parameters": [
+                { "name": "Open1", "volume": 90, "pitch": 150, "pan": 0 }
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
-              "code": 123,
+              "code": 401,
               "indent": 0,
-              "parameters": ["A", 0]
-            },
-            {
-              "code": 0,
-              "indent": 0,
-              "parameters": []
+              "parameters": ["Tôi cần đưa Bridgette đến để mở cửa này."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

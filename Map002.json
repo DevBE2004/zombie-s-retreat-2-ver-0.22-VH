@@ -7382,7 +7382,7 @@
       "x": 24,
       "y": 21
     },
-      {
+    {
       "id": 32,
       "name": "Dinner Event",
       "note": "",
@@ -7482,7 +7482,7 @@
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["\\n[2]", "\\n[3]", "\\n[4]", "Finish Dinner"],
+                ["\\n[2]", "\\n[3]", "\\n[4]", "Kết thúc bữa tối"],
                 3,
                 0,
                 2,
@@ -7522,14 +7522,20 @@
               "code": 102,
               "indent": 2,
               "parameters": [
-                ["Talk", "???", "Compliment", "Sweet Talk", "Back"],
+                [
+                  "Nói chuyện",
+                  "???",
+                  "Khen ngợi",
+                  "Nói lời ngọt ngào",
+                  "Quay lại"
+                ],
                 4,
                 0,
                 2,
                 0
               ]
             },
-            { "code": 402, "indent": 2, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 2, "parameters": [0, "Nói chuyện"] },
             { "code": 117, "indent": 3, "parameters": [37] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 402, "indent": 2, "parameters": [1, "???"] },
@@ -7538,11 +7544,11 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Continue progressing in \\n[2]'s story to unlock!"
+                "Tiếp tục tiến triển trong câu chuyện của \\n[2] để mở khóa!"
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [2, "Compliment"] },
+            { "code": 402, "indent": 2, "parameters": [2, "Khen ngợi"] },
             { "code": 122, "indent": 3, "parameters": [13, 13, 0, 2, 1, 3] },
             { "code": 111, "indent": 3, "parameters": [1, 13, 0, 1, 0] },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7550,7 +7556,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[1]>\\n[2], you have such beautiful eyes!\\! I'm so lucky to have such a beautiful \\n[5]."
+                "\\n<\\n[1]>\\n[2], đôi mắt của em thật đẹp!\\! Anh thật may mắn khi có một \\n[5] xinh đẹp như vậy."
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7558,7 +7564,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>Aww, thank you honey!\\! You're so kind to your \\n[5]."
+                "\\n<\\n[2]>Ôi, cảm ơn anh yêu!\\! Anh thật tốt với \\n[5] của mình."
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7566,7 +7572,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>[Hopefully \\n[3] doesn't wonder why he's suddenly complimenting me...]"
+                "\\n<\\n[2]>[Hy vọng \\n[3] không thắc mắc tại sao anh ấy lại bất ngờ khen mình...]"
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7574,7 +7580,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>[But it does make me feel special to be noticed...]"
+                "\\n<\\n[2]>[Nhưng được chú ý thế này làm mình cảm thấy thật đặc biệt...]"
               ]
             },
             { "code": 0, "indent": 4, "parameters": [] },
@@ -7584,10 +7590,10 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[1]>\\n[2], your body looks incredible!\\! I love seeing you when you're "
+                "\\n<\\n[1]>\\n[2], cơ thể của em trông thật tuyệt!\\! Anh thích nhìn em khi em "
               ]
             },
-            { "code": 401, "indent": 4, "parameters": ["cooking dinner."] },
+            { "code": 401, "indent": 4, "parameters": ["nấu bữa tối."] },
             {
               "code": 232,
               "indent": 4,
@@ -7604,7 +7610,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>O-Oh!\\! That's very sweet of you honey..."
+                "\\n<\\n[2]>Ô-Ôi!\\! Thật ngọt ngào của anh yêu..."
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7612,7 +7618,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>[A compliment like that might raise some suspicion...]"
+                "\\n<\\n[2]>[Lời khen như vậy có thể gây nghi ngờ...]"
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7620,7 +7626,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>[But it does feel nice to be pampered a bit...]"
+                "\\n<\\n[2]>[Nhưng được nuông chiều thế này cũng thật dễ chịu...]"
               ]
             },
             {
@@ -7636,32 +7642,36 @@
             },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 412, "indent": 3, "parameters": [] },
-            { "code": 108, "indent": 3, "parameters": ["If M Dialogue = 14"] },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": ["Nếu đoạn thoại M = 14"]
+            },
             {
               "code": 408,
               "indent": 3,
               "parameters": [
-                "When returning to her story, ask if this is still necessary."
+                "Khi trở lại câu chuyện của cô ấy, hỏi liệu điều này có còn cần thiết không."
               ]
             },
             {
               "code": 408,
               "indent": 3,
               "parameters": [
-                "Maybe flirting is always the trigger for shower masturbation?"
+                "Có thể việc tán tỉnh luôn là yếu tố kích hoạt cho cảnh tắm?"
               ]
             },
             {
               "code": 408,
               "indent": 3,
-              "parameters": ["Or maybe it's just a one time thing."]
+              "parameters": ["Hoặc có thể chỉ là một lần duy nhất."]
             },
             { "code": 408, "indent": 3, "parameters": [""] },
             {
               "code": 408,
               "indent": 3,
               "parameters": [
-                "Flirt Active currently does nothing.  Maybe use that later?"
+                "Tán tỉnh hiện tại chưa làm gì. Có thể sử dụng sau này?"
               ]
             },
             { "code": 111, "indent": 3, "parameters": [1, 41, 0, 14, 0] },
@@ -7670,7 +7680,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>After dinner...\\! If you need me, I will be in the bath~ ♥️"
+                "\\n<\\n[2]>Sau bữa tối...\\! Nếu anh cần em, em sẽ ở trong phòng tắm ~ ♥️"
               ]
             },
             { "code": 121, "indent": 4, "parameters": [71, 71, 0] },
@@ -7678,7 +7688,11 @@
             { "code": 412, "indent": 3, "parameters": [] },
             { "code": 121, "indent": 3, "parameters": [96, 96, 0] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [3, "Sweet Talk"] },
+            {
+              "code": 402,
+              "indent": 2,
+              "parameters": [3, "Nói lời ngọt ngào"]
+            },
             { "code": 122, "indent": 3, "parameters": [13, 13, 0, 2, 1, 2] },
             { "code": 111, "indent": 3, "parameters": [1, 13, 0, 1, 0] },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7686,7 +7700,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[1]>*whisper whisper*\\! *Your butt looked so great while I was watching you cook!*"
+                "\\n<\\n[1]>*thì thầm*\\! *Mông của em trông thật tuyệt khi anh nhìn em nấu ăn!*"
               ]
             },
             {
@@ -7704,14 +7718,14 @@
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\n<\\n[2]>Wh-What?!\\! I-I mean..."]
+              "parameters": ["\\n<\\n[2]>C-Cái gì?!\\! Ý-Ý em là..."]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>[He was admiring my body while I was cooking..?]"
+                "\\n<\\n[2]>[Anh ấy ngắm cơ thể em khi em đang nấu ăn...]"
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7719,22 +7733,20 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>[My body is reacting so strong right now...\\! I need to stay calm.]"
+                "\\n<\\n[2]>[Cơ thể em đang phản ứng mạnh quá...\\! Em cần giữ bình tĩnh.]"
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\n<\\n[2]>Um, thanks honey."]
+              "parameters": ["\\n<\\n[2]>Ừ, cảm ơn anh yêu."]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 4,
-              "parameters": [
-                "\\n<\\n[3]>Hey, what are you two whispering about over there?"
-              ]
+              "parameters": ["\\n<\\n[3]>Này, hai người thì thầm gì ở đó vậy?"]
             },
             {
               "code": 232,
@@ -7751,7 +7763,7 @@
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\n<\\n[2]>Oh, it's nothing important \\n[3]!"]
+              "parameters": ["\\n<\\n[2]>Ồ, không có gì quan trọng đâu \\n[3]!"]
             },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 411, "indent": 3, "parameters": [] },
@@ -7760,7 +7772,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[1]>*whisper whisper*\\! *I'm so mesmerized by your beautiful boobs resting on the table!*"
+                "\\n<\\n[1]>*thì thầm*\\! *Anh mê mẩn với vòng ngực đẹp của em trên bàn ăn!*"
               ]
             },
             {
@@ -7778,14 +7790,14 @@
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\n<\\n[2]>Wh-What?!\\! I-I mean..."]
+              "parameters": ["\\n<\\n[2]>C-Cái gì?!\\! Ý-Ý em là..."]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>[He was admiring my body while I was cooking..?]"
+                "\\n<\\n[2]>[Anh ấy ngắm cơ thể em khi em đang nấu ăn...]"
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7793,14 +7805,14 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>[My body is reacting so strong right now...\\! I need to stay calm.]"
+                "\\n<\\n[2]>[Cơ thể em đang phản ứng mạnh quá...\\! Em cần giữ bình tĩnh.]"
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\n<\\n[2]>Um, thanks honey."]
+              "parameters": ["\\n<\\n[2]>Ừ, cảm ơn anh yêu."]
             },
             { "code": 111, "indent": 4, "parameters": [0, 42, 0] },
             { "code": 101, "indent": 5, "parameters": ["", 0, 0, 2] },
@@ -7808,7 +7820,7 @@
               "code": 401,
               "indent": 5,
               "parameters": [
-                "\\n<\\n[4]>Ooh, I LOVE secrets...\\! Come on, what are you two hiding?!"
+                "\\n<\\n[4]>Ooh, chị THÍCH bí mật...\\! Nào, hai người đang giấu gì vậy?!"
               ]
             },
             { "code": 0, "indent": 5, "parameters": [] },
@@ -7817,9 +7829,7 @@
             {
               "code": 401,
               "indent": 5,
-              "parameters": [
-                "\\n<\\n[3]>Hey, what are you two whispering about over there?"
-              ]
+              "parameters": ["\\n<\\n[3]>Này, hai người thì thầm gì ở đó vậy?"]
             },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 412, "indent": 4, "parameters": [] },
@@ -7839,7 +7849,7 @@
             {
               "code": 401,
               "indent": 5,
-              "parameters": ["\\n<\\n[2]>Oh, it's nothing special \\n[4]!"]
+              "parameters": ["\\n<\\n[2]>Ồ, không có gì đặc biệt đâu \\n[4]!"]
             },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 411, "indent": 4, "parameters": [] },
@@ -7847,7 +7857,7 @@
             {
               "code": 401,
               "indent": 5,
-              "parameters": ["\\n<\\n[2]>Oh, it's nothing important \\n[3]!"]
+              "parameters": ["\\n<\\n[2]>Ồ, không có gì quan trọng đâu \\n[3]!"]
             },
             { "code": 0, "indent": 5, "parameters": [] },
             { "code": 412, "indent": 4, "parameters": [] },
@@ -7858,17 +7868,17 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "\\n<\\n[2]>*ahem*\\! Honey, I have something to show you after dinner.\\! Why don't you "
+                "\\n<\\n[2]>*hắng giọng*\\! Anh yêu, em có thứ muốn cho anh xem sau bữa tối.\\! Sao anh không "
               ]
             },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["wait for me in your room ~ ♥️"]
+              "parameters": ["chờ em trong phòng anh ~ ♥️"]
             },
             { "code": 121, "indent": 3, "parameters": [117, 117, 0] },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [4, "Back"] },
+            { "code": 402, "indent": 2, "parameters": [4, "Quay lại"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -7893,9 +7903,15 @@
             {
               "code": 102,
               "indent": 2,
-              "parameters": [["Talk", "???", "Flirt", "Back"], 3, 0, 2, 0]
+              "parameters": [
+                ["Nói chuyện", "???", "Tán tỉnh", "Quay lại"],
+                3,
+                0,
+                2,
+                0
+              ]
             },
-            { "code": 402, "indent": 2, "parameters": [0, "Talk"] },
+            { "code": 402, "indent": 2, "parameters": [0, "Nói chuyện"] },
             { "code": 117, "indent": 3, "parameters": [39] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 402, "indent": 2, "parameters": [1, "???"] },
@@ -7904,11 +7920,11 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Continue progressing in \\n[4]'s story to unlock!"
+                "Tiếp tục tiến triển trong câu chuyện của \\n[4] để mở khóa!"
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [2, "Flirt"] },
+            { "code": 402, "indent": 2, "parameters": [2, "Tán tỉnh"] },
             { "code": 121, "indent": 3, "parameters": [174, 174, 0] },
             { "code": 122, "indent": 3, "parameters": [13, 13, 0, 2, 1, 2] },
             {
@@ -7927,14 +7943,14 @@
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\n<\\n[4]>This drink is so refreshing!\\! *hic*"]
+              "parameters": ["\\n<\\n[4]>Ly rượu này thật sảng khoái!\\! *nấc*"]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[4]>Everytime I have vodka, it makes my top come right off!"
+                "\\n<\\n[4]>Mỗi lần chị uống vodka, áo của chị cứ tuột ra ngay!"
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7942,14 +7958,16 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[4]>You're staring \\n[1]...\\! What are you imagining right now ~ ♥️"
+                "\\n<\\n[4]>Em đang nhìn chị, \\n[1]...\\! Em đang tưởng tượng gì vậy ~ ♥️"
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 4,
-              "parameters": ["\\n<\\n[1]>Huh?!\\! Ah, n-nothing \\n[7] \\n[4]!"]
+              "parameters": [
+                "\\n<\\n[1]>Hả?!\\! À, k-không có gì đâu \\n[7] \\n[4]!"
+              ]
             },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 412, "indent": 3, "parameters": [] },
@@ -7959,7 +7977,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[4]>*hic*\\! Maybe I made this drink a little too strong..."
+                "\\n<\\n[4]>*nấc*\\! Có lẽ chị pha ly này hơi mạnh..."
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7967,7 +7985,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[2]>Be careful \\n[4]!\\! I don't want you to get a stomach ache."
+                "\\n<\\n[2]>Cẩn thận đấy \\n[4]!\\! Chị không muốn em bị đau bụng đâu."
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7975,7 +7993,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[4]>It's okay...\\! I'm sure \\n[1] wouldn't mind carrying me up to my bedroom."
+                "\\n<\\n[4]>Không sao đâu...\\! Chị chắc \\n[1] sẽ không ngại đưa chị lên phòng đâu."
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7983,7 +8001,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[4]>Just make sure you watch those hands, you naughty boy ~ ♥️"
+                "\\n<\\n[4]>Chỉ cần cẩn thận tay của em, cậu bé nghịch ngợm ~ ♥️"
               ]
             },
             { "code": 101, "indent": 4, "parameters": ["", 0, 0, 2] },
@@ -7991,7 +8009,7 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "\\n<\\n[1]>What?!\\! I-I won't touch anywhere I'm not supposed to!"
+                "\\n<\\n[1]>Cái gì?!\\! T-Tôi sẽ không chạm vào chỗ không được phép đâu!"
               ]
             },
             { "code": 0, "indent": 4, "parameters": [] },
@@ -8008,11 +8026,11 @@
               "parameters": [3, 0, 0, 0, 0, 0, 100, 100, 0, 0, 60, true]
             },
             { "code": 0, "indent": 3, "parameters": [] },
-            { "code": 402, "indent": 2, "parameters": [3, "Back"] },
+            { "code": 402, "indent": 2, "parameters": [3, "Quay lại"] },
             { "code": 0, "indent": 3, "parameters": [] },
             { "code": 404, "indent": 2, "parameters": [] },
             { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 402, "indent": 1, "parameters": [3, "Finish Dinner"] },
+            { "code": 402, "indent": 1, "parameters": [3, "Kết thúc bữa tối"] },
             { "code": 221, "indent": 2, "parameters": [] },
             { "code": 235, "indent": 2, "parameters": [1] },
             { "code": 235, "indent": 2, "parameters": [2] },
@@ -8025,7 +8043,7 @@
             { "code": 230, "indent": 2, "parameters": [30] },
             { "code": 111, "indent": 2, "parameters": [0, 175, 1] },
             { "code": 111, "indent": 3, "parameters": [0, 174, 0] },
-            { "code": 119, "indent": 4, "parameters": ["Aunt"] },
+            { "code": 119, "indent": 4, "parameters": ["Cô"] },
             { "code": 0, "indent": 4, "parameters": [] },
             { "code": 412, "indent": 3, "parameters": [] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -8039,16 +8057,16 @@
             {
               "code": 108,
               "indent": 2,
-              "parameters": ["== Below code is for Aunt's storyline == "]
+              "parameters": ["== Dưới đây là mã cho câu chuyện của cô == "]
             },
             {
               "code": 408,
               "indent": 2,
               "parameters": [
-                "This checks that she's had vodka and wants MC to escort her upstairs"
+                "Kiểm tra rằng cô ấy đã uống vodka và muốn MC đưa lên lầu"
               ]
             },
-            { "code": 118, "indent": 2, "parameters": ["Aunt"] },
+            { "code": 118, "indent": 2, "parameters": ["Cô"] },
             { "code": 201, "indent": 2, "parameters": [0, 2, 6, 9, 6, 0] },
             { "code": 117, "indent": 2, "parameters": [7] },
             { "code": 121, "indent": 2, "parameters": [8, 8, 0] },
@@ -8061,26 +8079,26 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n[7] \\n[4], are you okay?"]
+              "parameters": ["\\n[7] \\n[4], cô ổn chứ?"]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["You had a lot to drink during dinner..."]
+              "parameters": ["Cô uống khá nhiều trong bữa tối..."]
             },
             { "code": 101, "indent": 2, "parameters": ["1Aunt1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Oh, don't you worry about me ~ *hic*"]
+              "parameters": ["Ồ, đừng lo cho cô ~ *nấc*"]
             },
             { "code": 101, "indent": 2, "parameters": ["1Aunt1", 6, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Your \\n[7] is just a little tipsy but nothing she can't handle!"
+                "\\n[7] của cháu chỉ hơi say thôi, nhưng không có gì cô không xử lý được!"
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1MC1", 4, 0, 2] },
@@ -8088,17 +8106,17 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Okay...\\! Do you need help getting up to your bedroom at least?"
+                "Được rồi...\\! Cô có cần giúp lên phòng ngủ không?"
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["1Aunt1", 1, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["I'd LOVE that ~ !"] },
+            { "code": 401, "indent": 2, "parameters": ["Cô RẤT muốn thế ~ !"] },
             { "code": 101, "indent": 2, "parameters": ["1Aunt1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "So handsome and courteous.\\! I have the world's best \\n[10]!"
+                "Đẹp trai và lịch thiệp.\\! Cô có \\n[10] tuyệt nhất trên đời!"
               ]
             },
             { "code": 221, "indent": 2, "parameters": [] },
