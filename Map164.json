@@ -1296,9 +1296,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Muốn cùng ta đi một vòng trên xe trượt tuyết no?"
-              ]
+              "parameters": ["Muốn cùng ta đi một vòng trên xe trượt tuyết no?"]
             },
             {
               "code": 213,
@@ -3232,7 +3230,11 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 165, 7, 13, 8, 0] },
-            { "code": 236, "indent": 0, "parameters": ["không có", 5, 1, false] },
+            {
+              "code": 236,
+              "indent": 0,
+              "parameters": ["không có", 5, 1, false]
+            },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3306,7 +3308,11 @@
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 3, 22, 27, 2, 0] },
-            { "code": 236, "indent": 1, "parameters": ["không có", 5, 1, true] },
+            {
+              "code": 236,
+              "indent": 1,
+              "parameters": ["không có", 5, 1, true]
+            },
             { "code": 117, "indent": 1, "parameters": [23] },
             { "code": 121, "indent": 1, "parameters": [62, 62, 0] },
             { "code": 230, "indent": 1, "parameters": [60] },
@@ -6750,9 +6756,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Jack>Lần sau gặp lại, anh sẽ no thấy em đâu!"
-              ]
+              "parameters": ["\\n<Jack>Lần sau gặp lại, anh sẽ no thấy em đâu!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -15219,9 +15223,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Jill>*hốt hoảng*\\! Cậu có nghe thấy gì no?!"
-              ]
+              "parameters": ["\\n<Jill>*hốt hoảng*\\! Cậu có nghe thấy gì no?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -15531,9 +15533,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "no có gì.\\! \\BST[2]Tôi rất vui được giúp đỡ!"
-              ]
+              "parameters": ["no có gì.\\! \\BST[2]Tôi rất vui được giúp đỡ!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -16507,7 +16507,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [["Tìm thấy một món quà kỳ lạ!"]]
+              "parameters": ["tìm được món đồ đặc biệt!"]
             },
             { "code": 126, "indent": 0, "parameters": [123, 0, 0, 1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -16809,9 +16809,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "\\n<Cậu bé Đói bụng>Có phải mùi pizza no vậy?!"
-              ]
+              "parameters": ["\\n<Cậu bé Đói bụng>Có phải mùi pizza no vậy?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -16825,9 +16823,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Chắc chắn rồi!\\! Dù sao tôi cũng no định ăn nó."
-              ]
+              "parameters": ["Chắc chắn rồi!\\! Dù sao tôi cũng no định ăn nó."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -18344,9 +18340,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Được thôi, nhưng ~\\! Gói này no phải của tôi."
-              ]
+              "parameters": ["Được thôi, nhưng ~\\! Gói này no phải của tôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -18640,9 +18634,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Được thôi, nhưng ~\\! Gói này no phải của tôi."
-              ]
+              "parameters": ["Được thôi, nhưng ~\\! Gói này no phải của tôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -18936,9 +18928,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Được thôi, nhưng ~\\! Gói này no phải của tôi."
-              ]
+              "parameters": ["Được thôi, nhưng ~\\! Gói này no phải của tôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
@@ -22757,38 +22747,34 @@
           },
           "list": [
             {
-    "code": 108,
-    "indent": 0,
-    "parameters": [
-      "== Đã có một lỗi trong phiên bản 0.21.0, nơi cảnh Mich/Mer vô tình"
-    ]
-  },
-  {
-    "code": 408,
-    "indent": 0,
-    "parameters": [
-      "đánh dấu nhiệm vụ hiện tại là đã hoàn thành."
-    ]
-  },
-  {
-    "code": 408,
-    "indent": 0,
-    "parameters": [
-      ""
-    ]
-  },
-  {
-    "code": 408,
-    "indent": 0,
-    "parameters": [
-      "Bản sửa lỗi này sẽ kiểm tra xem người chơi đã hoàn thành nhiệm vụ chưa"
-    ]
-  },
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "== Đã có một lỗi trong phiên bản 0.21.0, nơi cảnh Mich/Mer vô tình"
+              ]
+            },
             {
-"code": 408,
-"indent": 0,
-"parameters": ["và sẽ hoàn tác nếu no =="]
-},
+              "code": 408,
+              "indent": 0,
+              "parameters": ["đánh dấu nhiệm vụ hiện tại là đã hoàn thành."]
+            },
+            {
+              "code": 408,
+              "indent": 0,
+              "parameters": [""]
+            },
+            {
+              "code": 408,
+              "indent": 0,
+              "parameters": [
+                "Bản sửa lỗi này sẽ kiểm tra xem người chơi đã hoàn thành nhiệm vụ chưa"
+              ]
+            },
+            {
+              "code": 408,
+              "indent": 0,
+              "parameters": ["và sẽ hoàn tác nếu no =="]
+            },
             { "code": 111, "indent": 0, "parameters": [0, 263, 0] },
             { "code": 111, "indent": 1, "parameters": [1, 173, 0, 4, 4] },
             {
@@ -23195,26 +23181,24 @@
           },
           "list": [
             {
-    "code": 108,
-    "indent": 0,
-    "parameters": [
-      "== Điều này đã được thêm vào trong một bản cập nhật sau. Để đảm bảo người chơi"
-    ]
-  },
-  {
-    "code": 408,
-    "indent": 0,
-    "parameters": [
-      "thấy cái lỗ này, tôi vừa thêm một sự kiện cho mỗi vật phẩm/công tắc có thể có sau sự kiện... =="
-    ]
-  },
-  {
-    "code": 408,
-    "indent": 0,
-    "parameters": [
-      "công tắc sau sự kiện... =="
-    ]
-  },
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "== Điều này đã được thêm vào trong một bản cập nhật sau. Để đảm bảo người chơi"
+              ]
+            },
+            {
+              "code": 408,
+              "indent": 0,
+              "parameters": [
+                "thấy cái lỗ này, tôi vừa thêm một sự kiện cho mỗi vật phẩm/công tắc có thể có sau sự kiện... =="
+              ]
+            },
+            {
+              "code": 408,
+              "indent": 0,
+              "parameters": ["công tắc sau sự kiện... =="]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -23387,19 +23371,17 @@
           },
           "list": [
             {
-    "code": 108,
-    "indent": 0,
-    "parameters": [
-      "== Dành cho những người chơi đã hoàn thành sự kiện trước"
-    ]
-  },
-  {
-    "code": 408,
-    "indent": 0,
-    "parameters": [
-      "Beta 0.21.1 khi điều này được triển khai =="
-    ]
-  },
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "== Dành cho những người chơi đã hoàn thành sự kiện trước"
+              ]
+            },
+            {
+              "code": 408,
+              "indent": 0,
+              "parameters": ["Beta 0.21.1 khi điều này được triển khai =="]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
             {
               "code": 401,
@@ -23613,9 +23595,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Chắc chắn là no thể cưỡng lại được cháu rồi ~ ♥️"
-              ]
+              "parameters": ["Chắc chắn là no thể cưỡng lại được cháu rồi ~ ♥️"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             {
