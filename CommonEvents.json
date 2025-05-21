@@ -12174,16 +12174,6 @@
         "parameters": ["Chọn điểm đến trên tàu điện ngầm."]
       },
       {
-        "code": 355,
-        "indent": 0,
-        "parameters": ["hide_choice(3, \"$gameSwitches.value(155) === false\")"]
-      },
-      {
-        "code": 355,
-        "indent": 0,
-        "parameters": ["hide_choice(4, \"$gameSwitches.value(192) === false\")"]
-      },
-      {
         "code": 102,
         "indent": 0,
         "parameters": [
@@ -12307,7 +12297,6 @@
     "switchId": 1,
     "trigger": 0
   },
-
   {
     "id": 72,
     "list": [
