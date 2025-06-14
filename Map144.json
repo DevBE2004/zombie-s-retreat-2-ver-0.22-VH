@@ -2361,910 +2361,446 @@
       "x": 11,
       "y": 21
     },
+   {
+  "id": 13,
+  "name": "Lift Controls",
+  "note": "",
+  "pages": [
     {
-      "id": 13,
-      "name": "Lift Controls",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 15,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 155,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Đây là một bảng điều khiển.\\! Chúng ta có thể đi lên bằng cái này, đúng no?"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 4, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Có, nhưng nó no có vẻ như hoàn toàn hoạt động."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 4, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["*thở dài*! Dĩ nhiên là no..."]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 1, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Haha! \\BST[1]no bao giờ dễ dàng, đúng no?"]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 0, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Có hai khe cắm chìa khóa ở đây."]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 0, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Nếu chúng ta có thể tìm thấy một số chìa khóa, điều đó sẽ cho phép chúng ta sử dụng thang máy để đi lên cao hơn."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 0, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Hãy nhìn quanh xem."]
-            },
-            {
-              "code": 355,
-              "indent": 0,
-              "parameters": ["$gameSelfSwitches.setValue([144,36,'A'], true);"]
-            },
-            { "code": 123, "indent": 0, "parameters": ["A", 0] },
-            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": true,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 15,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": true,
-            "switch1Id": 155,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Tôi cần tìm chìa khóa để bật công tắc này."]
-            },
-            { "code": 111, "indent": 0, "parameters": [0, 241, 1] },
-            { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": true,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 15,
-            "actorValid": false,
-            "itemId": 49,
-            "itemValid": true,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 155,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 0] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Key", "volume": 90, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Chìa khóa Nhà Máy vừa vặn vào bảng điều khiển."]
-            },
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Computer", "volume": 90, "pitch": 100, "pan": 0 }
-              ]
-            },
-            {
-              "code": 230,
-              "indent": 0,
-              "parameters": [40]
-            },
-            {
-              "code": 213,
-              "indent": 0,
-              "parameters": [-1, 1, true]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 2, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Ôi no!\\! Chìa khóa đã gãy..!"]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 0, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["no sao đâu.\\! Nhìn kìa!"]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 1, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Một trong những nút của bảng điều khiển đã sáng lên!"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 0, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Chúng ta có thể đi lên tầng hai.\\! Có thể chúng ta sẽ tìm thấy một chìa khóa khác."
-              ]
-            },
-            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
-            { "code": 123, "indent": 0, "parameters": ["B", 0] },
-            { "code": 126, "indent": 0, "parameters": [49, 1, 0, 1] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": true,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 15,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "B",
-            "selfSwitchValid": true,
-            "switch1Id": 155,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 0] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Chọn một tầng."] },
-            {
-              "code": 102,
-              "indent": 0,
-              "parameters": [["2F", "Cancel"], 1, 0, 2, 0]
-            },
-            { "code": 402, "indent": 0, "parameters": [0, "2F"] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 3, "indent": null },
-                    { "code": 3, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [70] },
-            { "code": 221, "indent": 1, "parameters": [] },
-            { "code": 230, "indent": 1, "parameters": [20] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Machine", "volume": 90, "pitch": 150, "pan": 0 }
-              ]
-            },
-            { "code": 230, "indent": 1, "parameters": [90] },
-            { "code": 201, "indent": 1, "parameters": [0, 145, 14, 5, 2, 0] },
-            { "code": 230, "indent": 1, "parameters": [10] },
-            { "code": 222, "indent": 1, "parameters": [] },
-            { "code": 111, "indent": 1, "parameters": [0, 241, 1] },
-            { "code": 121, "indent": 2, "parameters": [40, 40, 0] },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 412, "indent": 1, "parameters": [] },
-            { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Cancel"] },
-            { "code": 111, "indent": 1, "parameters": [0, 241, 1] },
-            { "code": 121, "indent": 2, "parameters": [40, 40, 0] },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 412, "indent": 1, "parameters": [] },
-            { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 404, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": true,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 15,
-            "actorValid": false,
-            "itemId": 49,
-            "itemValid": true,
-            "selfSwitchCh": "B",
-            "selfSwitchValid": true,
-            "switch1Id": 155,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 0] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Key", "volume": 90, "pitch": 100, "pan": 0 }
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Chìa khóa Nhà Máy vừa vặn vào bảng điều khiển."]
-            },
-            {
-              "code": 250,
-              "indent": 0,
-              "parameters": [
-                { "name": "Computer", "volume": 90, "pitch": 100, "pan": 0 }
-              ]
-            },
-            {
-              "code": 230,
-              "indent": 0,
-              "parameters": [40]
-            },
-            {
-              "code": 213,
-              "indent": 0,
-              "parameters": [-1, 5, true]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 3, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Nó lại gãy rồi!\\! Ai làm ra những cái chìa khóa ngu ngốc này?!"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 0, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Nút cuối cùng đã sáng lên!"]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 0, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Chúng ta có thể lên tầng trên cùng bây giờ và điều tra."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 2, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Tôi no chắc chúng ta sẽ tìm thấy gì khi ở trên đó..."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 4, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Nhưng tôi có cảm giác no tốt về bất cứ điều gì đó."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1Lucy1", 4, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Hãy chắc chắn rằng bạn đã chuẩn bị đầy đủ trước khi chúng ta đi, được chứ?"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": ["1MC1", 0, 0, 2]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["Ừ.\\! Được rồi."]
-            },
-            {
-              "code": 355,
-              "indent": 0,
-              "parameters": ["$gameSelfSwitches.setValue([145,5,'A'], true);"]
-            },
-            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
-            { "code": 123, "indent": 0, "parameters": ["C", 0] },
-            { "code": 126, "indent": 0, "parameters": [49, 1, 0, 1] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": true,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 15,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "C",
-            "selfSwitchValid": true,
-            "switch1Id": 155,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 0] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Chọn một tầng."] },
-            {
-              "code": 102,
-              "indent": 0,
-              "parameters": [["2F", "3F", "Cancel"], 2, 0, 2, 0]
-            },
-            { "code": 402, "indent": 0, "parameters": [0, "2F"] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 3, "indent": null },
-                    { "code": 3, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [70] },
-            { "code": 221, "indent": 1, "parameters": [] },
-            { "code": 230, "indent": 1, "parameters": [20] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Machine", "volume": 90, "pitch": 150, "pan": 0 }
-              ]
-            },
-            { "code": 230, "indent": 1, "parameters": [90] },
-            { "code": 201, "indent": 1, "parameters": [0, 145, 14, 5, 2, 0] },
-            { "code": 230, "indent": 1, "parameters": [10] },
-            { "code": 222, "indent": 1, "parameters": [] },
-            { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
-            { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "3F"] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 3, "indent": null },
-                    { "code": 3, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [70] },
-            { "code": 221, "indent": 1, "parameters": [] },
-            { "code": 230, "indent": 1, "parameters": [20] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Machine", "volume": 90, "pitch": 150, "pan": 0 }
-              ]
-            },
-            { "code": 230, "indent": 1, "parameters": [90] },
-            { "code": 201, "indent": 1, "parameters": [0, 142, 12, 28, 8, 0] },
-            { "code": 230, "indent": 1, "parameters": [10] },
-            { "code": 222, "indent": 1, "parameters": [] },
-            { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
-            { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Cancel"] },
-            { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
-            { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 404, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": true,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        }
+      "conditions": {
+        "actorId": 15,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 155,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": true,
+      "image": {
+        "tileId": 0,
+        "characterName": "$Sparkle",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {"code": 121, "indent": 0, "parameters": [40, 40, 1]},
+        {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 19, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": true}]},
+        {"code": 505, "indent": 0, "parameters": [{"code": 19, "indent": null}]},
+        {"code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Đây là bảng điều khiển.\\! Chúng ta có thể đi lên bằng cái này, đúng không?"]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Đúng vậy, nhưng trông nó không hoạt động hoàn toàn đâu."]},
+        {"code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["*thở dài*\\! Tất nhiên là không rồi..."]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 1, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Haha!\\! \\BST[1]Chẳng bao giờ dễ dàng, đúng không?"]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Có hai khe cắm chìa khóa ở đây."]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Nếu tìm được chìa, chúng ta có thể dùng thang máy để đi lên cao hơn."]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Hãy tìm xung quanh xem."]},
+        {"code": 355, "indent": 0, "parameters": ["$gameSelfSwitches.setValue([144,36,'A'], true);"]},
+        {"code": 123, "indent": 0, "parameters": ["A", 0]},
+        {"code": 121, "indent": 0, "parameters": [40, 40, 0]},
+        {"code": 0, "indent": 0, "parameters": []}
       ],
-      "x": 19,
-      "y": 16
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [{"code": 0, "parameters": []}],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 0,
+      "stepAnime": true,
+      "through": false,
+      "trigger": 1,
+      "walkAnime": true
     },
+    {
+      "conditions": {
+        "actorId": 15,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": true,
+        "switch1Id": 155,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": true,
+      "image": {
+        "tileId": 0,
+        "characterName": "$Sparkle",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {"code": 121, "indent": 0, "parameters": [40, 40, 1]},
+        {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 19, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": true}]},
+        {"code": 505, "indent": 0, "parameters": [{"code": 19, "indent": null}]},
+        {"code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Tớ cần tìm một chìa khóa để bảng điều khiển này hoạt động."]},
+        {"code": 111, "indent": 0, "parameters": [0, 241, 1]},
+        {"code": 121, "indent": 1, "parameters": [40, 40, 0]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 412, "indent": 0, "parameters": []},
+        {"code": 0, "indent": 0, "parameters": []}
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [{"code": 0, "parameters": []}],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 0,
+      "stepAnime": true,
+      "through": false,
+      "trigger": 1,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 15,
+        "actorValid": false,
+        "itemId": 49,
+        "itemValid": true,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 155,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": true,
+      "image": {
+        "tileId": 0,
+        "characterName": "$Sparkle",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {"code": 121, "indent": 0, "parameters": [40, 40, 1]},
+        {"code": 121, "indent": 0, "parameters": [7, 7, 0]},
+        {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 19, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": true}]},
+        {"code": 505, "indent": 0, "parameters": [{"code": 19, "indent": null}]},
+        {"code": 250, "indent": 0, "parameters": [{"name": "Key", "volume": 90, "pitch": 100, "pan": 0}]},
+        {"code": 101, "indent": 0, "parameters": ["", 4, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Chìa khóa nhà máy vừa khít với bảng điều khiển."]},
+        {"code": 250, "indent": 0, "parameters": [{"name": "Computer", "volume": 90, "pitch": 100, "pan": 0}]},
+        {"code": 230, "indent": 0, "parameters": [40]},
+        {"code": 213, "indent": 0, "parameters": [-1, 1, true]},
+        {"code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Ôi không!\\! Chìa khóa bị gãy rồi..!"]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Không sao đâu.\\! Nhìn này!"]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 1, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Một nút trên bảng điều khiển sáng lên rồi!"]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Giờ chúng ta có thể lên tầng hai.\\! Có lẽ sẽ tìm được chìa khóa khác."]},
+        {"code": 121, "indent": 0, "parameters": [40, 40, 0]},
+        {"code": 121, "indent": 0, "parameters": [7, 7, 1]},
+        {"code": 123, "indent": 0, "parameters": ["B", 0]},
+        {"code": 126, "indent": 0, "parameters": [49, 1, 0, 1]},
+        {"code": 0, "indent": 0, "parameters": []}
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [{"code": 0, "parameters": []}],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 0,
+      "stepAnime": true,
+      "through": false,
+      "trigger": 1,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 15,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "B",
+        "selfSwitchValid": true,
+        "switch1Id": 155,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": true,
+      "image": {
+        "tileId": 0,
+        "characterName": "$Sparkle",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {"code": 121, "indent": 0, "parameters": [40, 40, 1]},
+        {"code": 121, "indent": 0, "parameters": [7, 7, 0]},
+        {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 19, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": true}]},
+        {"code": 505, "indent": 0, "parameters": [{"code": 19, "indent": null}]},
+        {"code": 101, "indent": 0, "parameters": ["", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Chọn một tầng."]},
+        {"code": 102, "indent": 0, "parameters": [["Tầng 2", "Hủy"], 1, 0, 2, 0]},
+        {"code": 402, "indent": 0, "parameters": [0, "2F"]},
+        {"code": 205, "indent": 1, "parameters": [-1, {"list": [{"code": 3, "indent": null}, {"code": 3, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": false}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 230, "indent": 1, "parameters": [70]},
+        {"code": 221, "indent": 1, "parameters": []},
+        {"code": 230, "indent": 1, "parameters": [20]},
+        {"code": 250, "indent": 1, "parameters": [{"name": "Machine", "volume": 90, "pitch": 150, "pan": 0}]},
+        {"code": 230, "indent": 1, "parameters": [90]},
+        {"code": 201, "indent": 1, "parameters": [0, 145, 14, 5, 2, 0]},
+        {"code": 230, "indent": 1, "parameters": [10]},
+        {"code": 222, "indent": 1, "parameters": []},
+        {"code": 111, "indent": 1, "parameters": [0, 241, 1]},
+        {"code": 121, "indent": 2, "parameters": [40, 40, 0]},
+        {"code": 0, "indent": 2, "parameters": []},
+        {"code": 412, "indent": 1, "parameters": []},
+        {"code": 121, "indent": 1, "parameters": [7, 7, 1]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 402, "indent": 0, "parameters": [1, "Cancel"]},
+        {"code": 111, "indent": 1, "parameters": [0, 241, 1]},
+        {"code": 121, "indent": 2, "parameters": [40, 40, 0]},
+        {"code": 0, "indent": 2, "parameters": []},
+        {"code": 412, "indent": 1, "parameters": []},
+        {"code": 121, "indent": 1, "parameters": [7, 7, 1]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 404, "indent": 0, "parameters": []},
+        {"code": 0, "indent": 0, "parameters": []}
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [{"code": 0, "parameters": []}],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 0,
+      "stepAnime": true,
+      "through": false,
+      "trigger": 1,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 15,
+        "actorValid": false,
+        "itemId": 49,
+        "itemValid": true,
+        "selfSwitchCh": "B",
+        "selfSwitchValid": true,
+        "switch1Id": 155,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": true,
+      "image": {
+        "tileId": 0,
+        "characterName": "$Sparkle",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {"code": 121, "indent": 0, "parameters": [40, 40, 1]},
+        {"code": 121, "indent": 0, "parameters": [7, 7, 0]},
+        {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 19, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": true}]},
+        {"code": 505, "indent": 0, "parameters": [{"code": 19, "indent": null}]},
+        {"code": 250, "indent": 0, "parameters": [{"name": "Key", "volume": 90, "pitch": 100, "pan": 0}]},
+        {"code": 101, "indent": 0, "parameters": ["", 4, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Chìa khóa nhà máy vừa khít với bảng điều khiển."]},
+        {"code": 250, "indent": 0, "parameters": [{"name": "Computer", "volume": 90, "pitch": 100, "pan": 0}]},
+        {"code": 230, "indent": 0, "parameters": [40]},
+        {"code": 213, "indent": 0, "parameters": [-1, 5, true]},
+        {"code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Lại gãy nữa rồi!\\! Ai làm mấy cái chìa khóa dởm này thế?!"]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Nút cuối cùng cũng sáng lên rồi!"]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Giờ chúng ta có thể lên tầng cao nhất để điều tra."]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Tớ không chắc chúng ta sẽ tìm thấy gì ở trên đó..."]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Nhưng tớ có linh cảm chẳng lành về bất cứ thứ gì ở đó."]},
+        {"code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Hãy đảm bảo cậu đã chuẩn bị đầy đủ trước khi đi, nhé?"]},
+        {"code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Ừ.\\! Hiểu rồi."]},
+        {"code": 355, "indent": 0, "parameters": ["$gameSelfSwitches.setValue([145,5,'A'], true);"]},
+        {"code": 121, "indent": 0, "parameters": [40, 40, 0]},
+        {"code": 121, "indent": 0, "parameters": [7, 7, 1]},
+        {"code": 123, "indent": 0, "parameters": ["C", 0]},
+        {"code": 126, "indent": 0, "parameters": [49, 1, 0, 1]},
+        {"code": 0, "indent": 0, "parameters": []}
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [{"code": 0, "parameters": []}],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 0,
+      "stepAnime": true,
+      "through": false,
+      "trigger": 1,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 15,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "C",
+        "selfSwitchValid": true,
+        "switch1Id": 155,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": true,
+      "image": {
+        "tileId": 0,
+        "characterName": "$Sparkle",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {"code": 121, "indent": 0, "parameters": [40, 40, 1]},
+        {"code": 121, "indent": 0, "parameters": [7, 7, 0]},
+        {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 19, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": true}]},
+        {"code": 505, "indent": 0, "parameters": [{"code": 19, "indent": null}]},
+        {"code": 101, "indent": 0, "parameters": ["", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Chọn một tầng."]},
+        {"code": 102, "indent": 0, "parameters": [["Tầng 2", "Tầng 3", "Hủy"], 2, 0, 2, 0]},
+        {"code": 402, "indent": 0, "parameters": [0, "2F"]},
+        {"code": 205, "indent": 1, "parameters": [-1, {"list": [{"code": 3, "indent": null}, {"code": 3, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": false}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 230, "indent": 1, "parameters": [70]},
+        {"code": 221, "indent": 1, "parameters": []},
+        {"code": 230, "indent": 1, "parameters": [20]},
+        {"code": 250, "indent": 1, "parameters": [{"name": "Machine", "volume": 90, "pitch": 150, "pan": 0}]},
+        {"code": 230, "indent": 1, "parameters": [90]},
+        {"code": 201, "indent": 1, "parameters": [0, 145, 14, 5, 2, 0]},
+        {"code": 230, "indent": 1, "parameters": [10]},
+        {"code": 222, "indent": 1, "parameters": []},
+        {"code": 121, "indent": 1, "parameters": [40, 40, 0]},
+        {"code": 121, "indent": 1, "parameters": [7, 7, 1]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 402, "indent": 0, "parameters": [1, "3F"]},
+        {"code": 108, "indent": 1, "parameters": ["== \\/ Đặt lại trận đánh với boss vì tôi không biết tại sao"]},
+        {"code": 408, "indent": 1, "parameters": ["trận đánh lại bắt đầu cho người chơi =="]},
+        {"code": 121, "indent": 1, "parameters": [145, 145, 1]},
+        {"code": 121, "indent": 1, "parameters": [147, 147, 1]},
+        {"code": 122, "indent": 1, "parameters": [113, 113, 0, 0, 0]},
+        {"code": 122, "indent": 1, "parameters": [111, 111, 0, 0, 0]},
+        {"code": 122, "indent": 1, "parameters": [114, 114, 0, 0, 0]},
+        {"code": 122, "indent": 1, "parameters": [112, 112, 0, 0, 0]},
+        {"code": 122, "indent": 1, "parameters": [115, 115, 0, 0, 0]},
+        {"code": 122, "indent": 1, "parameters": [116, 116, 0, 0, 0]},
+        {"code": 108, "indent": 1, "parameters": ["== /\\ Các sự kiện này cũng xảy ra trên thang máy ở bản đồ Tầng 2 Nhà máy =="]},
+        {"code": 408, "indent": 1, "parameters": ["thang máy =="]},
+        {"code": 205, "indent": 1, "parameters": [-1, {"list": [{"code": 3, "indent": null}, {"code": 3, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": false}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 230, "indent": 1, "parameters": [70]},
+        {"code": 221, "indent": 1, "parameters": []},
+        {"code": 230, "indent": 1, "parameters": [20]},
+        {"code": 250, "indent": 1, "parameters": [{"name": "Machine", "volume": 90, "pitch": 150, "pan": 0}]},
+        {"code": 230, "indent": 1, "parameters": [90]},
+        {"code": 201, "indent": 1, "parameters": [0, 142, 12, 28, 8, 0]},
+        {"code": 230, "indent": 1, "parameters": [10]},
+        {"code": 222, "indent": 1, "parameters": []},
+        {"code": 121, "indent": 1, "parameters": [40, 40, 0]},
+        {"code": 121, "indent": 1, "parameters": [7, 7, 1]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 402, "indent": 0, "parameters": [2, "Cancel"]},
+        {"code": 121, "indent": 1, "parameters": [40, 40, 0]},
+        {"code": 121, "indent": 1, "parameters": [7, 7, 1]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 404, "indent": 0, "parameters": []},
+        {"code": 0, "indent": 0, "parameters": []}
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [{"code": 0, "parameters": []}],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 0,
+      "stepAnime": true,
+      "through": false,
+      "trigger": 1,
+      "walkAnime": true
+    }
+  ],
+  "x": 19,
+  "y": 16
+},
     {
       "id": 14,
       "name": "DoorExit1",

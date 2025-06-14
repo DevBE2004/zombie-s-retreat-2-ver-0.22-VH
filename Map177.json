@@ -1,0 +1,941 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "Water Facility",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 26,
+  "note": "<fog effect>\n        id: 1\n        name: 'fog'\n        opacity: 160\n        hue: 100\n        move x: 3\n        move y: 2\n       </fog effect>",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 31,
+  "width": 22,
+  "data": [
+    6944, 6944, 6968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6960,
+    6944, 6944, 6944, 6968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    6960, 6944, 6944, 6948, 6982, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 6984, 6952, 6944, 6968, 7334, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 7331, 6960, 6944, 6968, 7332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 7329, 6960, 6944, 6968, 7340, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 7337, 6960, 6972, 6982, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6984, 7330, 7334, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7331, 7328, 7332, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7329, 7328, 7332, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7329, 7337, 7340, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7337, 2068, 2068, 2068, 2068, 2068, 2084, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 2082, 2068, 2068, 2068, 2068, 2068, 2048, 2048,
+    2048, 2048, 2048, 2072, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2064, 2048, 2048,
+    2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2072, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 2064, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048,
+    2072, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2064, 2048, 2048, 2048, 2048, 2048,
+    2048, 2048, 2048, 2048, 2048, 2072, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2064,
+    2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2072, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 2064, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048,
+    2048, 2048, 2072, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2064, 2048, 2048, 2048,
+    2048, 2048, 2048, 2048, 2048, 2048, 2048, 2072, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 2064, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2050,
+    2084, 0, 0, 0, 0, 0, 0, 0, 0, 2082, 2049, 2048, 2048, 2048, 2048, 2048,
+    2048, 2048, 2048, 2048, 2048, 2048, 2050, 2069, 2081, 2081, 2081, 2081,
+    2081, 2081, 2070, 2049, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048,
+    2048, 2048, 2048, 2048, 2052, 2086, 1640, 1640, 1640, 1640, 1640, 1640,
+    2088, 2056, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048, 2048,
+    2048, 2048, 2072, 1640, 1640, 1641, 1640, 1640, 1640, 1640, 1640, 2064,
+    2048, 2048, 2048, 2048, 2048, 2048, 2076, 2056, 2048, 2048, 2048, 2052,
+    2086, 1640, 1640, 1640, 1640, 1640, 1640, 1640, 1640, 2088, 2056, 2048,
+    2048, 2048, 2052, 2076, 6980, 2088, 2056, 2048, 2052, 2086, 1640, 1640,
+    1640, 1640, 1640, 1640, 1640, 1640, 1640, 1640, 2088, 2056, 2048, 2052,
+    2086, 6978, 6946, 6980, 2064, 2048, 2072, 6978, 6964, 6964, 6964, 6980,
+    6882, 6884, 6978, 6964, 6964, 6964, 6980, 2064, 2048, 2072, 6978, 6945, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 129, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 62, 62, 62, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 69, 0, 71, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 132, 132, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 62, 62, 62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 62, 62, 62, 62, 62, 62, 62, 62, 0, 0, 62, 62, 62, 0, 0, 0,
+    62, 62, 62, 0, 0, 0, 73, 78, 0, 0, 0, 0, 0, 78, 0, 0, 78, 0, 78, 0, 0, 0, 0,
+    0, 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 188, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 129, 0, 0, 129, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    438, 0, 0, 0, 0, 164, 0, 0, 163, 172, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    446, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 454, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 128, 296, 130, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 136, 304, 138, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 355, 356, 0, 0, 144, 62, 146, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 363, 364, 173, 132, 172, 62, 171, 132, 132, 132, 173, 172, 42, 42, 171,
+    132, 132, 132, 132, 0, 0, 0, 379, 380, 357, 62, 62, 62, 62, 62, 62, 62, 62,
+    62, 62, 62, 62, 62, 62, 62, 62, 0, 1, 0, 132, 172, 365, 171, 132, 173, 132,
+    133, 62, 62, 131, 173, 172, 62, 62, 62, 171, 173, 132, 182, 0, 0, 78, 79,
+    74, 77, 78, 78, 78, 141, 62, 62, 139, 78, 79, 74, 74, 74, 77, 78, 78, 183,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 141, 62, 62, 139, 0, 0, 0, 0, 0, 0, 0, 0, 188,
+    129, 129, 129, 170, 129, 129, 137, 0, 0, 141, 62, 62, 139, 0, 0, 154, 129,
+    129, 129, 129, 129, 129, 0, 0, 0, 0, 418, 419, 136, 0, 0, 141, 62, 62, 139,
+    0, 0, 138, 0, 0, 0, 0, 0, 0, 214, 0, 0, 0, 426, 427, 136, 0, 0, 141, 62, 62,
+    139, 0, 0, 138, 0, 0, 0, 0, 413, 436, 222, 0, 0, 0, 0, 0, 136, 0, 0, 141,
+    62, 62, 139, 0, 0, 138, 0, 0, 0, 0, 421, 444, 221, 246, 238, 0, 0, 0, 136,
+    0, 0, 141, 62, 62, 139, 0, 0, 138, 0, 0, 0, 0, 429, 452, 245, 215, 0, 0, 0,
+    0, 136, 0, 0, 141, 62, 62, 139, 0, 0, 138, 0, 0, 0, 0, 0, 0, 228, 229, 214,
+    0, 0, 0, 136, 0, 0, 141, 62, 62, 139, 0, 0, 138, 0, 0, 0, 0, 413, 436, 0, 0,
+    223, 0, 0, 0, 136, 0, 0, 141, 62, 62, 139, 0, 0, 138, 0, 0, 0, 0, 421, 444,
+    0, 236, 230, 0, 0, 0, 144, 137, 0, 141, 62, 62, 139, 0, 154, 146, 0, 0, 0,
+    0, 429, 452, 0, 0, 0, 0, 0, 0, 0, 144, 129, 141, 62, 62, 139, 129, 146, 0,
+    0, 0, 0, 0, 0, 704, 0, 0, 436, 437, 413, 0, 0, 0, 171, 149, 62, 62, 147,
+    352, 0, 0, 0, 413, 436, 437, 438, 712, 0, 0, 444, 445, 421, 0, 0, 373, 0, 0,
+    0, 0, 0, 360, 0, 0, 0, 421, 444, 445, 446, 0, 0, 0, 452, 453, 429, 0, 0,
+    381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 429, 452, 453, 454, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 357, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 15, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 12, 15, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    30, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0,
+    0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 0, 30,
+    30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 30, 30, 30,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 30, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 30, 0, 0, 30, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "Cutscenes",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list":[
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Trời, ở đây sương mù quá..."]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Bình thường thì hơi nước sẽ có ở những nơi như thế này."]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Nhưng mật độ này...\\! Có gì đó không đúng."]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Chúng ta hãy điều tra thêm."]
+  },
+  { "code": 0, "indent": 0, "parameters": [] }
+],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Chúng ta có thể đi về phía trước theo lối này."]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["Hngh!"] },
+  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 6, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["\\n[1]?"] },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Đ-Đầu tôi..!\\! Nó đang nhức nhối!"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 6, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["Anh có ổn không?"] },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 3, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["K-Không\\! \\BST[7]Nyagh ~ !"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 3, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["\\n[1]!\\! Coi chừng!"]
+  },
+  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 3, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["KHÔNG!"] },
+  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 3, 0, 2] },
+  { "code": 401, "indent": 0, "parameters": ["\\n[1] ~ !"] },
+  { "code": 230, "indent": 0, "parameters": [60] },
+  { "code": 221, "indent": 0, "parameters": [] },
+  { "code": 0, "indent": 0, "parameters": [] }
+],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 4,
+      "y": 1
+    },
+    {
+      "id": 2,
+      "name": "Gate",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 461,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 4
+    },
+    {
+      "id": 3,
+      "name": "DoorExit1",
+      "note": "<Hitbox Right: 1>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Open3", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 181, 5, 5, 2, 0] },
+            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 422,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+  { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
+  { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+  {
+    "code": 401,
+    "indent": 0,
+    "parameters": ["Không, tôi nghĩ thang máy ở hướng ngược lại..."]
+  },
+  { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
+  { "code": 0, "indent": 0, "parameters": [] }
+],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 10,
+      "y": 25
+    },
+    {
+      "id": 4,
+      "name": "Arrow",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Arrow",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 20,
+      "y": 4
+    },
+    {
+      "id": 5,
+      "name": "DoorExit1",
+      "note": "<Hitbox Down: 2>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Open3", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 201, "indent": 0, "parameters": [0, 183, 4, 12, 6, 0] },
+            { "code": 121, "indent": 0, "parameters": [422, 422, 0] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Open3", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 183, 4, 12, 6, 0] },
+            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 21,
+      "y": 6
+    },
+    {
+      "id": 6,
+      "name": "Elevator Trigger",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 422,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$Sparkle",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
+            { "code": 121, "indent": 0, "parameters": [7, 7, 0] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                0,
+                {
+                  "list": [{ "code": 39, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 39, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([177,2,'A'], true);"]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door3", "volume": 90, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [45] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 4, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([177,2,'A'], false);"]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door3", "volume": 90, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [45] },
+            { "code": 225, "indent": 0, "parameters": [5, 5, 30, false] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Machine", "volume": 90, "pitch": 80, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            { "code": 242, "indent": 0, "parameters": [3] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [90] },
+            { "code": 281, "indent": 0, "parameters": [1] },
+            { "code": 356, "indent": 0, "parameters": ["Light activate"] },
+            { "code": 201, "indent": 0, "parameters": [0, 184, 7, 42, 2, 0] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                { "name": "Drips", "volume": 15, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            { "code": 281, "indent": 0, "parameters": [0] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([184,1,'A'], true);"]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door3", "volume": 90, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [45] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([184,1,'A'], false);"]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door3", "volume": 90, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [45] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Switch1", "volume": 60, "pitch": 120, "pan": 0 }
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["Light radius 1 #FFFFFF"]
+            },
+            { "code": 356, "indent": 0, "parameters": ["Flashlight on"] },
+            { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
+            { "code": 121, "indent": 0, "parameters": [40, 40, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 5
+    }
+  ]
+}

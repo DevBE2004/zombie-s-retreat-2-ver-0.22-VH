@@ -303,6 +303,1341 @@
           "through": false,
           "trigger": 0,
           "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 117, "indent": 0, "parameters": [12] },
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[34, -34, -68, 170], 1, true]
+            },
+            { "code": 204, "indent": 0, "parameters": [6, 2, 6] },
+            { "code": 230, "indent": 0, "parameters": [180] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["     Sao chuyện này lại xảy ra..?\\| \\| \\^"]
+            },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 0] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "<br>                                     Anh và em...\\| \\| \\^"
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [180] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "                         Chúng ta đã từng...\\| Bạn bè.\\| \\| \\^"
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [90] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 204, "indent": 0, "parameters": [8, 4, 2] },
+            { "code": 230, "indent": 0, "parameters": [90] },
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[0, 0, 0, 0], 180, false]
+            },
+            { "code": 213, "indent": 0, "parameters": [2, 6, false] },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            { "code": 213, "indent": 0, "parameters": [3, 3, false] },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 320, "indent": 0, "parameters": [19, "Lucas"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Trại Zomi...! Anh đã ở đó với tôi..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đúng rồi...! Tôi biết anh..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Tên của anh...! Là ~"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 303, "indent": 1, "parameters": [19, 8] },
+            { "code": 230, "indent": 1, "parameters": [30] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 1] },
+            { "code": 401, "indent": 1, "parameters": ["\\n[19]..."] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Yes"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "No"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 1] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Không, không...! Không phải thế."]
+            },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 1] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Tên của anh ấy là..."]
+            },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                2,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [20], "indent": null },
+                    { "code": 18, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [20], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [90], "indent": null },
+                    { "code": 17, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [90], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [90] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([89,3,'A'], true);"]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Paralyze3", "volume": 90, "pitch": 90, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [40] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([89,3,'A'], false);"]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Chuyện gì đã xảy ra với anh vậy..?"]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                2,
+                {
+                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [40] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Sao tôi lại không nhớ ra anh..?"]
+            },
+            { "code": 230, "indent": 0, "parameters": [90] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                2,
+                {
+                  "list": [{ "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [{ "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [2, 1, false] },
+            { "code": 230, "indent": 0, "parameters": [5] },
+            { "code": 213, "indent": 0, "parameters": [3, 1, true] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 201, "indent": 0, "parameters": [0, 142, 12, 17, 2, 0] },
+            { "code": 246, "indent": 0, "parameters": [3] },
+            { "code": 117, "indent": 0, "parameters": [57] },
+            { "code": 123, "indent": 0, "parameters": ["B", 1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "C",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 117, "indent": 0, "parameters": [12] },
+            { "code": 204, "indent": 0, "parameters": [8, 4, 6] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([89,2,'B'], true);"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([89,3,'B'], true);"]
+            },
+            { "code": 230, "indent": 0, "parameters": [180] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [40] },
+            { "code": 204, "indent": 0, "parameters": [2, 4, 2] },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            { "code": 213, "indent": 0, "parameters": [2, 6, true] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[1]>Nếu chúng ta cứ lẻn ra khỏi trại, chúng ta sẽ gặp rắc rối đấy!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[19]>À, đừng lo lắng về chuyện đó! Chúng ta sẽ ổn thôi!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[19]>Anh phải học cách thư giãn và đi nhiều cuộc phiêu lưu hơn nữa!"
+              ]
+            },
+            { "code": 213, "indent": 0, "parameters": [3, 3, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[19]>Heh heh heh..."]
+            },
+            { "code": 230, "indent": 0, "parameters": [90] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[19]>Này \\n[1]! Anh nghĩ gì về Lucy?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[1]>Tôi nghĩ gì à..?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[1]>Cô ấy rất tốt bụng! Tôi rất vui vì chúng ta đã rủ cô ấy làm bạn ở đây!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[19]>Chà! Dĩ nhiên!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[19]>Nhưng anh có nghĩ cô ấy dễ thương không?"
+              ]
+            },
+            { "code": 213, "indent": 0, "parameters": [2, 6, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[1]>Gì?! T-Chúng ta vừa mới gặp cô ấy..."]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    { "code": 17, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[19]>Ừ, thì sao?"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    { "code": 19, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[19]>Tôi nghĩ cô ấy rất dễ thương!"]
+            },
+            { "code": 213, "indent": 0, "parameters": [3, 3, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[19]>Tôi sẽ rủ cô ấy làm bạn gái của tôi! Heh heh!"
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                2,
+                {
+                  "list": [{ "code": 18, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 18, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [2, 1, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[1]>K-Không! Đợi đã!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[1]>T-Tôi sẽ rủ cô ấy làm bạn gái của tôi trước!"
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    { "code": 17, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[19]>Anh á?! Há há!"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    { "code": 19, "indent": null },
+                    { "code": 15, "parameters": [15], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [15], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[19]>Tôi крутой hơn nhiều!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[19]>Và tôi cá là cô ấy chỉ thích những anh chàng крутой!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Heeeeey ~ !\\! Các chiiiiến hữu ~ !"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([89,4,'A'], true);"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                2,
+                {
+                  "list": [{ "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [10], "indent": null },
+                    { "code": 16, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [10], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [2, 1, false] },
+            { "code": 230, "indent": 0, "parameters": [5] },
+            { "code": 213, "indent": 0, "parameters": [3, 1, true] },
+            { "code": 204, "indent": 0, "parameters": [2, 3, 3] },
+            { "code": 230, "indent": 0, "parameters": [20] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                2,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [30], "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [30], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [45], "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [45], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 4, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [40] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Em đã tìm hai anh khắp nơi!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>Không phải hôm nay chúng ta đi chèo thuyền sao?!"
+              ]
+            },
+            { "code": 213, "indent": 0, "parameters": [3, 3, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[19]>Heh heh.\\! Em đoán là anh quên mất chuyện đó rồi..."
+              ]
+            },
+            { "code": 213, "indent": 0, "parameters": [4, 5, false] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [{ "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<Lucy>Hừ!"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>Vậy thì em đoán là chúng ta sẽ đi vào ngày mai vậy..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[1]>X-Xin lỗi Lucy..."]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 19, "indent": null },
+                    { "code": 15, "parameters": [10], "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [10], "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>*cười khúc khích*\\! Không sao đâu, em tha cho anh!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Nhưng chỉ với một điều kiện!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\n[19]>Okay, đó là gì?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Ai về trại sau cùng là kẻ thua cuộc!"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [4], "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 39, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 39, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [2, 1, false] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                2,
+                {
+                  "list": [{ "code": 1, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<\\n[1]>Đợi đã!"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                2,
+                {
+                  "list": [
+                    { "code": 29, "parameters": [4], "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 39, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 39, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    { "code": 15, "parameters": [45], "indent": null },
+                    { "code": 29, "parameters": [4], "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 1, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 39, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": true,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [45], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 1, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 39, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [3, 5, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\n[19]>Ê, không công bằng! Chậm lại điiii ~ !"
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 204, "indent": 0, "parameters": [8, 5, 3] },
+            { "code": 230, "indent": 0, "parameters": [260] },
+            { "code": 108, "indent": 0, "parameters": ["==========="] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSelfSwitches.setValue([175,2,'B'], true);"]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 211, "indent": 0, "parameters": [1] },
+            { "code": 201, "indent": 0, "parameters": [0, 175, 9, 5, 4, 0] },
+            { "code": 246, "indent": 0, "parameters": [3] },
+            { "code": 117, "indent": 0, "parameters": [57] },
+            { "code": 123, "indent": 0, "parameters": ["C", 1] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
         }
       ],
       "x": 1,
@@ -349,7 +1684,47 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1Story",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": true,
           "trigger": 0,
           "walkAnime": true
         }
@@ -359,7 +1734,7 @@
     },
     {
       "id": 3,
-      "name": "Him",
+      "name": "Lucas",
       "note": "",
       "pages": [
         {
@@ -398,7 +1773,87 @@
           "moveType": 0,
           "priorityType": 1,
           "stepAnime": false,
-          "through": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "L001",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1Story",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": true,
           "trigger": 0,
           "walkAnime": true
         }
@@ -406,7 +1861,55 @@
       "x": 13,
       "y": 18
     },
-    null,
+    {
+      "id": 4,
+      "name": "Lucy",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1Story",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 25
+    },
     null,
     null,
     null,

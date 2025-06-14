@@ -310,7 +310,9 @@
             {
               "code": 408,
               "indent": 1,
-              "parameters": ["Can delete after Đã đạt được một số time has passed..."]
+              "parameters": [
+                "Can delete after Đã đạt được một số time has passed..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Nadia1", 4, 0, 2] },
             {
@@ -409,7 +411,9 @@
             {
               "code": 408,
               "indent": 1,
-              "parameters": ["Can delete after Đã đạt được một số time has passed..."]
+              "parameters": [
+                "Can delete after Đã đạt được một số time has passed..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["1Nadia1", 4, 0, 2] },
             {
@@ -663,112 +667,113 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Vậy...?!\\! Em thấy căn phòng này thế nào?!"]
+              "parameters": ["Thế nào?!\\! Cậu thấy sao?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Giờ nó trông ấm áp lắm!\\! \\BST[1]Nó làm em nhớ đến căn hộ cũ của chị."
+                "Trông thật hấp dẫn!\\! \\BST[1]Nó làm tớ nhớ đến căn hộ cũ của cậu một chút."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Fiona cũng nói với chị như thế!"]
+              "parameters": ["Đúng như những gì tớ đã nói với Fiona!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Căn phòng này làm chị nhớ đến những ngày tháng nhàn rỗi trước khi đại dịch diễn ra."
+                "Tớ muốn một không gian gợi nhớ đến những ngày tháng vô tư mà t�ớ đã trải qua "
               ]
             },
+            { "code": 401, "indent": 0, "parameters": ["ở đó."] },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Giờ chị no còn cảm thấy lạc lõng nữa!\\! \\BST[1]Cảm ơn em nhé, \\n[1]."
+                "Nó đã giúp tớ cảm thấy phấn chấn hơn rất nhiều!\\! \\BST[1]Tớ không thể cảm ơn cậu đủ, \\n[1]."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thấy chị hạnh phúc như thế là em vui rồi."]
+              "parameters": ["Nhìn thấy cậu vui là đủ với tớ rồi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["À thì, chị muốn hỏi em việc này..."]
+              "parameters": ["Ừm, nếu không quá phiền..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Có một việc em có thể làm để khiến chị cảm thấy hạnh phúc hơn nữa."
+                "Còn một việc nữa cậu có thể làm để khiến tớ hạnh phúc hơn."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Việc gì thế ạ?"] },
+            { "code": 401, "indent": 0, "parameters": ["Là gì thế?"] },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em có thể...\\! Đêm nay, chúng ta 'vuốt ve' nhau trên giường nhé?"
+                "Cậu có...\\! ôm tớ ngủ trên giường tối nay không?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["VUỐT VE?!"] },
+            { "code": 401, "indent": 0, "parameters": ["ÔM?!"] },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chắc chị đòi hỏi quá nhiều rồi nhỉ...?"]
+              "parameters": ["Chắc tớ đã đòi hỏi quá nhiều rồi..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "no, no, em no có vấn đề gì với việc đó..."
-              ]
+              "parameters": ["Không, không, tớ không ngại làm chuyện đó."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Chỉ là em hơi bất ngờ thôi."]
+              "parameters": ["Chỉ là bất ngờ thôi, thế thôi."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thật ư?!\\! Vậy em đồng ý rồi đúng chứ?!"]
+              "parameters": ["Thật chứ?!\\! Vậy cậu đồng ý nhé?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Vâng ạ, tại sao lại no chứ."]
+              "parameters": ["Tớ không thấy có vấn đề gì cả."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Tuyệt quá đi ~"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Nghe cậu đồng ý thật nhẹ nhõm!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Vậy thì...\\! Đến đây và nằm xuống với chị nào..."
-              ]
+              "parameters": ["Vậy thì,\\! lại đây và nằm xuống với tớ..."]
             },
             { "code": 213, "indent": 0, "parameters": [4, 4, true] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -865,28 +870,26 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Được trở về căn phòng này là tuyệt nhất..."]
+              "parameters": ["Thật tuyệt khi được trở về nhà..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mặc dù chị và em vẫn chưa tìm ra Isaac..."]
+              "parameters": ["Chúng ta có thể chưa tìm thấy em trai cậu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Nhưng chúng ta đã biết được những việc mà cậu ấy làm!"
-              ]
+              "parameters": ["Nhưng ít ra chúng ta biết cậu ấy đang làm gì!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*cười khúc khích*\\! Chị vẫn no thể ngờ là em ấy lại quan hệ tình dục với chính giáo viên của mình!"
+                "*cười*\\! Tớ vẫn không thể tin nổi cậu ấy lại quan hệ với cô giáo của mình!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
@@ -894,14 +897,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nó thực sự khiến chị phải suy nghĩ khá nhiều, em biết đấy..."
+                "Chuyện đó khiến tớ suy nghĩ rất nhiều, cậu biết đấy..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Sao chị lại nghĩ về chuyện đó?"]
+              "parameters": ["Nó khiến cậu nghĩ gì?"]
             },
             {
               "code": 205,
@@ -969,7 +972,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em biết đấy \\n[1], chị đã tự mình chăm sóc Isaac được một thời gian rồi."
+                "Cậu biết không \\n[1], tớ đã chăm sóc Isaac một mình khá lâu rồi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
@@ -977,21 +980,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bố mẹ bọn chị là bác sĩ quốc tế.\\! Nên họ thường xuyên phải ra biển để giúp đỡ mọi người..."
+                "Bố mẹ chúng tớ là bác sĩ quốc tế.\\! Nên họ thường xuyên ở nước ngoài giúp đỡ người khác..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Vì thế, có nhiều khi chỉ có mình chị và em ấy."]
+              "parameters": ["Vì vậy, thường chỉ có tớ và cậu ấy."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Khi biết Isaac lén lút sau lưng chị làm những chuyện bậy bạ đó thì chị đã rất sốc."
+                "Khi biết cậu ấy lén lút làm mấy chuyện nghịch ngợm, tớ đã rất sốc."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
@@ -999,23 +1002,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng cùng lúc đó thì một thứ khác trong chị cũng trỗi dậy..."
+                "Nhưng đồng thời, điều gì đó trong tớ cũng thức tỉnh."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Sống một cuộc đời đầy đủ...\\! Vướng phải những rắc rối."
-              ]
+              "parameters": ["Sống hết mình...\\! Gây rắc rối."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị đã no nhận ra bản thân mình cũng khao khát được giống như bao người phụ nữ khác..."
+                "Tớ không nhận ra mình khao khát sự kích thích đó đến mức nào."
               ]
             },
             {
@@ -1056,14 +1057,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<\\n[1]>C-Chị N-Nadia..!"]
+              "parameters": ["\\n<\\n[1]>N-Nadia..!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Nadia>Em có cảm nhận được no...?\\! Hơi ấm cơ thể của hai ta?"
+                "\\n<Nadia>Cậu có cảm nhận được không?\\! Sự ấm áp khi cơ thể chúng ta gần nhau thế này?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1071,7 +1072,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Nadia>Việc trông chừng Isaac khiến chị nhận ra là mình..."
+                "\\n<Nadia>Chăm sóc Isaac khiến tớ nhận ra mình khao khát chăm sóc những người tớ yêu..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1079,7 +1080,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Nadia>Cũng có khao khát được chăm sóc những người mà chị yêu thương..."
+                "\\n<Nadia>Khao khát bảo vệ.\\! Mong muốn an ủi.\\! Ma lực của sự thân mật..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1087,7 +1088,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Nadia>Chị có thể cảm nhận được điều đó.\\! Chị biết lúc này em muốn gì..."
+                "\\n<Nadia>Tớ cảm nhận được.\\! Tớ biết cậu muốn gì."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1109,7 +1110,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Nadia>Đây là thứ em muốn thấy, đúng chứ?"]
+              "parameters": [
+                "\\n<Nadia>Đây là thứ cậu thật sự muốn thấy, phải không?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["\\n<\\n[1]>Whoaa..."] },
@@ -1118,7 +1121,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Nadia>Nói chị nghe đi, \\n[1]...\\! Em có thấy chị xinh no?"
+                "\\n<Nadia>Nói tớ nghe \\n[1]...\\! Cậu có còn nghĩ tớ xinh không?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1126,7 +1129,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<\\n[1]>Chị no chỉ xinh thôi đâu, chị Nadia.\\! Mà chị còn cực kỳ quyễn rũ!"
+                "\\n<\\n[1]>Cậu không chỉ xinh, Nadia.\\! Cậu nóng bỏng lắm!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1134,14 +1137,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<Nadia>Nếu em nghĩ thế thì đến đây với chị nào!"
+                "\\n<Nadia>Nếu cậu thật sự nghĩ thế, sao không đến và chinh phục tớ đi!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<Nadia>Hôm nay, chị sẽ là của em ~ ♥️"]
+              "parameters": ["\\n<Nadia>Hôm nay, tớ là của cậu, cưng ~ ♥️"]
             },
             {
               "code": 232,
@@ -1207,35 +1210,35 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Wow! no ngờ em lại địt chị như thế, \\n[1]!"]
+              "parameters": [
+                "Trời ơi! Tớ không thể tin cậu vừa làm thế với tớ, \\n[1]!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Lưng chị như sắp gãy tới nơi rồi!"]
+              "parameters": ["Lưng tớ sẽ đau nhức mấy ngày liền mất!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "Em xin lỗi!\\! Vừa rồi em có hơi thô bạo một chút..."
-              ]
+              "parameters": ["Xin lỗi!\\! Tớ có hơi mạnh tay quá không?"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "no sao đâu!\\! Em càng thô bạo thì chị lại càng thích ~ ♥️"
+                "Không đời nào!\\! Tớ thích cách cậu mạnh bạo với tớ trên giường lắm ~ ♥️"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Giờ em làm chị mê mẩn con cặc đó rồi!"]
+              "parameters": ["Giờ thì cậu làm tớ chỉ muốn xin thêm nữa thôi!"]
             },
             {
               "code": 205,
@@ -1271,7 +1274,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Em biết đấy, chị đã thực sự hy vọng chúng ta có thể tìm thấy Isaac. "
+                "Cậu biết không, tớ đã hy vọng chúng ta sẽ tìm được em trai tớ qua chuyện này."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 2, 0, 2] },
@@ -1279,7 +1282,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Khi chị no tìm được em ấy... Chị đã rất tuyệt vọng."
+                "Khi không tìm thấy cậu ấy... tớ cảm thấy tan vỡ và lạc lối."
               ]
             },
             {
@@ -1314,47 +1317,49 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nhưng sau đó chị gặp được em và dần dần chị đã cảm thấy bình thường trở lại."
+                "Nhưng rồi tớ gặp cậu, và dần dần tớ cảm thấy trọn vẹn trở lại."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Và chị đã tìm ra mục đích sống của bản thân..."]
+              "parameters": [
+                "Tớ tìm thấy đam mê và tình yêu mà tớ chưa từng nhận ra mình khao khát..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 7, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Cảm ơn em vì mọi chuyện, \\n[1]!"]
+              "parameters": ["Cảm ơn cậu vì tất cả, \\n[1]!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "no có gì đâu, chị Nadia.\\! Em vui là mình có thể giúp được chị."
+                "Thật vui khi được ở bên cậu, Nadia.\\! Tớ mừng vì đã giúp được cậu."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Mặc dù em vẫn chưa tìm được Isaac..."]
+              "parameters": ["Tớ xin lỗi vì không giúp cậu tìm được Isaac..."]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Em no cần phải lo về thằng nhóc đó đâu!"]
+              "parameters": ["Đừng lo về thằng nhóc rắc rối đó!"]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Chị biết nó đang hưởng thụ ở đâu đó ngoài kia.\\! Và chị chắc chắn sẽ tìm ra nó."
+                "Tớ biết cậu ấy an toàn đâu đó ngoài kia.\\! Và tớ sẽ tìm được cậu ấy thôi."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1Nadia1", 1, 0, 2] },
@@ -1362,14 +1367,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tới lúc đó chị sẽ lôi nó về nhà và cấm nó bước ra khỏi cửa!"
+                "Và khi tìm được, tớ sẽ lôi cậu ấy về bằng tai để đảm bảo cậu ấy học hành tử tế!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ha ha!\\! \\BST[1]Chết cậu rồi, Isaac!"]
+              "parameters": ["Haha!\\! \\BST[1]Coi chừng nhé, Isaac!"]
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 212, "indent": 0, "parameters": [-1, 56, true] },
@@ -1380,13 +1385,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Một năng lượng hỗn loạn dâng trào trong cơ thể bạn!"
+                "Một luồng năng lượng hỗn loạn trào dâng trong cơ thể bạn!"
               ]
             },
             { "code": 242, "indent": 0, "parameters": [3] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 122, "indent": 0, "parameters": [46, 46, 1, 0, 1] },
             { "code": 121, "indent": 0, "parameters": [8, 8, 1] },
+            { "code": 121, "indent": 0, "parameters": [267, 267, 0] },
             { "code": 230, "indent": 0, "parameters": [90] },
             { "code": 201, "indent": 0, "parameters": [0, 103, 13, 11, 0, 0] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },

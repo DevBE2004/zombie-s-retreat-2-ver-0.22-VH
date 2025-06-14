@@ -708,376 +708,198 @@
       "x": 28,
       "y": 7
     },
+   {
+  "id": 5,
+  "name": "Control Panel",
+  "note": "",
+  "pages": [
     {
-      "id": 5,
-      "name": "Control Panel",
-      "note": "",
-      "pages": [
-        {
-          "conditions": {
-            "actorId": 15,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": false,
-            "switch1Id": 155,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 0] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Chọn một tầng."] },
-            {
-              "code": 102,
-              "indent": 0,
-              "parameters": [["1F", "Cancel"], 1, 0, 2, 0]
-            },
-            { "code": 402, "indent": 0, "parameters": [0, "1F"] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 3, "indent": null },
-                    { "code": 3, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [70] },
-            { "code": 221, "indent": 1, "parameters": [] },
-            { "code": 230, "indent": 1, "parameters": [20] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Machine", "volume": 90, "pitch": 150, "pan": 0 }
-              ]
-            },
-            { "code": 230, "indent": 1, "parameters": [90] },
-            { "code": 201, "indent": 1, "parameters": [0, 144, 21, 12, 2, 0] },
-            { "code": 230, "indent": 1, "parameters": [10] },
-            { "code": 222, "indent": 1, "parameters": [] },
-            { "code": 111, "indent": 1, "parameters": [0, 241, 1] },
-            { "code": 121, "indent": 2, "parameters": [40, 40, 0] },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 412, "indent": 1, "parameters": [] },
-            { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "Cancel"] },
-            { "code": 111, "indent": 1, "parameters": [0, 241, 1] },
-            { "code": 121, "indent": 2, "parameters": [40, 40, 0] },
-            { "code": 0, "indent": 2, "parameters": [] },
-            { "code": 412, "indent": 1, "parameters": [] },
-            { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 404, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": true,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        },
-        {
-          "conditions": {
-            "actorId": 15,
-            "actorValid": false,
-            "itemId": 1,
-            "itemValid": false,
-            "selfSwitchCh": "A",
-            "selfSwitchValid": true,
-            "switch1Id": 155,
-            "switch1Valid": false,
-            "switch2Id": 1,
-            "switch2Valid": false,
-            "variableId": 1,
-            "variableValid": false,
-            "variableValue": 0
-          },
-          "directionFix": true,
-          "image": {
-            "tileId": 0,
-            "characterName": "$Sparkle",
-            "direction": 2,
-            "pattern": 1,
-            "characterIndex": 0
-          },
-          "list": [
-            { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
-            { "code": 121, "indent": 0, "parameters": [7, 7, 0] },
-            {
-              "code": 205,
-              "indent": 0,
-              "parameters": [
-                -1,
-                {
-                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 0,
-              "parameters": [{ "code": 19, "indent": null }]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Chọn một tầng."] },
-            {
-              "code": 102,
-              "indent": 0,
-              "parameters": [["1F", "3F", "Cancel"], 2, 0, 2, 0]
-            },
-            { "code": 402, "indent": 0, "parameters": [0, "1F"] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 3, "indent": null },
-                    { "code": 3, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [70] },
-            { "code": 221, "indent": 1, "parameters": [] },
-            { "code": 230, "indent": 1, "parameters": [20] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Machine", "volume": 90, "pitch": 150, "pan": 0 }
-              ]
-            },
-            { "code": 230, "indent": 1, "parameters": [90] },
-            { "code": 201, "indent": 1, "parameters": [0, 144, 21, 12, 2, 0] },
-            { "code": 230, "indent": 1, "parameters": [10] },
-            { "code": 222, "indent": 1, "parameters": [] },
-            { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
-            { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "3F"] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                -1,
-                {
-                  "list": [
-                    { "code": 3, "indent": null },
-                    { "code": 3, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 4, "indent": null },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": false
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 3, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [{ "code": 4, "indent": null }]
-            },
-            { "code": 230, "indent": 1, "parameters": [70] },
-            { "code": 221, "indent": 1, "parameters": [] },
-            { "code": 230, "indent": 1, "parameters": [20] },
-            {
-              "code": 250,
-              "indent": 1,
-              "parameters": [
-                { "name": "Machine", "volume": 90, "pitch": 150, "pan": 0 }
-              ]
-            },
-            { "code": 230, "indent": 1, "parameters": [90] },
-            { "code": 201, "indent": 1, "parameters": [0, 142, 12, 28, 8, 0] },
-            { "code": 230, "indent": 1, "parameters": [10] },
-            { "code": 222, "indent": 1, "parameters": [] },
-            { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
-            { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [2, "Cancel"] },
-            { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
-            { "code": 121, "indent": 1, "parameters": [7, 7, 1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 404, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
-          ],
-          "moveFrequency": 3,
-          "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
-            "repeat": true,
-            "skippable": false,
-            "wait": false
-          },
-          "moveSpeed": 3,
-          "moveType": 0,
-          "priorityType": 0,
-          "stepAnime": true,
-          "through": false,
-          "trigger": 1,
-          "walkAnime": true
-        }
+      "conditions": {
+        "actorId": 15,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 155,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": true,
+      "image": {
+        "tileId": 0,
+        "characterName": "$Sparkle",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {"code": 121, "indent": 0, "parameters": [40, 40, 1]},
+        {"code": 121, "indent": 0, "parameters": [7, 7, 0]},
+        {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 19, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": true}]},
+        {"code": 505, "indent": 0, "parameters": [{"code": 19, "indent": null}]},
+        {"code": 101, "indent": 0, "parameters": ["", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Chọn một tầng."]},
+        {"code": 102, "indent": 0, "parameters": [["Tầng 1", "Hủy"], 1, 0, 2, 0]},
+        {"code": 402, "indent": 0, "parameters": [0, "1F"]},
+        {"code": 205, "indent": 1, "parameters": [-1, {"list": [{"code": 3, "indent": null}, {"code": 3, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": false}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 230, "indent": 1, "parameters": [70]},
+        {"code": 221, "indent": 1, "parameters": []},
+        {"code": 230, "indent": 1, "parameters": [20]},
+        {"code": 250, "indent": 1, "parameters": [{"name": "Machine", "volume": 90, "pitch": 150, "pan": 0}]},
+        {"code": 230, "indent": 1, "parameters": [90]},
+        {"code": 201, "indent": 1, "parameters": [0, 144, 21, 12, 2, 0]},
+        {"code": 230, "indent": 1, "parameters": [10]},
+        {"code": 222, "indent": 1, "parameters": []},
+        {"code": 111, "indent": 1, "parameters": [0, 241, 1]},
+        {"code": 121, "indent": 2, "parameters": [40, 40, 0]},
+        {"code": 0, "indent": 2, "parameters": []},
+        {"code": 412, "indent": 1, "parameters": []},
+        {"code": 121, "indent": 1, "parameters": [7, 7, 1]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 402, "indent": 0, "parameters": [1, "Cancel"]},
+        {"code": 111, "indent": 1, "parameters": [0, 241, 1]},
+        {"code": 121, "indent": 2, "parameters": [40, 40, 0]},
+        {"code": 0, "indent": 2, "parameters": []},
+        {"code": 412, "indent": 1, "parameters": []},
+        {"code": 121, "indent": 1, "parameters": [7, 7, 1]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 404, "indent": 0, "parameters": []},
+        {"code": 0, "indent": 0, "parameters": []}
       ],
-      "x": 12,
-      "y": 9
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [{"code": 0, "parameters": []}],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 0,
+      "stepAnime": true,
+      "through": false,
+      "trigger": 1,
+      "walkAnime": true
     },
+    {
+      "conditions": {
+        "actorId": 15,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": true,
+        "switch1Id": 155,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": true,
+      "image": {
+        "tileId": 0,
+        "characterName": "$Sparkle",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {"code": 121, "indent": 0, "parameters": [40, 40, 1]},
+        {"code": 121, "indent": 0, "parameters": [7, 7, 0]},
+        {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 19, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": true}]},
+        {"code": 505, "indent": 0, "parameters": [{"code": 19, "indent": null}]},
+        {"code": 101, "indent": 0, "parameters": ["", 0, 0, 2]},
+        {"code": 401, "indent": 0, "parameters": ["Chọn một tầng."]},
+        {"code": 102, "indent": 0, "parameters": [["Tầng 1", "Tầng 3", "Hủy"], 2, 0, 2, 0]},
+        {"code": 402, "indent": 0, "parameters": [0, "1F"]},
+        {"code": 205, "indent": 1, "parameters": [-1, {"list": [{"code": 3, "indent": null}, {"code": 3, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": false}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 230, "indent": 1, "parameters": [70]},
+        {"code": 221, "indent": 1, "parameters": []},
+        {"code": 230, "indent": 1, "parameters": [20]},
+        {"code": 250, "indent": 1, "parameters": [{"name": "Machine", "volume": 90, "pitch": 150, "pan": 0}]},
+        {"code": 230, "indent": 1, "parameters": [90]},
+        {"code": 201, "indent": 1, "parameters": [0, 144, 21, 12, 2, 0]},
+        {"code": 230, "indent": 1, "parameters": [10]},
+        {"code": 222, "indent": 1, "parameters": []},
+        {"code": 121, "indent": 1, "parameters": [40, 40, 0]},
+        {"code": 121, "indent": 1, "parameters": [7, 7, 1]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 402, "indent": 0, "parameters": [1, "3F"]},
+        {"code": 108, "indent": 1, "parameters": ["== \\/ Đặt lại trận đánh với boss vì tôi không biết tại sao"]},
+        {"code": 408, "indent": 1, "parameters": ["trận đánh lại bắt đầu cho người chơi =="]},
+        {"code": 121, "indent": 1, "parameters": [145, 145, 1]},
+        {"code": 121, "indent": 1, "parameters": [147, 147, 1]},
+        {"code": 122, "indent": 1, "parameters": [113, 113, 0, 0, 0]},
+        {"code": 122, "indent": 1, "parameters": [111, 111, 0, 0, 0]},
+        {"code": 122, "indent": 1, "parameters": [114, 114, 0, 0, 0]},
+        {"code": 122, "indent": 1, "parameters": [112, 112, 0, 0, 0]},
+        {"code": 122, "indent": 1, "parameters": [115, 115, 0, 0, 0]},
+        {"code": 122, "indent": 1, "parameters": [116, 116, 0, 0, 0]},
+        {"code": 108, "indent": 1, "parameters": ["== /\\ Các sự kiện này cũng xảy ra trên thang máy ở bản đồ Nhà máy hoang vắng =="]},
+        {"code": 408, "indent": 1, "parameters": ["thang máy =="]},
+        {"code": 205, "indent": 1, "parameters": [-1, {"list": [{"code": 3, "indent": null}, {"code": 3, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 4, "indent": null}, {"code": 0}], "repeat": false, "skippable": true, "wait": false}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 3, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 505, "indent": 1, "parameters": [{"code": 4, "indent": null}]},
+        {"code": 230, "indent": 1, "parameters": [70]},
+        {"code": 221, "indent": 1, "parameters": []},
+        {"code": 230, "indent": 1, "parameters": [20]},
+        {"code": 250, "indent": 1, "parameters": [{"name": "Machine", "volume": 90, "pitch": 150, "pan": 0}]},
+        {"code": 230, "indent": 1, "parameters": [90]},
+        {"code": 201, "indent": 1, "parameters": [0, 142, 12, 28, 8, 0]},
+        {"code": 230, "indent": 1, "parameters": [10]},
+        {"code": 222, "indent": 1, "parameters": []},
+        {"code": 121, "indent": 1, "parameters": [40, 40, 0]},
+        {"code": 121, "indent": 1, "parameters": [7, 7, 1]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 402, "indent": 0, "parameters": [2, "Cancel"]},
+        {"code": 121, "indent": 1, "parameters": [40, 40, 0]},
+        {"code": 121, "indent": 1, "parameters": [7, 7, 1]},
+        {"code": 0, "indent": 1, "parameters": []},
+        {"code": 404, "indent": 0, "parameters": []},
+        {"code": 0, "indent": 0, "parameters": []}
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [{"code": 0, "parameters": []}],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 0,
+      "stepAnime": true,
+      "through": false,
+      "trigger": 1,
+      "walkAnime": true
+    }
+  ],
+  "x": 12,
+  "y": 9
+},
     {
       "id": 6,
       "name": "Explosive Crate",

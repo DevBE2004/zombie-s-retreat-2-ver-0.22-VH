@@ -8692,19 +8692,207 @@
   {
     "id": 46,
     "list": [
-      { "code": 111, "indent": 0, "parameters": [1, 47, 0, 12, 0] },
+      { "code": 111, "indent": 0, "parameters": [1, 47, 0, 15, 0] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
-      { "code": 111, "indent": 0, "parameters": [1, 47, 0, 11, 0] },
-      { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 412, "indent": 0, "parameters": [] },
-      { "code": 111, "indent": 0, "parameters": [1, 47, 0, 10, 0] },
+      { "code": 111, "indent": 0, "parameters": [1, 47, 0, 14, 0] },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      { "code": 401, "indent": 1, "parameters": ["Đã đến lúc rồi."] },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Một khi chúng ta nói chuyện với Violet, cô ấy sẽ chỉ cho chúng ta cách tìm Norman."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Tôi không biết điều gì sẽ xảy ra khi chúng ta gặp được hắn..."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Vì vậy, hãy đảm bảo bạn đã chuẩn bị sẵn sàng cho mọi tình huống trước."
+        ]
+      },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Cốt truyện chính sẽ tiếp tục sớm thôi!"]
+        "parameters": [
+          "Câu chuyện sẽ được kết thúc trong một bản cập nhật tương lai!"
+        ]
       },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 47, 0, 13, 0] },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Hãy sớm quay lại Cơ sở Nước."]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Tôi lo rằng lũ zombie sẽ ngày càng tệ hơn nếu chúng ta chờ quá lâu."
+        ]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 47, 0, 12, 0] },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Chúng ta sẽ đến được cảng ở Quận Tây."]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Có một con hẻm gần đồn cảnh sát dẫn đến đó."]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Sương mù dường như dày đặc hơn quanh Cơ sở Nước."]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Tôi có cảm giác điều đó cho thấy có chuyện gì đó đang xảy ra ở đó."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Hãy cùng điều tra khi bạn đã sẵn sàng."]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 47, 0, 11, 0] },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Hãy nghỉ ngơi một chút đi."]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Một giấc ngủ ngon trên giường tối nay sẽ làm nên điều kỳ diệu."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Nếu tôi tìm thấy bất kỳ manh mối nào, tôi sẽ thông báo cho bạn."
+        ]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 47, 0, 10, 0] },
+      { "code": 101, "indent": 1, "parameters": ["1MC1", 3, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Reeves.\\! Nghĩ về những gì hắn đã làm khiến tôi thật sự tức giận!"
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Tôi cũng vậy.\\! Hắn đã gây ra quá nhiều đau khổ cho thành phố này."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Tôi đã tự mình điều tra về hắn hơn một năm nay rồi."]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1MC1", 2, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Hơn một năm?!\\! Nhưng đó là trước khi lũ zombie xuất hiện."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Nghiên cứu của hắn bắt đầu từ rất lâu trước khi có zombie."
+        ]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": [
+          "Norman đã tiến hành những thí nghiệm kinh khủng trong nhiều năm nay..."
+        ]
+      },
+      { "code": 230, "indent": 1, "parameters": [10] },
+      { "code": 224, "indent": 1, "parameters": [[255, 0, 0, 170], 15, false] },
+      {
+        "code": 250,
+        "indent": 1,
+        "parameters": [
+          { "name": "Darkness3", "volume": 65, "pitch": 100, "pan": 0 }
+        ]
+      },
+      { "code": 230, "indent": 1, "parameters": [30] },
+      { "code": 213, "indent": 1, "parameters": [-1, 5, false] },
+      { "code": 101, "indent": 1, "parameters": ["1MC1", 3, 0, 2] },
+      { "code": 401, "indent": 1, "parameters": ["H-HNGH!"] },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 3, 0, 2] },
+      { "code": 401, "indent": 1, "parameters": ["\\n[1]!"] },
+      { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
+      { "code": 401, "indent": 1, "parameters": ["Tôi... tôi ổn..."] },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Gần đây bạn đã cố gắng quá sức rồi..."]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Hãy cố gắng nghỉ ngơi đi.\\! Tôi sẽ tìm thêm manh mối."]
+      },
+      { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
+      {
+        "code": 401,
+        "indent": 1,
+        "parameters": ["Ừ...\\! Tôi sẽ cố thư giãn một chút."]
+      },
+      { "code": 121, "indent": 1, "parameters": [421, 421, 0] },
+      { "code": 122, "indent": 1, "parameters": [47, 47, 1, 0, 1] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
       { "code": 111, "indent": 0, "parameters": [1, 47, 0, 9, 0] },
@@ -8713,14 +8901,14 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Có điều gì đó kỳ lạ có thể đang diễn ra ở Nhà máy Bị Bỏ Hoang..."
+          "Có điều gì đó kỳ lạ có thể đang xảy ra ở Nhà máy Bị Bỏ Hoang..."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Chúng ta nên sớm quay lại đó và điều tra!"]
+        "parameters": ["Chúng ta nên sớm quay lại đó để điều tra!"]
       },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
@@ -8729,14 +8917,14 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Hãy đi thăm Violet ở dưới Hầm."]
+        "parameters": ["Hãy đến thăm Violet ở Khu Ngầm."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tôi muốn tìm hiểu xem cô ấy có biết gì về Năng lượng Thành phố Crimson và viên đá đỏ không."
+          "Tôi muốn tìm hiểu xem cô ấy có biết gì về Crimson City Energy và viên đá đỏ hay không."
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
@@ -8758,14 +8946,16 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Nhưng làm thế nào để chúng ta có thể làm được điều đó?"]
+        "parameters": [
+          "Nhưng bạn nghĩ chúng ta có thể làm điều đó bằng cách nào?"
+        ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Có một người mà tôi muốn nói chuyện bây giờ khi bạn đã có mối quan hệ."
+          "Có một người tôi muốn nói chuyện, giờ khi bạn đã có mối quan hệ."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -8774,14 +8964,14 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Bạn muốn quay lại Hầm sao?!"]
+        "parameters": ["Bạn muốn quay lại Khu Ngầm sao?!"]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Cô ấy là nguồn thông tin thực sự duy nhất của chúng ta vào lúc này."
+          "Cô ấy là nguồn thông tin duy nhất chúng ta có vào lúc này."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
@@ -8789,22 +8979,22 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Và là lãnh đạo khu vực, tôi biết cô ấy có mối liên hệ với khôngrman Reeves."
+          "Và với tư cách là lãnh đạo khu vực, tôi biết cô ấy có liên hệ với Norman Reeves."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Đúng vậy, đó là một ý kiến hay."]
+        "parameters": ["Ừ, đó là một ý kiến hay."]
       },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["Được rồi.\\! Đi thôi."] },
+      { "code": 401, "indent": 1, "parameters": ["Được thôi.\\! Đi nào."] },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 5, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Nhưng lần này không có Đấu trường, xin đừng nhé?!"]
+        "parameters": ["Nhưng lần này đừng đến Đấu trường nhé, làm ơn?!"]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 1, 0, 2] },
       {
@@ -8834,9 +9024,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": [
-          "Bạn nên tham gia cùng tôi và xem thử vào một lúc nào đó."
-        ]
+        "parameters": ["Bạn nên tham gia cùng tôi và xem thử một lần."]
       },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 411, "indent": 1, "parameters": [] },
@@ -8851,7 +9039,7 @@
         "code": 401,
         "indent": 2,
         "parameters": [
-          "Tôi thực sự hào hứng để xem phòng mới của mình sẽ trông như thế nào!"
+          "Tôi rất hào hứng muốn xem phòng mới của mình sẽ trông như thế nào!"
         ]
       },
       { "code": 0, "indent": 2, "parameters": [] },
@@ -8864,32 +9052,28 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Reeves...\\! Có gì đó về ông ta khiến tôi cảm thấy bất an."
+          "Reeves...\\! Có gì đó về hắn khiến tôi cảm thấy bất an."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 4, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": [
-          "Bạn nghĩ ông ta có thể liên quan gì đến lũ zombie không?"
-        ]
+        "parameters": ["Bạn nghĩ hắn có liên quan gì đến lũ zombie không?"]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Có thể lắm.\\! Nhưng tôi cần thời gian để tìm kiếm thông tin."
+          "Có thể lắm.\\! Nhưng tôi cần thời gian để tìm thêm thông tin."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": [
-          "Này, tôi có thể nhờ bạn một việc trong lúc chờ đợi không?"
-        ]
+        "parameters": ["Nhân tiện, tôi có thể nhờ bạn một việc được không?"]
       },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
       {
@@ -8901,14 +9085,16 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Bạn thân với Fiona, người thợ xây dựng, đúng không?"]
+        "parameters": [
+          "Bạn là bạn thân của Fiona, người thợ xây dựng, đúng không?"
+        ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Bạn có thể gửi yêu cầu cải tạo phòng của tôi ở nhà nghỉ không?"
+          "Bạn có thể gửi yêu cầu sửa sang lại phòng của tôi ở nhà nghỉ không?"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -8916,7 +9102,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Tôi nghĩ tôi muốn ở lại đây lâu hơn trong khi làm việc."
+          "Tôi nghĩ mình muốn ở lại đây lâu hơn trong khi làm việc."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 1, 0, 2] },
@@ -8931,7 +9117,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Cảm ơn \\n[1].\\! Tôi rất cảm kích sự giúp đỡ."]
+        "parameters": ["Cảm ơn bạn \\n[1].\\! Tôi rất cảm kích sự giúp đỡ."]
       },
       { "code": 230, "indent": 1, "parameters": [15] },
       {
@@ -8946,7 +9132,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Nâng cấp Phòng ngủ của Lucy giờ đã có sẵn trong Xưởng của Fiona!"
+          "Nâng cấp phòng ngủ của Lucy giờ đây có sẵn trong Xưởng của Fiona!"
         ]
       },
       { "code": 121, "indent": 1, "parameters": [355, 355, 0] },
@@ -8958,21 +9144,19 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": [
-          "Ở khu vực phía tây, có một con hẻm đáng nghi gần góc tây bắc."
-        ]
+        "parameters": ["Ở Quận Tây, có một con hẻm đáng ngờ gần góc tây bắc."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Nên có một đường hầm gần mặt nước dẫn vào cống."]
+        "parameters": ["Phải có một đường hầm gần mặt nước dẫn vào cống."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Đó có thể là cách tốt nhất để vào Hầm."]
+        "parameters": ["Đó có thể là cách tốt nhất để vào Khu Ngầm."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
       {
@@ -8986,7 +9170,9 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Khi bạn đã chuẩn bị xong, hãy cùng nhau điều tra cống."]
+        "parameters": [
+          "Khi bạn đã chuẩn bị xong, hãy cùng hợp tác và điều tra cống."
+        ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
@@ -8995,9 +9181,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": [
-          "Tôi nghĩ tôi có ý tưởng về cách chúng ta có thể đến Hầm, \\n[1]."
-        ]
+        "parameters": ["Tôi nghĩ tôi có ý tưởng để vào Khu Ngầm, \\n[1]."]
       },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
       {
@@ -9006,12 +9190,12 @@
         "parameters": ["Thật sao?\\! Kế hoạch là gì?"]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
-      { "code": 401, "indent": 1, "parameters": ["Khu vực phía Tây..."] },
+      { "code": 401, "indent": 1, "parameters": ["Quận Tây..."] },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Có một con hẻm đáng nghi ở phía bắc."]
+        "parameters": ["Có một con hẻm đáng ngờ ở phía bắc."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
       {
@@ -9025,7 +9209,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Nó là một trung tâm nhỏ cho các hành vi đáng ngờ nhưng lực lượng cảnh sát lại thích làm ngơ."
+          "Nó từng là một trung tâm nhỏ cho các hành vi đáng ngờ, nhưng cảnh sát thường nhắm mắt làm ngơ."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
@@ -9039,21 +9223,21 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Cống sao?!\\! Vậy là chúng ta sẽ phải lấm bẩn để tìm cách vào, đúng không?"
+          "Cống sao?!\\! Vậy là chúng ta phải lấm bẩn để tìm đường vào, đúng không?"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Dân chúng ở Hầm thường thích cách bẩn thỉu..."]
+        "parameters": ["Dân chúng ở Khu Ngầm thường thích cách lấm bẩn..."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Vì tất cả các con đường của chúng ta đều bị chặn, tôi không nghĩ ra cách nào khác "
+          "Vì tất cả các tuyến đường của chúng ta đều bị chặn, tôi không nghĩ ra cách nào khác "
         ]
       },
       { "code": 401, "indent": 1, "parameters": ["để lẻn vào."] },
@@ -9062,7 +9246,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Nếu bạn tự tin rằng điều này sẽ thành công, tôi sẵn sàng thử!"
+          "Nếu bạn tự tin rằng điều này sẽ hiệu quả, tôi sẵn sàng thử!"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -9072,7 +9256,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Ai biết được chúng ta sẽ phải đi bao lâu nên bạn có thể muốn chuẩn bị "
+          "Ai biết chúng ta sẽ phải đi bao lâu, nên bạn nên chuẩn bị đầy đủ "
         ]
       },
       { "code": 401, "indent": 1, "parameters": ["trước khi đi."] },
@@ -9080,7 +9264,9 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Khi bạn đã chuẩn bị xong, hãy cùng nhau điều tra cống."]
+        "parameters": [
+          "Khi bạn đã chuẩn bị xong, hãy cùng hợp tác và điều tra cống."
+        ]
       },
       { "code": 121, "indent": 1, "parameters": [144, 144, 0] },
       { "code": 355, "indent": 1, "parameters": ["Galv.QUEST.activate(14);"] },
@@ -9093,16 +9279,16 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Việc quay lại nơi làm việc của tôi không phải là trải nghiệm chào đón mà tôi mong muốn..."
+          "Quay lại nơi làm việc của tôi không phải là trải nghiệm dễ chịu như tôi mong muốn..."
         ]
       },
-      { "code": 401, "indent": 1, "parameters": ["thích..."] },
+      { "code": 401, "indent": 1, "parameters": [] },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Nhưng việc tìm thấy những thiết bị liên lạc đó có thể rất quan trọng!"
+          "Nhưng việc tìm được các vật tư liên lạc có thể rất quan trọng!"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -9110,14 +9296,10 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Bạn đã thử đưa những thiết bị đó cho Fiona để cô ấy có thể "
+          "Bạn đã thử đưa các vật tư đó cho Fiona để cô ấy có thể "
         ]
       },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": ["xây dựng một ăng-ten chưa?"]
-      },
+      { "code": 401, "indent": 1, "parameters": ["xây dựng một anten chưa?"] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
       { "code": 111, "indent": 0, "parameters": [1, 47, 0, 1, 0] },
@@ -9125,9 +9307,9 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Hãy cùng nhau tìm những thiết bị liên lạc đó ở "]
+        "parameters": ["Hãy cùng hợp tác và tìm các vật tư liên lạc ở "]
       },
-      { "code": 401, "indent": 1, "parameters": ["Sở Cảnh sát."] },
+      { "code": 401, "indent": 1, "parameters": ["Đồn Cảnh sát."] },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
@@ -9141,7 +9323,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Lucy, bạn cảm thấy khá hơn chưa?"]
+        "parameters": ["Lucy, bạn cảm thấy ổn hơn chưa?"]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
@@ -9169,21 +9351,19 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Lucy, làm thế nào bạn đến được đây?"]
+        "parameters": ["Làm thế nào mà bạn đến được đây, Lucy?"]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": [
-          "Tôi là một tân binh trong Sở Cảnh sát Thành phố Crimson."
-        ]
+        "parameters": ["Tôi là một tân binh trong Sở Cảnh sát Crimson City."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Tôi hoạt động trong bộ phận thám tử."]
+        "parameters": ["Tôi làm việc trong bộ phận thám tử."]
       },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 2, 0, 2] },
       {
@@ -9197,7 +9377,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["C-Có lẽ là vậy, tôi đoán thế."]
+        "parameters": ["Đ-Đại loại thế, tôi nghĩ vậy."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
       {
@@ -9212,28 +9392,30 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Sau khi lang thang, tìm kiếm bất kỳ người sống sót nào, tôi đã đến đây."
+          "Sau khi lang thang tìm kiếm người sống sót, tôi đã đến được đây."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Vậy kế hoạch của bạn từ đây là gì?"]
+        "parameters": ["Vậy kế hoạch tiếp theo của bạn là gì?"]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Thú thật, tôi vẫn còn quá yếu để quay lại thành phố "]
+        "parameters": [
+          "Thú thật, tôi vẫn còn quá yếu để quay lại thành phố một mình."
+        ]
       },
-      { "code": 401, "indent": 1, "parameters": ["một mình."] },
+      { "code": 401, "indent": 1, "parameters": [] },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Vì vậy, có lẽ tôi có thể giúp các bạn ở đây một thời gian?"
+          "Vậy nên có lẽ tôi có thể giúp các bạn ở đây một thời gian?"
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
@@ -9248,7 +9430,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Radio, truyền hình.\\! Thứ gì đó để cho chúng ta biết liệu có thêm người sống sót nào không."
+          "Radio, truyền hình.\\! Một thứ gì đó để chúng ta biết liệu có thêm người sống sót hay không."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1MC1", 0, 0, 2] },
@@ -9256,7 +9438,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Fiona có thể xây dựng thứ gì đó như vậy.\\! \\BST[5]Nếu chúng ta có linh kiện."
+          "Fiona có thể xây dựng thứ gì đó như thế.\\! \\BST[5]Nếu chúng ta có linh kiện."
         ]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 4, 0, 2] },
@@ -9264,10 +9446,10 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Sở Cảnh sát Thành phố Crimson.\\! Có một phòng liên lạc "
+          "Sở Cảnh sát Crimson City.\\! Có một phòng liên lạc ở tầng trên cùng."
         ]
       },
-      { "code": 401, "indent": 1, "parameters": ["ở tầng trên cùng."] },
+      { "code": 401, "indent": 1, "parameters": [] },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
@@ -9278,26 +9460,26 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["không đời nào!\\! \\BST[2]Tôi sẽ đi cùng bạn."]
+        "parameters": ["Không đời nào!\\! \\BST[2]Tôi sẽ đi cùng bạn."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 2, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Một chút giúp đỡ có thể hữu ích."]
+        "parameters": ["Một chút giúp đỡ sẽ rất hữu ích."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Được rồi.\\! Hãy cùng tôi khi bạn sẵn sàng đi."]
+        "parameters": ["Được thôi.\\! Hợp tác với tôi khi bạn sẵn sàng đi."]
       },
       { "code": 101, "indent": 1, "parameters": ["1Lucy1", 0, 0, 2] },
       {
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Sở Cảnh sát ở phía tây từ đây.\\! Bạn không thể bỏ lỡ nó."
+          "Sở Cảnh sát ở phía tây từ đây.\\! Bạn không thể bỏ lỡ nó đâu."
         ]
       },
       { "code": 355, "indent": 1, "parameters": ["Galv.QUEST.activate(4);"] },
@@ -9316,6 +9498,7 @@
     "switchId": 1,
     "trigger": 0
   },
+
   {
     "id": 47,
     "list": [
@@ -10748,8 +10931,423 @@
   },
   {
     "id": 54,
-    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-    "name": "",
+    "list": [
+      { "code": 111, "indent": 0, "parameters": [0, 40, 0] },
+      { "code": 121, "indent": 1, "parameters": [10, 10, 0] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 121, "indent": 1, "parameters": [10, 10, 1] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
+      { "code": 221, "indent": 0, "parameters": [] },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [60, "Status_Base", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 108, "indent": 0, "parameters": ["== Các sprite giải cứu =="] },
+      { "code": 111, "indent": 0, "parameters": [0, 42, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [61, "Status_Olivia1", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [61, "Status_Olivia0", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 1, 0, 2, 1] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [62, "Status_Fiona1", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [62, "Status_Fiona0", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 43, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [63, "Status_Stacy1", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [63, "Status_Stacy0", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 44, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [64, "Status_Nadia1", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [64, "Status_Nadia0", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 46, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [65, "Status_Michelle1", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [65, "Status_Michelle0", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 47, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [66, "Status_Bridgette1", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [66, "Status_Bridgette0", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 45, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [68, "Status_Lucy1", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [68, "Status_Lucy0", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 108, "indent": 0, "parameters": ["== Giá trị trái tim =="] },
+      { "code": 111, "indent": 0, "parameters": [0, 120, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [70, "Status_Heart3", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 1, "parameters": [1, 41, 0, 18, 1] },
+      {
+        "code": 108,
+        "indent": 2,
+        "parameters": [
+          "Không chắc liệu đây có phải là đối thoại sau cảnh BJ không"
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [70, "Status_Heart2", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 41, 0, 11, 1] },
+      { "code": 108, "indent": 3, "parameters": ["Tương tự nhưng là cảnh HJ"] },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [70, "Status_Heart1", 0, 0, 50, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 140, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [71, "Status_Heart3", 0, 0, 250, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 1, "parameters": [1, 42, 0, 8, 1] },
+      { "code": 108, "indent": 2, "parameters": ["Xác minh"] },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [71, "Status_Heart2", 0, 0, 250, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 42, 0, 4, 1] },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [71, "Status_Heart1", 0, 0, 250, 0, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 176, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [72, "Status_Heart3", 0, 0, 50, 100, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 1, "parameters": [0, 175, 0] },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [72, "Status_Heart2", 0, 0, 50, 100, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 43, 0, 3, 1] },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [72, "Status_Heart1", 0, 0, 50, 100, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 193, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [73, "Status_Heart3", 0, 0, 250, 100, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 1, "parameters": [0, 195, 0] },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [73, "Status_Heart2", 0, 0, 250, 100, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [0, 341, 0] },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [73, "Status_Heart1", 0, 0, 250, 100, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 45, 0, 9, 1] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [74, "Status_Heart3", 0, 0, 50, 200, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 1, "parameters": [1, 45, 0, 7, 1] },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [74, "Status_Heart2", 0, 0, 50, 200, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 45, 0, 5, 1] },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [74, "Status_Heart1", 0, 0, 50, 200, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 46, 0, 8, 1] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [75, "Status_Heart3", 0, 0, 250, 200, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 1, "parameters": [1, 46, 0, 6, 1] },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [75, "Status_Heart2", 0, 0, 250, 200, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [0, 183, 0] },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [75, "Status_Heart1", 0, 0, 250, 200, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 209, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [76, "Status_Heart3", 0, 0, 50, 300, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 1, "parameters": [1, 48, 0, 5, 1] },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [76, "Status_Heart2", 0, 0, 50, 300, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 48, 0, 2, 1] },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [76, "Status_Heart1", 0, 0, 50, 300, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 250, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [77, "Status_Heart3", 0, 0, 250, 300, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 1, "parameters": [0, 252, 0] },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [77, "Status_Heart2", 0, 0, 250, 300, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 49, 0, 2, 1] },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [77, "Status_Heart1", 0, 0, 250, 300, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [1, 1, 0, 9999, 0] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [79, "Status_Heart3", 0, 0, 250, 400, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 1, "parameters": [0, 200, 0] },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [79, "Status_Heart2", 0, 0, 250, 400, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 47, 0, 3, 1] },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [79, "Status_Heart1", 0, 0, 250, 400, 100, 100, 255, 0]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 230, "indent": 0, "parameters": [15] },
+      { "code": 222, "indent": 0, "parameters": [] },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 0, "parameters": [""] },
+      { "code": 221, "indent": 0, "parameters": [] },
+      { "code": 235, "indent": 0, "parameters": [60] },
+      { "code": 235, "indent": 0, "parameters": [61] },
+      { "code": 235, "indent": 0, "parameters": [62] },
+      { "code": 235, "indent": 0, "parameters": [63] },
+      { "code": 235, "indent": 0, "parameters": [64] },
+      { "code": 235, "indent": 0, "parameters": [65] },
+      { "code": 235, "indent": 0, "parameters": [66] },
+      { "code": 235, "indent": 0, "parameters": [67] },
+      { "code": 235, "indent": 0, "parameters": [68] },
+      { "code": 235, "indent": 0, "parameters": [70] },
+      { "code": 235, "indent": 0, "parameters": [71] },
+      { "code": 235, "indent": 0, "parameters": [72] },
+      { "code": 235, "indent": 0, "parameters": [73] },
+      { "code": 235, "indent": 0, "parameters": [74] },
+      { "code": 235, "indent": 0, "parameters": [75] },
+      { "code": 235, "indent": 0, "parameters": [76] },
+      { "code": 235, "indent": 0, "parameters": [77] },
+      { "code": 235, "indent": 0, "parameters": [78] },
+      { "code": 235, "indent": 0, "parameters": [79] },
+      { "code": 230, "indent": 0, "parameters": [20] },
+      { "code": 111, "indent": 0, "parameters": [0, 10, 0] },
+      { "code": 121, "indent": 1, "parameters": [40, 40, 0] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 121, "indent": 0, "parameters": [10, 10, 1] },
+      { "code": 222, "indent": 0, "parameters": [] },
+      { "code": 0, "indent": 0, "parameters": [] }
+    ],
+    "name": "Status Screen",
     "switchId": 1,
     "trigger": 0
   },
@@ -32244,57 +32842,57 @@
     "trigger": 0
   },
 
-  {
-    "id": 250,
-    "list": [
-      {
-        "code": 356,
-        "indent": 0,
-        "parameters": ["Thiết lập Cài đặt Menu Sự kiện Chung Mặc định"]
-      },
-      { "code": 356, "indent": 0, "parameters": ["Xóa Menu Sự kiện Chung"] },
-      {
-        "code": 108,
-        "indent": 0,
-        "parameters": ["Điều này để ngăn không có tùy chọn nào hiển thị nếu"]
-      },
-      {
-        "code": 408,
-        "indent": 0,
-        "parameters": ["người chơi chưa mở khóa bất kỳ cảnh nào"]
-      },
-      { "code": 408, "indent": 0, "parameters": ["== \\/ =="] },
-      { "code": 111, "indent": 0, "parameters": [0, 209, 1] },
-      { "code": 111, "indent": 1, "parameters": [0, 120, 1] },
-      { "code": 111, "indent": 2, "parameters": [0, 140, 1] },
-      {
-        "code": 356,
-        "indent": 3,
-        "parameters": ["Thêm Menu Sự kiện Chung 251"]
-      },
-      { "code": 0, "indent": 3, "parameters": [] },
-      { "code": 412, "indent": 2, "parameters": [] },
-      { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 412, "indent": 1, "parameters": [] },
-      { "code": 0, "indent": 1, "parameters": [] },
-      { "code": 412, "indent": 0, "parameters": [] },
-      {
-        "code": 356,
-        "indent": 0,
-        "parameters": ["Thêm Menu Sự kiện Chung 252, 253, 254"]
-      },
-      {
-        "code": 356,
-        "indent": 0,
-        "parameters": ["Đặt Hủy Menu Sự kiện Chung 0"]
-      },
-      { "code": 356, "indent": 0, "parameters": ["Mở Menu Sự kiện Chung"] },
-      { "code": 0, "indent": 0, "parameters": [] }
-    ],
-    "name": "Menu Nhà Tắm",
-    "switchId": 1,
-    "trigger": 0
-  },
+ {
+  "id": 250,
+  "list": [
+    {
+      "code": 356,
+      "indent": 0,
+      "parameters": ["SetCommonEventMenuSettings Default Setup"]
+    },
+    { "code": 356, "indent": 0, "parameters": ["ClearCommonEventMenu"] },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": ["Điều này để ngăn không hiển thị tùy chọn nào nếu"]
+    },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": ["người chơi chưa mở khóa bất kỳ cảnh nào"]
+    },
+    { "code": 408, "indent": 0, "parameters": ["== \\/ =="] },
+    { "code": 111, "indent": 0, "parameters": [0, 209, 1] },
+    { "code": 111, "indent": 1, "parameters": [0, 120, 1] },
+    { "code": 111, "indent": 2, "parameters": [0, 140, 1] },
+    { "code": 111, "indent": 3, "parameters": [0, 267, 0] },
+    { "code": 356, "indent": 4, "parameters": ["AddCommonEventMenu 251"] },
+    { "code": 0, "indent": 4, "parameters": [] },
+    { "code": 412, "indent": 3, "parameters": [] },
+    { "code": 0, "indent": 3, "parameters": [] },
+    { "code": 412, "indent": 2, "parameters": [] },
+    { "code": 0, "indent": 2, "parameters": [] },
+    { "code": 412, "indent": 1, "parameters": [] },
+    { "code": 0, "indent": 1, "parameters": [] },
+    { "code": 412, "indent": 0, "parameters": [] },
+    {
+      "code": 356,
+      "indent": 0,
+      "parameters": ["AddCommonEventMenu 252, 253, 255, 254"]
+    },
+    {
+      "code": 356,
+      "indent": 0,
+      "parameters": ["SetCommonEventMenuCancel 0"]
+    },
+    { "code": 356, "indent": 0, "parameters": ["OpenCommonEventMenu"] },
+    { "code": 0, "indent": 0, "parameters": [] }
+  ],
+  "name": "Bath House Menu",
+  "switchId": 1,
+  "trigger": 0
+},
+
   {
     "id": 251,
     "list": [
@@ -32498,13 +33096,55 @@
     "trigger": 0
   },
 
-  {
-    "id": 255,
-    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-    "name": "",
-    "switchId": 1,
-    "trigger": 0
-  },
+ {
+  "id": 255,
+  "list": [
+    { "code": 108, "indent": 0, "parameters": ["<Menu Visible Eval>"] },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": ["   if ($gameSwitches.value(267)) {"]
+    },
+    { "code": 408, "indent": 0, "parameters": ["     visible = true;"] },
+    { "code": 408, "indent": 0, "parameters": ["   } else {"] },
+    { "code": 408, "indent": 0, "parameters": ["     visible = false;"] },
+    { "code": 408, "indent": 0, "parameters": ["   }"] },
+    { "code": 108, "indent": 0, "parameters": ["<Help Description>"] },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": ["Chọn đặt chỗ nhà tắm của bạn"]
+    },
+    { "code": 408, "indent": 0, "parameters": ["</Help Description>"] },
+    { "code": 108, "indent": 0, "parameters": ["<Subtext>"] },
+    { "code": 408, "indent": 0, "parameters": ["           - Chi tiết -"] },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": ["Thư giãn trong một buổi ngâm mình thoải mái ở"]
+    },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": ["nhà tắm nóng đầy hơi nước! Cung cấp xà phòng không giới hạn!"]
+    },
+    { "code": 408, "indent": 0, "parameters": ["</Subtext>"] },
+    { "code": 108, "indent": 0, "parameters": ["<Icon: 165>"] },
+    { "code": 108, "indent": 0, "parameters": ["<Picture: Z Bath Nadia>"] },
+    { "code": 230, "indent": 0, "parameters": [30] },
+    { "code": 221, "indent": 0, "parameters": [] },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": ["$gameSelfSwitches.setValue([136,9,'D'], true);"]
+    },
+    { "code": 0, "indent": 0, "parameters": [] }
+  ],
+  "name": "Bath Soak - Nadia",
+  "switchId": 1,
+  "trigger": 0
+},
+
   {
     "id": 256,
     "list": [{ "code": 0, "indent": 0, "parameters": [] }],
@@ -32535,18 +33175,254 @@
   },
   {
     "id": 260,
-    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-    "name": "",
+    "list": [
+      { "code": 108, "indent": 0, "parameters": ["== Quận Tây =="] },
+      { "code": 355, "indent": 0, "parameters": ["var m = 5;"] },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "[5,14,15,16,17,22,23,46,47,48,49].forEach(function(e) {"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'A'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'B'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'D'], false);"]
+      },
+      { "code": 655, "indent": 0, "parameters": ["});"] },
+      { "code": 108, "indent": 0, "parameters": ["== Cảng =="] },
+      { "code": 355, "indent": 0, "parameters": ["var m = 22;"] },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["[2,3,5,7,13,14].forEach(function(e) {"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'A'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'B'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'D'], false);"]
+      },
+      { "code": 655, "indent": 0, "parameters": ["});"] },
+      { "code": 108, "indent": 0, "parameters": ["== Cửa hàng C =="] },
+      { "code": 355, "indent": 0, "parameters": ["var m = 8;"] },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["[3,4,7].forEach(function(e) {"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'A'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'B'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'D'], false);"]
+      },
+      { "code": 655, "indent": 0, "parameters": ["});"] },
+      { "code": 108, "indent": 0, "parameters": ["== Đồn cảnh sát =="] },
+      { "code": 355, "indent": 0, "parameters": ["var m = 38;"] },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["[23,24,26,25,27].forEach(function(e) {"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'A'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'B'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'D'], false);"]
+      },
+      { "code": 655, "indent": 0, "parameters": ["});"] },
+      { "code": 355, "indent": 0, "parameters": ["var m = 39;"] },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["[28,29,30].forEach(function(e) {"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'A'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'B'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'D'], false);"]
+      },
+      { "code": 655, "indent": 0, "parameters": ["});"] },
+      { "code": 108, "indent": 0, "parameters": ["== Hẻm Tây =="] },
+      { "code": 355, "indent": 0, "parameters": ["var m = 23;"] },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["[8,12].forEach(function(e) {"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'A'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'B'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'D'], false);"]
+      },
+      { "code": 655, "indent": 0, "parameters": ["});"] },
+      { "code": 0, "indent": 0, "parameters": [] }
+    ],
+    "name": "Hồi sinh - Quận Tây",
     "switchId": 1,
     "trigger": 0
   },
-  {
+ {
     "id": 261,
-    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
-    "name": "",
+    "list": [
+      { "code": 108, "indent": 0, "parameters": ["== Khu Đông =="] },
+      { "code": 355, "indent": 0, "parameters": ["var m = 14;"] },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["[1,16,17,24,31,32].forEach(function(e) {"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'A'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'B'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'D'], false);"]
+      },
+      { "code": 655, "indent": 0, "parameters": ["});"] },
+      { "code": 108, "indent": 0, "parameters": ["== Cửa hàng C =="] },
+      { "code": 355, "indent": 0, "parameters": ["var m = 15;"] },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["[8,9,10].forEach(function(e) {"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'A'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'B'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'D'], false);"]
+      },
+      { "code": 655, "indent": 0, "parameters": ["});"] },
+      { "code": 108, "indent": 0, "parameters": ["== Nhà kho =="] },
+      { "code": 355, "indent": 0, "parameters": ["var m = 7;"] },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["[25,27].forEach(function(e) {"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'A'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'B'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'D'], false);"]
+      },
+      { "code": 655, "indent": 0, "parameters": ["});"] },
+      { "code": 108, "indent": 0, "parameters": ["== Công viên (Lối vào) =="] },
+      { "code": 355, "indent": 0, "parameters": ["var m = 28;"] },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["[6,7,8,9].forEach(function(e) {"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'A'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'B'], false);"]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": ["  $gameSelfSwitches.setValue([m, e, 'D'], false);"]
+      },
+      { "code": 655, "indent": 0, "parameters": ["});"] },
+      { "code": 0, "indent": 0, "parameters": [] }
+    ],
+    "name": "Hồi sinh - Khu Đông",
     "switchId": 1,
     "trigger": 0
   },
+
   {
     "id": 262,
     "list": [{ "code": 0, "indent": 0, "parameters": [] }],

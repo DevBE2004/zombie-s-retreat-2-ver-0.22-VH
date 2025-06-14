@@ -3721,7 +3721,7 @@
   {
     "id": 144,
     "animationId": 0,
-    "consumable": true,
+    "consumable": false,
     "damage": {
       "critical": false,
       "elementId": 0,
@@ -3732,9 +3732,9 @@
     "description": "",
     "effects": [],
     "hitType": 0,
-    "iconIndex": 0,
-    "itypeId": 1,
-    "name": "",
+    "iconIndex": 368,
+    "itypeId": 2,
+    "name": "Lunar Card",
     "note": "",
     "occasion": 0,
     "price": 0,

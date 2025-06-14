@@ -3564,37 +3564,6 @@
             { "code": 123, "indent": 1, "parameters": ["D", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    {
-                      "code": 41,
-                      "parameters": ["PHC_Em-Serv-ZomGoreB2", 7],
-                      "indent": null
-                    },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [
-                {
-                  "code": 41,
-                  "parameters": ["PHC_Em-Serv-ZomGoreB2", 7],
-                  "indent": null
-                }
-              ]
-            },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -3973,37 +3942,6 @@
               "code": 355,
               "indent": 1,
               "parameters": ["$gameSelfSwitches.setValue([19,4,'A'], true);"]
-            },
-            {
-              "code": 205,
-              "indent": 1,
-              "parameters": [
-                0,
-                {
-                  "list": [
-                    {
-                      "code": 41,
-                      "parameters": ["PHC_Em-Serv-ZomGoreA2", 5],
-                      "indent": null
-                    },
-                    { "code": 0 }
-                  ],
-                  "repeat": false,
-                  "skippable": true,
-                  "wait": true
-                }
-              ]
-            },
-            {
-              "code": 505,
-              "indent": 1,
-              "parameters": [
-                {
-                  "code": 41,
-                  "parameters": ["PHC_Em-Serv-ZomGoreA2", 5],
-                  "indent": null
-                }
-              ]
             },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 123, "indent": 1, "parameters": ["A", 1] },
@@ -5116,7 +5054,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-              "Các cơ quan nội tạng của bạn đã sống sót sau cơn sốt đường và các thành phần nghi ngờ. Chúc mừng!"
+                "Các cơ quan nội tạng của bạn đã sống sót sau cơn sốt đường và các thành phần nghi ngờ. Chúc mừng!"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
