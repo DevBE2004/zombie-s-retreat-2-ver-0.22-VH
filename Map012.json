@@ -47358,6 +47358,2902 @@
       ],
       "x": 6,
       "y": 0
-    }
+    },
+    {
+      "id": 38,
+      "name": "Nadia Bath Sex",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": false,
+            "variableValue": 28
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1Nadia",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": true,
+            "variableValue": 36
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3NadiaBath0[4x4]');"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3NadiaBath1[4x4]');"]
+            },
+            { "code": 111, "indent": 0, "parameters": [0, 27, 0] },
+            { "code": 230, "indent": 1, "parameters": [120] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "3NadiaBath_BG", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                2,
+                "3NadiaBath0[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 2 Speed 8"]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                9,
+                "3MomBathSteam[2x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 9 Speed 8"]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                10,
+                "3NadiaBath_Light",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>*cười khúc khích*\\! Hơi nước này cảm thấy thật tuyệt trên da tôi!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Thư giãn ở đây thế này thật sự tốt cho cơ thể chúng ta."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Còn tuyệt hơn khi bạn đổ mồ hôi...\\! Có lẽ bạn có thể giúp tôi?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Sự gần gũi giúp tăng cường mối quan hệ giữa hai người ~ ♥️"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Quan hệ", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Quan hệ"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                3,
+                "3NadiaBath1[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 3 Speed 8"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 8] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Dela Soft Moan & Breath",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\N[1]>Whoa ~ Nadia!\\! Em thật tuyệt vời..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Mmh ~\\! Em cá là âm đạo của em cảm thấy ấm và ướt hơn bình thường..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Có lẽ hơi nước cũng đang giúp ích theo những cách khác ~ ♥️"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Ooh cưng ~\\! Dương vật của anh thật tuyệt ~ ♥️"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Nhanh hơn", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Nhanh hơn"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                4,
+                "3NadiaBath1[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 4 Speed 6"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 2] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Cơ thể chúng ta thực sự hòa quyện, phải không?!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Ngh!\\! Cảm giác thật tuyệt vời, đúng không?!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Nadia>Oh trời!\\! Mmh, đúng rồi ~ ♥️"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Nhanh hơn", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Nhanh hơn"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                5,
+                "3NadiaBath1[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [4] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 5 Speed 4"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 3] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Dela Soft Moan Intense",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Nadia>Ah!\\! Anh ~ !\\! Vâng ~ ♥️"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Anh cũng cảm nhận được, đúng không?! \\!Em sắp lên đỉnh rồi!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\N[1]>Anh cũng vậy, Nadia!"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Xuất trong", "Xuất ngoài", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Xuất trong"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["\\n<Nadia>Đừng ngại!\\! Xuất vào trong em ~ ♥️"]
+            },
+            { "code": 121, "indent": 2, "parameters": [10, 10, 0] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xuất ngoài"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "\\n<Nadia>Đừng ngại!\\! Xuất cùng em nhé, cưng ~ ♥️"
+              ]
+            },
+            { "code": 121, "indent": 2, "parameters": ["10, 10, 1"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [2, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                6,
+                "3NadiaBath1[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [5] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 6 Speed 3"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 20] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>N-Nadia!"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Vâng cưng!\\! Đừng dừng lại, đừng dừng lại ~ ♥️"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 246, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [6] },
+            { "code": 111, "indent": 0, "parameters": [0, 10, 0] },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [2, "3NadiaBath_In", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [2, "3NadiaBath_Out", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 0] },
+            { "code": 122, "indent": 0, "parameters": [11, 11, 0, 0, 0] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cumshot", "volume": 75, "pitch": 90, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [20] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Z_DelaFinish", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [100] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Nadia>Cảm ơn \\n[1].\\! Em đã có một khoảng thời gian thật tuyệt ~ ♥️"
+              ]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [9] },
+            { "code": 235, "indent": 0, "parameters": [10] },
+            { "code": 201, "indent": 0, "parameters": [0, 136, 9, 9, 2, 0] },
+            { "code": 117, "indent": 0, "parameters": [57] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [{ "code": 40, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 40, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 117, "indent": 0, "parameters": [23] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": true,
+            "variableValue": 37
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 1
+    },
+    {
+      "id": 39,
+      "name": "Misty Sex",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": false,
+            "variableValue": 28
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "1Baddies",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 5
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": true,
+            "variableValue": 37
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3MistySex0a[4x4]');"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3MistySex1a[4x4]');"]
+            },
+            { "code": 111, "indent": 0, "parameters": [0, 27, 0] },
+            { "code": 230, "indent": 1, "parameters": [120] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "3Misty_BG", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                3,
+                "3MistySex1a[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 3 Speed 8"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 8] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [10, "3Misty_Light", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Dela Soft Moan & Breath",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [120] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Đúng rồi cưng...\\! Làm mạnh vào cho em ~ ♥️"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Anh có thấy thoải mái hơn không?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>An toàn và ấm áp bên trong em ~ ?"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Nhanh hơn", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Nhanh hơn"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                4,
+                "3MistySex1a[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 4 Speed 6"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 2] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Thằng nhóc này...\\! Hắn-\\! Hắn cảm thấy khá tuyệt bên trong em...]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Ch-Chỉ một chút nữa thôi..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>H-Hngh\\! Vâng, cưng ~ ♥️"]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [4] },
+            { "code": 235, "indent": 0, "parameters": [10] },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 281, "indent": 0, "parameters": [1] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 201, "indent": 0, "parameters": [0, 175, 9, 5, 4, 0] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Damage4", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 0] },
+            { "code": 246, "indent": 0, "parameters": [1] },
+            { "code": 242, "indent": 0, "parameters": [1] },
+            { "code": 117, "indent": 0, "parameters": [57] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [{ "code": 40, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 40, "indent": null }]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 424,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": true,
+            "variableValue": 37
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3MistySex0a[4x4]');"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3MistySex1a[4x4]');"]
+            },
+            { "code": 111, "indent": 0, "parameters": [0, 27, 0] },
+            { "code": 230, "indent": 1, "parameters": [120] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "3Misty_BG", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                2,
+                "3MistySex0a[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 2 Speed 8"]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [10, "3Misty_Light", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Thật trơ trẽn khi anh lại đòi hỏi lần nữa!\\! Đồ-\\! Đồ phiền phức..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Nếu đây thực sự là điều anh muốn làm, thì, ừ thì..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Nhanh lên và đút nó vào đi!"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Quan hệ", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Quan hệ"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                3,
+                "3MistySex1a[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 3 Speed 8"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 8] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Dela Soft Moan & Breath",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Hắn trông thật dễ thương khi cố hết sức...]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Ai ngờ một thằng nhóc phiền phức lại biết cách làm hài lòng phụ nữ?]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Tiếp tục đi...\\! Làm em đến khi anh xuất ra..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Chúng ta không có cả ngày đâu, anh biết chứ?!"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Nhanh hơn", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Nhanh hơn"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                4,
+                "3MistySex1a[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 4 Speed 6"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 2] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Trời ơi..!\\! Sao hắn lại tuyệt đến thế bên trong em?!]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Không được!\\! Nếu thế này, em có thể nghiện mất!]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Norman, em...\\! Em luôn nghĩ một ngày anh sẽ làm em thế này, nhưng...]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[. . .\\! Giờ thì anh đã quá muộn rồi ~ ♥️]"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Nhanh hơn", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Nhanh hơn"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                5,
+                "3MistySex1b[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [4] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 5 Speed 4"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 3] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Dela Soft Moan Intense",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Ohhh, trời ơi ~ ♥️"]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Đúng rồi!\\! Đâm mạnh vào mông em!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Ngh ~ !\\! Đút con cặc cứng đó sâu vào âm đạo em \\n[1]!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Oh, ohh trời ơi đúng rồi!\\! Ngh ~ ♥️"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Xuất", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Xuất"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                6,
+                "3MistySex1b[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [5] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 6 Speed 3"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 20] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Ah!\\! Ah, ahn ~ ♥️"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>G-Gần rồi!\\! Tiếp tục, em sắp ~ !"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Oh trời, em đang lên đỉnh ~ ♥️"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 246, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [6] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "3Misty_Finish", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 0] },
+            { "code": 122, "indent": 0, "parameters": [11, 11, 0, 0, 0] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cumshot", "volume": 75, "pitch": 90, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [20] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Z_DelaFinish", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [100] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Oooh, trời ơi ~ ♥️"]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [9] },
+            { "code": 235, "indent": 0, "parameters": [10] },
+            { "code": 201, "indent": 0, "parameters": [0, 180, 6, 22, 2, 0] },
+            { "code": 117, "indent": 0, "parameters": [57] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [{ "code": 40, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 40, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 101, "indent": 0, "parameters": ["1Misty1", 7, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Giờ thì em phải bận rộn với anh rồi ~ ♥️"]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 117, "indent": 0, "parameters": [23] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 424,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": true,
+            "variableValue": 37
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3MistySex0a[4x4]');"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3MistySex1a[4x4]');"]
+            },
+            { "code": 111, "indent": 0, "parameters": [0, 27, 0] },
+            { "code": 230, "indent": 1, "parameters": [120] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "3Misty_BG", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                2,
+                "3MistySex0b[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 2 Speed 8"]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [10, "3Misty_Light", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Cứ thế này thì em sẽ chẳng làm được việc gì..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Nhưng chỉ làm việc mà không vui chơi thì không tốt cho sức khỏe, đúng không?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Vậy thì tiếp tục đi.\\! Đút con cặc đó vào trong em!"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Quan hệ", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Quan hệ"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                3,
+                "3MistySex1a[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 3 Speed 8"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 8] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Dela Soft Moan & Breath",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Nhìn mặt anh ta khi đang làm em khiến âm đạo em ướt đẫm!]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Sao em lại yêu một thằng nhóc phiền phức như thế chứ?!]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Có lẽ...\\! Có lẽ anh ấy là điều thiếu sót trong đời em bấy lâu nay?]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Không cần kìm nén đâu cưng.\\! Mmh ~ Làm em mạnh hơn ~ ♥️"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Nhanh hơn", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Nhanh hơn"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                4,
+                "3MistySex1a[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 4 Speed 6"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 2] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Trời ơi..!\\! Mỗi cú đẩy như thiêu đốt cơ thể em!]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Cảm giác khoái lạc này gần như quá sức chịu đựng của cơ thể em!]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>[Nhưng giờ em thực sự nghiện nó rồi ~ ♥️]"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Nhanh hơn", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Nhanh hơn"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                5,
+                "3MistySex1b[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [4] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 5 Speed 4"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 3] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Dela Soft Moan Intense",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Ohhh, trời ơi ~ ♥️"]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Đúng rồi!\\! Đâm mạnh vào mông em!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Misty>Ngh ~ !\\! Đút con cặc cứng đó sâu vào âm đạo em \\n[1]!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Oh, ohh trời ơi đúng rồi!\\! Ngh ~ ♥️"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Xuất", "Xem"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Xuất"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "Xem"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                6,
+                "3MistySex1b[4x4]",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 235, "indent": 0, "parameters": [5] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 6 Speed 3"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 20] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Ah!\\! Ah, ahn ~ ♥️"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>G-Gần rồi!\\! Tiếp tục, em sắp ~ !"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Oh trời, em đang lên đỉnh ~ ♥️"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 246, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [6] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "3Misty_Finish", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 0] },
+            { "code": 122, "indent": 0, "parameters": [11, 11, 0, 0, 0] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cumshot", "volume": 75, "pitch": 90, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [20] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Z_DelaFinish", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [100] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Misty>Oooh, trời ơi ~ ♥️"]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [9] },
+            { "code": 235, "indent": 0, "parameters": [10] },
+            { "code": 201, "indent": 0, "parameters": [0, 180, 6, 22, 2, 0] },
+            { "code": 117, "indent": 0, "parameters": [57] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [{ "code": 40, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 40, "indent": null }]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 101, "indent": 0, "parameters": ["1Misty1", 7, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Đừng làm người lạ, nhé ~ ♥️"]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 117, "indent": 0, "parameters": [23] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": true,
+            "variableValue": 38
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 2,
+      "y": 11
+    },
+    {
+      "id": 40,
+      "name": "Lucy Night Sex",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": true,
+            "variableValue": 38
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3LucySex0[4x4]');"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3LucySex1[4x4]');"]
+            },
+            { "code": 111, "indent": 0, "parameters": [0, 27, 0] },
+            { "code": 230, "indent": 1, "parameters": [120] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "3LucySex_BG", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "3LucySex0[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 2 Speed 8"]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                10,
+                "3LucySex_FGScrn",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                3
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>\\n[1] ~ ♥️"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>Lucy..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Nghe này, đây là...\\! Là lần đầu tiên của em."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Vậy nên xin anh ~\\! Hãy nhẹ nhàng ~ ♥️"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Fuck", "View"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Fuck"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "View"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "3LucySex1[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 3 Speed 8"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 8] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "MilfMedSlow_Cotton",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>T-Trời ơi \\n[1]...\\! Nó to quá ~ !"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>Em luôn tự hỏi cảm giác đó sẽ thế nào..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<\\N[1]>Có quá sức với em không Lucy?\\! Có nên chậm lại không?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>K-Không!\\! Em chịu được mà ~ ♥️"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Faster", "View"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Faster"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "View"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [4, "3LucySex1[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 4 Speed 6"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 2] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "MilfMedMed_Cotton",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>[Chúng ta thật sự đang làm tình!]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>[Kể từ khi chúng ta gặp nhau lúc còn nhỏ \\n[1] ~\\! Em đã luôn thích anh...]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>[Nụ cười dễ thương của anh.\\! Mái tóc nhọn đó...]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>[Nhưng giờ chúng ta đã lớn...\\! 'Thích' giờ có chút khác biệt, phải không ~ ♥️]"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Faster", "View"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Faster"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "View"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [5, "3LucySex1[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [4] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 5 Speed 4"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 3] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "MilfMedFast_Cotton",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Ôi!\\! Ôi, cưng ơi ~ !"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>Em không kiểm soát được \\n[1]!\\! Em không kiểm soát được cơ thể mình!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Ư!\\! Ôi ~ tuyệt quá ~ ♥️"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>[Em cảm nhận được dương vật của anh!\\! Nó-\\! Nó đang căng lên!]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>[Đây rồi sao?!\\! Anh sắp xuất tinh rồi sao?!]"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Cum Inside", "View"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Cum Inside"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "View"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [6, "3LucySex1[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [5] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 6 Speed 3"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 20] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\N[1]>Lucy!\\! Anh không chịu nổi nữa đâu!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Đừng kìm lại \\n[1]!\\! Ư ~ !"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Xuất tinh!\\! Xuất vào trong em!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 246, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [6] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "3LucySex_After", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 0] },
+            { "code": 122, "indent": 0, "parameters": [11, 11, 0, 0, 0] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cumshot", "volume": 75, "pitch": 90, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [20] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Z_MedFinish1Loud",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [100] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>Anh thật sự đã xuất vào trong em, \\n[1] ~ ♥️"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Thật nguy hiểm ~ ♥️"]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [9] },
+            { "code": 235, "indent": 0, "parameters": [10] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
+            { "code": 201, "indent": 0, "parameters": [0, 192, 24, 22, 0, 0] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": true,
+            "variableValue": 38
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3LucySex0[4x4]');"]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["Galv.CACHE.load('pictures','3LucySex1[4x4]');"]
+            },
+            { "code": 111, "indent": 0, "parameters": [0, 27, 0] },
+            { "code": 230, "indent": 1, "parameters": [120] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "3LucySex_BG", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "3LucySex0[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 2 Speed 8"]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                10,
+                "3LucySex_FGScrn",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                3
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Chúng ta sẽ lại làm tình ~ ♥️"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["\\n<\\N[1]>Ừ..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>Ở tư thế này với anh...\\! Điều đó khiến em hạnh phúc lắm."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>Em muốn anh xuất thật sâu vào trong em, được chứ ~ ?"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Fuck", "View"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Fuck"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "View"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "3LucySex1[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 3 Speed 8"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 8] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "MilfMedSlow_Cotton",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [60] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>Ư-Ư \\n[1]...\\! Trời, chặt quá ~ !"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Dương vật của anh to quá!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\N[1]>Nó có quá to với em không?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>*cười*\\! Tất nhiên là không!\\! Em chịu được mà ~ ♥️"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Faster", "View"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Faster"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "View"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [4, "3LucySex1[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 4 Speed 6"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 2] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "MilfMedMed_Cotton",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Ưmm ~ !\\! Ôi ~ ♥️"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Chết tiệt \\n[1]...\\! Đúng rồi..!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Ư, ưmm ~ !\\! Đúng vậy ~ ♥️"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Faster", "View"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Faster"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "View"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [5, "3LucySex1[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [4] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 5 Speed 4"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 3] },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "MilfMedFast_Cotton",
+                  "volume": 100,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Ôi!\\! Ôi, cưng ơi ~ !"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>[Hông em lại tự động di chuyển!\\! Em không kiểm soát được!]"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Ư!\\! Ôi ~ tuyệt quá ~ ♥️"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>[D-Dương vật của anh!\\! Anh lại sắp xuất tinh rồi!]"
+              ]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 1, "parameters": [""] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["Cum Inside", "View"], -1, 0, 2, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "Cum Inside"] },
+            { "code": 113, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "View"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 2, "parameters": [""] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [6, "3LucySex1[4x4]", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [5] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["AnimatedPicture 6 Speed 3"]
+            },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 20] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<\\N[1]>L-Lucy!\\! Anh đang xuất tinh!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Ôi trời, \\n[1]!\\! Ư ~ !"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>Ôi ~ !\\! Ôi, chết tiệt ~ !\\! Xuất vào trong ~ ♥️"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 246, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [6] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "3LucySex_After", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 230, "indent": 0, "parameters": [15] },
+            { "code": 122, "indent": 0, "parameters": [12, 12, 0, 0, 0] },
+            { "code": 122, "indent": 0, "parameters": [11, 11, 0, 0, 0] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Cumshot", "volume": 75, "pitch": 90, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [20] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Z_MedFinish1Loud",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [100] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\n<Lucy>Anh cứ xuất tinh vào trong em \\n[1] ~ ♥️"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n<Lucy>Anh biết chuyện gì có thể xảy ra mà ~ ♥️"]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 235, "indent": 0, "parameters": [9] },
+            { "code": 235, "indent": 0, "parameters": [10] },
+            { "code": 121, "indent": 0, "parameters": [62, 62, 0] },
+            { "code": 201, "indent": 0, "parameters": [0, 3, 32, 9, 2, 0] },
+            { "code": 230, "indent": 0, "parameters": [90] },
+            { "code": 117, "indent": 0, "parameters": [6] },
+            { "code": 117, "indent": 0, "parameters": [23] },
+            { "code": 211, "indent": 0, "parameters": [1] },
+            { "code": 230, "indent": 0, "parameters": [30] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 7,
+            "variableValid": true,
+            "variableValue": 39
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 6
+}
   ]
 }

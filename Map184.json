@@ -5085,353 +5085,328 @@
             "tileId": 0
           },
           "list": [
-  { "code": 117, "indent": 0, "parameters": [8] },
-  { "code": 117, "indent": 0, "parameters": [13] },
-  { "code": 203, "indent": 0, "parameters": [2, 0, 5, 11, 6] },
-  {
-    "code": 205,
-    "indent": 0,
-    "parameters": [
-      -1,
-      {
-        "list": [
-          { "code": 15, "parameters": [5], "indent": null },
-          { "code": 29, "parameters": [3], "indent": null },
-          { "code": 3, "indent": null },
-          { "code": 3, "indent": null },
-          { "code": 0 }
-        ],
-        "repeat": false,
-        "skippable": true,
-        "wait": false
-      }
-    ]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 15, "parameters": [5], "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 29, "parameters": [3], "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 3, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 3, "indent": null }]
-  },
-  {
-    "code": 205,
-    "indent": 0,
-    "parameters": [
-      2,
-      {
-        "list": [
-          { "code": 3, "indent": null },
-          { "code": 3, "indent": null },
-          { "code": 4, "indent": null },
-          { "code": 4, "indent": null },
-          { "code": 4, "indent": null },
-          { "code": 0 }
-        ],
-        "repeat": false,
-        "skippable": true,
-        "wait": false
-      }
-    ]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 3, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 3, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 4, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 4, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 4, "indent": null }]
-  },
-  { "code": 222, "indent": 0, "parameters": [] },
-  {
-    "code": 355,
-    "indent": 0,
-    "parameters": ["Galv.QUEST.objective(38,0,1);"]
-  },
-  { "code": 230, "indent": 0, "parameters": [110] },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": ["\\n[1].\\! Đến xem này."]
-  },
-  {
-    "code": 205,
-    "indent": 0,
-    "parameters": [
-      -1,
-      {
-        "list": [
-          { "code": 4, "indent": null },
-          { "code": 4, "indent": null },
-          { "code": 4, "indent": null },
-          { "code": 4, "indent": null },
-          { "code": 18, "indent": null },
-          { "code": 0 }
-        ],
-        "repeat": false,
-        "skippable": true,
-        "wait": false
-      }
-    ]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 4, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 4, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 4, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 4, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 18, "indent": null }]
-  },
-  { "code": 230, "indent": 0, "parameters": [90] },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": ["Anh có nhớ hệ thống điều khiển ở dưới cống không?"]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": [
-      "Ừ.\\! Một người phải giữ một công tắc trong khi người kia giữ công tắc còn lại."
-    ]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": ["Thiết bị đầu cuối này là một hệ thống điều khiển tương tự."]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": [
-      "Vậy tôi chỉ cần kích hoạt một trong những máy tính này nữa thôi?"
-    ]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": ["Ước gì dễ như vậy..."]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": [
-      "Thiết bị đầu cuối kia nằm trong một căn phòng nào đó bên dưới chúng ta."
-    ]
-  },
-  { "code": 213, "indent": 0, "parameters": [-1, 7, true] },
-  { "code": 101, "indent": 0, "parameters": ["1MC1", 5, 0, 2] },
-  { "code": 401, "indent": 0, "parameters": ["Ôi, thôi nào..."] },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": [
-      "Tôi thấy một cái thang máy ở ban công phòng trước."
-    ]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": [
-      "Đợi ở đây.\\! Tôi sẽ đi tìm thiết bị đầu cuối kia."
-    ]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-  { "code": 401, "indent": 0, "parameters": ["Không, để tôi làm."] },
-  {
-    "code": 205,
-    "indent": 0,
-    "parameters": [
-      2,
-      {
-        "list": [
-          { "code": 17, "indent": null },
-          { "code": 15, "parameters": [10], "indent": null },
-          { "code": 0 }
-        ],
-        "repeat": false,
-        "skippable": true,
-        "wait": true
-      }
-    ]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 17, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 15, "parameters": [10], "indent": null }]
-  },
-  { "code": 213, "indent": 0, "parameters": [2, 6, true] },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 2, 0, 2] },
-  { "code": 401, "indent": 0, "parameters": ["*thở dài*\\! Được rồi."] },
-  {
-    "code": 205,
-    "indent": 0,
-    "parameters": [
-      2,
-      {
-        "list": [
-          { "code": 17, "indent": null },
-          { "code": 15, "parameters": [10], "indent": null },
-          { "code": 0 }
-        ],
-        "repeat": false,
-        "skippable": true,
-        "wait": true
-      }
-    ]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 17, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 15, "parameters": [10], "indent": null }]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": [
-      "Một khi công tắc được kéo, đường đi của chúng ta sẽ gặp lại nhau."
-    ]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 0, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": [
-      "Tôi sẽ đợi ở đây cho đến khi có tín hiệu cho biết anh đang ở thiết bị đầu cuối."
-    ]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1Lucy1", 4, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": ["Cẩn thận nhé, hiểu không..?"]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
-  { "code": 401, "indent": 0, "parameters": ["Hiểu rồi."] },
-  { "code": 221, "indent": 0, "parameters": [] },
-  {
-    "code": 205,
-    "indent": 0,
-    "parameters": [
-      2,
-      {
-        "list": [{ "code": 19, "indent": null }, { "code": 0 }],
-        "repeat": false,
-        "skippable": true,
-        "wait": true
-      }
-    ]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 19, "indent": null }]
-  },
-  {
-    "code": 205,
-    "indent": 0,
-    "parameters": [
-      -1,
-      {
-        "list": [
-          { "code": 16, "indent": null },
-          { "code": 29, "parameters": [4], "indent": null },
-          { "code": 0 }
-        ],
-        "repeat": false,
-        "skippable": true,
-        "wait": true
-      }
-    ]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 16, "indent": null }]
-  },
-  {
-    "code": 505,
-    "indent": 0,
-    "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
-  },
-  { "code": 117, "indent": 0, "parameters": [17] },
-  { "code": 230, "indent": 0, "parameters": [60] },
-  { "code": 222, "indent": 0, "parameters": [] },
-  {
-    "code": 355,
-    "indent": 0,
-    "parameters": ["Galv.QUEST.objective(38,1,0);"]
-  },
-  { "code": 123, "indent": 0, "parameters": ["A", 0] },
-  { "code": 0, "indent": 0, "parameters": [] }
-],
+        { "code": 121, "indent": 0, "parameters": [40, 40, 1] },
+        { "code": 121, "indent": 0, "parameters": [7, 7, 0] },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                { "code": 29, "parameters": [3], "indent": null },
+                { "code": 4, "indent": null },
+                { "code": 0 }
+              ],
+              "repeat": false,
+              "skippable": true,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 29, "parameters": [3], "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 4, "indent": null }]
+        },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            { "name": "Move5", "volume": 95, "pitch": 120, "pan": 0 }
+          ]
+        },
+        { "code": 230, "indent": 0, "parameters": [20] },
+        { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
+        { "code": 230, "indent": 0, "parameters": [30] },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                { "code": 4, "indent": null },
+                { "code": 4, "indent": null },
+                { "code": 0 }
+              ],
+              "repeat": false,
+              "skippable": true,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 4, "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 4, "indent": null }]
+        },
+        { "code": 230, "indent": 0, "parameters": [30] },
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": ["Xin... chào...?\\! Có ai ở đó không...?"]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [{ "code": 4, "indent": null }, { "code": 0 }],
+              "repeat": false,
+              "skippable": true,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 4, "indent": null }]
+        },
+        { "code": 230, "indent": 0, "parameters": [30] },
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
+        { "code": 401, "indent": 0, "parameters": ["N-Norman..?!"] },
+        { "code": 230, "indent": 0, "parameters": [90] },
+        { "code": 213, "indent": 0, "parameters": [26, 8, true] },
+        { "code": 230, "indent": 0, "parameters": [90] },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": ["$gameSelfSwitches.setValue([184,26,'A'], true);"]
+        },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            { "name": "Zombie Growl", "volume": 90, "pitch": 150, "pan": 0 }
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            { "name": "Run", "volume": 90, "pitch": 110, "pan": 0 }
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            26,
+            {
+              "list": [
+                { "code": 1, "indent": null },
+                { "code": 1, "indent": null },
+                { "code": 1, "indent": null },
+                { "code": 1, "indent": null },
+                { "code": 1, "indent": null },
+                { "code": 1, "indent": null },
+                { "code": 0 }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": false
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 1, "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 1, "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 1, "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 1, "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 1, "indent": null }]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                { "code": 37, "indent": null },
+                { "code": 15, "parameters": [20], "indent": null },
+                { "code": 29, "parameters": [5], "indent": null },
+                { "code": 13, "indent": null },
+                { "code": 13, "indent": null },
+                {
+                  "code": 44,
+                  "parameters": [
+                    {
+                      "name": "Damage1",
+                      "volume": 80,
+                      "pitch": 90,
+                      "pan": 0
+                    }
+                  ],
+                  "indent": null
+                },
+                { "code": 14, "parameters": [-3, 0], "indent": null },
+                { "code": 0 }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 37, "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 15, "parameters": [20], "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 29, "parameters": [5], "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 13, "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 13, "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 44,
+              "parameters": [
+                { "name": "Damage1", "volume": 80, "pitch": 90, "pan": 0 }
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            { "code": 14, "parameters": [-3, 0], "indent": null }
+          ]
+        },
+        { "code": 230, "indent": 0, "parameters": [10] },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            { "name": "Fall", "volume": 90, "pitch": 80, "pan": 0 }
+          ]
+        },
+        { "code": 221, "indent": 0, "parameters": [] },
+        { "code": 246, "indent": 0, "parameters": [3] },
+        { "code": 356, "indent": 0, "parameters": ["Flashlight off"] },
+        { "code": 230, "indent": 0, "parameters": [30] },
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 6, 0, 2] },
+        { "code": 401, "indent": 0, "parameters": ["Whaaaaaaa ~ ~ ~"] },
+        { "code": 230, "indent": 0, "parameters": [90] },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            { "name": "Water1", "volume": 90, "pitch": 100, "pan": 0 }
+          ]
+        },
+        { "code": 230, "indent": 0, "parameters": [10] },
+        {
+          "code": 245,
+          "indent": 0,
+          "parameters": [
+            { "name": "River", "volume": 65, "pitch": 100, "pan": 0 }
+          ]
+        },
+        { "code": 230, "indent": 0, "parameters": [70] },
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 2, 0, 2] },
+        { "code": 401, "indent": 0, "parameters": ["*Hớp hơi*\\! CỨU!\\!"]},
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 6, 0, 2] },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters":["*Ho*\\! CỨU- *ọe*\\! TÔI KHÔNG THỂ!\\! *ho*"]
+        },
+        { "code": 230, "indent": 0, "parameters": [90] },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": ["$gameSelfSwitches.setValue([174,1,'A'], true);"]
+        },
+        { "code": 221, "indent": 0, "parameters": [] },
+        { "code": 246, "indent": 0, "parameters": [4] },
+        { "code": 230, "indent": 0, "parameters": [120] },
+        { "code": 117, "indent": 0, "parameters": [13] },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                { "code": 29, "parameters": [4], "indent": null },
+                { "code": 38, "indent": null },
+                { "code": 0 }
+              ],
+              "repeat": false,
+              "skippable": true,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 38, "indent": null }]
+        },
+        { "code": 211, "indent": 0, "parameters": [0] },
+        { "code": 201, "indent": 0, "parameters": [0, 174, 12, 10, 0, 0] },
+        { "code": 121, "indent": 0, "parameters": [7, 7, 1] },
+        { "code": 123, "indent": 0, "parameters": ["A", 0] },
+        { "code": 0, "indent": 0, "parameters": [] }
+      ],
           "moveFrequency": 3,
           "moveRoute": {
             "list": [{ "code": 0, "parameters": [] }],
@@ -5491,6 +5466,7 @@
       "x": 17,
       "y": 11
     },
+
     {
       "id": 26,
       "name": "Fast Zombie",

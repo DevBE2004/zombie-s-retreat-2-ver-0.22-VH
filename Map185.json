@@ -219,23 +219,152 @@
             "characterIndex": 0
           },
           "list": [
-  {
-    "code": 250,
-    "indent": 0,
-    "parameters": [
-      { "name": "Open2", "volume": 90, "pitch": 150, "pan": 0 }
-    ]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": [
-      "Cánh cửa này bị khóa cho đến khi tôi tìm thấy thiết bị đầu cuối thứ hai."
-    ]
-  },
-  { "code": 0, "indent": 0, "parameters": [] }
-],
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+              "repeat": false,
+              "skippable": true,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 19, "indent": null }]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            0,
+            {
+              "list": [{ "code": 39, "indent": null }, { "code": 0 }],
+              "repeat": false,
+              "skippable": true,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [{ "code": 39, "indent": null }]
+        },
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": ["Đây có vẻ là thiết bị đầu cuối."]
+        },
+        { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "* * Khóa an ninh A hiện tại: ĐÃ NGẮT KẾT NỐI . . . * *"
+          ]
+        },
+        { "code": 101, "indent": 0, "parameters": ["", 0, 0, 1] },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": ["* * Ngắt kết nối đầu vào Khóa an ninh B: . . . * *"]
+        },
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": ["Cảm ơn vì đã đợi em Lucy."]
+        },
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": ["Bây giờ hãy mở khóa những cánh cửa này."]
+        },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            { "name": "Cursor1", "volume": 90, "pitch": 100, "pan": 0 }
+          ]
+        },
+        { "code": 230, "indent": 0, "parameters": [30] },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            { "name": "Cursor1", "volume": 90, "pitch": 80, "pan": 0 }
+          ]
+        },
+        { "code": 230, "indent": 0, "parameters": [30] },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            { "name": "Cursor1", "volume": 90, "pitch": 120, "pan": 0 }
+          ]
+        },
+        { "code": 230, "indent": 0, "parameters": [60] },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            { "name": "Computer", "volume": 90, "pitch": 100, "pan": 0 }
+          ]
+        },
+        { "code": 230, "indent": 0, "parameters": [120] },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            { "name": "Door1", "volume": 90, "pitch": 100, "pan": 0 }
+          ]
+        },
+        { "code": 230, "indent": 0, "parameters": [30] },
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 1, 0, 2] },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": ["Tôi nghĩ nó đã xong!"]
+        },
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 0, 0, 2] },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": ["Lucy nói cô ấy sẽ gặp tôi ở phía trước."]
+        },
+        { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "Có lẽ tôi không nên để cô ấy đợi lâu hơn nữa..."
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": ["$gameSelfSwitches.setValue([185,3,'A'], true);"]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": ["$gameSelfSwitches.setValue([185,4,'A'], true);"]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": ["Galv.QUEST.objective(38,1,1);"]
+        },
+        { "code": 123, "indent": 0, "parameters": ["A", 0] },
+        { "code": 0, "indent": 0, "parameters": [] }
+      ],
           "moveFrequency": 3,
           "moveRoute": {
             "list": [{ "code": 0, "parameters": [] }],
@@ -324,24 +453,24 @@
             "pattern": 1,
             "characterIndex": 0
           },
-          "list":[
-  {
-    "code": 250,
-    "indent": 0,
-    "parameters": [
-      { "name": "Open2", "volume": 90, "pitch": 150, "pan": 0 }
-    ]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": [
-      "Cánh cửa này bị khóa cho đến khi tôi tìm thấy thiết bị đầu cuối thứ hai."
-    ]
-  },
-  { "code": 0, "indent": 0, "parameters": [] }
-],
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Open2", "volume": 90, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Cánh cửa này bị khóa cho đến khi tôi tìm thấy thiết bị đầu cuối thứ hai."
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
           "moveFrequency": 3,
           "moveRoute": {
             "list": [{ "code": 0, "parameters": [] }],
@@ -490,23 +619,23 @@
             "characterIndex": 4
           },
           "list": [
-  {
-    "code": 250,
-    "indent": 0,
-    "parameters": [
-      { "name": "Open2", "volume": 90, "pitch": 150, "pan": 0 }
-    ]
-  },
-  { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
-  {
-    "code": 401,
-    "indent": 0,
-    "parameters": [
-      "Cánh cửa này bị khóa cho đến khi tôi tìm thấy thiết bị đầu cuối thứ hai."
-    ]
-  },
-  { "code": 0, "indent": 0, "parameters": [] }
-],
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Open2", "volume": 90, "pitch": 150, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["1MC1", 4, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Cánh cửa này bị khóa cho đến khi tôi tìm thấy thiết bị đầu cuối thứ hai."
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
           "moveFrequency": 3,
           "moveRoute": {
             "list": [{ "code": 0, "parameters": [] }],
